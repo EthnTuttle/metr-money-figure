@@ -59,7 +59,12 @@ def legend(items):
 
 _ID=r'[A-Z]{1,2}\d{2,3}(?:[–-][A-Z]{0,2}\d{2,3})?'
 def strip_ids(text):
-    """Remove visible row-id tags like (ST91), (ST32–ST33, IV10), ', ST124)' from figure text; the ids are kept elsewhere for the audit."""
+    """Remove visible row-id tags like (ST91), (ST32–ST33, IV10), ', ST124)' from figure text; the ids are kept elsewhere for the audit.
+    Only text between tags is touched: SVG attributes (path data such as M700,200 C915,110) must never be edited."""
+    import re
+    parts=re.split(r'(<[^>]+>)', text)
+    return ''.join(p if p.startswith('<') else _strip_ids_text(p) for p in parts)
+def _strip_ids_text(text):
     import re
     text=re.sub(r'\s*\((?:'+_ID+r'(?:[,;]\s*)?)+\)', '', text)          # (ST91) / (ST32–ST33, ST92, IV10)
     text=re.sub(r',\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)      # (Tuna chairs it, ST124)
