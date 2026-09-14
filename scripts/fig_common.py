@@ -55,3 +55,18 @@ h1{{font-size:48px;letter-spacing:-1.4px;margin:12px 0 10px;line-height:1.07}}
 
 def legend(items):
     return '<div class="legend">'+''.join(f'<span><i class="sw" style="background:{c}"></i>{esc(t)}</span>' for c,t in items)+'</div>'
+
+
+_ID=r'[A-Z]{1,2}\d{2,3}(?:[–-][A-Z]{0,2}\d{2,3})?'
+def strip_ids(text):
+    """Remove visible row-id tags like (ST91), (ST32–ST33, IV10), ', ST124)' from figure text; the ids are kept elsewhere for the audit."""
+    import re
+    text=re.sub(r'\s*\((?:'+_ID+r'(?:[,;]\s*)?)+\)', '', text)          # (ST91) / (ST32–ST33, ST92, IV10)
+    text=re.sub(r',\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)      # (Tuna chairs it, ST124)
+    text=re.sub(r';\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)
+    text=re.sub(r'\s*\b(?:rows?\s+)?'+_ID+r'(?:,\s*'+_ID+r')*\b(?=[.;,)])', '', text)  # stray "ST54–ST55" before punctuation
+    return text
+def collect_ids(text):
+    import re
+    text=re.sub(r'<[^>]+>',' ',text)   # text only: SVG path data like L562 must not count
+    return sorted(set(re.findall(r'\b(?:ST|RW|IV|AP|TB|TO|LD|HF|EV|DR|IF|SK|AE|PY|M|G|J|K|S|B|N|D|X|C)\d{2,3}(?:[–-][A-Z]{0,2}\d{2,3})?\b', text)))
