@@ -65,6 +65,7 @@ def strip_ids(text):
     text=re.sub(r',\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)      # (Tuna chairs it, ST124)
     text=re.sub(r';\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)
     text=re.sub(r'\s*\b(?:rows?\s+)?'+_ID+r'(?:,\s*'+_ID+r')*\b(?=[.;,)])', '', text)  # stray "ST54–ST55" before punctuation
+    text=re.sub(r'\s*\b(?:see\s+)?'+_ID+r'(?:\s*[,;/]\s*'+_ID+r')*\b', '', text)       # any remaining bare id
     return text
 def collect_ids(text):
     import re

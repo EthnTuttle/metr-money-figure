@@ -2,6 +2,8 @@ EVIDENCE — every fact cited on figure 10a-anthropic (metr-01b), one block per 
 Format: Claim / Why it matters / Source, one block per fact. A keyed copy (EVIDENCE-keyed) maps each block to its row id in research/*.csv, where the verbatim quote, full note and fetch date live. Built 2026-09-14.
 
 
+== Anthropic equity, the donated stake, and the accounts that pay Coefficient's grants (stakes.csv) ==
+
 ST26. Claim: Anthropic's Series H release (May 28 2026) names Jane Street and D.E. Shaw Ventures among the investors; individual amounts are not disclosed.
 Why it matters: Fixes the Series H investor list that the panel and the $965B valuation rest on, and shows the firm-level Jane Street link to the lab whose staff METR names as donors.
 Source: https://www.anthropic.com/news/series-h
@@ -217,6 +219,8 @@ Why it matters: The foundation's $10M FY2024 grant to Open Philanthropy Advisors
 Source: research/990pf-goodventures-202501349349105365.xml
 
 
+== Anthropic's funding rounds and named investors (investments.csv) ==
+
 IV01. Claim: Anthropic Series A, 2021-05-28: $124,000,000 raised; post-money not disclosed by Anthropic; Forge/Dealroom secondary estimate ~$623M post (unverified); named investors: Jaan Tallinn (lead); Dustin Moskovitz; Eric Schmidt; James McClave; Center for Emerging Risk Research; others
 Why it matters: The 2021 Series A: Tallinn led; Moskovitz, Schmidt, McClave and CERR joined. The origin of every equity link on the figure.
 Source: https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems
@@ -262,6 +266,8 @@ Why it matters: WSJ's reported IPO target of ~$2T; reporting, not a transaction,
 Source: https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56
 
 
+== Money into METR's network (money_flows.csv) ==
+
 M75. Claim: individuals from Jane Street → METR: undisclosed (grant), undated. general support
 Why it matters: METR names 'individuals from Jane Street' as donors, not the firm; the figure keeps that distinction.
 Source: https://metr.org/about
@@ -292,10 +298,14 @@ Why it matters: Macroscopic holds Halcyon Venture Partners, the venture arm besi
 Source: https://macroscopic.org/grants
 
 
+== METR's own budget statements (budget.csv) ==
+
 G14. Claim: METR Audacious commitment (METR share, METR's own later figure): <16000000 ("a bit under $16m") (3 years), stated 2025-09-28
 Why it matters: METR's own later figure for its Audacious money: 'a bit under $16m' over three years, against the ~$17M announced.
 Source: https://www.greaterwrong.com/posts/yrephKDBFL6h9zAFv/beth-barnes-s-shortform/comment/w3e6cbHeozQJaJH5c
 
+
+== Tarbell Center funding (tarbell_funding.csv) ==
 
 TB02. Claim: grant award: Tarbell Center for AI Journalism, General Support, $816,000, 2024-11-17
 Why it matters: First Coefficient award to the Tarbell Center; part of the $5.29M on the Tarbell pipe.
@@ -321,6 +331,8 @@ TB06. Claim: sff recommendation: Tarbell Center for AI Journalism, SFF 2025 reco
 Why it matters: SFF's 2025 recommendation for the Tarbell Center, including a $200K conditional match.
 Source: https://survivalandflourishing.fund/2025/recommendations
 
+
+== Redwood Research and METR (redwood.csv) ==
 
 RW31. Claim: 2026-07-30 joint work with METR: METR announces OpenAI Hugging Face review "with Redwood Research" — METR X post 2082644379895050339;
 Why it matters: METR announced its OpenAI investigation 'with Redwood Research'.
@@ -352,6 +364,8 @@ Why it matters: Search closure: no page names the subcontracted staff or terms; 
 Source: https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents;https://x.com/METR_Evals/status/2097765966088487290;https://x.com/RyanGreenblatt/status/2098799055573045589
 
 
+== Donors shared between METR and the labs (shared_donors.csv) ==
+
 J02. Claim: James McClave / BEMC Foundation (EIN 85-4281986): gives to METR — no: not named on metr.org/about; BEMC 990-PF FY2020-2024 grants go only to Vox Media Future Perfect and GiveWell; gives to or invests in a lab — Anthropic Series A 2021 and Series B 2022 investor (James McClave, "of Jane Street")
 Why it matters: McClave is a Series A and B investor; his BEMC Foundation is not a METR donor on any checked filing.
 Source: /mnt/f/projects/memes/anthropic-investors/research/01-funding-rounds.csv
@@ -362,15 +376,21 @@ Why it matters: Schmidt Sciences is a named METR supporter; Schmidt is a Series 
 Source: /mnt/f/projects/memes/anthropic-investors/research/01-funding-rounds.csv
 
 
+== METR's board (board.csv) ==
+
 B05. Claim: Adam Gleave: Advisor and board member; also FAR.AI (Co-founder and CEO)
 Why it matters: Adam Gleave, FAR AI's CEO, sits on METR's board; FAR AI received $59.3M of Coefficient awards.
 Source: https://metr.org/team/adam-gleave/;https://gleave.me/;https://www.far.ai/about;https://projects.propublica.org/nonprofits/organizations/991219864/202523209349300367/full;/mnt/f/projects/memes/anthropic-investors/research/04-openphil-grants-raw-2026-09-11.json
 
 
+== In-kind support from labs (compute_inkind.csv) ==
+
 K01. Claim: 2026-09-13 frontier AI companies (unspecified): METR has not accepted funding from AI companies, though we make use of significant free tokens, which we use for evaluations, research, and engineering, as noted above. (quantified: no; not quantified)
 Why it matters: METR says it takes no money from AI companies but receives 'significant free tokens' from unnamed frontier companies; unbooked and unquantified.
 Source: https://metr.org/about
 
+
+== Staff moves (staff_origins.csv) ==
 
 S13. Claim: Joe Benton, Technical Staff (incident investigations), joined METR 2026-09 from Anthropic (led a safety research team (human/weak-AI oversight of stronger AI))
 Why it matters: Joe Benton left Anthropic's alignment team to join METR's incident-investigation staff in September 2026, the month METR began investigating Anthropic.

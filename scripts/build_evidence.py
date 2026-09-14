@@ -40,7 +40,7 @@ for p in ['ST','IV','M','AP','G','TB','TO','RW','J','B','K','S']:
     f,title=files[p]; rows={r['row_id']:r for r in csv.DictReader(open(ROOT/'research'/f,newline=''))}
     want=sorted((i for i in ids if re.match(r'[A-Z]+',i).group()==p and i in rows), key=lambda x:int(re.sub(r'\D','',x)))
     if not want: continue
-    out+=[f"== {title} ({f}) ==",""]
+    keyed+=[f"== {title} ({f}) ==",""]; out+=[f"== {title} ==",""]
     for i in want:
         r=rows[i]; n+=1
         w=WHY.get(i)
