@@ -64,8 +64,10 @@ def strip_ids(text):
     import re
     parts=re.split(r'(<[^>]+>)', text)
     return ''.join(p if p.startswith('<') else _strip_ids_text(p) for p in parts)
+STRIP_IDS=False; STRIPPED_IDS=set()
 def _strip_ids_text(text):
     import re
+    STRIPPED_IDS.update(collect_ids(text))
     text=re.sub(r'\s*\((?:'+_ID+r'(?:[,;]\s*)?)+\)', '', text)          # (ST91) / (ST32–ST33, ST92, IV10)
     text=re.sub(r',\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)      # (Tuna chairs it, ST124)
     text=re.sub(r';\s*(?:'+_ID+r')(?:,\s*'+_ID+r')*(?=\))', '', text)
