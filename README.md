@@ -1,4 +1,4 @@
-# METR money figure — "Money that doesn't show up, with Anthropic"
+# METR money figure — "Money that doesn't show up, with Anthropic", and eleven companion figures
 
 One figure, and everything under it: the funders that reach METR (Model Evaluation and Threat Research) through its parent, its joint-project partner, its pooled-fund donor, a board member's organization, its contractor, its office and a journalism fellowship; the same funders' Anthropic equity; and the donated Moskovitz stake whose location no public filing identifies.
 
@@ -16,6 +16,26 @@ One figure, and everything under it: the funders that reach METR (Model Evaluati
 python3 scripts/generate.py metr-01b-money-that-doesnt-show-up-with-anthropic
 python3 scripts/audit.py   # checks every cited row id exists
 ```
+
+## Figures in this repo
+
+| file | rows cited | title |
+|---|---:|---|
+| `figures/metr-01-money-that-doesnt-show-up.png` | 21 | Good Ventures Foundation, advised by Coefficient, has no METR grant on its books. Its grants reached METR's parent, partner, pooled donor and a board member's organization; ARC handed METR $4.55M at the spin-out, not attributable to any one ARC funder |
+| `figures/metr-01b-money-that-doesnt-show-up-with-anthropic.png` | 75 | Funders that reach METR through ARC, RAND, Longview and pooled funds include Anthropic's Series A investors, two of them its board observers by their own account; Moskovitz donated a stake now worth up to $7.7B to what he calls "our foundation", and no filing checked shows where it sits; Good Ventures has no METR grant on its books |
+| `figures/metr-07-who-gets-ordained.png` | 22 | Who gets ordained: 22 documents on a "FINRA for AI", and the only ones that say METR are a podcaster, Dario Amodei and David Sacks |
+| `figures/metr-08-revolving-door-into-the-referee.png` | 49 | The revolving door into the referee: where METR's named staff worked before, and where its alumni went |
+| `figures/metr-10-barnes-in-time-by-a-tarbell-fellow.png` | 15 | Both TIME100 AI profiles of METR's CEO were written by a fellow of a journalism program that Coefficient funds; neither told readers so |
+| `figures/metr-11-same-donors-both-sides-of-the-table.png` | 19 | Same donors, both sides of the table: METR's funders who also hold a piece of the labs it evaluates |
+| `figures/metr-12-ten-million-to-seventy-one.png` | 19 | METR raised $71M in the six months the evaluator's seat was being designed; the investigations came after the money, not before it |
+| `figures/metr-13-the-subcontractor.png` | 41 | The investigator's subcontractor: Redwood's board held the funder's co-CEO, Anthropic's future trustee and METR's future staffer |
+| `figures/metr-14-the-independence-fight.png` | 195 | "Stop pretending METR is independent": Amodei names it, Altman signs on, Sacks objects, no METR reply found |
+| `figures/metr-15-the-candidates.png` | 24 | The candidates: of twenty possible evaluators, nine hold Coefficient awards, one refuses lab money, and the three put forward this week were METR, Stanford and Hugging Face |
+| `figures/metr-17-the-vanguard-channel.png` | 4 | The Vanguard channel: donor-advised money to the AI-safety cluster grew from $8M to $66M in the year of Anthropic's first tender offer, and no filing says whose it is |
+| `figures/metr-18-the-argument-vs-the-ledger.png` | 131 | No direct Coefficient grant to METR appears in the checked index and filings; both sides argued over one anyway. The filings do show an ARC program transfer and a Coefficient award to METR's RAND partner |
+| `figures/metr-21-metr-grades-itself.png` | 45 | METR graded its own independence in May 2026: two requirements answered "No", no conflict-of-interest policy, "at least 6" staff and collaborators with close personal ties to lab employees |
+
+Every row id a figure cites resolves to a row in `research/*.csv`; `python3 scripts/audit.py` checks this for every figure in the pack.
 
 ## Rules the figure follows
 
