@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <entry title="ARRAY(0x55aed5427ea0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53dcdc0)">
+          <addresses>
+            <address type="business">
+              <city>PLEASANTON</city>
+              <phone>925-694-8866</phone>
+              <state>CA</state>
+              <street1>7041 KOLL CENTER PKWY STE# 140</street1>
+              <zip>94566</zip>
+            </address>
+            <address type="mailing">
+              <city>PLEASANTON</city>
+              <state>CA</state>
+              <street1>7041 KOLL CENTER PKWY STE# 140</street1>
+              <zip>94566</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002024387</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>993035828</irs-number>
+          <last-date>2024-08-13</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>CA</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002024387</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002024387&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002024387, &lt;strong&gt;State:&lt;/strong&gt; CA</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed532c600)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53c7758)">
+          <addresses>
+            <address type="business">
+              <city>MIAMI</city>
+              <phone>8024440039</phone>
+              <state>FL</state>
+              <street1>382 NE 191ST</street1>
+              <street2>PMB 88102</street2>
+              <zip>33179</zip>
+            </address>
+            <address type="mailing">
+              <city>MIAMI</city>
+              <state>FL</state>
+              <street1>382 NE 191ST</street1>
+              <street2>PMB 88102</street2>
+              <zip>33179</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001980650</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>000000000</irs-number>
+          <last-date>2023-06-09</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>FL</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001980650</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001980650&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001980650, &lt;strong&gt;State:&lt;/strong&gt; FL</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5412778)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5347de0)">
+          <addresses>
+            <address type="business">
+              <city>MIAMI</city>
+              <phone>8506284201</phone>
+              <state>FL</state>
+              <street1>382 NE 191ST</street1>
+              <street2>PMB 88102</street2>
+              <zip>33179</zip>
+            </address>
+            <address type="mailing">
+              <city>MIAMI</city>
+              <state>FL</state>
+              <street1>382 NE 191ST</street1>
+              <street2>PMB 88102</street2>
+              <zip>33179</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001975481</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>000000000</irs-number>
+          <last-date>2023-04-28</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>FL</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001975481</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001975481&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001975481, &lt;strong&gt;State:&lt;/strong&gt; FL</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5401548)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53c7248)">
+          <addresses>
+            <address type="business">
+              <city>SEATTLE</city>
+              <phone>2068016359</phone>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET</street1>
+              <street2>SUITE 220</street2>
+              <zip>98104</zip>
+            </address>
+            <address type="mailing">
+              <city>SEATTLE</city>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET</street1>
+              <street2>SUITE 220</street2>
+              <zip>98104</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001991469</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>000000000</irs-number>
+          <last-date>2023-08-25</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>WA</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001991469</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001991469&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001991469, &lt;strong&gt;State:&lt;/strong&gt; WA</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5405038)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53fe280)">
+          <addresses>
+            <address type="business">
+              <city>SEATTLE</city>
+              <phone>2068016359</phone>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET</street1>
+              <street2>SUITE 220</street2>
+              <zip>98104</zip>
+            </address>
+            <address type="mailing">
+              <city>SEATTLE</city>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET</street1>
+              <street2>SUITE 220</street2>
+              <zip>98104</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002021090</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>000000000</irs-number>
+          <last-date>2024-09-13</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>WA</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002021090</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002021090&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002021090, &lt;strong&gt;State:&lt;/strong&gt; WA</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53c7200)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53d5268)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002073723</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>392260446</irs-number>
+          <last-date>2025-06-23</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002073723</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002073723&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002073723, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53df960)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53cedd8)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002132200</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>422060530</irs-number>
+          <last-date>2026-04-29</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002132200</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002132200&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002132200, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed540dd60)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53dfcc0)">
+          <addresses>
+            <address type="business">
+              <city>GULF BREEZE</city>
+              <phone>(850) 712-4593</phone>
+              <state>FL</state>
+              <street1>4180 MADERA FOUR</street1>
+              <zip>32563</zip>
+            </address>
+            <address type="mailing">
+              <city>GULF BREEZE</city>
+              <state>FL</state>
+              <street1>3311 GULF BREEZE PARKWAY, #148</street1>
+              <zip>32563</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0001931731</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>871022735</irs-number>
+          <last-date>2026-07-30</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>FL</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0001931731</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001931731&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0001931731, &lt;strong&gt;State:&lt;/strong&gt; FL</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53715e0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed535da88)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002015153</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>991596636</irs-number>
+          <last-date>2024-03-14</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002015153</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002015153&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002015153, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed537add0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5373988)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002111952</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413879119</irs-number>
+          <last-date>2026-04-13</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002111952</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002111952&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002111952, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5401380)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53741e0)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002112341</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>414072146</irs-number>
+          <last-date>2026-02-23</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002112341</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002112341&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002112341, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5407970)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5407c88)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002132165</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>422079891</irs-number>
+          <last-date>2026-04-30</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002132165</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002132165&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002132165, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed54019c8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5404c60)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002109803</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413780336</irs-number>
+          <last-date>2026-02-06</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002109803</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002109803&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002109803, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5387c50)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53fe820)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002086013</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>393895960</irs-number>
+          <last-date>2026-08-21</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002086013</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002086013&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002086013, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53d0b78)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5093230)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002117469</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>414404032</irs-number>
+          <last-date>2026-04-22</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002117469</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002117469&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002117469, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed54284e8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5404480)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002115048</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>414241699</irs-number>
+          <last-date>2026-03-03</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002115048</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002115048&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002115048, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed532d2a8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5412718)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002109953</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413833120</irs-number>
+          <last-date>2026-02-19</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002109953</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002109953&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002109953, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5327280)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5413198)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002036803</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>993313247</irs-number>
+          <last-date>2024-09-10</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002036803</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002036803&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002036803, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed540dc70)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5404510)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002112422</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413761346</irs-number>
+          <last-date>2026-02-23</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002112422</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002112422&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002112422, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed537b388)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed539c640)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002112836</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>414001595</irs-number>
+          <last-date>2026-04-29</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002112836</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002112836&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002112836, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed50989b8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5412eb0)">
+          <addresses>
+            <address type="business">
+              <city>SEATTLE</city>
+              <phone>2068016359</phone>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET, SUITE 220</street1>
+              <zip>98104</zip>
+            </address>
+            <address type="mailing">
+              <city>SEATTLE</city>
+              <state>WA</state>
+              <street1>119 SOUTH MAIN STREET, SUITE 220</street1>
+              <zip>98104</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002008943</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>000000000</irs-number>
+          <last-date>2024-03-12</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>WA</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002008943</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002008943&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002008943, &lt;strong&gt;State:&lt;/strong&gt; WA</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed50a63d0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed537b610)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002008403</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>931695146</irs-number>
+          <last-date>2024-01-17</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002008403</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002008403&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002008403, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed540ae58)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53c4f50)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002098694</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>412296088</irs-number>
+          <last-date>2025-12-03</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002098694</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002098694&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002098694, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed532b0d0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed54126d0)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002056792</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>331586504</irs-number>
+          <last-date>2025-02-19</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002056792</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002056792&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002056792, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed5374108)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed5363c40)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002098675</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>394900688</irs-number>
+          <last-date>2025-12-03</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002098675</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002098675&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002098675, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed534ba90)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53738e0)">
+          <addresses>
+            <address type="business">
+              <city>DOVER</city>
+              <phone>6692120346</phone>
+              <state>DE</state>
+              <street1>8 THE GREEN</street1>
+              <street2>STE R</street2>
+              <zip>19901</zip>
+            </address>
+            <address type="mailing">
+              <city>CUPERTINO</city>
+              <state>CA</state>
+              <street1>20373 VIA NAPOLI</street1>
+              <zip>95014</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002062711</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>333466126</irs-number>
+          <last-date>2025-03-21</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002062711</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002062711&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002062711, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed532d338)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53778f8)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002112584</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413927188</irs-number>
+          <last-date>2026-02-24</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002112584</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002112584&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002112584, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53fe2b0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53e0140)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002098674</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>395028439</irs-number>
+          <last-date>2025-12-03</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002098674</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002098674&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002098674, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed532de78)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed534ed48)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>#5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>#5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002022366</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>992601395</irs-number>
+          <last-date>2024-05-10</last-date>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002022366</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002022366&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002022366, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53e02c0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed534e928)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002088616</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>393996614</irs-number>
+          <last-date>2025-09-29</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002088616</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002088616&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002088616, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53fefd0)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed532bd78)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002101189</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>394807194</irs-number>
+          <last-date>2026-02-06</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002101189</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002101189&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002101189, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53dc490)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53e0110)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002112591</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>413920155</irs-number>
+          <last-date>2026-02-23</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002112591</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002112591&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002112591, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53fe508)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed534ea18)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002088197</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>394061168</irs-number>
+          <last-date>2025-09-25</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002088197</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002088197&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002088197, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53df9a8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed533b8f0)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002076452</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>392572929</irs-number>
+          <last-date>2025-07-14</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002076452</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002076452&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002076452, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <entry title="ARRAY(0x55aed53e06f8)">
+      <content type="text/xml">
+        <company-info name="ARRAY(0x55aed53dcf40)">
+          <addresses>
+            <address type="business">
+              <city>CLAYMONT</city>
+              <phone>(360) 946-0604</phone>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+            <address type="mailing">
+              <city>CLAYMONT</city>
+              <state>DE</state>
+              <street1>2093 PHILADELPHIA PIKE</street1>
+              <street2>5885</street2>
+              <zip>19703</zip>
+            </address>
+          </addresses>
+          <cancelled-ma-flag>N</cancelled-ma-flag>
+          <cik>0002065109</cik>
+          <fiscal-year-end>1231</fiscal-year-end>
+          <irs-number>333246872</irs-number>
+          <last-date>2025-04-21</last-date>
+          <revoke-flag>N</revoke-flag>
+          <revoked-ma-flag>N</revoked-ma-flag>
+          <state>DE</state>
+          <state-of-incorporation>DE</state-of-incorporation>
+        </company-info>
+      </content>
+      <id>urn:tag:www.sec.gov:cik=0002065109</id>
+      <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002065109&amp;owner=exclude&amp;hidefilings=0" type="text/html" />
+      <summary type="html">&lt;strong&gt;CIK:&lt;/strong&gt; 0002065109, &lt;strong&gt;State:&lt;/strong&gt; DE</summary>
+      <updated>2026-09-14T03:57:50-04:00</updated>
+    </entry>
+    <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=anthropic&amp;owner=include&amp;count=40</id>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=anthropic&amp;owner=include&amp;count=40&amp;start=0&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;company=anthropic&amp;owner=include&amp;count=40&amp;start=0" rel="alternate" type="text/html" />
+    <title>Company Search Feed</title>
+    <updated>2026-09-14T03:57:50-04:00</updated>
+  </feed>

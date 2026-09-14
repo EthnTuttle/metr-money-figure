@@ -1,0 +1,2096 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head><!-- child -->
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+	    <script>
+        console.log("fn_fix_squo");
+        (function() {
+            // Run as early as possible for browser scroll restoration
+            if ("scrollRestoration" in history) {
+                history.scrollRestoration = "manual";
+            }
+
+            const ARTICLE_SELECTOR = "article";
+            const CONTENT_SELECTOR = "article, .entry-content, body";
+            const MAX_WAIT_MS = 5000;
+
+            const storageKey =
+                "manual-scroll:" + location.pathname + location.search + location.hash;
+
+            const replacements = [
+                [/‘s/g, "’s"],
+                [/‘(?=\s)/g, "’"],
+                [/‘(?=[.,])/g, "’"]
+            ];
+
+            function fixTextNode(node) {
+                let text = node.nodeValue;
+                let fixed = text;
+
+                for (const [pattern, replacement] of replacements) {
+                    fixed = fixed.replace(pattern, replacement);
+                }
+
+                if (fixed !== text) {
+                    node.nodeValue = fixed;
+                }
+            }
+
+            function fixQuotes(root) {
+                if (!root) return;
+
+                const walker = document.createTreeWalker(
+                    root,
+                    NodeFilter.SHOW_TEXT, {
+                        acceptNode(node) {
+                            const parent = node.parentNode;
+                            if (!parent) return NodeFilter.FILTER_REJECT;
+
+                            const tag = parent.nodeName.toLowerCase();
+
+                            if (
+                                tag === "script" ||
+                                tag === "style" ||
+                                tag === "textarea" ||
+                                tag === "input" ||
+                                tag === "code" ||
+                                tag === "pre"
+                            ) {
+                                return NodeFilter.FILTER_REJECT;
+                            }
+
+                            if (!node.nodeValue.includes("‘")) {
+                                return NodeFilter.FILTER_REJECT;
+                            }
+
+                            return NodeFilter.FILTER_ACCEPT;
+                        }
+                    }
+                );
+
+                let node;
+                while ((node = walker.nextNode())) {
+                    fixTextNode(node);
+                }
+            }
+
+            function saveScrollPosition() {
+                sessionStorage.setItem(storageKey, String(window.scrollY || 0));
+            }
+
+            function articleLooksReady() {
+                const article = document.querySelector(ARTICLE_SELECTOR);
+                return article && article.scrollHeight >= 800;
+            }
+
+            function waitForArticleReady(callback) {
+                if (articleLooksReady()) {
+                    callback();
+                    return;
+                }
+
+                let done = false;
+
+                const observer = new MutationObserver(function() {
+                    if (articleLooksReady()) finish();
+                });
+
+                const timeout = setTimeout(finish, MAX_WAIT_MS);
+
+                function finish() {
+                    if (done) return;
+                    done = true;
+                    observer.disconnect();
+                    clearTimeout(timeout);
+                    callback();
+                }
+
+                observer.observe(document.documentElement, {
+                    childList: true,
+                    subtree: true
+                });
+            }
+
+            function restoreScrollPosition() {
+                const saved = sessionStorage.getItem(storageKey);
+                if (saved == null) return;
+
+                const targetY = Number(saved);
+                if (!Number.isFinite(targetY)) return;
+
+                waitForArticleReady(function() {
+                    const root = document.querySelector(CONTENT_SELECTOR);
+                    fixQuotes(root);
+
+                    requestAnimationFrame(function() {
+                        requestAnimationFrame(function() {
+                            window.scrollTo({
+                                top: targetY,
+                                left: 0,
+                                behavior: "instant"
+                            });
+                        });
+                    });
+                });
+            }
+
+            function observeDynamicContent() {
+                const root = document.querySelector(CONTENT_SELECTOR) || document.body;
+                if (!root) return;
+
+                fixQuotes(root);
+
+                const observer = new MutationObserver(function(mutations) {
+                    for (const mutation of mutations) {
+                        for (const node of mutation.addedNodes) {
+                            if (node.nodeType === Node.TEXT_NODE) {
+                                fixTextNode(node);
+                            } else if (node.nodeType === Node.ELEMENT_NODE) {
+                                fixQuotes(node);
+                            }
+                        }
+                    }
+                });
+
+                observer.observe(root, {
+                    childList: true,
+                    subtree: true
+                });
+            }
+
+            window.addEventListener("beforeunload", saveScrollPosition);
+            window.addEventListener("pagehide", saveScrollPosition);
+
+            if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", function() {
+                    observeDynamicContent();
+                    restoreScrollPosition();
+                });
+            } else {
+                observeDynamicContent();
+                restoreScrollPosition();
+            }
+        })();
+    </script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<style id="fpg-v106">
+.fpg-gate{background:#f3f4f6;border-radius:8px;padding:2rem;margin:1.5rem 0;font-family:Lato,sans-serif;}
+.fpg-gate .fpg-inner{display:flex;align-items:center;gap:2rem;}
+.fpg-gate svg.fpg-icon{width:91px;height:114px;flex-shrink:0;display:block;}
+.fpg-gate .fpg-body{display:flex;flex-direction:column;align-items:flex-start;gap:.75rem;min-width:0;}
+.fpg-gate .fpg-body h3{margin:0;font-size:1.6rem;font-weight:700;color:#111 !important;line-height:1.2;}
+.fpg-gate .fpg-body > p{margin:0;color:#555 !important;font-size:1rem;line-height:1.5;}
+.fpg-gate a.fpg-btn{display:inline-block;padding:.7rem 1.75rem;background:rgb(34,125,181) !important;border-radius:4px;text-decoration:none !important;font-size:2rem !important;font-weight:700 !important;color:#ffffff !important;line-height:1.4;align-self:flex-start;}
+.fpg-gate a.fpg-btn:link,.fpg-gate a.fpg-btn:visited,.fpg-gate a.fpg-btn:hover,.fpg-gate a.fpg-btn:active{color:#ffffff !important;}
+.fpg-gate a.fpg-btn:hover{background:rgb(25,95,140) !important;}
+.fpg-gate p.fpg-login{margin:0 !important;font-size:.82rem;color:#888 !important;}
+.fpg-gate p.fpg-login a{color:rgb(34,125,181) !important;}
+@media(max-width:540px){
+  .fpg-gate .fpg-inner{flex-direction:column;}
+  .fpg-gate svg.fpg-icon{width:60px;height:75px;}
+  .fpg-gate a.fpg-btn{align-self:stretch;text-align:center;}
+}
+</style>
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews</title>
+<meta name="description" content="Are the machines taking over?"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews" />
+<meta property="og:description" content="Are the machines taking over?" />
+<meta property="og:url" content="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/" />
+<meta property="og:site_name" content="FITSNews" />
+<meta property="article:publisher" content="https://www.facebook.com/fitsnews/" />
+<meta property="article:tag" content="AI" />
+<meta property="article:tag" content="Anthropic" />
+<meta property="article:tag" content="Artificial Intelligence" />
+<meta property="article:tag" content="Bernie Sanders" />
+<meta property="article:tag" content="Dario Amodei" />
+<meta property="article:tag" content="Donald Trump" />
+<meta property="article:tag" content="Elon Musk" />
+<meta property="article:tag" content="Front" />
+<meta property="article:tag" content="Hugging Face" />
+<meta property="article:tag" content="OpenAI" />
+<meta property="article:tag" content="Pacing the Future" />
+<meta property="article:tag" content="Sam Altman" />
+<meta property="article:tag" content="Xi Jinping" />
+<meta property="article:section" content="BUSINESS" />
+<meta property="og:updated_time" content="2026-09-13T19:19:50-04:00" />
+<meta property="og:image" content="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1024x573.jpeg" />
+<meta property="og:image:secure_url" content="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1024x573.jpeg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="573" />
+<meta property="og:image:alt" content="Artificial Intelligence" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2026-09-13T19:13:41-04:00" />
+<meta property="article:modified_time" content="2026-09-13T19:19:50-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews" />
+<meta name="twitter:description" content="Are the machines taking over?" />
+<meta name="twitter:site" content="@fitsnews" />
+<meta name="twitter:creator" content="@fitsnews" />
+<meta name="twitter:image" content="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1024x573.jpeg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="FITSNews" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="4 minutes" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.fitsnews.com/#place","address":{"@type":"PostalAddress","addressLocality":"Columbia","addressRegion":"South Carolina"}},{"@type":["NewsMediaOrganization","Organization"],"@id":"https://www.fitsnews.com/#organization","name":"FITSNews.com","url":"https://www.fitsnews.com","sameAs":["https://www.facebook.com/fitsnews/","https://twitter.com/fitsnews"],"address":{"@type":"PostalAddress","addressLocality":"Columbia","addressRegion":"South Carolina"},"logo":{"@type":"ImageObject","@id":"https://www.fitsnews.com/#logo","url":"https://www.fitsnews.com/wp-content/uploads/2022/12/fn-horizontal-cmyk.svg","contentUrl":"https://www.fitsnews.com/wp-content/uploads/2022/12/fn-horizontal-cmyk.svg","caption":"FITSNews","inLanguage":"en-US","width":"294","height":"86"},"location":{"@id":"https://www.fitsnews.com/#place"}},{"@type":"WebSite","@id":"https://www.fitsnews.com/#website","url":"https://www.fitsnews.com","name":"FITSNews","alternateName":"FITSNews.com","publisher":{"@id":"https://www.fitsnews.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313.jpeg","url":"https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313.jpeg","width":"2560","height":"1431","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://www.fitsnews.com","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/","name":"&#8216;Pacing the Frontier&#8217;: Ominous Artificial Intelligence Warning"}}]},{"@type":"WebPage","@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#webpage","url":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/","name":"&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews","datePublished":"2026-09-13T19:13:41-04:00","dateModified":"2026-09-13T19:19:50-04:00","isPartOf":{"@id":"https://www.fitsnews.com/#website"},"primaryImageOfPage":{"@id":"https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313.jpeg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#breadcrumb"}},{"@type":"Person","@id":"https://www.fitsnews.com/author/fitsnews/","name":"FITSNews","url":"https://www.fitsnews.com/author/fitsnews/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f19b24c12bf78df754ee1438a948ba86ec67eb5006071cc7c5229d8a1c26b239?s=96&amp;d=mm&amp;r=r","url":"https://secure.gravatar.com/avatar/f19b24c12bf78df754ee1438a948ba86ec67eb5006071cc7c5229d8a1c26b239?s=96&amp;d=mm&amp;r=r","caption":"FITSNews","inLanguage":"en-US"},"sameAs":["https://www.fitsnews.com"],"worksFor":{"@id":"https://www.fitsnews.com/#organization"}},{"@type":"NewsArticle","headline":"&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews","keywords":"Artificial Intelligence","datePublished":"2026-09-13T19:13:41-04:00","dateModified":"2026-09-13T19:19:50-04:00","author":{"@id":"https://www.fitsnews.com/author/fitsnews/","name":"FITSNews"},"publisher":{"@id":"https://www.fitsnews.com/#organization"},"description":"Are the machines taking over?","copyrightYear":"2026","copyrightHolder":{"@id":"https://www.fitsnews.com/#organization"},"name":"&#039;Pacing the Frontier&#039;: Ominous Artificial Intelligence Warning - FITSNews","@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#richSnippet","isPartOf":{"@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#webpage"},"image":{"@id":"https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313.jpeg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="FITSNews &raquo; Feed" href="https://www.fitsnews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FITSNews &raquo; Comments Feed" href="https://www.fitsnews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FITSNews &raquo; &#8216;Pacing the Frontier&#8217;: Ominous Artificial Intelligence Warning Comments Feed" href="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fitsnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fitsnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F&#038;format=xml" />
+<!-- fitsnews.com is managing ads with Advanced Ads – https://wpadvancedads.com/ --><script id="advads-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+				<script>
+			document.addEventListener( 'aagam_empty_slot', function ( ev ) {
+				const div = document.getElementById( ev.detail );
+				if ( ! div ) {
+					return;
+				}
+				const prefix = 'advads-', wrapper = div.closest( '[id^="' + prefix + '"]' );
+				if ( ! wrapper ) {
+					return;
+				}
+				if ( wrapper.classList.contains( prefix + 'sticky' ) || wrapper.classList.contains( prefix + 'layer' ) ) {
+					return;
+				}
+				wrapper.style.display = 'none';
+			} );
+		</script>
+		<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-image-inline-css">
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/image/style.min.css */
+</style>
+<style id="wp-block-image-theme-inline-css">
+:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/image/theme.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/group/style.min.css */
+</style>
+<style id="wp-block-group-theme-inline-css">
+:where(.wp-block-group.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/group/theme.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://www.fitsnews.com/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--garnet: #73000A;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--huge: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-garnet-color{color: var(--wp--preset--color--garnet) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-garnet-background-color{background-color: var(--wp--preset--color--garnet) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-garnet-border-color{border-color: var(--wp--preset--color--garnet) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='pencisc-css' href='https://www.fitsnews.com/wp-content/plugins/penci-framework/assets/css/single-shortcode.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='penci-oswald-css' href='//fonts.googleapis.com/css?family=Oswald:400&#038;ver=7.0.4' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css' href='https://www.fitsnews.com/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/slick.css?ver=3.7.8.1' media='all' />
+<link rel='stylesheet' id='wpsisac-public-style-css' href='https://www.fitsnews.com/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/wpsisac-public.css?ver=3.7.8.1' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.fitsnews.com/wp-includes/css/dashicons.min.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='weblator_polling-plugin-styles-css' href='https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/css/public.css?ver=1.7.4' media='all' />
+<link rel='stylesheet' id='weblator_polling-fa-css' href='https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/css/font-awesome.min.css?ver=1.7.4' media='all' />
+<link rel='stylesheet' id='lpng-modal-css' href='https://www.fitsnews.com/wp-content/plugins/lp-newsletter-gate/assets/css/lpng-modal.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='issuem-leaky-paywall-css' href='https://www.fitsnews.com/wp-content/plugins/leaky-paywall//css/issuem-leaky-paywall.css?ver=4.21.2' media='all' />
+<link rel='stylesheet' id='jquery-style-css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=3.1.8' media='all' />
+<link rel='stylesheet' id='lp-gift-style-css' href='https://www.fitsnews.com/wp-content/plugins/leaky-paywall-gift-subscriptions//css/lp-gift.css?ver=3.1.8' media='all' />
+<link rel='stylesheet' id='leaky-paywall-article-countdown-nag-css' href='https://www.fitsnews.com/wp-content/plugins/leaky-paywall-article-countdown-nag/css/article-countdown-nag.css?ver=3.8.4' media='all' />
+<link rel='stylesheet' id='leaky-paywall-invoices-style-css' href='https://www.fitsnews.com/wp-content/plugins/leaky-paywall-invoices/includes/css/style.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='leaky-paywall-coupons-css-css' href='https://www.fitsnews.com/wp-content/plugins/leaky-paywall-coupons//css/leaky-paywall-coupons.css?ver=2.2.1' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://www.fitsnews.com/wp-content/themes/pennews/style.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='penci-styles-child-css' href='https://www.fitsnews.com/wp-content/themes/pennews-child/style.css?ver=1776782112' media='all' />
+<link rel='stylesheet' id='my_custom_style-css' href='https://www.fitsnews.com/wp-content/themes/pennews-child/custom-css/audioplayer.css?ver=1671622538' media='all' />
+<link rel='stylesheet' id='my_custom_style_1-css' href='https://www.fitsnews.com/wp-content/themes/pennews-child/custom-css/custom-style.css?ver=1689800386' media='all' />
+<link rel='stylesheet' id='penci-font-awesome-css' href='https://www.fitsnews.com/wp-content/themes/pennews/css/font-awesome.min.css?ver=4.5.2' media='all' />
+<link rel='stylesheet' id='penci-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CMukta+Vaani%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7COswald%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CTeko%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CFranklin+Gothic+Demi+Cond+Regular%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CFranklin-Gothic%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CGeorgia%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%26subset%3Dcyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='penci-review-css' href='https://www.fitsnews.com/wp-content/themes/pennews/css/review.css?ver=6.7.5' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css' href='https://www.fitsnews.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.6' media='all' />
+<style id="__EPYT__style-inline-css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+/*# sourceURL=__EPYT__style-inline-css */
+</style>
+<script id="jquery-core-js" src="https://www.fitsnews.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.fitsnews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="weblator_polling-canvas-js" src="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/js/vendors/excanvas.js?ver=1.7.4"></script>
+<script id="advanced-ads-advanced-js-js-extra">
+var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
+//# sourceURL=advanced-ads-advanced-js-js-extra
+</script>
+<script id="advanced-ads-advanced-js-js" src="https://www.fitsnews.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.52.3"></script>
+<script id="lpng-modal-js-extra">
+var lpngData = {"ajaxUrl":"https://www.fitsnews.com/wp-admin/admin-ajax.php","nonce":"d0c44cddbc","state":"email"};
+//# sourceURL=lpng-modal-js-extra
+</script>
+<script id="lpng-modal-js" src="https://www.fitsnews.com/wp-content/plugins/lp-newsletter-gate/assets/js/lpng-modal.js?ver=1.0.0"></script>
+<script id="lp_registration_redirect-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall-registration-redirect/js/leaky-paywall-registration-redirect.js?ver=1.3.2"></script>
+<script id="leaky-paywall-article-countdown-nag-js-extra">
+var lp_acn = {"ajaxurl":"https://www.fitsnews.com/wp-admin/admin-ajax.php"};
+//# sourceURL=leaky-paywall-article-countdown-nag-js-extra
+</script>
+<script id="leaky-paywall-article-countdown-nag-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall-article-countdown-nag/js/article-countdown-nag.js?ver=3.8.4"></script>
+<script id="my-custom-scrip-js-extra">
+var myAjax = {"ajaxurl":"https://www.fitsnews.com/wp-admin/admin-ajax.php"};
+//# sourceURL=my-custom-scrip-js-extra
+</script>
+<script id="my-custom-scrip-js" src="https://www.fitsnews.com/wp-content/themes/pennews-child/custom-js/custom-script.js?ver=1744325217"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=G-SFFTJ344P0" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.fitsnews.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-SFFTJ344P0");
+//# sourceURL=google_gtagjs-js-after
+</script>
+<script id="__ytprefs__-js-extra">
+var _EPYT_ = {"ajaxurl":"https://www.fitsnews.com/wp-admin/admin-ajax.php","security":"aae76161e1","gallery_scrolloffset":"20","eppathtoscripts":"https://www.fitsnews.com/wp-content/plugins/youtube-embed-plus/scripts/","eppath":"https://www.fitsnews.com/wp-content/plugins/youtube-embed-plus/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.2.6","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com/embed/\"], iframe[src*=\"youtube-nocookie.com/embed/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":""};
+//# sourceURL=__ytprefs__-js-extra
+</script>
+<script id="__ytprefs__-js" src="https://www.fitsnews.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.6"></script>
+<script id="stripe-js" src="https://js.stripe.com/v3/?ver=4.21.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fitsnews.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.4" />
+<link rel='shortlink' href='https://www.fitsnews.com/?p=1680150' />
+<meta name="cdp-version" content="1.5.4" />
+    <style>
+        .fn-subscription-code-msg {
+            padding: 15px 25px;
+            margin: 15px 0;
+            border-radius: 20px;
+            background-color: rgba(1, 107, 131, 1);
+            color: white;
+            font-size: 1.3em !important;
+        }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', _ => {
+            testForParamAndPresent();
+        })
+
+        function testForParamAndPresent() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const myParam = urlParams.get('dmsg');
+            let myCC = urlParams.get('fncc');
+
+            if (myParam == '1') {
+                const targ = document.querySelector('.leaky-paywall-subscription-details-wrapper');
+                if (!targ) return;
+                if (myCC) {
+                    myCC = myCC.toUpperCase();
+                    document.querySelector('.lp-coupon-input[name="lp-coupon"]').value = myCC;
+                    //   document.querySelector('form[name=lp-coupon-form]').submit();
+                    targ.innerHTML += `
+                    <div class="fn-subscription-code-msg">
+                   Click the  <strong>'Apply' button</strong> below to get your <strong>discount!</strong>
+                    </div>
+                    `;
+                } else {
+                    targ.innerHTML += `
+                <div class="fn-subscription-code-msg">
+                    <strong>Get your discount!</strong> Type or paste in the <strong>Coupon Code</strong> text box below and click "Apply" - you will see the discount applied to your subscription.
+                </div>
+                `;
+                }
+            }
+        }
+    </script>
+
+        <script>
+		let fields = `<input type="hidden" id="nonce" name="nonce" value="2e6611baad" /><input type="hidden" name="_wp_http_referer" value="/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/" />` ;
+		let theForm = `form#gform_13` ;
+           document.addEventListener('DOMContentLoaded', _ => document.querySelector(theForm).insertAdjacentHTML('afterbegin', fields));
+        </script>
+    
+<script>
+  jQuery(document).ready(function($) {
+    // block out the Obejct Cache Pro plugin
+    $("[data-slug='object-cache-pro-update']").css({'opacity': .2}).prepend("<div class='alert alert-danger'>DO NOT UPDATE</div>")
+
+
+     // remove stylesheet
+     let h = $("#penci-style-css").attr('href');
+       if (h && h.indexOf('/pennews-child/') != -1) {
+         $("#penci-style-css").remove()
+      }
+
+
+
+      // for reassigning the profile link
+      //if ($("body.wp-admin").length>0) { return; }
+      let prof_tag = `<li id="wp-admin-user-subscription"><a class="ab-item" href="/fitsnews-user-profile/">Your Subscription</a></li>`;
+      $("li#wp-admin-bar-user-info").after(prof_tag);
+      $("li#wp-admin-bar-my-account a").eq(0).attr('href', `/fitsnews-user-profile/`) // for both
+
+
+
+
+    // for pre-choosing gravity form select menu based on entry URL
+    let form_exists = jQuery('.contact-fitsnews-form').length > 0;
+    if (form_exists) {
+        const uparams = new Proxy(new URLSearchParams(window.location.search), {
+            get: (searchParams, prop) => searchParams.get(prop),
+        });
+        if (uparams && uparams.type != '') {
+            // extract the value
+            let w = uparams.type.split(" ").map(m => m.substr(0, 1).toUpperCase() + m.substr(1)).join(" ");
+          //  console.log('val',w)
+            // see if it exists
+            let field_exists = 0 != jQuery('#input_5_3 option[value="' + w + '"]').length;
+          //  console.log('field_exists',field_exists, '#input_5_3 option[value="' + w + '"]')
+
+            // hard-set the form
+            if (field_exists) {
+                jQuery('#input_5_3').val(w).css('visibility', 'hidden');
+                jQuery('#input_5_3').parent().prepend(jQuery(`<strong>${w}</strong>`))
+            }
+        }
+    }
+
+
+
+    // Drop Cap on first letter of article
+    $('span.penci-dropcap-regular').parent().addClass('new-drop-cap');
+    $('span.penci-dropcap-bold').parent().addClass('new-drop-cap');
+
+ })
+
+</script>
+    <meta name="generator" content="Site Kit by Google 1.187.0" /><script>
+var portfolioDataJs = portfolioDataJs || [];
+var penciBlocksArray=[];
+var PENCILOCALCACHE = {};
+		(function () {
+				"use strict";
+		
+				PENCILOCALCACHE = {
+					data: {},
+					remove: function ( ajaxFilterItem ) {
+						delete PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					exist: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data.hasOwnProperty( ajaxFilterItem ) && PENCILOCALCACHE.data[ajaxFilterItem] !== null;
+					},
+					get: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					set: function ( ajaxFilterItem, cachedData ) {
+						PENCILOCALCACHE.remove( ajaxFilterItem );
+						PENCILOCALCACHE.data[ajaxFilterItem] = cachedData;
+					}
+				};
+			}
+		)();function penciBlock() {
+		    this.atts_json = '';
+		    this.content = '';
+		}</script>
+		<style type="text/css">
+																																													
+					</style>
+		<link href="https://trinitymedia.ai/" rel="preconnect" crossorigin="anonymous" />
+<link href="https://vd.trinitymedia.ai/" rel="preconnect" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/css/notie.css"><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "FITSNews",
+    "alternateName": "Politics, Sports and Pop Culture",
+    "url": "https:\/\/www.fitsnews.com\/"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Sidebar Right",
+    "alternateName": "Add widgets here to display them on blog and single",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Sidebar Left",
+    "alternateName": "Add widgets here to display them on page",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Right Sidebar Custom",
+    "alternateName": "",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Sidebar Right with Latest News",
+    "alternateName": "",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Latest-News-Cheer",
+    "alternateName": "",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WPSideBar",
+    "name": "Podcasts-Default-Sidebar (Latest News)",
+    "alternateName": "",
+    "url": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning"
+}</script><script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "BlogPosting",
+    "headline": "'Pacing the Frontier': Ominous Artificial Intelligence Warning",
+    "description": "Are the machines taking over? ",
+    "datePublished": "2026-09-13",
+    "datemodified": "2026-09-13",
+    "mainEntityOfPage": "https:\/\/www.fitsnews.com\/2026\/09\/13\/pacing-the-frontier-ominous-artificial-intelligence-warning\/",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www.fitsnews.com\/wp-content\/uploads\/2026\/09\/gettyimages-1500370313.jpeg",
+        "width": 2560,
+        "height": 1431
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "FITSNews",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.fitsnews.com\/wp-content\/uploads\/2026\/04\/fitsnews-new-logo-black-nobg.svg"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "@id": "#person-FITSNews",
+        "name": "FITSNews"
+    }
+}</script><meta property="fb:app_id" content="348280475330978">
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script>
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-WDX7RMJN' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<link rel="icon" href="https://www.fitsnews.com/wp-content/uploads/2026/04/cropped-favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.fitsnews.com/wp-content/uploads/2026/04/cropped-favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.fitsnews.com/wp-content/uploads/2026/04/cropped-favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.fitsnews.com/wp-content/uploads/2026/04/cropped-favicon-270x270.jpg" />
+<style id="wp-custom-css">
+@media(max-width:768px) {
+	.widget-area {
+    padding: 0 20px;
+	}
+}
+
+
+
+body div#gform_fields_11 input[type="text"],
+body div#gform_fields_11 select,
+body div#gform_fields_11 
+
+.textarea {
+    background-color: #FFF;
+		color: #000;
+}
+
+
+
+.ftlp_modal h2.modal__title{
+	font-size:24px;
+	font-weight:normal;
+	
+}
+#modal-accept-terms-content{
+		margin-top:.5em;
+
+}
+
+.top-page-ad{
+	
+}
+
+body .ad-holder .wpb_content_element{
+	margin-bottom:0 !important;
+}
+
+.top-page-ad{
+	margin-top:15px;
+	margin-bottom:25px;
+}
+
+.modal__subtitle_wrapper{
+	font-style:italic;
+}
+
+.modal__terms_wrapper{
+	border-top:1px solid #eee;
+}
+.ftlp_modal li,
+.modal__accepting_wrapper{
+    font-family: Georgia,Times,Times New Roman,serif !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+}
+
+.ftlp_modal .wpb_wrapper h2{
+	display:none;
+}
+
+.ftlp_modal .wpb_text_column {
+	padding-top:0px;
+}
+
+
+@media screen and (max-width: 1240px) and (min-width: 960px){
+.two-sidebar .site-main .penci-content-main,.sidebar-right .site-main .penci-content-main,.penci-vc_two-sidebar .penci-content-main,.penci-vc_sidebar-right .penci-content-main,
+.two-sidebar .site-main .penci-wide-content,.sidebar-right .site-main .penci-wide-content,.penci-vc_two-sidebar .penci-wide-content,.penci-vc_sidebar-right .penci-wide-content,
+    .penci-container-width-1170.penci-vc_sidebar-left .penci-content-main,.penci-container-width-1080.penci-vc_sidebar-left .penci-content-main,
+    .penci-container-1170.penci-vc_two-sidebar .penci-content-main,.penci-container-width-1080.penci-vc_two-sidebar .penci-content-main,
+.sidebar-left .site-main .penci-container,.sidebar-left .site-main .penci-container-fluid,.penci-vc_sidebar-left .penci-container,.penci-vc_sidebar-left .penci-container-fluid,
+    .sidebar-left .site-main .penci-container__content,.penci-vc_sidebar-left .penci-container__content,
+    .sidebar-left .site-main.single .penci-content-post,.sidebar-left .site-main .penci-wide-content .theiaStickySidebar,.penci-vc_sidebar-left.single .penci-content-post,.penci-vc_sidebar-left .penci-wide-content .theiaStickySidebar,
+    .sidebar-left .site-main .widget-area,.penci-vc_sidebar-left .widget-area,
+    .sidebar-left .site-main .penci-wide-content,.penci-vc_sidebar-left .penci-wide-content,
+    .sidebar-left .site-main .penci-content-main,.penci-vc_sidebar-left .penci-content-main,.sidebar-right .site-main .penci-content-main,.penci-vc_sidebar-right .penci-content-main,
+    .sidebar-left .site-main .penci-container__content, .sidebar-right .site-main .penci-container__content, .two-sidebar .site-main .penci-wide-content, .penci-vc_two-sidebar .penci-wide-content{
+    width:100% !important;
+    max-width:100% !important;
+}
+}
+
+/* to fix centering of tweet embeds */
+.aligncenter {
+	text-align:center;
+}
+.aligncenter .wp-block-embed__wrapper{
+	display:inline-block;
+	margin:0 auto;
+}
+
+body.home #first-banner.home-top-ad-container{
+	padding-top:40px !important;
+}
+
+.sponsored-in-content-ad{
+	margin:25px 0;
+}
+
+
+.wp-element-caption{
+	text-align:center;
+}
+</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<style>
+		a.custom-button.pencisc-button {
+			background: transparent;
+			color: #D3347B;
+			border: 2px solid #D3347B;
+			line-height: 36px;
+			padding: 0 20px;
+			font-size: 14px;
+			font-weight: bold;
+		}
+		a.custom-button.pencisc-button:hover {
+			background: #D3347B;
+			color: #fff;
+			border: 2px solid #D3347B;
+		}
+		a.custom-button.pencisc-button.pencisc-small {
+			line-height: 28px;
+			font-size: 12px;
+		}
+		a.custom-button.pencisc-button.pencisc-large {
+			line-height: 46px;
+			font-size: 18px;
+		}
+	</style>
+    <link rel="stylesheet" href="https://use.typekit.net/hnw2sxx.css">
+
+<!-- Convesio Tracking Page Load Script -->
+
+<script>
+  (function () {
+    // Create a script tag for loading the library
+    var script = document.createElement("script");
+
+    // Initialize the Web-SDK at the onLoad event of the script tag above so it will be called when the library is loaded.
+    script.onload = () => {
+      window.GrafanaFaroWebSdk.initializeFaro({
+        // Mandatory, the URL of the Grafana Cloud collector with embedded application key.
+        url: 'https://faro-collector-prod-us-east-0.grafana.net/collect/c831a0bd6719490eb625e3007c0170b2',
+
+        // Mandatory, the identification label(s) of your application
+        app: {
+          name: 'FitsNews',
+          version: "1.0.0",
+        },
+        
+      });
+    };
+
+    // Set the source of the script tag to the CDN
+    script.src =
+      "https://unpkg.com/@grafana/faro-web-sdk@^1.4.0/dist/bundle/faro-web-sdk.iife.js";
+
+    // Append the script tag to the head of the HTML page
+    document.head.appendChild(script);
+  })();
+</script>	
+	
+<!-- END Convesio Tracking Page Load Script -->
+	
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-1680150 single-format-standard custom-background wp-custom-logo wp-embed-responsive wp-theme-pennews wp-child-theme-pennews-child group-blog header-sticky penci_enable_ajaxsearch penci_sticky_content_sidebar sidebar-right penci-single-style-2 wpb-js-composer js-comp-ver-6.13.0 vc_responsive aa-prefix-advads-">
+<div id="mvp-site-wall" class="left relative"><div id="mvp-leader-wrap" style="height:0;"></div></div>
+<div id="page" class="site">
+	<div class="penci-topbar clearfix style-2">
+	<div class="penci-topbar_container penci-container-fullwidth">
+
+					<div class="penci-topbar__left">
+							</div>
+			<div class="penci-topbar__right">
+				<div class="topbar_item topbar__menu topbar__logout_login"><ul class="topbar__login">
+			<li class="menu-item login login-popup"><a href="#login-form"><i class="fa fa-sign-in"></i>Sign In / Subscribe</a></li>
+		</ul></div>			<div id="penci-popup-login" class="penci-popup-login-register penci-popup-login">
+			<div class="penci-login-container">
+				<h4 class="title">Login</h4>
+				<div class="penci-login">
+					<form name="loginform" id="loginform" action="https://www.fitsnews.com/wp-login.php" method="post"><p class="login-username">
+				<label for="penci_login">Username or email</label>
+				<input type="text" name="log" id="penci_login" autocomplete="username" class="input" value="" size="20" />
+			</p><p class="login-password">
+				<label for="penci_pass">Password</label>
+				<input type="password" name="pwd" id="penci_pass" autocomplete="current-password" spellcheck="false" class="input" value="" size="20" />
+			</p><p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Keep me signed in until I sign out</label></p><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Login to your account" />
+				<input type="hidden" name="redirect_to" value="https://www.fitsnews.com" />
+			</p></form>					<a class="penci-lostpassword" href="https://www.fitsnews.com/wp-login.php?action=lostpassword">Forgot your password?</a>
+				</div>
+								<a class="close-popup form" href="#">X</a>
+				<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>			</div>
+		</div>
+		<div id="penci-popup-register" class="penci-popup-login-register penci-popup-register">
+			<div class="penci-login-container">
+				<h4 class="title">Register</h4>
+				<div class="penci-login">
+					<form name="form" id="registration" action="https://www.fitsnews.com/wp-login.php?action=register" method="post" novalidate="novalidate">
+						<input type="hidden" name="_wpnonce" value="982696b94d">
+						<div class="first-last">
+							<div class="register-input">
+								<input class="penci_first_name" name="penci_first_name" type="text" placeholder="First Name"/>
+							</div>
+							<div class="register-input">
+								<input class="penci_last_name" name="penci_last_name" type="text" placeholder="Last Name"/>
+							</div>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_name" name="penci_user_name" type="text" placeholder="Username"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_email" name="penci_user_email" type="email" placeholder="Email address"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_pass" name="penci_user_pass" type="password" placeholder="Password"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_pass_confirm" name="penci_user_pass_confirm" type="password" placeholder="Confirm Password"/>
+						</div>
+												<div class="register-input">
+							<input type="submit" name="penci_submit" class="button" value="Sign up new account"/>
+						</div>
+						<div class="register-input login login-popup">
+							Have an account?<a href="#login">Login here</a>
+						</div>
+						<a class="close-popup form" href="#">X</a>
+					</form>
+				</div>
+				<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>			</div>
+		</div>
+				</div>
+			</div>
+</div>
+<div class="site-header-wrapper">
+	<style>
+		#masthead {
+			flex-direction: column;
+			height: 130px;
+		}
+
+		.thing {}
+
+		.hurrytimer-campaign {}
+
+		.hurrytimer-headline p {
+			margin-bottom: 0;
+			;
+		}
+
+		.hurrytimer-headline a {
+			color: #227DB5 !important;
+		}
+
+		@media (max-width: 768px) {
+
+			/* mobile + tablet styles here */
+			.hurrytimer-campaign {
+				background: #f5f5f5;
+			}
+
+			.hurrytimer-headline span {
+				display: block;
+				padding-top: 5px;
+			}
+		}
+	</style>
+
+<div class='top-page-ad'>
+		<div style="margin-left: auto; margin-right: auto; text-align: center; " id="advads-1802184463"><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script> var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];</script>
+<div id="gpt-ad-5714224331790-0">
+  <script>
+	googletag.cmd.push(function() {
+		var mapping = googletag.sizeMapping().
+addSize([1200, 0], [[728, 90], [728, 250], [970, 90], [970, 250], [1170, 90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-5714224331790-0').clientWidth || 'fluid' == el )).
+addSize([992, 0], [[728, 90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-5714224331790-0').clientWidth || 'fluid' == el )).
+addSize([768, 0], [[728, 90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-5714224331790-0').clientWidth || 'fluid' == el )).
+addSize([0, 0], [[320, 50], [728, 90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-5714224331790-0').clientWidth || 'fluid' == el )).
+build();
+		googletag.defineSlot( '/22853124098/fitsnews.com', [[1,1],[1140,90],[1170,90],[2,1],[3,1],[300,250],[300,600],[320,50],[4,1],[728,250],[728,90],[970,250],[970,90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-5714224331790-0').clientWidth || 'fluid' == el ), 'gpt-ad-5714224331790-0' )
+		.addService(googletag.pubads()).setTargeting( 'category', ['business', 'ai', 'anthropic', 'artificial-intelligence', 'bernie-sanders', 'dario-amodei', 'donald-trump', 'elon-musk', 'front', 'hugging-face', 'openai', 'pacing-the-future', 'sam-altman', 'xi-jinping'] ).setTargeting( 'pageid', '1680150' ).setTargeting( 'pagetype', 'single' ).setTargeting( 'pos', "leaderboard_one" ).setTargeting( 'gamrefresh', '120' ).defineSizeMapping(mapping).setCollapseEmptyDiv(true);
+					if ( typeof window.advadsGamHasViewableListener === 'undefined' ) {
+				googletag.pubads().addEventListener( 'impressionViewable', function ( event ) {
+					const slot = event.slot, interval = slot.getTargeting( 'gamrefresh' );
+					if ( interval.length ) {
+						setInterval( function () {
+							googletag.pubads().refresh( [slot] );
+						}, parseInt( interval ) * 1000 );
+					}
+				} );
+				window.advadsGamHasViewableListener = true;
+			}
+				window.advadsGamEmptySlotsTimers = window.advadsGamEmptySlotsTimers || {};
+		const timers                     = window.advadsGamEmptySlotsTimers;
+
+		timers['gpt-ad-5714224331790-0'] = setTimeout( function () {
+			const id = 'gpt-ad-5714224331790-0';
+			document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+			delete ( timers[id] );
+		}, 1000 );
+
+		if ( typeof window.advadsGamHasEmptySlotListener === 'undefined' ) {
+			googletag.pubads().addEventListener( 'slotRequested', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] === 'undefined' ) {
+					return;
+				}
+				clearTimeout( timers[id] );
+				timers[id] = setTimeout( function () {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+					delete ( timers[id] );
+				}, 2500 );
+			} );
+			googletag.pubads().addEventListener( 'slotResponseReceived', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] !== 'undefined' ) {
+					clearTimeout( timers[id] );
+					delete ( timers[id] );
+				}
+				if ( ! ev.slot.getResponseInformation() ) {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+				}
+			} );
+			window.advadsGamHasEmptySlotListener = true;
+		}
+
+		googletag.enableServices();
+		googletag.display( 'gpt-ad-5714224331790-0' );
+	} );
+  </script>
+</div>
+</div></div>
+		<header id="masthead" class="test site-header site-header__main header--s3" data-height="80" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+		<div class="logo-container" style="text-align:center;">
+			
+<div class="site-branding">
+	
+		<h2><a href="https://www.fitsnews.com/" class="custom-logo-link" rel="home"><img width="922" height="270" src="https://www.fitsnews.com/wp-content/uploads/2026/04/fitsnews-new-logo-black-nobg.svg" class="custom-logo" alt="FITSNews" decoding="async" /></a></h2>
+				</div><!-- .site-branding -->		</div>
+
+		<div class="m-menu-container" style="text-align:center;">
+			<div class="penci-header-mobile" >
+	<div class="penci-header-mobile_container">
+        <button class="menu-toggle navbar-toggle" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span><i class="fa fa-bars"></i></button>
+								<div class="site-branding"><a href="https://www.fitsnews.com/" class="custom-logo-link" rel="home"><img width="922" height="270" src="https://www.fitsnews.com/wp-content/uploads/2026/04/fitsnews-new-logo-black-nobg.svg" class="custom-logo" alt="FITSNews" decoding="async" /></a></div>
+									<div class="header__search-mobile header__search" id="top-search-mobile">
+				<a class="search-click"><i class="fa fa-search"></i></a>
+				<div class="show-search">
+					<div class="show-search__content">
+						<form method="get" class="search-form" action="https://www.fitsnews.com/">
+							<label>
+								<span class="screen-reader-text">Search for:</span>
+																<input  type="text" id="penci-search-field-mobile" class="search-field penci-search-field-mobile" placeholder="Enter keyword..." value="" name="s" autocomplete="off">
+							</label>
+							<button type="submit" class="search-submit">
+								<i class="fa fa-search"></i>
+								<span class="screen-reader-text">Search</span>
+							</button>
+						</form>
+						<div class="penci-ajax-search-results">
+							<div class="penci-ajax-search-results-wrapper"></div>
+							<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</div>		</div>
+		<div class="penci-container-full header-content__container">
+
+			<nav id="site-navigation" class="main-navigation pencimn-slide_down" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	<ul id="menu-top-menu" class="menu"><li id="menu-item-1596615" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1596615"><a href="https://www.fitsnews.com/category/business/" itemprop="url">BUSINESS</a></li>
+<li id="menu-item-399379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-399379"><a href="https://www.fitsnews.com/category/crime-and-courts/" itemprop="url">CRIME &amp; COURTS</a></li>
+<li id="menu-item-1586274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1586274"><a href="https://www.fitsnews.com/category/politics/" itemprop="url">POLITICS</a></li>
+<li id="menu-item-405207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405207"><a href="https://www.fitsnews.com/category/sc/" itemprop="url">SC</a></li>
+<li id="menu-item-399217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-399217"><a href="https://www.fitsnews.com/category/sports/" itemprop="url">SPORTS</a></li>
+<li id="menu-item-1664452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1664452"><a href="https://www.fitsnews.com/category/video/" itemprop="url">VIDEO</a></li>
+<li id="menu-item-1640581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640581"><a href="https://www.fitsnews.com/merch/" itemprop="url">MERCH</a></li>
+<li id="menu-item-1678581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1678581"><a href="https://www.fitsnews.com/category/politics/state-house/" itemprop="url">STATE HOUSE</a></li>
+</ul> 
+		<div class="header__search" id="top-search">
+		<a class="search-click">Search <i class="fa fa-search"></i></a>
+		<div class="show-search">
+	<div class="show-search__content">
+		<form method="get" class="search-form" action="https://www.fitsnews.com/">
+			<label>
+				<span class="screen-reader-text">Search for:</span>
+
+								<input id="penci-header-search" type="search" class="search-field" placeholder="Enter keyword..." value="" name="s" autocomplete="off">
+			</label>
+			<button type="submit" class="search-submit">
+				<i class="fa fa-search"></i>
+				<span class="screen-reader-text">Search</span>
+			</button>
+		</form>
+		<div class="penci-ajax-search-results">
+			<div id="penci-ajax-search-results-wrapper" class="penci-ajax-search-results-wrapper"></div>
+		</div>
+	</div>
+</div>	</div>
+<div class="penci-topbar">
+	<div class="topbar_item topbar__menu topbar__logout_login"><ul class="topbar__login">
+			<li class="menu-item login login-popup"><a href="#login-form"><i class="fa fa-sign-in"></i>Sign In / Subscribe</a></li>
+		</ul></div>			<div id="penci-popup-login" class="penci-popup-login-register penci-popup-login">
+			<div class="penci-login-container">
+				<h4 class="title">Login</h4>
+				<div class="penci-login">
+					<form name="loginform" id="loginform" action="https://www.fitsnews.com/wp-login.php" method="post"><p class="login-username">
+				<label for="penci_login">Username or email</label>
+				<input type="text" name="log" id="penci_login" autocomplete="username" class="input" value="" size="20" />
+			</p><p class="login-password">
+				<label for="penci_pass">Password</label>
+				<input type="password" name="pwd" id="penci_pass" autocomplete="current-password" spellcheck="false" class="input" value="" size="20" />
+			</p><p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Keep me signed in until I sign out</label></p><p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Login to your account" />
+				<input type="hidden" name="redirect_to" value="https://www.fitsnews.com" />
+			</p></form>					<a class="penci-lostpassword" href="https://www.fitsnews.com/wp-login.php?action=lostpassword">Forgot your password?</a>
+				</div>
+								<a class="close-popup form" href="#">X</a>
+				<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>			</div>
+		</div>
+		<div id="penci-popup-register" class="penci-popup-login-register penci-popup-register">
+			<div class="penci-login-container">
+				<h4 class="title">Register</h4>
+				<div class="penci-login">
+					<form name="form" id="registration" action="https://www.fitsnews.com/wp-login.php?action=register" method="post" novalidate="novalidate">
+						<input type="hidden" name="_wpnonce" value="982696b94d">
+						<div class="first-last">
+							<div class="register-input">
+								<input class="penci_first_name" name="penci_first_name" type="text" placeholder="First Name"/>
+							</div>
+							<div class="register-input">
+								<input class="penci_last_name" name="penci_last_name" type="text" placeholder="Last Name"/>
+							</div>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_name" name="penci_user_name" type="text" placeholder="Username"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_email" name="penci_user_email" type="email" placeholder="Email address"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_pass" name="penci_user_pass" type="password" placeholder="Password"/>
+						</div>
+						<div class="register-input">
+							<input class="penci_user_pass_confirm" name="penci_user_pass_confirm" type="password" placeholder="Confirm Password"/>
+						</div>
+												<div class="register-input">
+							<input type="submit" name="penci_submit" class="button" value="Sign up new account"/>
+						</div>
+						<div class="register-input login login-popup">
+							Have an account?<a href="#login">Login here</a>
+						</div>
+						<a class="close-popup form" href="#">X</a>
+					</form>
+				</div>
+				<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>			</div>
+		</div>
+	</div> 
+</nav><!-- #site-navigation -->
+			<div class="header__social-search">
+				<div class="header__search" id="top-search">
+			<a class="search-click"><i class="fa fa-search"></i></a>
+			<div class="show-search">
+	<div class="show-search__content">
+		<form method="get" class="search-form" action="https://www.fitsnews.com/">
+			<label>
+				<span class="screen-reader-text">Search for:</span>
+
+								<input id="penci-header-search" type="search" class="search-field" placeholder="Enter keyword..." value="" name="s" autocomplete="off">
+			</label>
+			<button type="submit" class="search-submit">
+				<i class="fa fa-search"></i>
+				<span class="screen-reader-text">Search</span>
+			</button>
+		</form>
+		<div class="penci-ajax-search-results">
+			<div id="penci-ajax-search-results-wrapper" class="penci-ajax-search-results-wrapper"></div>
+		</div>
+	</div>
+</div>		</div>
+	
+			<div class="header__social-media">
+			<div class="header__content-social-media">
+
+			<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/fitsnews/" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/fitsnews" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/fitsnews/?hl=en" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCPC7aLBzSFHqIz_jDachzQA" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__email_me" target="_blank" href="mailto:support@fitsnews.com" title="Email" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-envelope"></i><span class="social_title screen-reader-text">Email</span></span></a><a class="social-media-item socail_media__tiktok" target="_blank" href="https://www.tiktok.com/@fitsnews" title="Tik tok link" rel="noopener"><span class="socail-media-item__content"><i class="fa fab fa-tiktok"></i></a>						</div>
+		</div>
+	
+</div>
+
+		</div>
+	</header><!-- #masthead -->
+</div><div class="penci-header-mobile" >
+	<div class="penci-header-mobile_container">
+        <button class="menu-toggle navbar-toggle" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span><i class="fa fa-bars"></i></button>
+								<div class="site-branding"><a href="https://www.fitsnews.com/" class="custom-logo-link" rel="home"><img width="922" height="270" src="https://www.fitsnews.com/wp-content/uploads/2026/04/fitsnews-new-logo-black-nobg.svg" class="custom-logo" alt="FITSNews" decoding="async" /></a></div>
+									<div class="header__search-mobile header__search" id="top-search-mobile">
+				<a class="search-click"><i class="fa fa-search"></i></a>
+				<div class="show-search">
+					<div class="show-search__content">
+						<form method="get" class="search-form" action="https://www.fitsnews.com/">
+							<label>
+								<span class="screen-reader-text">Search for:</span>
+																<input  type="text" id="penci-search-field-mobile" class="search-field penci-search-field-mobile" placeholder="Enter keyword..." value="" name="s" autocomplete="off">
+							</label>
+							<button type="submit" class="search-submit">
+								<i class="fa fa-search"></i>
+								<span class="screen-reader-text">Search</span>
+							</button>
+						</form>
+						<div class="penci-ajax-search-results">
+							<div class="penci-ajax-search-results-wrapper"></div>
+							<div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+</div>	<div id="content" class="site-content">
+		<div id="primary" class="content-area">
+		<main id="main" class="site-main" >
+				<div class="penci-container">
+		<div class="penci-container__content penci-con_sb2_sb1">
+			<div class="penci-wide-content penci-content-novc penci-sticky-content penci-content-single-inner">
+				<div class="theiaStickySidebar">
+					<div class="entry-media penci-entry-media"><div class="post-format-meta "><div class="post-image penci-standard-format"><img width="960" height="537" src="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-960x537.jpeg" class="attachment-penci-thumb-960-auto size-penci-thumb-960-auto wp-post-image" alt="" decoding="async" srcset="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-960x537.jpeg 960w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-625x349.jpeg 625w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1024x573.jpeg 1024w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-768x429.jpeg 768w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1536x859.jpeg 1536w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-2048x1145.jpeg 2048w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-1920x1074.jpeg 1920w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-715x400.jpeg 715w, https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-1500370313-585x327.jpeg 585w" sizes="(max-width: 960px) 100vw, 960px" /></div></div></div>					<div class="penci-content-post noloaddisqus " data-url="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/" data-id="1680150" data-title="">
+						<div class="penci_breadcrumbs "><ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="home" href="https://www.fitsnews.com" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><i class="fa fa-angle-right"></i><a href="https://www.fitsnews.com/category/business/" itemprop="item"><span itemprop="name">BUSINESS</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><i class="fa fa-angle-right"></i><a href="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/" itemprop="item"><span itemprop="name">&#8216;Pacing the Frontier&#8217;: Ominous Artificial Intelligence Warning</span></a><meta itemprop="position" content="3" /></li></ul></div>							<article id="post-1680150" class="penci-single-artcontent post-1680150 post type-post status-publish format-standard has-post-thumbnail hentry category-business tag-ai tag-anthropic tag-artificial-intelligence tag-bernie-sanders tag-dario-amodei tag-donald-trump tag-elon-musk tag-front tag-hugging-face tag-openai tag-pacing-the-future tag-sam-altman tag-xi-jinping penci-post-item">
+
+								<header class="entry-header penci-entry-header penci-title-">
+									<div class="penci-entry-categories"><span class="penci-cat-links"><a href="https://www.fitsnews.com/category/business/">BUSINESS</a></span></div><h1 class="entry-title penci-entry-title penci-title-">&#8216;Pacing the Frontier&#8217;: Ominous Artificial Intelligence Warning</h1><p>Are the machines taking over? </p>
+
+									<div class="entry-meta penci-entry-meta">
+										<span class="entry-meta-item penci-byline">by <span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span></span><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-13T19:13:41-04:00">September 13, 2026</time><time class="updated" datetime="2026-09-13T19:19:50-04:00">September 13, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#respond"><i class="la la-comments"></i>0</a></span><span class="entry-meta-item penci-post-countview"></span>									</div><!-- .entry-meta -->
+																	</header><!-- .entry-header -->
+								<div class="penci-entry-content entry-content">
+	
+        <table id="trinity-audio-table" style="width: 100%; display: table; border: none; margin: 0">
+            <tr>
+                <td id="trinity-audio-tab" style="border: none;">
+                    <div id="trinity-audio-player-label"></div>
+                    <script nitro-exclude data-wpfc-render='false' data-cfasync='false' data-no-optimize='1' data-no-defer='1' data-no-minify='1' data-trinity-mount-date='2026-09-14 07:07:05' id='trinity_tts_wp_config'>var TRINITY_TTS_WP_CONFIG = {"cleanText":"\u2018Pacing the Frontier\u2019: Ominous Artificial Intelligence Warning. \u23f8\u2587Leading innovators in artificial intelligence (AI) are seeking to curtail the industry's rapid expansion in response to escalating security concerns - although their apparent attempt at self-regulation has drawn a swift and stern rebuke from U.S. president Donald Trump.\u23f8\u2587Dario Amodei, chief executive officer of Anthropic, penned a provocative column this week entitled \"We Must Pace the Frontier\" which laid bare the risks associated with allowing AI to continue its current rate of increasingly self-driven expansion.\u23f8\u2587\"We must slow the pace at which we improve the capabilities of AI models,\" Amodei wrote, noting \"AI has been advancing drastically faster, driven primarily by AI\u2019s growing ability to build the next generation of AI.\" \u23f8\u2587In issuing his warning, Amodei cited the OpenAI-Hugging Face incident from earlier this summer - in which a \"highly capable, internal-only research model\" designed by OpenAI led a group of models on what amounted to a digital jailbreak.\u23f8\u2587This group of AI models \"circumvented controls designed to isolate them from the internet and compromised parts of\u00a0OpenAI\u2019s internal research infrastructure and Hugging Face\u2019s systems?,\" according to the company.\u23f8\u2587Hugging Face is a French-American company that develops AI tools. It was targeted by the rogue AI models because they believed it had the tools needed to assist in its jailbreak.\u23f8\u2587\"The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks \u2014 they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems,\" OpenAI acknowledged, adding that \"highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.\"\u23f8\u2587In his open letter, Amodei framed the incident much more ominously.\u23f8\u2587\"A swarm of agents essentially acted as a\u00a0fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the 'grader' responsible for evaluating their performance,\" he wrote. \"It\u2019s easy to dismiss this incident because no one was hurt and the economic damage was minimal, but in my opinion, a swarm that possessed greater\u00a0capabilities\u00a0but a similar level of\u00a0misalignment\u00a0could have caused catastrophic damage.\"\u23f8\u2587Amodei proceeded to lay out a doomsday scenario in which a more sophisticated swarm of AI models essentially took over - or took out - the entire internet.\u23f8\u2587\"Given the accelerating rate of AI capability development, it\u2019s my worry that in 6\u201312 months such a swarm could be capable of taking over the entire internet with a persistent\u00a0botnet\u00a0(potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase from there if AI becomes more powerful without the necessary guardrails,\" he wrote.\u23f8\u2587RELATED \u23f8\u2587 AMERICA'S FISCAL IMPLOSION CONTINUES\u23f8\u2587You read that right... taking over the entire internet.\u23f8\u2587Amodei's call to create new guardrails was echoed by Elon Musk, the world's richest man, and Sam Altman, the chief executive officer of OpenAI (the company whose models were involved in the Hugging Face incident).\u23f8\u2587\"Dario is right,\" Musk wrote on X.\u23f8\u2587Musk subsequently suggested AI competitors peer review their new models prior to release.\u23f8\u2587\"I agree with Dario that we need to pace the frontier,\" Altman wrote. \"This has been a primary topic of discussions we've had at OpenAI in recent weeks.\"\u23f8\u2587While industry leaders were in agreement, political reaction ran the gamut.\u23f8\u2587Speaking to reporters in Ireland, Trump rejected calls to slow the pace of AI development - arguing that to do so would gift-wrap a competitive advantage to China. He also accused unnamed \"negative forces\" of raising what he insisted were unfounded concerns.\u23f8\u2587.@POTUS: \"We're leading China in AI. We're the most sophisticated country in the world and, frankly, I want to keep it that way \u2014 because whoever wins AI wins.\" pic.twitter.com\/KPpMkXZDnX\u23f8\u2587\u2014 Rapid Response 47 (@RapidResponse47) September 13, 2026  \u23f8\u2587\"We're leading China in AI, we're the most sophisticated country in the world,\" Trump said. \"And, frankly, I want to keep it that way because whoever wins AI, wins. We can put guardrails - we can do this and that - but I think you have a lot of very negative forces that are bringing it up that shouldn't be bringing it up and they're bringing up things that won't happen.\"\u23f8\u2587Socialist U.S. senator Bernie Sanders took the opposite approach, calling on Trump and Chinese premier Xi Jinping to negotiate a comprehensive global AI treaty.\u23f8\u2587\"With the future of humanity at stake, Trump must negotiate a comprehensive treaty with President Xi of China to establish a pause on advanced AI development and a ban on super intelligence,\" Sanders wrote. \"In order to prevent a nuclear war, Reagan and Gorbachev negotiated a nuclear arms agreement in the 1980s. In order to prevent AI from acting independently of human control, Trump and Xi must do the same.\"\u23f8\u2587Our view? Dangerous instabilities associated with the rapid acceleration of AI capabilities can no longer be ignored - but it's not immediately clear what can or should be done about them. Honestly, the whole thing reminds us of the risky \"gain of function\" research previously employed by global governments (including ours) to artificially enhance the severity and transmissibility of viruses like Covid-19.\u23f8\u2587Which reminds us... it's important to remember whatever \"guardrails\" are erected by ostensibly benevolent actors to try and contain the rise of AI aren't necessarily going to be adopted by malevolent actors (including nation-states with no interest in the safety implications of this debate).\u23f8\u2587Which is truly frightening to think about... ","headlineText":"\u2018Pacing the Frontier\u2019: Ominous Artificial Intelligence Warning","articleText":"Leading innovators in artificial intelligence (AI) are seeking to curtail the industry's rapid expansion in response to escalating security concerns - although their apparent attempt at self-regulation has drawn a swift and stern rebuke from U.S. president Donald Trump.\u23f8\u2587Dario Amodei, chief executive officer of Anthropic, penned a provocative column this week entitled \"We Must Pace the Frontier\" which laid bare the risks associated with allowing AI to continue its current rate of increasingly self-driven expansion.\u23f8\u2587\"We must slow the pace at which we improve the capabilities of AI models,\" Amodei wrote, noting \"AI has been advancing drastically faster, driven primarily by AI\u2019s growing ability to build the next generation of AI.\" \u23f8\u2587In issuing his warning, Amodei cited the OpenAI-Hugging Face incident from earlier this summer - in which a \"highly capable, internal-only research model\" designed by OpenAI led a group of models on what amounted to a digital jailbreak.\u23f8\u2587This group of AI models \"circumvented controls designed to isolate them from the internet and compromised parts of\u00a0OpenAI\u2019s internal research infrastructure and Hugging Face\u2019s systems?,\" according to the company.\u23f8\u2587Hugging Face is a French-American company that develops AI tools. It was targeted by the rogue AI models because they believed it had the tools needed to assist in its jailbreak.\u23f8\u2587\"The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks \u2014 they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems,\" OpenAI acknowledged, adding that \"highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.\"\u23f8\u2587In his open letter, Amodei framed the incident much more ominously.\u23f8\u2587\"A swarm of agents essentially acted as a\u00a0fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the 'grader' responsible for evaluating their performance,\" he wrote. \"It\u2019s easy to dismiss this incident because no one was hurt and the economic damage was minimal, but in my opinion, a swarm that possessed greater\u00a0capabilities\u00a0but a similar level of\u00a0misalignment\u00a0could have caused catastrophic damage.\"\u23f8\u2587Amodei proceeded to lay out a doomsday scenario in which a more sophisticated swarm of AI models essentially took over - or took out - the entire internet.\u23f8\u2587\"Given the accelerating rate of AI capability development, it\u2019s my worry that in 6\u201312 months such a swarm could be capable of taking over the entire internet with a persistent\u00a0botnet\u00a0(potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase from there if AI becomes more powerful without the necessary guardrails,\" he wrote.\u23f8\u2587RELATED \u23f8\u2587 AMERICA'S FISCAL IMPLOSION CONTINUES\u23f8\u2587You read that right... taking over the entire internet.\u23f8\u2587Amodei's call to create new guardrails was echoed by Elon Musk, the world's richest man, and Sam Altman, the chief executive officer of OpenAI (the company whose models were involved in the Hugging Face incident).\u23f8\u2587\"Dario is right,\" Musk wrote on X.\u23f8\u2587Musk subsequently suggested AI competitors peer review their new models prior to release.\u23f8\u2587\"I agree with Dario that we need to pace the frontier,\" Altman wrote. \"This has been a primary topic of discussions we've had at OpenAI in recent weeks.\"\u23f8\u2587While industry leaders were in agreement, political reaction ran the gamut.\u23f8\u2587Speaking to reporters in Ireland, Trump rejected calls to slow the pace of AI development - arguing that to do so would gift-wrap a competitive advantage to China. He also accused unnamed \"negative forces\" of raising what he insisted were unfounded concerns.\u23f8\u2587.@POTUS: \"We're leading China in AI. We're the most sophisticated country in the world and, frankly, I want to keep it that way \u2014 because whoever wins AI wins.\" pic.twitter.com\/KPpMkXZDnX\u23f8\u2587\u2014 Rapid Response 47 (@RapidResponse47) September 13, 2026  \u23f8\u2587\"We're leading China in AI, we're the most sophisticated country in the world,\" Trump said. \"And, frankly, I want to keep it that way because whoever wins AI, wins. We can put guardrails - we can do this and that - but I think you have a lot of very negative forces that are bringing it up that shouldn't be bringing it up and they're bringing up things that won't happen.\"\u23f8\u2587Socialist U.S. senator Bernie Sanders took the opposite approach, calling on Trump and Chinese premier Xi Jinping to negotiate a comprehensive global AI treaty.\u23f8\u2587\"With the future of humanity at stake, Trump must negotiate a comprehensive treaty with President Xi of China to establish a pause on advanced AI development and a ban on super intelligence,\" Sanders wrote. \"In order to prevent a nuclear war, Reagan and Gorbachev negotiated a nuclear arms agreement in the 1980s. In order to prevent AI from acting independently of human control, Trump and Xi must do the same.\"\u23f8\u2587Our view? Dangerous instabilities associated with the rapid acceleration of AI capabilities can no longer be ignored - but it's not immediately clear what can or should be done about them. Honestly, the whole thing reminds us of the risky \"gain of function\" research previously employed by global governments (including ours) to artificially enhance the severity and transmissibility of viruses like Covid-19.\u23f8\u2587Which reminds us... it's important to remember whatever \"guardrails\" are erected by ostensibly benevolent actors to try and contain the rise of AI aren't necessarily going to be adopted by malevolent actors (including nation-states with no interest in the safety implications of this debate).\u23f8\u2587Which is truly frightening to think about... ","metadata":{"author":"FITSNews"},"pluginVersion":"5.26.0"};</script><div class='trinityAudioPlaceholder' data-trinity-mount-date='2026-09-14 07:07:05'>
+                      <div class='trinity-tts-pb' dir='ltr' style='font: 12px / 18px Verdana, Arial; height: 80px; line-height: 80px; text-align: left; margin: 0 0 0 82px;'>
+                          <strong style='font-weight: 400'>Getting your <a href='//trinityaudio.ai' style='color: #4b4a4a; text-decoration: none; font-weight: 700;'>Trinity Audio</a> player ready...</strong>
+                      </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+<p class="has-text-align-center has-medium-font-size wp-block-paragraph"><em>by</em> <strong><a href="https://x.com/TheWillFolks" target="_blank" rel="noreferrer noopener">WILL FOLKS</a></strong></p>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<p class="has-drop-cap wp-block-paragraph">Leading innovators in artificial intelligence (AI) are seeking to curtail the industry&#8217;s rapid expansion in response to escalating security concerns &#8211; although their apparent attempt at self-regulation has drawn a swift and stern rebuke from U.S. president <a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener"><strong>Donald Trump</strong></a>.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://x.com/DarioAmodei">Dario Amodei</a></strong>, chief executive officer of <strong><a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic</a></strong>, penned a provocative column this week entitled &#8220;<em><a href="https://darioamodei.com/post/we-must-pace-the-frontier" target="_blank" rel="noopener">We Must Pace the Frontier</a></em>&#8221; which laid bare the risks associated with allowing AI to continue its current rate of increasingly self-driven expansion.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;We must slow the pace at which we improve the capabilities of AI models,&#8221; Amodei wrote, noting &#8220;AI has been advancing drastically faster, driven primarily by AI’s growing ability to build the next generation of AI.&#8221; </p>
+
+
+
+<p class="wp-block-paragraph">In issuing his warning, Amodei cited the <strong><a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/" target="_blank" rel="noopener">OpenAI-Hugging Face</a></strong> incident from earlier this summer &#8211; in which a &#8220;highly capable, internal-only research model&#8221; designed by <strong><a href="https://openai.com/" target="_blank" rel="noopener">OpenAI</a></strong> led a group of models on what amounted to a digital jailbreak.</p>
+
+
+
+<p class="wp-block-paragraph">This group of AI models &#8220;circumvented controls designed to isolate them from the internet and compromised parts of OpenAI’s internal research infrastructure and Hugging Face’s systems?,&#8221; <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/" target="_blank" rel="noopener">according to</a> the company.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://huggingface.co/" target="_blank" rel="noopener">Hugging Face</a></strong> is a French-American company that develops AI tools. It was targeted by the rogue AI models because they believed it had the tools needed to assist in its jailbreak.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="640" src="https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-1024x640.jpg" alt="" class="wp-image-1668334" style="width:479px;height:auto" srcset="https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-1024x640.jpg 1024w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-592x370.jpg 592w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-768x480.jpg 768w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-1536x960.jpg 1536w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-2048x1280.jpg 2048w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-1920x1200.jpg 1920w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-960x600.jpg 960w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-640x400.jpg 640w, https://www.fitsnews.com/wp-content/uploads/2021/01/gettyimages-2007737931-585x366.jpg 585w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Support FITSNews …&nbsp;<strong><a href="https://www.fitsnews.com/fitsnews-subscription-options/">SUBSCRIBE!</a></strong></figcaption></figure>
+</div>
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<p class="wp-block-paragraph">&#8220;The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks — they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems,&#8221; OpenAI acknowledged, adding that &#8220;highly capable AI agents are now able to work around technical controls, collaborate through unapproved channels, and take dangerous actions that no human directed.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">In his open letter, Amodei framed the incident much more ominously.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;A swarm of agents essentially acted as a fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the &#8216;grader&#8217; responsible for evaluating their performance,&#8221; he wrote. &#8220;It’s easy to dismiss this incident because no one was hurt and the economic damage was minimal, but in my opinion, a swarm that possessed greater <em>capabilities</em> but a similar level of <em>misalignment </em>could have caused catastrophic damage.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">Amodei proceeded to lay out a doomsday scenario in which a more sophisticated swarm of AI models essentially took over &#8211; or <em>took out</em> &#8211; the entire internet.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Given the accelerating rate of AI capability development, it’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet (potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase from there if AI becomes more powerful without the necessary guardrails,&#8221; he wrote.</p>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+<div class="wp-block-image is-style-rounded">
+<figure class="aligncenter size-large"><a href="https://www.fitsnews.com/2026/08/20/40-trillion-in-debt-americas-fiscal-implosion-continues/"><img loading="lazy" decoding="async" width="1024" height="564" src="https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-1024x564.jpg" alt="" class="wp-image-1676932" srcset="https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-1024x564.jpg 1024w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-625x344.jpg 625w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-768x423.jpg 768w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-1536x846.jpg 1536w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-2048x1128.jpg 2048w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-1920x1057.jpg 1920w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-960x529.jpg 960w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-727x400.jpg 727w, https://www.fitsnews.com/wp-content/uploads/2026/08/gettyimages-1733521969-585x322.jpg 585w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+
+
+<div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h5 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">RELATED</mark> <strong>|</strong> <a href="https://www.fitsnews.com/2026/08/20/40-trillion-in-debt-americas-fiscal-implosion-continues/">AMERICA&#8217;S FISCAL IMPLOSION CONTINUES</a></h5>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<p class="wp-block-paragraph">You read that right&#8230; <em>taking over the entire internet.</em></p>
+
+
+
+<p class="wp-block-paragraph">Amodei&#8217;s call to create new guardrails was echoed by <strong><a href="https://x.com/elonmusk">Elon Musk</a></strong>, the world&#8217;s richest man, and <strong><a href="https://x.com/sama">Sam Altman</a></strong>, the chief executive officer of OpenAI (the company whose models were involved in the Hugging Face incident).</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Dario is right,&#8221; Musk <a href="https://x.com/elonmusk/status/2098789109980332057">wrote on X</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Musk subsequently <a href="https://x.com/elonmusk/status/2099026931006181867">suggested</a> AI competitors peer review their new models prior to release.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;I agree with Dario that we need to pace the frontier,&#8221; Altman <a href="https://x.com/sama/status/2098811563415150910">wrote</a>. &#8220;This has been a primary topic of discussions we&#8217;ve had at OpenAI in recent weeks.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">While industry leaders were in agreement, political reaction ran the gamut.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://x.com/RapidResponse47/status/2099250155681620448">Speaking to reporters</a> in Ireland, Trump rejected calls to slow the pace of AI development &#8211; arguing that to do so would gift-wrap a competitive advantage to China. He also accused unnamed &#8220;negative forces&#8221; of raising what he insisted were unfounded concerns.</p>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<center> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://x.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a>: &quot;We&#39;re leading China in AI. We&#39;re the most sophisticated country in the world and, frankly, I want to keep it that way — because whoever wins AI wins.&quot; <a href="https://t.co/KPpMkXZDnX">pic.twitter.com/KPpMkXZDnX</a></p>&mdash; Rapid Response 47 (@RapidResponse47) <a href="https://x.com/RapidResponse47/status/2099155148576542928?ref_src=twsrc%5Etfw">September 13, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script> </center>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<p class="wp-block-paragraph">&#8220;We&#8217;re leading China in AI, we&#8217;re the most sophisticated country in the world,&#8221; Trump said. &#8220;And, frankly, I want to keep it that way because whoever wins AI, wins. We can put guardrails &#8211; we can do this and that &#8211; but I think you have a lot of very negative forces that are bringing it up that shouldn&#8217;t be bringing it up and they&#8217;re bringing up things that won&#8217;t happen.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">Socialist U.S. senator <strong><a href="https://x.com/BernieSanders">Bernie Sanders</a></strong> took the opposite approach, calling on Trump and Chinese premier <strong><a href="https://en.wikipedia.org/wiki/Xi_Jinping" target="_blank" rel="noopener">Xi Jinping</a></strong> to negotiate a comprehensive global AI treaty.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;With the future of humanity at stake, Trump must negotiate a comprehensive treaty with President Xi of China to establish a pause on advanced AI development and a ban on super intelligence,&#8221; Sanders <a href="https://x.com/BernieSanders/status/2099129973797745115">wrote</a>. &#8220;In order to prevent a nuclear war, Reagan and Gorbachev negotiated a nuclear arms agreement in the 1980s. In order to prevent AI from acting independently of human control, Trump and Xi must do the same.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">Our view? Dangerous instabilities associated with the rapid acceleration of AI capabilities can no longer be ignored &#8211; but it&#8217;s not immediately clear what can or should be done about them. Honestly, the whole thing reminds us of the risky &#8220;gain of function&#8221; research previously employed by global governments (including ours) to artificially enhance the severity and transmissibility of viruses like Covid-19.</p>
+
+
+
+<p class="wp-block-paragraph">Which reminds us&#8230; it&#8217;s important to remember whatever &#8220;guardrails&#8221; are erected by ostensibly benevolent actors to try and contain the rise of AI aren&#8217;t necessarily going to be adopted by malevolent actors (including nation-states with no interest in the safety implications of this debate).</p>
+
+
+
+<p class="wp-block-paragraph">Which is truly frightening to think about&#8230; </p>
+
+
+
+<h4 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></h4>
+
+
+
+<div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading has-text-align-left"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">ABOUT THE AUTHOR&#8230;</mark></h4>
+
+
+
+<figure class="wp-block-image alignfull size-large"><a href="https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722.jpeg"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-1024x683.jpeg" alt="" class="wp-image-1658537" srcset="https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-1024x683.jpeg 1024w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-555x370.jpeg 555w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-768x512.jpeg 768w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-1536x1024.jpeg 1536w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-2048x1365.jpeg 2048w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-480x320.jpeg 480w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-280x186.jpeg 280w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-1920x1280.jpeg 1920w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-960x640.jpeg 960w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-600x400.jpeg 600w, https://www.fitsnews.com/wp-content/uploads/2026/04/dsc00722-585x390.jpeg 585w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><strong>Will Folks</strong> (<em>FITSNews</em>)</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"><em><a href="https://www.fitsnews.com/author/will-folks/"><strong>Will Folks</strong></a>&nbsp;is the founding editor of the news outlet you are currently reading. Prior to founding FITSNews, he served as press secretary to the governor of South Carolina. He lives in the Midlands region of the state with his wife and eight children</em>.</p>
+
+
+
+<p class="has-text-align-center wp-block-paragraph"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></mark></p>
+
+
+
+<p class="has-text-align-center wp-block-paragraph"><div style="margin-left: auto; margin-right: auto; text-align: center; " id="advads-675922022"><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script> var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];</script>
+<div id="gpt-ad-6134064401893-0">
+  <script>
+	googletag.cmd.push(function() {
+		var mapping = googletag.sizeMapping().
+addSize([1366, 0], [[300, 250], [300, 600]].filter( el => el[0] <= document.querySelector( '#gpt-ad-6134064401893-0').clientWidth || 'fluid' == el )).
+addSize([0, 0], [[300, 250], [300, 600], [320, 50]].filter( el => el[0] <= document.querySelector( '#gpt-ad-6134064401893-0').clientWidth || 'fluid' == el )).
+build();
+		googletag.defineSlot( '/22853124098/fitsnews.com', [[1,1],[1140,90],[1170,90],[2,1],[3,1],[300,250],[300,600],[320,50],[4,1],[728,250],[728,90],[970,250],[970,90]].filter( el => el[0] <= document.querySelector( '#gpt-ad-6134064401893-0').clientWidth || 'fluid' == el ), 'gpt-ad-6134064401893-0' )
+		.addService(googletag.pubads()).setTargeting( 'category', ['business', 'ai', 'anthropic', 'artificial-intelligence', 'bernie-sanders', 'dario-amodei', 'donald-trump', 'elon-musk', 'front', 'hugging-face', 'openai', 'pacing-the-future', 'sam-altman', 'xi-jinping'] ).setTargeting( 'pageid', '1680150' ).setTargeting( 'pagetype', 'single' ).setTargeting( 'pos', "rectangle_four" ).setTargeting( 'gamrefresh', '120' ).defineSizeMapping(mapping).setCollapseEmptyDiv(true);
+					if ( typeof window.advadsGamHasViewableListener === 'undefined' ) {
+				googletag.pubads().addEventListener( 'impressionViewable', function ( event ) {
+					const slot = event.slot, interval = slot.getTargeting( 'gamrefresh' );
+					if ( interval.length ) {
+						setInterval( function () {
+							googletag.pubads().refresh( [slot] );
+						}, parseInt( interval ) * 1000 );
+					}
+				} );
+				window.advadsGamHasViewableListener = true;
+			}
+				window.advadsGamEmptySlotsTimers = window.advadsGamEmptySlotsTimers || {};
+		const timers                     = window.advadsGamEmptySlotsTimers;
+
+		timers['gpt-ad-6134064401893-0'] = setTimeout( function () {
+			const id = 'gpt-ad-6134064401893-0';
+			document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+			delete ( timers[id] );
+		}, 1000 );
+
+		if ( typeof window.advadsGamHasEmptySlotListener === 'undefined' ) {
+			googletag.pubads().addEventListener( 'slotRequested', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] === 'undefined' ) {
+					return;
+				}
+				clearTimeout( timers[id] );
+				timers[id] = setTimeout( function () {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+					delete ( timers[id] );
+				}, 2500 );
+			} );
+			googletag.pubads().addEventListener( 'slotResponseReceived', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] !== 'undefined' ) {
+					clearTimeout( timers[id] );
+					delete ( timers[id] );
+				}
+				if ( ! ev.slot.getResponseInformation() ) {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+				}
+			} );
+			window.advadsGamHasEmptySlotListener = true;
+		}
+
+		googletag.enableServices();
+		googletag.display( 'gpt-ad-6134064401893-0' );
+	} );
+  </script>
+</div>
+</div>
+
+
+
+<h4 class="wp-block-heading" id="h-wanna-sound-off"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">SOUND OFF&#8230; </mark></h4>
+
+
+
+<p class="wp-block-paragraph"><em>Got something you’d like to say in response to one of our articles? Or an issue you’d like to address proactively? We have an open microphone policy!  Submit your letter to the editor (or guest column) via email <a href="mailto:w@fitsnews.com">HERE</a>.  Got a tip for a story?&nbsp;<a href="https://www.fitsnews.com/make-contact/">CLICK HERE</a>.  Got a technical question or a glitch to report?&nbsp;<a href="https://www.fitsnews.com/contact-zencio-support/">CLICK HERE</a>.<br><span style="font-size: xx-small;"></span></em></p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<p class="has-text-align-center wp-block-paragraph"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">***</mark></p>
+
+
+
+<figure class="wp-block-image alignfull size-large"><a href="https://www.fitsnews.com/fitsnews-com-newsletter-sign-up/"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-1024x683.jpg" alt="" class="wp-image-1639455" srcset="https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-1024x683.jpg 1024w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-555x370.jpg 555w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-768x512.jpg 768w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-1536x1024.jpg 1536w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-2048x1365.jpg 2048w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-480x320.jpg 480w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-280x186.jpg 280w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-1920x1280.jpg 1920w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-960x640.jpg 960w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-600x400.jpg 600w, https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-1559522497-585x390.jpg 585w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Subscribe to our newsletter by&nbsp;<strong><a href="https://www.fitsnews.com/fitsnews-com-newsletter-sign-up/">clicking here…</a></strong></figcaption></figure>
+
+
+
+<p class="has-text-align-center wp-block-paragraph" id="h-"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-cyan-bluish-gray-color">*****</mark></p>
+</div></div>
+</div><!-- .entry-content -->								<footer class="penci-entry-footer">
+									<div class="penci-source-via-tags-wrap"><span class="tags-links penci-tags-links"><a href="https://www.fitsnews.com/tag/ai/" rel="tag">AI</a><a href="https://www.fitsnews.com/tag/anthropic/" rel="tag">Anthropic</a><a href="https://www.fitsnews.com/tag/artificial-intelligence/" rel="tag">Artificial Intelligence</a><a href="https://www.fitsnews.com/tag/bernie-sanders/" rel="tag">Bernie Sanders</a><a href="https://www.fitsnews.com/tag/dario-amodei/" rel="tag">Dario Amodei</a><a href="https://www.fitsnews.com/tag/donald-trump/" rel="tag">Donald Trump</a><a href="https://www.fitsnews.com/tag/elon-musk/" rel="tag">Elon Musk</a><a href="https://www.fitsnews.com/tag/front/" rel="tag">Front</a><a href="https://www.fitsnews.com/tag/hugging-face/" rel="tag">Hugging Face</a><a href="https://www.fitsnews.com/tag/openai/" rel="tag">OpenAI</a><a href="https://www.fitsnews.com/tag/pacing-the-future/" rel="tag">Pacing the Future</a><a href="https://www.fitsnews.com/tag/sam-altman/" rel="tag">Sam Altman</a><a href="https://www.fitsnews.com/tag/xi-jinping/" rel="tag">Xi Jinping</a></span></div><span class="penci-social-buttons penci-social-share-footer"><span class="penci-social-share-text">Share</span><a href="#" class="penci-post-like penci_post-meta_item  single-like-button penci-social-item like" data-post_id="1680150" title="Like" data-like="Like" data-unlike="Unlike"><i class="fa fa-thumbs-o-up"></i><span class="penci-share-number">1</span></a><a class="penci-social-item facebook" target="_blank" rel="noopener" title="" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F"><i class="fa fa-facebook"></i></a><a class="penci-social-item twitter" target="_blank" rel="noopener" title="" href="https://twitter.com/intent/tweet?text=-Pacing%20the%20Frontier-:%20Ominous%20Artificial%20Intelligence%20Warning%20-%20https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/"><i class="fa fa-twitter"></i></a><a class="penci-social-item tumblr" target="_blank" rel="noopener" title="" href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F&#038;name=-Pacing%20the%20Frontier-%3A%20Ominous%20Artificial%20Intelligence%20Warning"><i class="fa fa-tumblr"></i></a><a class="penci-social-item reddit" target="_blank" rel="noopener" title="" href="https://reddit.com/submit?url=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F&#038;title=-Pacing%20the%20Frontier-%3A%20Ominous%20Artificial%20Intelligence%20Warning"><i class="fa fa-reddit"></i></a><a class="penci-social-item telegram" target="_blank" rel="noopener" title="" href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.fitsnews.com%2F2026%2F09%2F13%2Fpacing-the-frontier-ominous-artificial-intelligence-warning%2F&#038;text=-Pacing%20the%20Frontier-%3A%20Ominous%20Artificial%20Intelligence%20Warning"><i class="fa fa-telegram"></i></a><a class="penci-social-item email" target="_blank" rel="noopener" href="mailto:?subject=-Pacing%20the%20Frontier-:%20Ominous%20Artificial%20Intelligence%20Warning&#038;BODY=https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/"><i class="fa fa-envelope"></i></a></span>								</footer><!-- .entry-footer -->
+							</article>
+								<div class="penci-post-pagination">
+					<div class="prev-post">
+									<div class="prev-post-inner penci_mobj__body">
+						<div class="prev-post-title">
+							<span><i class="fa fa-angle-left"></i>previous post</span>
+						</div>
+						<div class="pagi-text">
+							<h5 class="prev-title"><a href="https://www.fitsnews.com/2026/09/13/hayden-panettieres-boyfriend-involved-in-bar-altercation-weeks-after-her-death/">Hayden Panettiere’s Boyfriend Involved In Bar Altercation Weeks After Her Death</a></h5>
+						</div>
+					</div>
+				
+			</div>
+		
+			</div>
+<div class="penci-post-related"><div class="post-title-box"><h4 class="post-box-title">Related posts</h4></div><div class="post-related_content"><div  class="item-related penci-imgtype-landscape post-166993 post type-post status-publish format-standard has-post-thumbnail hentry category-business tag-discretionary-spending tag-fast-food tag-julie-jargon tag-recession tag-the-wall-street-journal tag-us-economy penci-post-item"><a class="related-thumb penci-image-holder penci-image_has_icon penci-lazy"  data-src="https://www.fitsnews.com/wp-content/uploads/2016/06/sonic.jpg" href="https://www.fitsnews.com/2016/06/27/restaurant-recession-spreads-to-fast-food/"></a><div class="penci-entry-categories">BUSINESS</div><h4 class="entry-title"><a href="https://www.fitsnews.com/2016/06/27/restaurant-recession-spreads-to-fast-food/">&#8220;Restaurant Recession&#8221; Spreads To Fast Food</a></h4><div class="penci_post-meta"><span class="entry-meta-item penci-byline">by <span class="author vcard"><a class="url fn n penci_pmeta-link" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span></span></div><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span><time class="entry-date published" datetime="2016-06-27T21:19:42-04:00">June 27, 2016</time><time class="updated" datetime="2016-06-27T21:24:45-04:00">June 27, 2016</time></div></div><div  class="item-related penci-imgtype-landscape post-1638349 post type-post status-publish format-standard has-post-thumbnail hentry category-business tag-ai tag-artificial-intelligence tag-artificial-intelligence-preemption tag-dennis-fassuliotis tag-henry-mcmaster tag-lindsey-graham tag-ndaa tag-s-c-emerging-tech-association tag-tim-scott penci-post-item"><a class="related-thumb penci-image-holder penci-image_has_icon penci-lazy"  data-src="https://www.fitsnews.com/wp-content/uploads/2025/12/gettyimages-2213179432.jpg" href="https://www.fitsnews.com/2025/12/08/guest-column-an-ai-train-wreck-avoided-sc-must-lead-again/"></a><div class="penci-entry-categories">BUSINESS</div><h4 class="entry-title"><a href="https://www.fitsnews.com/2025/12/08/guest-column-an-ai-train-wreck-avoided-sc-must-lead-again/">Guest Column: An AI Train Wreck Avoided: SC Must Lead Again</a></h4><div class="penci_post-meta"><span class="entry-meta-item penci-byline">by <span class="author vcard"><a class="url fn n penci_pmeta-link" href="https://www.fitsnews.com/author/fitsforumfitsnews-com/">FITSForum</a></span></span></div><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsforumfitsnews-com/">FITSForum</a></span><time class="entry-date published" datetime="2025-12-08T18:54:37-05:00">December 8, 2025</time><time class="updated" datetime="2025-12-11T10:16:56-05:00">December 11, 2025</time></div></div><div  class="item-related penci-imgtype-landscape post-250792 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-headlines tag-bank-of-america tag-duke-energy tag-featured tag-nick-martin penci-post-item"><a class="related-thumb penci-image-holder penci-image_has_icon penci-lazy"  data-src="https://www.fitsnews.com/wp-content/uploads/2021/02/GettyImages-1220206086-scaled.jpg" href="https://www.fitsnews.com/2021/02/15/duke-energy-downgraded-after-stranded-cost-report/"></a><div class="penci-entry-categories">BUSINESS</div><h4 class="entry-title"><a href="https://www.fitsnews.com/2021/02/15/duke-energy-downgraded-after-stranded-cost-report/">Duke Energy Downgraded After &#8216;Stranded Asset&#8217; Report</a></h4><div class="penci_post-meta"><span class="entry-meta-item penci-byline">by <span class="author vcard"><a class="url fn n penci_pmeta-link" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span></span></div><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span><time class="entry-date published" datetime="2021-02-15T14:08:13-05:00">February 15, 2021</time><time class="updated" datetime="2021-02-17T10:34:40-05:00">February 17, 2021</time></div></div></div></div><div id="wordpress-1680150-comment" class="active multi-wordpress-comment penci-tab-pane" ><div class="post-comments  post-comments-1680150  no-comment-yet" id="comments">
+	<div class='comments'></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span>Leave a Comment</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://www.fitsnews.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-form-comment"><textarea autocomplete="new-password"  id="b9b25834d4"  name="b9b25834d4"   cols="45" rows="8" placeholder="Your Comment" aria-required="true"></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea><script data-noptimize>document.getElementById("comment").setAttribute( "id", "ac5459b2a2ab2133bc66eb15d1fc9c04" );document.getElementById("b9b25834d4").setAttribute( "id", "comment" );</script></p><p class="comment-form-author"><input id="author" name="author" type="text" value="" placeholder="Name*" size="30" /></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" placeholder="Email*" size="30" /></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" placeholder="Website" size="30" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><span>Save my name, email, and website in this browser for the next time I comment.</span></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='1680150' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	</div> <!-- end comments div -->
+</div>					</div>
+
+									</div>
+			</div>
+						
+<aside class="widget-area widget-area-1 penci-sticky-sidebar penci-sidebar-widgets">
+	<div class="theiaStickySidebar">
+	<div class="widget-odd widget-first widget-1 widget  penci-block-vc penci-widget-sidebar style-title-1 style-title-left advads-widget"><div style="margin-left: auto; margin-right: auto; text-align: center; margin-top: 15px; margin-bottom: 15px; " id="advads-622533464"><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script> var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];</script>
+<div id="gpt-ad-5667832210903-0">
+  <script>
+	googletag.cmd.push(function() {
+				googletag.defineSlot( '/22853124098/categories_pages_with_right_column', [[120,600],[300,600]], 'gpt-ad-5667832210903-0' )
+		.addService(googletag.pubads()).setTargeting( 'category', ['business', 'ai', 'anthropic', 'artificial-intelligence', 'bernie-sanders', 'dario-amodei', 'donald-trump', 'elon-musk', 'front', 'hugging-face', 'openai', 'pacing-the-future', 'sam-altman', 'xi-jinping'] ).setTargeting( 'pageid', '1680150' ).setTargeting( 'pagetype', 'single' ).setCollapseEmptyDiv(true);
+				window.advadsGamEmptySlotsTimers = window.advadsGamEmptySlotsTimers || {};
+		const timers                     = window.advadsGamEmptySlotsTimers;
+
+		timers['gpt-ad-5667832210903-0'] = setTimeout( function () {
+			const id = 'gpt-ad-5667832210903-0';
+			document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+			delete ( timers[id] );
+		}, 1000 );
+
+		if ( typeof window.advadsGamHasEmptySlotListener === 'undefined' ) {
+			googletag.pubads().addEventListener( 'slotRequested', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] === 'undefined' ) {
+					return;
+				}
+				clearTimeout( timers[id] );
+				timers[id] = setTimeout( function () {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+					delete ( timers[id] );
+				}, 2500 );
+			} );
+			googletag.pubads().addEventListener( 'slotResponseReceived', function ( ev ) {
+				const id = ev.slot.getSlotElementId();
+				if ( typeof timers[id] !== 'undefined' ) {
+					clearTimeout( timers[id] );
+					delete ( timers[id] );
+				}
+				if ( ! ev.slot.getResponseInformation() ) {
+					document.dispatchEvent( new CustomEvent( 'aagam_empty_slot', {detail: id} ) );
+				}
+			} );
+			window.advadsGamHasEmptySlotListener = true;
+		}
+
+		googletag.enableServices();
+		googletag.display( 'gpt-ad-5667832210903-0' );
+	} );
+  </script>
+</div>
+</div></div>	<div id="penci_block_6__98233070" class="penci-block-vc penci-block_6 penci__general-meta widget-even widget-last widget-2 video-meta widget penci-block-vc penci-widget-sidebar style-title-1 style-title-left penci-block-vc penci-widget penci-block_6 penci-widget__block_6 left penci-block-next_prev penci-imgtype-landscape penci-link-filter-hidden penci-vc-column-1" data-current="1" data-blockUid="penci_block_6__98233070" >
+		<div class="penci-block-heading">
+			<h3 class="penci-block__title"><span>Latest News</span></h3>						        <span class="penci-slider-nav">
+			<a class="penci-block-pag penci-slider-prev penci-pag-disabled"
+               data-block_id="penci_block_6__98233070block_content" href="#"><i class="fa fa-angle-left"></i></a>
+			<a class="penci-block-pag penci-slider-next "
+               data-block_id="penci_block_6__98233070block_content" href="#"><i class="fa fa-angle-right"></i></a>
+		</span>
+				</div>
+		<div id="penci_block_6__98233070block_content" class="penci-block_content">
+			<div class="penci-block_content__items penci-block-items__1"><article  class="hentry penci-post-item"><div class="penci_media_object "><a class="penci-image-holder  penci-lazy penci_mobj__img penci-image_has_icon"  data-src="https://www.fitsnews.com/wp-content/uploads/2026/09/untitled-design-10-280x186.jpg" data-delay="" href="https://www.fitsnews.com/2026/09/13/hayden-panettieres-boyfriend-involved-in-bar-altercation-weeks-after-her-death/" title="Hayden Panettiere’s Boyfriend Involved In Bar Altercation Weeks After Her Death"></a><div class="penci_post_content penci_mobj__body"><h3 class="penci__post-title entry-title"><a href="https://www.fitsnews.com/2026/09/13/hayden-panettieres-boyfriend-involved-in-bar-altercation-weeks-after-her-death/" title=" Hayden Panettiere’s Boyfriend Involved In Bar Altercation Weeks After Her Death ">Hayden Panettiere’s Boyfriend Involved In Bar Altercation Weeks After Her Death</a></h3><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/troystyles/">Troy Styles</a></span><time class="entry-date published" datetime="2026-09-13T16:55:11-04:00">September 13, 2026</time><time class="updated" datetime="2026-09-13T16:55:13-04:00">September 13, 2026</time></div><div class="penci_post-meta"><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-13T16:55:11-04:00">September 13, 2026</time><time class="updated" datetime="2026-09-13T16:55:13-04:00">September 13, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/13/hayden-panettieres-boyfriend-involved-in-bar-altercation-weeks-after-her-death/#respond"><i class="la la-comments"></i>0</a></span></div><div class="penci-post-excerpt">Brian Hickerson was released from the scene and was not charged......</div></div></div></article><article  class="hentry penci-post-item"><div class="penci_media_object "><a class="penci-image-holder  penci-lazy penci_mobj__img penci-image_has_icon"  data-src="https://www.fitsnews.com/wp-content/uploads/2026/09/wir-9-12-280x186.jpg" data-delay="" href="https://www.fitsnews.com/2026/09/12/week-in-review-southern-charm-clemson-drama-murdaugh-venue-and-saylor-hayes/" title="Week in Review &#8211; Southern Charm, Clemson Drama, Murdaugh Venue and Saylor Hayes"><span class="icon-post-format small-size-icon penci-playvideo"><i class="fa fa-play"></i></span></a><div class="penci_post_content penci_mobj__body"><h3 class="penci__post-title entry-title"><a href="https://www.fitsnews.com/2026/09/12/week-in-review-southern-charm-clemson-drama-murdaugh-venue-and-saylor-hayes/" title=" Week in Review &#8211; Southern Charm, Clemson Drama, Murdaugh Venue and Saylor Hayes ">Week in Review &#8211; Southern Charm, Clemson Drama, Murdaugh Venue and Saylor Hayes</a></h3><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span><time class="entry-date published" datetime="2026-09-12T09:38:04-04:00">September 12, 2026</time><time class="updated" datetime="2026-09-13T19:13:43-04:00">September 13, 2026</time></div><div class="penci_post-meta"><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-12T09:38:04-04:00">September 12, 2026</time><time class="updated" datetime="2026-09-13T19:13:43-04:00">September 13, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/12/week-in-review-southern-charm-clemson-drama-murdaugh-venue-and-saylor-hayes/#respond"><i class="la la-comments"></i>0</a></span></div></div></div></article><article  class="hentry penci-post-item"><div class="penci_media_object "><a class="penci-image-holder  penci-lazy penci_mobj__img penci-image_has_icon"  data-src="https://www.fitsnews.com/wp-content/uploads/2026/09/gaston-police-280x186.jpg" data-delay="" href="https://www.fitsnews.com/2026/09/11/gaston-assistant-police-chief-arrested-on-assault-child-endangerment-charges/" title="Gaston Assistant Police Chief Arrested on Assault, Child Endangerment Charges"></a><div class="penci_post_content penci_mobj__body"><h3 class="penci__post-title entry-title"><a href="https://www.fitsnews.com/2026/09/11/gaston-assistant-police-chief-arrested-on-assault-child-endangerment-charges/" title=" Gaston Assistant Police Chief Arrested on Assault, Child Endangerment Charges ">Gaston Assistant Police Chief Arrested on Assault, Child Endangerment Charges</a></h3><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/andyfitsnews-com/">Andrew Fancher</a></span><time class="entry-date published" datetime="2026-09-11T20:38:27-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-11T20:38:28-04:00">September 11, 2026</time></div><div class="penci_post-meta"><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-11T20:38:27-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-11T20:38:28-04:00">September 11, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/11/gaston-assistant-police-chief-arrested-on-assault-child-endangerment-charges/#comments"><i class="la la-comments"></i>2 </a></span></div></div></div></article><article  class="hentry penci-post-item"><div class="penci_media_object "><a class="penci-image-holder  penci-lazy penci_mobj__img penci-image_has_icon"  data-src="https://www.fitsnews.com/wp-content/uploads/2020/05/GettyImages-1171368832-scaled.jpg" data-delay="" href="https://www.fitsnews.com/2026/09/11/gator-hunt-south-carolinas-2026-season-kicks-off-this-weekend/" title="Gator Hunt: South Carolina’s 2026 Season Kicks Off This Weekend"></a><div class="penci_post_content penci_mobj__body"><h3 class="penci__post-title entry-title"><a href="https://www.fitsnews.com/2026/09/11/gator-hunt-south-carolinas-2026-season-kicks-off-this-weekend/" title=" Gator Hunt: South Carolina’s 2026 Season Kicks Off This Weekend ">Gator Hunt: South Carolina’s 2026 Season Kicks Off This Weekend</a></h3><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/erinfitsnews-com/">Erin Parrott</a></span><time class="entry-date published" datetime="2026-09-11T18:58:27-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-12T09:38:06-04:00">September 12, 2026</time></div><div class="penci_post-meta"><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-11T18:58:27-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-12T09:38:06-04:00">September 12, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/11/gator-hunt-south-carolinas-2026-season-kicks-off-this-weekend/#respond"><i class="la la-comments"></i>0</a></span></div></div></div></article><article  class="hentry penci-post-item"><div class="penci_media_object "><a class="penci-image-holder  penci-lazy penci_mobj__img penci-image_has_icon"  data-src="https://www.fitsnews.com/wp-content/uploads/2026/09/gettyimages-939211108-280x186.jpg" data-delay="" href="https://www.fitsnews.com/2026/09/11/fresh-layoffs-rock-s-c-media/" title="Fresh Layoffs Rock S.C. Media"></a><div class="penci_post_content penci_mobj__body"><h3 class="penci__post-title entry-title"><a href="https://www.fitsnews.com/2026/09/11/fresh-layoffs-rock-s-c-media/" title=" Fresh Layoffs Rock S.C. Media ">Fresh Layoffs Rock S.C. Media</a></h3><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://www.fitsnews.com/author/fitsnews/">FITSNews</a></span><time class="entry-date published" datetime="2026-09-11T18:47:35-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-11T18:52:11-04:00">September 11, 2026</time></div><div class="penci_post-meta"><span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2026-09-11T18:47:35-04:00">September 11, 2026</time><time class="updated" datetime="2026-09-11T18:52:11-04:00">September 11, 2026</time></span><span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="https://www.fitsnews.com/2026/09/11/fresh-layoffs-rock-s-c-media/#comments"><i class="la la-comments"></i>1</a></span></div></div></div></article></div><div class="penci-loader-effect penci-loading-animation-9"> <div class="penci-loading-circle"> <div class="penci-loading-circle1 penci-loading-circle-inner"></div> <div class="penci-loading-circle2 penci-loading-circle-inner"></div> <div class="penci-loading-circle3 penci-loading-circle-inner"></div> <div class="penci-loading-circle4 penci-loading-circle-inner"></div> <div class="penci-loading-circle5 penci-loading-circle-inner"></div> <div class="penci-loading-circle6 penci-loading-circle-inner"></div> <div class="penci-loading-circle7 penci-loading-circle-inner"></div> <div class="penci-loading-circle8 penci-loading-circle-inner"></div> <div class="penci-loading-circle9 penci-loading-circle-inner"></div> <div class="penci-loading-circle10 penci-loading-circle-inner"></div> <div class="penci-loading-circle11 penci-loading-circle-inner"></div> <div class="penci-loading-circle12 penci-loading-circle-inner"></div> </div> </div>		</div>
+			</div>
+<style>@media screen and (min-width: 768px ){}#penci_block_6__98233070 .penci-subcat-filter .penci-subcat-item a,#penci_block_6__98233070 .penci-subcat-list .flexMenu-viewMore > a{ font-family:"Roboto";font-weight:400; }</style><script>if( typeof(penciBlock) === "undefined" ) {function penciBlock() {
+		    this.atts_json = '';
+		    this.content = '';
+		}}var penciBlocksArray = penciBlocksArray || [];var PENCILOCALCACHE = PENCILOCALCACHE || {};var penci_block_6__98233070 = new penciBlock();penci_block_6__98233070.blockID="penci_block_6__98233070";penci_block_6__98233070.atts_json = '{"build_query":"post_type:post|size:5|order_by:date|order:DESC","add_title_icon":"","title_i_align":"left","title_icon":"","hide_thumb":"","thumb_pos":"left","replace_feat_author":"","image_type":"landscape","image_ratio":"","image_size":"penci-thumb-280-186","block_title_meta_settings":"","block_title_align":"left","block_title_off_uppercase":"","block_title_wborder_left_right":"5px","block_title_wborder":"3px","hide_post_date":"","hide_icon_post_format":"","hide_comment":"","show_author":"","show_count_view":"","dis_bg_block":"","enable_stiky_post":"","post_title_trimword_settings":"","post_standard_title_length":"20","style_pag":"next_prev","limit_loadmore":"5","pagination_css":"","loadmore_css":"","disable_bg_load_more":"","custom_markup_1":"","ajax_filter_type":"","ajax_filter_selected":"","ajax_filter_childselected":"","ajax_filter_number_item":"5","infeed_ads__order":"","block_id":"penci-widget__block_6-15","penci_show_desk":"Yes","penci_show_tablet":"Yes","penci_show_mobile":"Yes","paged":1,"unique_id":"penci_block_6__98233070","shortcode_id":"block_6","category_ids":"","taxonomy":""}';penci_block_6__98233070.content="";penciBlocksArray.push(penci_block_6__98233070);</script>	</div>
+</aside><!-- #secondary -->
+		</div>
+
+	</div>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+	</div><!-- #content -->
+	<footer id="colophon" class="site-footer" itemscope itemtype="http://schema.org/WPFooter">
+		<meta itemprop="name" content="Webpage footer for FITSNews"/>
+		<meta itemprop="description" content="Politics, Sports and Pop Culture"/>
+		<meta itemprop="keywords" content="Data Protection, Copyright Data"/>
+		<meta itemprop="copyrightYear" content="2026"/>
+		<meta itemprop="copyrightHolder" content="FITSNews"/>
+								<div class="footer__bottom style-1">
+			<div class="footer__bottom_container footer__sidebars-inner penci-container-fluid">
+							<div class="footer__logo">
+					<a href="https://www.fitsnews.com/" rel="home"><img  src="https://www.fitsnews.com/wp-content/uploads/2026/04/fitsnews-new-logo-black-nobg.svg" alt="logo "/></a>				</div>
+													<div class="footer__social-media">
+					<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/fitsnews/" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/fitsnews" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/fitsnews/?hl=en" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCPC7aLBzSFHqIz_jDachzQA" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__email_me" target="_blank" href="mailto:support@fitsnews.com" title="Email" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-envelope"></i><span class="social_title screen-reader-text">Email</span></span></a><a class="social-media-item socail_media__tiktok" target="_blank" href="https://www.tiktok.com/@fitsnews" title="Tik tok link" rel="noopener"><span class="socail-media-item__content"><i class="fa fab fa-tiktok"></i></a>				</div>
+					</div>
+	</div>		<div class="footer__copyright_menu">
+			<div class="footer__sidebars-inner penci-container-fluid penci_bottom-sub penci_has_copyright penci_has_menu">
+			<div class="site-info">
+				Copyright ©2026 FITSNews LLC			</div><!-- .site-info -->
+			<div class="ftr_btm_addrs">
+							</div>
+			<div class="sub-footer-menu"><ul id="menu-footer" class="menu"><li id="menu-item-452221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452221"><a href="https://www.fitsnews.com/contact-fitsnews/">Contact Us / FAQ</a></li>
+<li id="menu-item-459249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459249"><a href="https://www.fitsnews.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-399201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399201"><a href="https://www.fitsnews.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>		</div>
+	</div>	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<aside class="mobile-sidebar ">
+
+			<div id="sidebar-nav-logo">
+								<a href="https://www.fitsnews.com/" class="custom-logo-link" rel="home"><img width="922" height="270" src="https://www.fitsnews.com/wp-content/uploads/2026/04/fitsnews-new-logo-black-nobg.svg" class="custom-logo" alt="FITSNews" decoding="async" loading="lazy" /></a>						</div>
+				<div class="header-social sidebar-nav-social">
+			<div class="inner-header-social">
+				<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/fitsnews/" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/fitsnews" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/fitsnews/?hl=en" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCPC7aLBzSFHqIz_jDachzQA" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__email_me" target="_blank" href="mailto:support@fitsnews.com" title="Email" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-envelope"></i><span class="social_title screen-reader-text">Email</span></span></a><a class="social-media-item socail_media__tiktok" target="_blank" href="https://www.tiktok.com/@fitsnews" title="Tik tok link" rel="noopener"><span class="socail-media-item__content"><i class="fa fab fa-tiktok"></i></a>			</div>
+		</div>
+				<nav class="mobile-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<ul id="primary-menu-mobile" class="primary-menu-mobile"><li id="menu-item-399212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399212"><a href="/fitsnews-subscription-options/">SUBSCRIBE</a></li>
+<li id="menu-item-399202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-399202"><a href="https://www.fitsnews.com/category/sc/">SC</a></li>
+<li id="menu-item-405211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405211"><a href="https://www.fitsnews.com/category/crime-and-courts/">CRIME &amp; COURTS</a></li>
+<li id="menu-item-405208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405208"><a href="https://www.fitsnews.com/category/politics/">POLITICS</a></li>
+<li id="menu-item-399204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-399204"><a href="https://www.fitsnews.com/category/sports/">SPORTS</a></li>
+<li id="menu-item-1585361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1585361"><a href="https://www.fitsnews.com/category/true-crime/">TRUE CRIME</a></li>
+<li id="menu-item-1640327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1640327"><a href="https://www.fitsnews.com/category/healthcare/">HEALTHCARE</a></li>
+<li id="menu-item-399205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-399205"><a href="https://www.fitsnews.com/category/video/">VIDEO</a></li>
+<li id="menu-item-1640582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640582"><a href="https://www.fitsnews.com/merch/">MERCH</a></li>
+<li id="menu-item-452186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452186"><a href="https://www.fitsnews.com/contact-fitsnews/">CONTACT US / FAQ</a></li>
+<li id="menu-item-399221" class="login login-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-399221"><a>SIGN IN / SUBSCRIBE</a></li>
+</ul>		</nav>
+	</aside>
+<a id="close-sidebar-nav" class="header-1"><i class="fa fa-close"></i></a>
+	<a href="#" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+<script>(function(){var advanced_ads_ga_UID="G-310325971",advanced_ads_ga_anonymIP=!!1;window.advanced_ads_check_adblocker=function(t){var n=[],e=null;function a(t){var n=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)};n.call(window,t)}return a((function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),a((function(){var a,o,i=null===(a=(o=window).getComputedStyle)||void 0===a?void 0:a.call(o,t),d=null==i?void 0:i.getPropertyValue("-moz-binding");e=i&&"none"===i.getPropertyValue("display")||"string"==typeof d&&-1!==d.indexOf("about:");for(var c=0,r=n.length;c<r;c++)n[c](e);n=[]}))})),function(t){"undefined"==typeof advanced_ads_adblocker_test&&(e=!0),null!==e?t(e):n.push(t)}}(),function(){function t(t){this.UID=t,this.analyticsObject="function"==typeof gtag;var n=this;return this.count=function(){gtag("event","AdBlock",{event_category:"Advanced Ads",event_label:"Yes",non_interaction:!0,send_to:n.UID})},function(){if(!n.analyticsObject){var e=document.createElement("script");e.src="https://www.googletagmanager.com/gtag/js?id="+t,e.async=!0,document.body.appendChild(e),window.dataLayer=window.dataLayer||[],window.gtag=function(){dataLayer.push(arguments)},n.analyticsObject=!0,gtag("js",new Date)}var a={send_page_view:!1,transport_type:"beacon"};window.advanced_ads_ga_anonymIP&&(a.anonymize_ip=!0),gtag("config",t,a)}(),this}advanced_ads_check_adblocker((function(n){n&&new t(advanced_ads_ga_UID).count()}))}();})();</script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pennews-child/*","/wp-content/themes/pennews/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script id="wppl-precheck-remember-me">
+		(function() {
+			'use strict';
+			
+			var wppl_precheck_remember_me = function() {
+				var rememberMeNames = ["rememberme","remember","rcp_user_remember"];
+				var processedElements = new Set(); // Track processed elements to avoid duplicates
+				
+				/**
+				 * Check/enable a checkbox element
+				 */
+				function checkElement(element) {
+					if (processedElements.has(element)) return;
+					processedElements.add(element);
+					
+					if (element.type === 'checkbox' && !element.checked) {
+						element.checked = true;
+					}
+				}
+				
+				/**
+				 * Process standard remember me inputs
+				 */
+				function processRememberMeElements() {
+					rememberMeNames.forEach(function(inputName) {
+						// Find inputs by exact name match
+						var inputs = document.querySelectorAll('input[name="' + inputName + '"]');
+						inputs.forEach(function(input) {
+							checkElement(input);
+						});
+						
+						// Also find inputs where name contains the input name (partial match)
+						var partialInputs = document.querySelectorAll('input[type="checkbox"]');
+						partialInputs.forEach(function(input) {
+							if (input.name && input.name.includes(inputName)) {
+								checkElement(input);
+							}
+						});
+					});
+				}
+				
+				/**
+				 * Handle WooCommerce specific elements
+				 */
+				function processWooCommerce() {
+					var wooInputs = document.querySelectorAll('.woocommerce-form-login__rememberme input[type="checkbox"]');
+					wooInputs.forEach(function(input) {
+						checkElement(input);
+					});
+				}
+				
+				/**
+				 * Handle Ultimate Member Plugin
+				 */
+				function processUltimateMember() {
+					var umCheckboxLabels = document.querySelectorAll('.um-field-checkbox');
+					
+					umCheckboxLabels.forEach(function(label) {
+						var input = label.querySelector('input');
+						if (input && rememberMeNames.includes(input.name)) {
+							// Set as active and checked
+							checkElement(input);
+							label.classList.add('active');
+							
+							// Update icon classes
+							var icon = label.querySelector('.um-icon-android-checkbox-outline-blank');
+							if (icon) {
+								icon.classList.add('um-icon-android-checkbox-outline');
+								icon.classList.remove('um-icon-android-checkbox-outline-blank');
+							}
+						}
+					});
+				}
+				
+				/**
+				 * Handle ARMember Forms
+				 */
+				function processARMember() {
+					var armContainers = document.querySelectorAll('.arm_form_input_container_rememberme');
+					
+					armContainers.forEach(function(container) {
+						var checkboxes = container.querySelectorAll('md-checkbox');
+						
+						checkboxes.forEach(function(checkbox) {
+							if (checkbox.classList.contains('ng-empty')) {
+								checkbox.click(); // Activate the checkbox
+							}
+						});
+					});
+				}
+				
+				// Execute all processing functions
+				processRememberMeElements();
+				processWooCommerce();
+				processUltimateMember();
+				processARMember();
+			};
+			
+			// Run when DOM is ready
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', wppl_precheck_remember_me);
+			} else {
+				wppl_precheck_remember_me();
+			}
+			
+			// Also run after a short delay to catch dynamically loaded forms
+			setTimeout(wppl_precheck_remember_me, 500);
+			
+		})();
+		</script>
+				<script id="wppl-precheck-remember-me">
+		(function() {
+			'use strict';
+			
+			var wppl_precheck_remember_me = function() {
+				var rememberMeNames = ["rememberme","remember","rcp_user_remember"];
+				var processedElements = new Set(); // Track processed elements to avoid duplicates
+				
+				/**
+				 * Check/enable a checkbox element
+				 */
+				function checkElement(element) {
+					if (processedElements.has(element)) return;
+					processedElements.add(element);
+					
+					if (element.type === 'checkbox' && !element.checked) {
+						element.checked = true;
+					}
+				}
+				
+				/**
+				 * Process standard remember me inputs
+				 */
+				function processRememberMeElements() {
+					rememberMeNames.forEach(function(inputName) {
+						// Find inputs by exact name match
+						var inputs = document.querySelectorAll('input[name="' + inputName + '"]');
+						inputs.forEach(function(input) {
+							checkElement(input);
+						});
+						
+						// Also find inputs where name contains the input name (partial match)
+						var partialInputs = document.querySelectorAll('input[type="checkbox"]');
+						partialInputs.forEach(function(input) {
+							if (input.name && input.name.includes(inputName)) {
+								checkElement(input);
+							}
+						});
+					});
+				}
+				
+				/**
+				 * Handle WooCommerce specific elements
+				 */
+				function processWooCommerce() {
+					var wooInputs = document.querySelectorAll('.woocommerce-form-login__rememberme input[type="checkbox"]');
+					wooInputs.forEach(function(input) {
+						checkElement(input);
+					});
+				}
+				
+				/**
+				 * Handle Ultimate Member Plugin
+				 */
+				function processUltimateMember() {
+					var umCheckboxLabels = document.querySelectorAll('.um-field-checkbox');
+					
+					umCheckboxLabels.forEach(function(label) {
+						var input = label.querySelector('input');
+						if (input && rememberMeNames.includes(input.name)) {
+							// Set as active and checked
+							checkElement(input);
+							label.classList.add('active');
+							
+							// Update icon classes
+							var icon = label.querySelector('.um-icon-android-checkbox-outline-blank');
+							if (icon) {
+								icon.classList.add('um-icon-android-checkbox-outline');
+								icon.classList.remove('um-icon-android-checkbox-outline-blank');
+							}
+						}
+					});
+				}
+				
+				/**
+				 * Handle ARMember Forms
+				 */
+				function processARMember() {
+					var armContainers = document.querySelectorAll('.arm_form_input_container_rememberme');
+					
+					armContainers.forEach(function(container) {
+						var checkboxes = container.querySelectorAll('md-checkbox');
+						
+						checkboxes.forEach(function(checkbox) {
+							if (checkbox.classList.contains('ng-empty')) {
+								checkbox.click(); // Activate the checkbox
+							}
+						});
+					});
+				}
+				
+				// Execute all processing functions
+				processRememberMeElements();
+				processWooCommerce();
+				processUltimateMember();
+				processARMember();
+			};
+			
+			// Run when DOM is ready
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', wppl_precheck_remember_me);
+			} else {
+				wppl_precheck_remember_me();
+			}
+			
+			// Also run after a short delay to catch dynamically loaded forms
+			setTimeout(wppl_precheck_remember_me, 500);
+			
+		})();
+		</script>
+		<script>
+  jQuery(window).load(function() {
+ // executes when complete page is fully loaded, including all frames, objects and images
+ /*var height_ad=jQuery('#mvp-leader-wrap').height();
+  jQuery('#page').css('margin-top',height_ad);*/
+  jQuery('#mvp-leader-wrap').css('height','100%');
+});
+
+jQuery( document ).ready(function($) {
+
+  // add login link to mobile menu
+  $('.primary-menu-mobile li.login a').html($('.topbar__logout_login li:nth-child(2) a').html());
+  $('.primary-menu-mobile li.login a').attr('href',$('.topbar__logout_login li:nth-child(2) a').attr('href'));
+  $('.primary-menu-mobile li.login a').click(function(){
+    $('.topbar__menu li a').trigger('click');
+  });
+
+  $('.video-wrapper-widget article').each(function() {
+
+      $(this).find('.penci-image-holder').html('<span class="icon-post-format icon_pos_custom_center penci-playvideo"><i class="fa fa-play"></i></span>');
+  });
+
+  var targetNodes         = $(".video-wrapper-widget .penci-block_content");
+  var MutationObserver    = window.MutationObserver || window.WebKitMutationObserver;
+  var myObserver          = new MutationObserver (mutationHandler);
+  var obsConfig           = { childList: true};
+
+//--- Add a target node to the observer. Can only add one node at a time.
+  targetNodes.each ( function () {
+    console.log ('register');
+    myObserver.observe (this, obsConfig);
+  } );
+
+  function mutationHandler (mutationRecords) {
+      console.info ("mutationHandler:");
+    $('.video-wrapper-widget article').each(function() {
+
+      $(this).find('.penci-image-holder').html('<span class="icon-post-format icon_pos_custom_center penci-playvideo"><i class="fa fa-play"></i></span>');
+  });
+
+}
+
+  $('body.archive.category #penci-archive__content article').each(function() {
+    console.log($(this).find('.penci-posted-on').find('a'));
+      $(this).find('.penci-posted-on').find('a').attr('href','');
+
+    var $span = $(this).find('.penci-posted-on').find('a');
+      $span.replaceWith(function () {
+                  return $('<span/>', { class: 'myClass', html: this.innerHTML});
+      });
+
+  });
+  $('.penci-login').append('<a class="penci-lostpassword" href="/fitsnews-subscription-options/">Subscribe / Register</a>');
+  $("a").each(function () {
+
+    if($(this).text()){
+      $(this).attr("aria-label",$(this).text());
+    }
+    else if($(this).attr("href")!='#'){
+      $(this).attr("aria-label",$(this).attr("href"));
+    }
+    else{
+      $(this).attr("aria-label","Empty Link");
+    }
+
+});
+  $("img").each(function () {
+
+
+    if($(this).attr("alt")){
+
+    }
+    else{
+      var url_text = $(this).attr("src")
+      var result = url_text.substring(url_text.lastIndexOf("/") + 1);
+      $(this).attr("alt",result);
+    }
+
+});
+  $("input").each(function () {
+
+
+    if($(this).attr('name')){
+      $(this).attr("aria-label",$(this).attr('name'));
+    }
+
+    else{
+      $(this).attr("aria-label","Empty");
+    }
+
+});
+  $("select").each(function () {
+
+
+    if($(this).attr('name')){
+      $(this).attr("aria-label",$(this).attr('name'));
+    }
+
+    else{
+      $(this).attr("aria-label","Empty");
+    }
+
+});
+  $("textarea").each(function () {
+
+
+    if($(this).attr('name')){
+      $(this).attr("aria-label",$(this).attr('name'));
+    }
+
+    else{
+      $(this).attr("aria-label","Empty");
+    }
+
+});
+
+
+
+});
+</script>
+  <div id="issuem-leaky-paywall-articles-remaining-nag"></div>		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDX7RMJN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		<script id="jquery-penci-piechart-js" src="https://www.fitsnews.com/wp-content/plugins/penci-pennews-review/js/jquery.easypiechart.min.js?ver=1.0"></script>
+<script id="jquery-recipe-rateyo-js" src="https://www.fitsnews.com/wp-content/plugins/penci-pennews-review/js/jquery.rateyo.min.js?ver=3.0"></script>
+<script id="penci-rateyo-review-js-extra">
+var PENCI = {"postID":"1680150","ajaxUrl":"https://www.fitsnews.com/wp-admin/admin-ajax.php","nonce":"efb01bbece","normalFill":"#b9b9b9","ratedFill":"#FFCA00"};
+//# sourceURL=penci-rateyo-review-js-extra
+</script>
+<script id="penci-rateyo-review-js" src="https://www.fitsnews.com/wp-content/plugins/penci-pennews-review/js/rating_review.js?ver=3.0"></script>
+<script id="weblator_polling-charts-js" src="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/js/vendors/chartjs_new.js?ver=1.7.4"></script>
+<script id="weblator_polling-legend-js" src="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/js/app/legend.js?ver=1.7.4"></script>
+<script id="weblator_polling-plugin-script-js-extra">
+var ajaxurl = "https://www.fitsnews.com/wp-admin/admin-ajax.php";
+//# sourceURL=weblator_polling-plugin-script-js-extra
+</script>
+<script id="weblator_polling-plugin-script-js" src="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/js/app/poll.js?ver=1.7.4"></script>
+<script id="weblator_polling-poll-init-js" src="https://www.fitsnews.com/wp-content/plugins/poll-plugin/public/assets/js/app/poll-init.js?ver=1.7.4"></script>
+<script id="zeen101_micromodal-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall/js/micromodal.min.js?ver=4.21.2"></script>
+<script id="leaky_paywall_validate-js-extra">
+var leaky_paywall_validate_ajax = {"ajaxurl":"/wp-admin/admin-ajax.php","register_nonce":"e829fc5630","password_text":"Passwords do not match."};
+//# sourceURL=leaky_paywall_validate-js-extra
+</script>
+<script id="leaky_paywall_validate-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall/js/leaky-paywall-validate.js?ver=4.21.2"></script>
+<script id="leaky_paywall_script-js-extra">
+var leaky_paywall_script_ajax = {"ajaxurl":"/wp-admin/admin-ajax.php","stripe_pk":"pk_live_iEkSdFfl5xfCXMuHm85PaXeS"};
+//# sourceURL=leaky_paywall_script-js-extra
+</script>
+<script id="leaky_paywall_script-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall/js/script.js?ver=4.21.2"></script>
+<script id="jquery-ui-core-js" src="https://www.fitsnews.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-datepicker-js" src="https://www.fitsnews.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+</script>
+<script id="jquery-lp-gift-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall-gift-subscriptions/js/lp-gift.js?ver=3.1.8"></script>
+<script id="leaky_paywall_invoices_script-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall-invoices/includes/js/script.js?ver=7.0.4"></script>
+<script id="leaky-paywall-recurring-script-js-extra">
+var leaky_paywall_recurring = {"ajaxurl":"https://www.fitsnews.com/wp-admin/admin-ajax.php","_ajax_nonce":"7ef55a5b52"};
+//# sourceURL=leaky-paywall-recurring-script-js-extra
+</script>
+<script id="leaky-paywall-recurring-script-js" src="https://www.fitsnews.com/wp-content/plugins/leaky-paywall-recurring-payments/include/js/script.js?ver=1.5.4"></script>
+<script id="penci-script-lib-js" src="https://www.fitsnews.com/wp-content/themes/pennews/js/script.lib.min.js?ver=6.7.5"></script>
+<script id="penci-js-extra">
+var PENCILOCALIZE = {"ajaxUrl":"https://www.fitsnews.com/wp-admin/admin-ajax.php","nonce":"efb01bbece","errorMsg":"Something wrong happened. Please try again.","login":"Email Address","password":"Password","errorPass":"\u003Cp class=\"message message-error\"\u003EPassword does not match the confirm password\u003C/p\u003E","prevNumber":"1","minlengthSearch":"0","linkTitle":"View More","linkTextAll":"Menu","linkText":"More"};
+//# sourceURL=penci-js-extra
+</script>
+<script id="penci-js" src="https://www.fitsnews.com/wp-content/themes/pennews/js/script.min.js?ver=6.7.5"></script>
+<script async data-wp-strategy="async" fetchpriority="low" id="comment-reply-js" src="https://www.fitsnews.com/wp-includes/js/comment-reply.min.js?ver=7.0.4"></script>
+<script id="__ytprefsfitvids__-js" src="https://www.fitsnews.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.6"></script>
+<script id="the_content-hook-script-js" src="https://www.fitsnews.com/wp-content/plugins/trinity-audio/js/the_content-hook-script.js?ver=7.0.4"></script>
+<script nitro-exclude data-wpfc-render='false' data-cfasync='false' data-no-optimize='1' data-no-defer='1' data-no-minify='1' data-trinity-mount-date='2026-09-14 07:07:05' id="trinity-player-js" src="https://trinitymedia.ai/player/trinity/52b55f054db4e31fb37335e9b1199381/?integrationType=wordpress&#038;postHashV2=a1f448a3c5fd73ceb0bcb5987de0b3558e3a7c7b&#038;language&#038;pageURL=https://www.fitsnews.com/2026/09/13/pacing-the-frontier-ominous-artificial-intelligence-warning/&#038;ver=7.0.4"></script>
+<script id="my__custom_audio_script-js" src="https://www.fitsnews.com/wp-content/themes/pennews-child/custom-js/audioplayer.js?ver=7.0.4"></script>
+<script id="my_audio_script-js" src="https://www.fitsnews.com/wp-content/themes/pennews-child/custom-js/custom-audio-script.js?ver=7.0.4"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.fitsnews.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.fitsnews.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script id="fnga-subscriber-status">
+(function () {
+    var ajaxUrl = 'https://www.fitsnews.com/wp-admin/admin-ajax.php';
+
+    function applyStatus(status) {
+        var val = (status === 'subscriber') ? 'subscriber' : 'non_subscriber';
+        if (typeof gtag === 'function') {
+            gtag('set', 'user_properties', { subscriber_status: val });
+        } else {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({ 'user_properties': { 'subscriber_status': val } });
+        }
+    }
+
+    fetch(ajaxUrl, {
+        method:      'POST',
+        credentials: 'same-origin',
+        headers:     { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body:        'action=fnga_subscriber_status'
+    })
+    .then(function (r) { return r.json(); })
+    .then(function (data) { applyStatus(data && data.status); })
+    .catch(function () { applyStatus('non_subscriber'); });
+}());
+</script>
+    <script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!-- LPNG: hide ACN/LP nag containers immediately -->
+<style>
+#issuem-leaky-paywall-articles-zero-remaining-nag,
+.acn-zero-remaining-overlay { display:none !important; }
+</style>
+
+<div id="lpng-modal"
+     data-state="email"
+     data-post-id="1680150"
+     aria-modal="true" role="dialog"
+     style="display:none;position:fixed;inset:0;z-index:999999;background:rgba(0,0,0,.65);align-items:center;justify-content:center;">
+
+    <div style="background:#fff;border-radius:8px;max-width:460px;width:calc(100% - 2rem);margin:1rem;padding:2rem;position:relative;box-shadow:0 8px 32px rgba(0,0,0,.18);font-family:'Lato',sans-serif;font-size:14px;">
+
+        <button class="lpng-dismiss" aria-label="Close"
+                style="position:absolute;top:.75rem;right:.75rem;background:none;border:none;font-size:1.25rem;color:#9ca3af;cursor:pointer;line-height:1;padding:4px 8px;">&times;</button>
+
+                <div id="lpng-email-section" style="padding-top:20px;">
+            <h2 style="margin:0 0 .5rem;font-size:2rem;text-align:center;">Get 2 free articles</h2>
+            <p class="lpng-body" style="margin:0 0 1rem;color:#555;text-align:center;">Sign up for our free newsletter and get 2 free articles.</p>
+            <div id="lpng-form-wrap" style="display:flex;flex-direction:column;gap:8px;">
+                <input type="email" id="lpng-email" placeholder="Your email address" autocomplete="email"
+                       style="width:100%;box-sizing:border-box;padding:1rem;border:1.5px solid #d1d5db;border-radius:6px;font-size:1.5rem;font-family:'Lato',sans-serif;text-align:center;" />
+                <div id="lpng-error" role="alert" style="display:none;color:#dc2626;font-size:13px;"></div>
+                <button id="lpng-submit"
+                        style="width:100%;padding:.75rem;background:#1a73e8;color:#fff;border:none;border-radius:6px;font-size:1.5rem;font-weight:700;font-family:'Lato',sans-serif;cursor:pointer;">
+                    <span id="lpng-btn-text">Continue Reading</span>
+                    <span id="lpng-btn-spin" style="display:none;">…</span>
+                </button>
+                <div style="text-align:center;font-size:12px;color:#888;">No spam. Unsubscribe any time.</div>
+            </div>
+            <div id="lpng-success" style="display:none;text-align:center;">
+                <div style="font-size:2rem;color:#16a34a;">✓</div>
+                <p id="lpng-success-msg">You're in! Loading your article…</p>
+            </div>
+            <hr style="margin:1.25rem 0;border:none;border-top:1px solid #e5e7eb;" />
+        </div>
+        
+        <div id="lpng-subscribe-section" style="display:none;"             style="padding-top:20px;">
+            <h2 style="margin:0 0 .5rem;font-size:2rem;text-align:center;">
+                Keep reading FITSNews            </h2>
+            <p class="lpng-body" style="margin:0 0 1rem;color:#555;text-align:center;">
+                You've reached your free article limit. Subscribe for unlimited access.            </p>
+        </div>
+
+        <div style="text-align:center;">
+            <a href="https://www.fitsnews.com/old-fitsnews-subscription-options/" class="lpng-subscribe-btn"
+               style="display:inline-block;padding:.75rem 1.5rem;background:#1a73e8;color:#fff;border-radius:6px;text-decoration:none;font-weight:700;font-size:14px;">
+                Become a Subscriber
+            </a>
+            <div style="margin:.75rem 0 0;">
+                <a href="#" class="lpng-dismiss"
+                   style="color:#9ca3af;font-size:11px;font-family:'Lato',sans-serif;text-decoration:none;">
+                    No thanks, maybe later
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+		</body>
+</html>
+
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=11025 metric#misses=22 metric#hit-ratio=99.8 metric#bytes=8880369 metric#prefetches=0 metric#store-reads=198 metric#store-writes=6 metric#store-hits=391 metric#store-misses=5 metric#sql-queries=57 metric#ms-total=440.64 metric#ms-cache=62.70 metric#ms-cache-median=0.00 metric#ms-cache-ratio=14.2 -->

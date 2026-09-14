@@ -1,0 +1,144 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/valkenburgh/status/2099141748878410237",
+  "id": "2099141748878410237",
+  "text": "@DavidSacks",
+  "raw_text": {
+   "text": "@DavidSacks https://t.co/T3wjeGpi4h",
+   "display_text_range": [
+    11,
+    11
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "media",
+     "indices": [
+      12,
+      35
+     ],
+     "id": "2099141739478953992",
+     "display": "pic.x.com/T3wjeGpi4h",
+     "original": "https://t.co/T3wjeGpi4h",
+     "replacement": "https://x.com/valkenburgh/status/2099141748878410237/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "valkenburgh",
+   "url": "https://x.com/valkenburgh",
+   "id": "54622027",
+   "followers": 59804,
+   "following": 2282,
+   "likes": 17440,
+   "media_count": 3740,
+   "name": "Peter Van Valkenburgh",
+   "description": "Executive Director @CoinCenter | “Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to.”  Satoshi Nakamoto",
+   "raw_description": {
+    "text": "Executive Director @CoinCenter | “Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to.”  Satoshi Nakamoto",
+    "facets": []
+   },
+   "location": "Washington, DC",
+   "banner_url": "https://pbs.twimg.com/profile_banners/54622027/1732049314",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1602012347115229184/MDDqkP-t_200x200.jpg",
+   "joined": "Tue Jul 07 17:45:21 +0000 2009",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 19,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 14:22:47 +0000 2026",
+  "created_timestamp": 1789309367,
+  "possibly_sensitive": false,
+  "views": 1242,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "media": {
+   "all": [
+    {
+     "id": "2099141739478953992",
+     "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HSGmSlLWsAg1G6h.jpg",
+     "duration": 0,
+     "width": 220,
+     "height": 138,
+     "format": "video/mp4",
+     "type": "gif",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+       "bitrate": 0,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+       "bitrate": 0,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2099141739478953992",
+     "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+     "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HSGmSlLWsAg1G6h.jpg",
+     "duration": 0,
+     "width": 220,
+     "height": 138,
+     "format": "video/mp4",
+     "type": "gif",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+       "bitrate": 0,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/tweet_video/HSGmSlLWsAg1G6h.mp4",
+       "bitrate": 0,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "source": "Twitter for Android",
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:22Z",
+ "_http_status": 200
+}

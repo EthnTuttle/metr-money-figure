@@ -1,0 +1,339 @@
+                 Case 22-11068-JTD             Doc 7590        Filed 02/19/24        Page 1 of 2
+
+
+
+
+                         IN THE UNITED STATES BANKRUPTCY COURT
+                              FOR THE DISTRICT OF DELAWARE
+
+In re:                                                         Chapter 11
+
+FTX TRADING LTD., et al., 1                                    Case No. 22-11068 (JTD)
+
+          Debtors.                                             (Jointly Administered)
+
+
+
+    DECLARATION OF ALEXA J. KRANZLEY IN SUPPORT OF DEBTORS’ REPLY IN
+         SUPPORT OF THE MOTION OF DEBTORS FOR ENTRY OF AN ORDER
+      AUTHORIZING AND APPROVING (I) PROCEDURES FOR SALE OF DEBTORS’
+       EQUITY INTERESTS IN ANTHROPIC, PBC; (II) SALE(S) OF SUCH EQUITY
+    INTERESTS IN ACCORDANCE WITH SUCH PROCEDURES FREE AND CLEAR OF
+    ANY LIENS, CLAIMS, INTERESTS AND ENCUMBRANCES; AND (III) REDACTION
+       AND FILING UNDER SEAL OF CERTAIN CONFIDENTIAL COMMERCIAL
+                   INFORMATION IN THE SALE PROCEDURES
+
+                   I, Alexa J. Kranzley, hereby declare as follows:
+
+                   1.       I am a member in good standing of the Bar of the State of New York and
+
+have been admitted pro hac vice to practice before this Court. I am a partner of Sullivan &
+
+Cromwell LLP (“S&C”) and am one of the attorneys representing FTX Trading Ltd. and its
+
+affiliated debtors and debtors-in-possession (collectively, the “Debtors”) in the above-captioned
+
+proceedings. I submit this declaration in support of the Debtors’ Reply in Support of the Motion
+
+of Debtors for Entry of an Order Authorizing and Approving (I) Procedures for Sale of Debtors’
+
+Equity Interests in Anthropic, PBC; (II) Sale(s) of Such Equity Interests in Accordance with Such
+
+Procedures Free and Clear of Any Liens, Claims, Interests and Encumbrances; and
+
+(III) Redaction and Filing Under Seal of Certain Confidential Commercial Information in the
+
+
+1
+      The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and
+      4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the
+      Debtors and the last four digits of their federal tax identification numbers is not provided herein. A complete
+      list of such information may be obtained on the website of the Debtors’ claims and noticing agent at
+      https://cases.ra.kroll.com/FTX. The principal place of business of Debtor Emergent Fidelity Technologies Ltd is
+      Unit 3B, Bryson’s Commercial Complex, Friars Hill Road, St. John’s, Antigua and Barbuda.
+              Case 22-11068-JTD         Doc 7590      Filed 02/19/24     Page 2 of 2
+
+
+
+
+Sale Procedures (the “Reply”), to place before the Court certain documents and information
+
+referred to in the Reply.
+
+               2.      Attached hereto as Exhibit 1 is a true and correct copy of the M-SAFE
+
+(Modified Simple Agreement for Future Equity) issued by Anthropic, PBC to Clifton Bay
+
+Investments LLC (formerly known as Alameda Research Ventures LLC) on October 5, 2021.
+
+
+
+               I declare under penalty of perjury that the foregoing is true and correct to the best
+
+of my knowledge.
+
+               Executed in New York, New York on February 19, 2024.
+
+
+                                                               /s/ Alexa J. Kranzley
+                                                               Alexa J. Kranzley
+
+
+
+
+                                                -2-
+Case 22-11068-JTD   Doc 7590-1   Filed 02/19/24   Page 1 of 6
+
+
+
+
+                        Exhibit 1
+
+                        M-SAFE
+                           Case 22-11068-JTD         Doc 7590-1        Filed 02/19/24        Page 2 of 6
+                                                                                                      Execution Version
+
+THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER
+THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF
+CERTAIN STATES. THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR
+HYPOTHECATED EXCEPT AS PERMITTED IN THIS M-SAFE AND UNDER THE ACT AND APPLICABLE STATE
+SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.
+
+                                                      ANTHROPIC, PBC
+
+                                                         M-SAFE
+                                            (Simple Agreement for Future Equity)
+
+         THIS CERTIFIES THAT in exchange for the payment by Alameda Research Ventures LLC (the “Purchaser”) of
+$500,000,000 (the “Purchase Amount”) on or about October 5, 2021 Anthropic, PBC, a Delaware public benefit
+corporation (the “Company”), issues to the Purchaser the right to receive certain shares of the Company’s Capital Stock,
+subject to the terms described below.
+
+        This M-SAFE is one of a series of Modified Simple Agreements for Future Equity containing substantially
+identical terms and conditions issued pursuant to that certain M-SAFE Purchase Agreement dated October 5, 2021
+(the “Purchase Agreement”). Capitalized terms not otherwise defined herein have the meaning given them in the
+Purchase Agreement.
+
+        1. Events
+
+             (a) Conversion Event. If there is a Conversion Event before the termination of this M-SAFE, on the occurrence
+of such Conversion Event, this M-SAFE will automatically convert into the number of shares of the Company’s Series B
+Preferred Stock (the “Series B Preferred”) set forth opposite the Purchaser’s name on Exhibit A to the Purchase Agreement
+at a price per share equal to $224.5211 (the “M-SAFE Price”). The Company shall provide notice of the Conversion Event
+to the Purchaser at least three (3) days prior to the Conversion Event. The Company shall adopt and file with the Secretary
+of State of Delaware on or before the Conversion Event the Amended and Restated Certificate of Incorporation in the form
+attached to the Purchase Agreement as Exhibit F (the “Restated Certificate”).
+
+             (b) Liquidity Event. If there is a Liquidity Event before the termination of this M-SAFE, this M-SAFE shall
+at the option of the Majority Purchasers convert into either (i) the right (subject to the liquidation priority set forth in Section
+1(d) below) to receive a portion of Proceeds, due and payable to the Purchaser immediately prior to, or concurrent with, the
+consummation of such Liquidity Event, equal to the Purchase Amount (the “Cash-Out Amount”) or (ii) a number of shares
+of N-Class Common Stock of the Company (or, at the election of the Company, directly into proceeds paid to the holders
+of N-Class Common Stock in connection with the Liquidity Event) equal to the Purchase Amount divided by the M-SAFE
+Price (the “Conversion Amount”), provided, however, that if the Majority Purchasers fail to choose between the Cash-Out
+Amount or Conversion Amount prior to the closing of the Liquidity Event, the Company may make such determination in
+its absolute discretion. If any of the Company’s securityholders are given a choice as to the form and amount of Proceeds
+to be received in a Liquidity Event (excluding the choice referred to in the first sentence of this Section 1(b)), the Purchaser
+will be given the same choice, provided that the Purchaser may not choose to receive a form of consideration that the
+Purchaser would be ineligible to receive as a result of the Purchaser’s failure to satisfy any requirement or limitation
+generally applicable to the Company’s securityholders, or under any applicable laws.
+
+             Notwithstanding the foregoing, in connection with a Liquidation Transaction intended to qualify as a tax-free
+reorganization, the Company may reduce the cash portion of Proceeds payable to the Purchaser by the amount determined
+by its board of directors in good faith for such Liquidation Transaction to qualify as a tax-free reorganization for U.S. federal
+income tax purposes, provided that such reduction (A) does not reduce the total Proceeds payable to such Purchaser and (B)
+is applied in the same manner and on a pro rata basis to all securityholders who have equal priority to the Purchaser under
+Section 1(d).
+
+           (c) Dissolution Event. If there is a Dissolution Event before the termination of this M-SAFE, the Purchaser
+will automatically be entitled (subject to the liquidation priority set forth in Section 1(d) below) to receive a portion of
+
+                                                                -1-
+        4144-1897-4001.1
+                           Case 22-11068-JTD      Doc 7590-1       Filed 02/19/24      Page 3 of 6
+                                                                                                Execution Version
+
+Proceeds equal to the Cash-Out Amount, due and payable to the Purchaser immediately prior to the consummation of the
+Dissolution Event.
+
+            (d) Liquidation Priority. In a Liquidity Event or Dissolution Event, this M-SAFE is intended to operate like
+standard non-participating Preferred Stock. The Purchaser’s right to receive its Cash-Out Amount is:
+                (i)     Junior to payment of outstanding indebtedness and creditor claims, including contractual claims
+for payment and convertible promissory notes (to the extent such convertible promissory notes are not actually or notionally
+converted into Capital Stock);
+                  (ii)   On par with payments for other M-SAFEs and/or Preferred Stock, and if the applicable Proceeds
+are insufficient to permit full payments to the Purchaser and such other M-SAFEs and/or Preferred Stock, the applicable
+Proceeds will be distributed pro rata to the Purchaser and such other M-SAFEs and/or Preferred Stock in proportion to the
+full payments that would otherwise be due; and
+                 (iii)      Senior to payments for Common Stock.
+                 The Purchaser’s right to receive its Conversion Amount is (A) on par with payments for Common Stock
+and other M-SAFEs and/or Preferred Stock who are also receiving Conversion Amounts or Proceeds on a similar as-
+converted to Common Stock basis, and (B) junior to payments described in clauses (i) and (ii) above (in the latter case, to
+the extent such payments are Cash-Out Amounts or similar liquidation preferences).
+
+              (e) Termination. This M-SAFE will automatically terminate (without relieving the Company of any
+obligations arising from a prior breach of or non-compliance with this M-SAFE) immediately following the earliest to occur
+of: (i) the issuance of Capital Stock to the Purchaser pursuant to the automatic conversion of this M-SAFE under Section
+1(a); or (ii) the payment, or setting aside for payment, of amounts due the Purchaser pursuant to Section 1(b) or Section
+1(c).
+
+        2. Definitions
+
+            “Capital Stock” means the capital stock of the Company, including, without limitation, the “Common Stock”
+and the “Preferred Stock.”
+
+             “Conversion Event” means the earliest to occur of (a) the 12-month anniversary of the Initial Closing and (b)
+such earlier date as determined by the Company in its sole discretion.
+
+             “Direct Listing” means the Company’s initial listing of its Common Stock (other than shares of Common Stock
+not eligible for resale under Rule 144 under the Securities Act) on a national securities exchange by means of an effective
+registration statement on Form S-1 filed by the Company with the SEC that registers shares of existing capital stock of the
+Company for resale, as approved by the Company’s board of directors. For the avoidance of doubt, a Direct Listing shall
+not be deemed to be an underwritten offering and shall not involve any underwriting services.
+
+           “Dissolution Event” means (i) a voluntary termination of operations, (ii) a general assignment for the benefit
+of the Company’s creditors or (iii) any other liquidation, dissolution or winding up of the Company (excluding a Liquidity
+Event), whether voluntary or involuntary.
+
+            “Dividend Amount” means, with respect to any date on which the Company pays a dividend on its outstanding
+Common Stock, the amount of such dividend that is paid per share of Common Stock multiplied by (x) the Purchase Amount
+divided by (y) the M-SAFE Price (treating the dividend date as a Liquidity Event solely for purposes of calculating such
+M-SAFE Price).
+
+             “Initial Public Offering” means the closing of the Company’s first firm commitment underwritten initial public
+offering of Common Stock pursuant to a registration statement filed under the Securities Act.
+
+             “Liquidity Event” means a Liquidation Transaction (as defined in the Certificate of Incorporation), a Direct
+Listing or an Initial Public Offering.
+
+                                                            -2-
+        4144-1897-4001.1
+                           Case 22-11068-JTD       Doc 7590-1        Filed 02/19/24       Page 4 of 6
+                                                                                                   Execution Version
+
+            “Proceeds” means cash and other assets (including without limitation stock consideration) that are proceeds
+from the Liquidity Event or the Dissolution Event, as applicable, and legally available for distribution.
+
+        5. Miscellaneous
+
+             (a) Any provision of this M-SAFE may be amended, waived or modified by written consent of the Company
+and either (i) the Purchaser or (ii) the Majority Purchasers, provided that with respect to clause (ii), the Purchase Amount
+may not be amended, waived or modified in this manner.
+
+             (b) Any notice required or permitted by this M-SAFE will be deemed sufficient when delivered personally or
+by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited
+in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party’s
+address listed on the signature page, as subsequently modified by written notice.
+
+            (c) The Purchaser is not entitled, as a holder of this M-SAFE, to vote or be deemed a holder of Capital Stock
+for any purpose other than tax purposes, nor will anything in this M-SAFE be construed to confer on the Purchaser, as such,
+any rights of a Company stockholder or rights to vote for the election of directors or on any matter submitted to Company
+stockholders, or to give or withhold consent to any corporate action or to receive notice of meetings, until shares have been
+issued on the terms described in Section 1. However, if the Company pays a dividend on outstanding shares of Common
+Stock (that is not payable in shares of Common Stock) while this M-SAFE is outstanding, the Company will pay the
+Dividend Amount to the Purchaser at the same time.
+
+              (d) Neither this M-SAFE nor the rights in this M-SAFE are transferable or assignable, by operation of law or
+otherwise, by either party without the prior written consent of the other; provided, however, that this M-SAFE and/or its
+rights may be assigned without the Company’s consent by the Purchaser (i) to the Purchaser’s estate, heirs, executors,
+administrators, guardians and/or successors in the event of Purchaser’s death or disability, or (ii) to any other entity who
+directly or indirectly, controls, is controlled by or is under common control with the Purchaser, including, without limitation,
+any general partner, managing member, officer or director of the Purchaser, or any venture capital fund now or hereafter
+existing which is controlled by one or more general partners or managing members of, or shares the same management
+company with, the Purchaser; and provided, further, that the Company may assign this M-SAFE in whole, without the
+consent of the Purchaser, in connection with a reincorporation to change the Company’s domicile.
+
+            (e) In the event any one or more of the provisions of this M-SAFE is for any reason held to be invalid, illegal
+or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this M-
+SAFE operate or would prospectively operate to invalidate this M-SAFE, then and in any such event, such provision(s) only
+will be deemed null and void and will not affect any other provision of this M-SAFE and the remaining provisions of this
+M-SAFE will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
+
+             (f) All rights and obligations hereunder will be governed by the laws of the State of Delaware, without regard
+to the conflicts of law provisions of such jurisdiction.
+
+            (g) The parties acknowledge and agree that for United States federal and state income tax purposes this M-
+SAFE is, and at all times has been, intended to be characterized as stock, and more particularly as common stock for purposes
+of Sections 304, 305, 306, 354, 368, 1036 and 1202 of the Internal Revenue Code of 1986, as amended. Accordingly, the
+parties agree to treat this M-SAFE consistent with the foregoing intent for all United States federal and state income tax
+purposes (including, without limitation, on their respective tax returns or other informational statements).
+
+                                                   (Signature page follows)
+
+
+
+
+                                                              -3-
+        4144-1897-4001.1
+                     Case 22-11068-JTD       Doc 7590-1        Filed 02/19/24   Page 5 of 6
+
+
+
+
+         IN WITNESS WHEREOF, the undersigned have caused this M-SAFE to be duly executed and delivered.
+
+
+
+                                                    ANTHROPIC, PBC
+
+                                                    By:
+                                                             Dario Amodei
+                                                             CEO
+
+
+
+
+                                                    PURCHASER:
+
+                                                    By:
+                                                    Name:
+                                                    Title:
+
+                                                    Address:
+
+
+
+                                                    Email:
+
+
+
+
+4127-9575-2241.3
+                     Case 22-11068-JTD       Doc 7590-1        Filed 02/19/24   Page 6 of 6
+
+
+
+
+         IN WITNESS WHEREOF, the undersigned have caused this M-SAFE to be duly executed and delivered.
+
+
+
+                                                    ANTHROPIC, PBC
+
+                                                    By:
+                                                             Dario Amodei
+                                                             CEO
+
+
+
+
+                                                    PURCHASER:
+
+                                                    By:
+                                                    Name:      Sam Bankman-Fried
+                                                             CEO
+                                                    Title:
+
+                                                                   2000 Center Street
+                                                    Address:
+                                                                   Berkeley CA 94704
+
+
+
+                                                    Email:      Sam@ftx.com
+
+
+
+
+4127-9575-2241.3
+

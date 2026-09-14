@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/JosephJacks_/status/2099104133223764305",
+  "id": "2099104133223764305",
+  "text": "@DavidSacks Thank you, David.",
+  "raw_text": {
+   "text": "@DavidSacks Thank you, David.",
+   "display_text_range": [
+    12,
+    29
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "JosephJacks_",
+   "url": "https://x.com/JosephJacks_",
+   "id": "1648999932",
+   "followers": 45802,
+   "following": 521,
+   "likes": 176641,
+   "media_count": 4598,
+   "name": "JJ",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1648999932/1779603608",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1765283930654261248/XbbAopwn_200x200.jpg",
+   "joined": "Tue Aug 06 00:23:53 +0000 2013",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 16,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 11:53:19 +0000 2026",
+  "created_timestamp": 1789300399,
+  "views": 1488,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:58:58Z",
+ "_http_status": 200
+}

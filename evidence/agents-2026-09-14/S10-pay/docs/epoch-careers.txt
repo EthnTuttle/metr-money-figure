@@ -1,0 +1,217 @@
+
+Careers | Epoch AI
+Latest
+Our work
+Featured
+Trends & statistics
+Data explorers
+Capabilities & Benchmarking
+Publications
+Papers & reports
+Data Insights
+Newsletter
+Podcast
+All Publications
+Data explorers
+Capabilities
+Models
+Data centers
+Chip owners
+Companies
+Polling on AI use
+All Data Explorers
+Our benchmarks
+Epoch Capabilities Index
+MirrorCode
+FrontierMath: Open problems
+EBR-bench
+Topics
+AI progress
+Scaling
+Software progress
+Open models
+Capabilities & benchmarks
+Math
+Industry
+Leading companies
+Finances
+Geopolitics
+Infrastructure
+Chips
+Data centers
+Energy
+Impacts
+Adoption & use
+Economic impact
+Future of AI
+About
+Who we are
+About
+Team
+Transparency
+Engage with us
+Careers
+Press
+Consultations
+Donate
+Contact
+Latest
+Our work
+Featured
+Trends & statistics
+Data explorers
+Capabilities & Benchmarking
+Publications
+Papers & reports
+Data Insights
+Newsletter
+Podcast
+All Publications
+Data explorers
+Capabilities
+Models
+Data centers
+Chip owners
+Companies
+Polling on AI use
+All Data Explorers
+Our benchmarks
+Epoch Capabilities Index
+MirrorCode
+FrontierMath: Open problems
+EBR-bench
+Navigate by topic
+AI progress
+Scaling
+Software progress
+Open models
+Capabilities & benchmarks
+Math
+Industry
+Leading companies
+Finances
+Geopolitics
+Infrastructure
+Chips
+Data centers
+Energy
+Impacts
+Adoption & use
+Economic impact
+Future of AI
+About
+Who we are
+About
+Team
+Transparency
+Engage with us
+Careers
+Press
+Consultations
+Donate
+Contact
+About us
+Team
+Consultations
+Transparency
+Donate
+Careers
+Press
+Join us in understanding the path of AI
+We are a multidisciplinary, global, and curiosity-driven team committed to supporting people and organizations worldwide in understanding and navigating the rapid evolution of AI technology.
+Open roles
+Research and Engineering
+Data Scientist
+Researcher / Senior Researcher
+Software Engineer, Benchmarking
+Operations
+IT and Security Specialist
+Senior Product Designer
+Media Program
+Social Video Producer
+Writer & Editor
+Expressions of Interest
+Expression of Interest
+Expression of Interest: Special Projects Associate
+Data Scientist
+Epoch is seeking part-time data scientists to assist with our AI research efforts. This role involves reviewing technical literature, tracking benchmark data, compiling technical infrastructure details, and analyzing various sources to build comprehensive insights about AI models, data centers, and companies.
+Apply
+Researcher / Senior Researcher
+Epoch AI is seeking researchers and senior researchers to improve society's understanding of AI capabilities and their trajectories.
+Apply
+Software Engineer, Benchmarking
+Epoch AI is looking for a Software Engineer who will help us evaluate frontier AI models, enabling researchers, developers, and policymakers to better understand AI development. The role will involve running and maintaining our benchmarking infrastructure as well as contributing to the development of brand new benchmarks.
+Apply
+IT and Security Specialist
+Epoch AI is looking for an IT and Security Specialist to own the systems, accounts and access the whole team depends on, and to set the security standards that protect our research and our data. You would decide who can reach what, run the accounts and tools we all work in, find and fix security risks yourself, and work with our engineers and researchers so that our protocols get followed rather than worked around.
+Apply
+Senior Product Designer
+Epoch AI is looking for a Senior Product Designer to lead UI/UX and data visualization at Epoch AI. This role involves managing our design team; translating complex research into intuitive, engaging designs; and setting the direction for how our work is perceived and used by researchers, policymakers, and other stakeholders.
+Apply
+Social Video Producer
+Epoch AI is looking for a founding Social Video Producer who will help us launch short-form video for our new media program. The role will involve producing and editing videos about AI for TikTok and Instagram, and shaping how we show up on those platforms.
+Apply
+Writer & Editor
+Epoch AI is looking for a founding Writer & Editor as we launch a new media team to bring our research to a wider audience. The role will involve pitching, writing, and editing pieces for a general audience as part of our new media program.
+Apply
+Expression of Interest
+Our interdisciplinary team is constantly in search of talent that can add to our skill set, including in research, operations, engineering, data, and communications. Please submit an expression of interest if you are interested in working with us. We won’t scan applications on a regular basis, but we will reach out if there’s an open position we think you might be a good fit for.
+Submit an expression of interest
+Expression of Interest: Special Projects Associate
+We're seeking expressions of interest for Special Projects Associate roles, where you'll provide specialized operations support for our research teams.
+Submit an expression of interest
+Cite
+Epoch AI’s work is free to use, distribute, and reproduce provided the source and authors are credited under the
+Creative Commons Attribution license
+.
+Citation
+Epoch AI (2026), "Join us in understanding the path of AI". Published online at epoch.ai. Retrieved from 'https://epoch.ai/about/careers' [online resource]. Accessed 14 Sept 2026.
+BibTeX Citation
+@misc{epoch2026,
+title={Join us in understanding the path of AI},
+author={{Epoch AI}},
+year={2026},
+url={https://epoch.ai/about/careers},
+note={Accessed: 2026-09-14}}
+Investigating the trajectory of AI for the benefit of society
+Get the latest from Epoch AI in your inbox
+Subscribe
+Our Work
+Latest
+AI Trends & Statistics
+Publications
+Data Insights
+Newsletter: Gradient Updates
+Podcast
+Data on AI
+Models
+AI Data Centers
+Hardware
+Companies
+Chip Sales
+Polling
+Benchmarking
+Capabilities & Benchmarking
+FrontierMath
+Company
+About
+Team
+Consultations
+Transparency
+Donate
+Careers
+© 2026 Epoch AI
+Privacy Policy
+Cookie Policy
+Designed by And—Now
+Feedback
+Feedback
+Have a question? Noticed something wrong? Let us know.
+Message
+If you would like a reply, please include your name and email address.
+Name
+Email address
+Cancel
+Submit
+Careers
+Explore Epoch AI’s career opportunities, apply to open positions, and help shape the future of AI.

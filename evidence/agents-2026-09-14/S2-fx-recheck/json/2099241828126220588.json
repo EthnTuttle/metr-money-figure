@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ChaseHasbrouck/status/2099241828126220588",
+  "id": "2099241828126220588",
+  "text": "After a 20-year career in the U.S. Army, most recently leading digital forensics and malware analysis at Army Cyber Command, I'm excited to join @METR_Evals as an advisor.\n\nMuch of my career has been spent investigating security incidents and helping organizations understand and respond to them. As I transition out of the Army, I've become increasingly convinced that this experience is relevant to frontier AI systems. METR's focus on producing rigorous evidence about AI capabilities and risks makes it an excellent place to explore those questions. Looking forward to the work.",
+  "raw_text": {
+   "text": "After a 20-year career in the U.S. Army, most recently leading digital forensics and malware analysis at Army Cyber Command, I'm excited to join @METR_Evals as an advisor.\n\nMuch of my career has been spent investigating security incidents and helping organizations understand and respond to them. As I transition out of the Army, I've become increasingly convinced that this experience is relevant to frontier AI systems. METR's focus on producing rigorous evidence about AI capabilities and risks makes it an excellent place to explore those questions. Looking forward to the work.",
+   "display_text_range": [
+    0,
+    582
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      145,
+      156
+     ],
+     "original": "METR_Evals",
+     "id": "1706770561903497216"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ChaseHasbrouck",
+   "url": "https://x.com/ChaseHasbrouck",
+   "id": "619350861",
+   "followers": 280,
+   "following": 258,
+   "likes": 82,
+   "media_count": 18,
+   "name": "Chase Hasbrouck",
+   "description": "U.S. Army Cyber officer, retiring Oct 2026. Recovering WoW theorycrafter and blogger. AI-curious. All posts personal, not official.",
+   "raw_description": {
+    "text": "U.S. Army Cyber officer, retiring Oct 2026. Recovering WoW theorycrafter and blogger. AI-curious. All posts personal, not official.",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/619350861/1771284756",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2023542280024424451/VpbbTO9p_200x200.jpg",
+   "joined": "Tue Jun 26 17:34:12 +0000 2012",
+   "protected": false,
+   "website": {
+    "url": "https://layereight.substack.com",
+    "display_url": "layereight.substack.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 11,
+  "retweets": 35,
+  "likes": 526,
+  "bookmarks": 44,
+  "quotes": 4,
+  "created_at": "Sun Sep 13 21:00:28 +0000 2026",
+  "created_timestamp": 1789333228,
+  "views": 17719,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:11Z",
+ "_http_status": 200
+}

@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-07T09:07:07-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>951444411</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Gish Seiden LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>21800 Oxnard Street Suite 300</AddressLine1Txt>
+        <CityNm>Woodland Hills</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91367</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261635908</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Commoncrawl Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>COMM</BusinessNameControlTxt>
+      <PhoneNum>3105356737</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+        <CityNm>Beverly Hills</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90210</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Michael Birnbach</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <SignatureDt>2025-11-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STAN ARUTTI</PreparerPersonNm>
+      <PTIN>P00355372</PTIN>
+      <PhoneNum>8188546100</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1467835</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1467543</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>98</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>98</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>98</InterestOnSavingsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>1467641</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>98</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>98</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>386569</CompOfcrDirTrstRevAndExpnssAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>89490</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>89490</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">2168</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>2168</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3255</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>3255</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">39336</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>39336</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">939</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>64642</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>64642</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">740239</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>740239</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>1326638</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>939130</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1326638</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>939130</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>141003</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>98</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>98</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1331529</CashBOYAmt>
+        <CashEOYAmt>1467835</CashEOYAmt>
+        <CashEOYFMVAmt>1467835</CashEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>5636</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>939</LandBldgEquipAccumDeprecAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">4697</LandEOYAmt>
+        <TotalAssetsBOYAmt>1331529</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1472532</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1467835</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>1331529</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1472532</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1331529</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1472532</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1331529</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1472532</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1331529</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>141003</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1472532</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1472532</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>1</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.commoncrawl.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Stan Arutti</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8188546100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>21800 Oxnard Street Suite 300</AddressLine1Txt>
+          <CityNm>Woodland Hills</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91367</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michael Birnbach</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>34075</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Gilad Elbaz</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Eva Ho</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Richard Skrenta</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>179211</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Greg Lindahl</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>CTO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>173283</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>Jennifer English</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <TitleTxt>Program Manager</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>89490</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>Thom Vaughan</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+            <CityNm>Beverly Hills</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90210</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Software development</ServiceTypeTxt>
+          <CompensationAmt>84689</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>CommonCrawl Foundation is dedicated to working towards an open web that allows open access to information and enables greater innovation in research, business and education. Commoncrawl's plan is to democratize access to web information by producing and maintaining an open repository of web crawl data that is universally accessible and analyzable by everyone.</Description1Txt>
+        <Expenses1Amt>1325698</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>971750</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>971750</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>971750</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14576</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>957174</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>47859</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>939130</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>939130</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2009-09-23</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>98</CurrentYearAmt>
+          <Year1Amt>62</Year1Amt>
+          <Year2Amt>29</Year2Amt>
+          <Year3Amt>10</Year3Amt>
+          <TotalAmt>199</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>83</CurrentYearAmt>
+          <Year1Amt>53</Year1Amt>
+          <Year2Amt>25</Year2Amt>
+          <Year3Amt>9</Year3Amt>
+          <TotalAmt>170</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>939130</CurrentYearAmt>
+          <Year1Amt>595457</Year1Amt>
+          <Year2Amt>160758</Year2Amt>
+          <Year3Amt>141499</Year3Amt>
+          <TotalAmt>1836844</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>939130</CurrentYearAmt>
+          <Year1Amt>595457</Year1Amt>
+          <Year2Amt>160758</Year2Amt>
+          <Year3Amt>141499</Year3Amt>
+          <TotalAmt>1836844</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>31906</CurrentYearAmt>
+          <Year1Amt>21158</Year1Amt>
+          <Year2Amt>9384</Year2Amt>
+          <Year3Amt>3419</Year3Amt>
+          <TotalAmt>65867</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Gilad Elbaz</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>98</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>98</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>98</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Elbaz Family Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>9663 Santa Monica Blvd 425</AddressLine1Txt>
+          <CityNm>Bevery Hills</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90210</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>500000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Anthropic PBC</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>548 Market St</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94104</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>Open AI</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3180 18th St</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94110</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>Civic Ventures dba Co-Generate</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO Box 29542</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94129</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>12500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>5</ContributorNum>
+        <ContributorPersonNm>AT Kearney</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>227 West Monroe St</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60606</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>6</ContributorNum>
+        <ContributorPersonNm>Schmidt Foundation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>211 Main St</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94105</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>7</ContributorNum>
+        <ContributorPersonNm>Constellation Network Inc</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2140 S Duport Hwy</AddressLine1Txt>
+          <CityNm>Camden</CityNm>
+          <StateAbbreviationCd>DE</StateAbbreviationCd>
+          <ZIPCd>19934</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>8</ContributorNum>
+        <ContributorPersonNm>Skye Global AI</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>33 Sharon Ave</AddressLine1Txt>
+          <CityNm>Piedmont</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94611</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>9</ContributorNum>
+        <ContributorPersonNm>Anaconda Inc</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1108 Lavaca Street Suite 110</AddressLine1Txt>
+          <CityNm>Austin</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78701</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>10</ContributorNum>
+        <ContributorPersonNm>Microsoft Coporation</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>One Microsoft Way</AddressLine1Txt>
+          <CityNm>Redmond</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98052</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>20000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>11</ContributorNum>
+        <ContributorPersonNm>Hugging Face</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>20 Jay Street Suite 620</AddressLine1Txt>
+          <CityNm>Brooklyn</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11201</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>12</ContributorNum>
+        <ContributorPersonNm>Peter Zhang</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>6960 Ladera Norte</AddressLine1Txt>
+          <CityNm>Austin</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>78731</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>25000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>13</ContributorNum>
+        <ContributorPersonNm>Computer Communications</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>25 Massachusetts Avenue</AddressLine1Txt>
+          <CityNm>Washington</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20001</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>35000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>3255</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3255</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Computer Equipment</PropertyDesc>
+        <AcquiredDt>2024-02-26</AcquiredDt>
+        <CostOrOtherBasisAmt>5636</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>939</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>5636</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>939</AccumulatedDepreciationAmt>
+        <BookValueAmt>4697</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal fees</CategoryTxt>
+        <LegalFeesAmt>2168</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2168</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>496</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>496</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Consulting</Desc>
+        <RevenueAndExpensesPerBooksAmt>488261</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>488261</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Employee Benefits</Desc>
+        <RevenueAndExpensesPerBooksAmt>33122</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>33122</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EVENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>48601</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>48601</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>210</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>210</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Group term life insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>149</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>149</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Health Insurance &amp; Accident Plans</Desc>
+        <RevenueAndExpensesPerBooksAmt>64175</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>64175</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>10106</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10106</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>20385</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20385</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Payroll processing fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>3866</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3866</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEB HOSTING</Desc>
+        <RevenueAndExpensesPerBooksAmt>68728</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>68728</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Workers Compensation</Desc>
+        <RevenueAndExpensesPerBooksAmt>2140</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2140</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>Payroll Taxes</CategoryTxt>
+        <Amt>39335</Amt>
+        <DisbursementsCharitablePrpsAmt>39335</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Taxes and Licenses</CategoryTxt>
+        <Amt>1</Amt>
+        <DisbursementsCharitablePrpsAmt>1</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

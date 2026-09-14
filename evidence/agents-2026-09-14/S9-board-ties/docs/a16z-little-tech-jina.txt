@@ -1,0 +1,126 @@
+Title: The Little Tech Agenda
+
+URL Source: https://a16z.com/the-little-tech-agenda/
+
+Published Time: 2024-07-05T21:46:36+00:00
+
+Markdown Content:
+Little Tech is our term for tech startups, as contrasted to Big Tech incumbents.
+
+Little Tech has run independent of politics for our entire careers. But, as the old Soviet joke goes, “You may not be interested in politics, but politics is interested in you.”
+
+We believe bad government policies are now the #1 threat to Little Tech.
+
+We believe American technology supremacy, and the critical role that Little Tech startups play in ensuring that supremacy, is a first class political issue on par with any other.
+
+The time has come to stand up for Little Tech.
+
+Our political efforts as a firm are entirely focused on [defending Little Tech](https://a16z.com/politics-and-the-future/). We do not engage in political fights outside of issues directly relevant to Little Tech. But we will fight for Little Tech – for the freedom to research, to invent, to create jobs, to build the future – with all of our resources.
+
+We find there are three kinds of politicians:
+
+*   Those who support Little Tech. We support them.
+*   Those who oppose Little Tech. We oppose them.
+*   Those who are somewhere in the middle – they want to be supportive, but they have concerns. We work with them in good faith.
+
+We support or oppose politicians regardless of party and regardless of their positions on other issues.
+
+We are in this for the long haul.
+
+## America
+
+America led the 20th Century because we are preeminent in three dimensions:
+
+1.   **Technology** – America drove the Second Industrial Revolution through the 1930’s, and then the Computer Revolution since the 1940’s.
+2.   **Economy** – America’s free market system created enormous societal wealth and dramatic improvements in quality of life for everyday people.
+3.   **Military** – American military might drove victory in World War I and World War II, and then catalyzed the unilateral surrender and dissolution of the Soviet Union.
+
+Each of these dimensions reinforces the other two:
+
+*   Our technology preeminence powers our economy and our military.
+*   Our economic growth pays for our massive investment in technology and in our military.
+*   And our military dominance keeps us safe from foreign threats and hostile ideologies that could crush our technology, our economy, and our people.
+
+And, America’s success has positive global spillover effects to much of the rest of the world. American technology is the global standard. The American economy is the leading production and consumption partner of many other nations. And the American military has maintained overall global peace and prosperity since World War II to a level unprecedented in world history.
+
+Naysayers say America’s best days are behind us, that the 21st Century will see America play a diminished role in all three dimensions.
+
+We disagree.
+
+There is _no reason_ American technology, economic, and military leadership cannot continue for decades to come.
+
+There is _no reason_ the 21st Century cannot be a Second American Century.
+
+## Startups
+
+American technology leadership is the result of a complex system built over the last 150 years that includes our pioneering spirit, our work ethic, our rule of law, our deep capital markets, our higher education system, and long term government investment in scientific research. And university, government, and corporate labs have all played key roles.
+
+But the vanguard of American technology supremacy has always been the startup. From Edison and Ford to Hughes and Lockheed to SpaceX and Tesla, the path to greatness starts in a garage.
+
+A startup is what happens when a plucky group of outcasts and misfits comes together with a dream, ambition, courage, and a particular set of skills – to build something new in the world, to build a product that will improve peoples’ lives, and to build a company that may go on to create many more new things in the future.
+
+The enormous advantage of any startup is a clean sheet of paper – a single shot to imagine and realize a different and better world.
+
+But startups start with every other disadvantage. Specifically, they must go up against incumbent companies that have overwhelmingly superior brands, market positions, customer bases, and financial strength – incumbents that are out to strangle startup competition in the cradle.
+
+Incumbents often have another enormous advantage – the ability to wire the government against startup competitors.
+
+Dominant companies don’t start out that way. In fact, they start as startups, fighting their way uphill until they reach a position of power where they seek to lock in their gains, to pull the rope ladder up behind them. They inject themselves into the political system and seek _regulatory capture_ – a wall of laws and regulations that protect and entrench their positions, and that new startups cannot possibly scale.
+
+The historical result of regulatory capture in market after market has been government-enforced monopolies and cartels.
+
+And the motto of every monopoly and cartel is, “We don’t care, because we don’t have to.”
+
+When this cycle is allowed to play out, when big companies can weaponize the government against startups, the result is stagnation and then decline.
+
+There are many signs of stagnation and decline in the American economy today.
+
+Economists measure the rate of technology improvement in the economy as _productivity growth_. And productivity growth today, after 50 years of the proliferation of the profoundly powerful technologies of the computer and the Internet, is _lower_ than before the 1970’s.
+
+The real-world consequences are staggering:
+
+*   Low productivity growth means low economic growth.
+*   Low economic growth means a low rate of improvement in quality of life for regular people, if not outright backsliding. See, for example, skyrocketing prices and stagnating quality of education, health care, and housing – sure signs of regulatory capture.
+*   Low economic growth also means the rise of smashmouth zero-sum politics, as gains for one group of people necessarily require taking things away from other people.
+*   Zero-sum politics lead to corrosion of the national spirit of opportunity and growth. We can feel this corrosion all around us.
+
+The way to prevent this outcome is to encourage new startups – to drive innovation, competition, and growth – and to prevent big companies from weaponizing the government to crush them.
+
+## Problem
+
+The American government is now _far_ more hostile to new startups than it used to be.
+
+For example:
+
+*   Regulatory agencies have been green lit to use brute force investigations, prosecutions, intimidation, and threats to hobble new industries, such as Blockchain.
+*   Regulatory agencies are being green lit in real time to do the same to Artificial Intelligence.
+*   Regulatory agencies are applying direct pressure to banks to cut off disfavored startups and founders from the financial system.
+*   Regulatory agencies are punitively blocking startups from being acquired by the same big companies the government is preferencing in so many other ways.
+*   The federal government as a customer in critical sectors like defense and intelligence is more wired than ever to favor big incumbents over innovative startups.
+*   And, the government is currently proposing a tax on _unrealized_ capital gains, which would absolutely kill both startups and the venture capital industry that funds them.
+
+The anti-startup bias that is increasingly pervasive across the American government is a clear and present threat to the health and vitality of American technology success – and therefore to the American economy, the American military, and the American people.
+
+Why is this happening? In part, explicit decisions. In part, inertial drift. But also because tech startups as an industry do not show up in Washington D.C. and in the political system the way big companies do. As long as this imbalance persists, the war on tech startups and the resulting threat to America will continue.
+
+Therefore the need to politically defend Little Tech.
+
+## Opportunity
+
+Reversing ruinous policies is just one side of the coin. We can also imagine _positive_ policies that encourage tech startups to flourish – benefiting those startups and their customers, and forcing big incumbents to stay vital and dynamic due to startup competition.
+
+For example:
+
+*   Regulatory reform in important industries like health care, education, and housing, to strip incumbents of their current regulatory capture and drive higher quality at lower prices.
+*   Policies to reconstruct the American manufacturing sector around automation and AI, reshoring entire industries and creating millions of new middle class jobs.
+*   Reinvention of the American military industrial base by new companies building defense systems on the leading edge of autonomy and AI.
+*   Environmental reform to encourage the development and deployment of nuclear power for unlimited clean energy production.
+
+*   Expansion of high-skilled immigration to encourage foreign graduates of American universities and others to build new companies and industries _here_.
+*   And, a whole-of-government program to drive the success of US technology companies globally, against a hostile China and a regulation-crazed EU.
+
+We have _no doubt_ that an American government that actually wants startups to succeed and new industries to flourish would drive enormous increases in the standard of living of regular Americans, and underwrite many more decades of American technology, economic, and military strength.
+
+The glory of a Second American Century is within our reach.
+
+Let’s grasp it.

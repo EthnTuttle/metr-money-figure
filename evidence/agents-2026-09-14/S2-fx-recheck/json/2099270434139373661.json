@@ -1,0 +1,148 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/timnitGebru/status/2099270434139373661",
+  "id": "2099270434139373661",
+  "text": "Thank you. But who is going to listen? Some of in the field of \"AI\" have been seeing this unscientific, pseudoscientific crop of people taking over and speaking up over and over again just to arrive at the most ridiculous timeline the we're seeing right now. Its unreal.",
+  "raw_text": {
+   "text": "Thank you. But who is going to listen? Some of in the field of \"AI\" have been seeing this unscientific, pseudoscientific crop of people taking over and speaking up over and over again just to arrive at the most ridiculous timeline the we're seeing right now. Its unreal.",
+   "display_text_range": [
+    0,
+    270
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "timnitGebru",
+   "url": "https://x.com/timnitGebru",
+   "id": "359831209",
+   "followers": 171606,
+   "following": 3046,
+   "likes": 47612,
+   "media_count": 431,
+   "name": "@timnitGebru (@dair-community.social/bsky.social)",
+   "description": "Author: Deep Unlearning (preorder at https://shorturl.at/sCdjl)\nFounder: The Distributed AI Research Institute (https://dair-institute.org)",
+   "raw_description": {
+    "text": "Author: Deep Unlearning (preorder at https://t.co/xlTTJu4wSs)\nFounder: The Distributed AI Research Institute (https://t.co/A44CkQldYv)",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       37,
+       60
+      ],
+      "original": "https://t.co/xlTTJu4wSs",
+      "replacement": "https://shorturl.at/sCdjl",
+      "display": "shorturl.at/sCdjl"
+     },
+     {
+      "type": "url",
+      "indices": [
+       110,
+       133
+      ],
+      "original": "https://t.co/A44CkQldYv",
+      "replacement": "https://dair-institute.org",
+      "display": "dair-institute.org"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/359831209/1786587494",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1660443800370827264/-X6cD__T_200x200.jpg",
+   "joined": "Mon Aug 22 07:22:32 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://www.simonandschuster.com/books/Deep-Unlearning/Timnit-Gebru/9781668093078",
+    "display_url": "simonandschuster.com/books/Deep-Unl…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 27,
+  "likes": 96,
+  "bookmarks": 25,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 22:54:08 +0000 2026",
+  "created_timestamp": 1789340048,
+  "views": 8264,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/Laughing_Mantis/status/2099012495834743090",
+   "id": "2099012495834743090",
+   "text": "We've reached the point where, after 25y in cybersecurity, I feel morally obligated to say this for the record:\n\nThe narrative being pushed around AI safety, sandbox incidents, and the suggestion that METR be treated as an authority is dangerous, deceptive, and morally corrupt.",
+   "raw_text": {
+    "text": "We've reached the point where, after 25y in cybersecurity, I feel morally obligated to say this for the record:\n\nThe narrative being pushed around AI safety, sandbox incidents, and the suggestion that METR be treated as an authority is dangerous, deceptive, and morally corrupt.",
+    "display_text_range": [
+     0,
+     278
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "Laughing_Mantis",
+    "url": "https://x.com/Laughing_Mantis",
+    "id": "2352666902",
+    "followers": 38522,
+    "following": 2427,
+    "likes": 65841,
+    "media_count": 3202,
+    "name": "Greg Linares (Laughing Mantis)",
+    "description": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+    "raw_description": {
+     "text": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+     "facets": []
+    },
+    "location": "San Francisco, CA",
+    "banner_url": "https://pbs.twimg.com/profile_banners/2352666902/1728932825",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1711943152511352832/GKf9Bhqr_200x200.png",
+    "joined": "Thu Feb 20 03:54:12 +0000 2014",
+    "protected": false,
+    "website": {
+     "url": "http://withpersona.com",
+     "display_url": "withpersona.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 86,
+   "retweets": 653,
+   "likes": 5317,
+   "bookmarks": 864,
+   "quotes": 39,
+   "created_at": "Sun Sep 13 05:49:11 +0000 2026",
+   "created_timestamp": 1789278551,
+   "views": 365487,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for Android",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter Web App",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:14Z",
+ "_http_status": 200
+}

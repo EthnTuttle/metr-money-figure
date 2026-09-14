@@ -1,0 +1,76 @@
+[ld:description] Wall Street quantitative trading firm Jane Street achieved net trading profits of $39.6 billion in 2025, surpassing Goldman Sachs and JPMorgan Chase. The company has fully committed to AI in recent years.Article author: Hualin WudwangSource: GeekParkWhat if Fanghui Quant, managed by Liang Wenheng, h...
+[ld:headline] Jane Street’s AI-driven strategy delivers a 50x return on its Anthropic investment.
+[ld:datePublished] 2026-06-22T09:06:12.000Z
+[ld:dateModified] 2026-06-22T09:06:12.000Z
+=====BODY=====
+ Jane Street’s AI-driven strategy delivers a 50x return on its Anthropic investment. | KuCoin 
+ Home News Details 
+ Jane Street’s AI-driven strategy delivers a 50x return on its Anthropic investment. 
+ MetaEra 
+ Release Time: 2026/06/22 09:06:12 
+ Share 
+ Summary 
+ AI and crypto news broke as Jane Street, a Wall Street quant firm, reported $39.6 billion in net trading profits for 2025, surpassing Goldman Sachs and JPMorgan. The firm’s $100 million investment in Anthropic returned over 50x. Jane Street also entered a $7 billion agreement with CoreWeave for AI cloud services and equity, and expanded its Texas GPU data center. On-chain data reveals increasing AI infrastructure bets from major players.
+ Wall Street quantitative trading firm Jane Street achieved net trading profits of $39.6 billion in 2025, surpassing Goldman Sachs and JPMorgan Chase. The company has fully committed to AI in recent years. Article author: Hualin Wudwang 
+ Source: GeekPark 
+ What if Fanghui Quant, managed by Liang Wenheng, had focused on investing instead of developing large models? 
+ This is a fascinating question: Jane Street, a quantitative trading firm on Wall Street, not only generated net profits of $39.6 billion, but also held a significant equity stake in Anthropic several years ago—and has now seen a 50x return on that investment. 
+ While a16z, by transforming into a KOL, championed a new shift of investment firms into media, Jane Street is exploring a new form as an "AI-native financial organization" by betting on AI models and AI infrastructure.
+ 01 All in AI 
+ Jane Street is a somewhat mysterious quantitative trading firm on Wall Street, known for its high concentration of mathematical geniuses, extraordinary compensation, and extreme discretion with virtually no public relations. In 2025, their net trading profits reached $39.6 billion, surpassing the trading revenues of Goldman Sachs and JPMorgan Chase, equivalent to the profits a mid-sized investment bank would typically generate over a decade. 
+ The company has recently done two things that outsiders might view as a bit off-track. 
+ First, in April of this year, Jane Street entered into an agreement totaling approximately $7 billion with CoreWeave, one of the world’s most important AI computing infrastructure providers: approximately $6 billion for the procurement of its AI cloud computing power, and an additional $1 billion to purchase equity in CoreWeave at $109 per share.
+ Second, they hold equity in Anthropic, and it’s not a small amount: Anthropic makes up the majority of their entire private AI investment portfolio, valued at approximately $20 billion. 
+ The question is, how did they originally acquire Anthropic's equity? 
+ There’s an important detail to clarify—after FTX collapsed in November 2022, Anthropic’s stake held by FTX became trapped in the bankruptcy proceedings. It wasn’t until March 2024 that FTX’s bankruptcy asset management team finalized a sale plan: selling approximately two-thirds of its Anthropic shares to a group of institutional buyers for a total of $884 million. Jane Street was the second-largest buyer in this transaction, spending nearly $100 million to acquire about 3.33 million shares. 
+ At the time of this transaction, Anthropic’s implied valuation was approximately $16.6 billion—expensive, but nowhere near the astronomical figures it would later reach. By early 2026, venture capitalists’ subscription offers for Anthropic had risen to over $800 billion; after the Series H funding round completed in May, the post-money valuation surged to $965 billion. 
+ Calculated together, Jane Street’s initial investment of nearly $100 million has appreciated more than 50 times on paper.
+ This isn’t just good luck—it’s classic Jane Street: precisely pricing during times of fear and liquidity drought, then waiting—except this time, the wait was longer than many anticipated. 
+ 02 Investing + AI’s Profit Flywheel 
+ But "high investment returns" itself isn't the most noteworthy story. What's truly interesting is that Jane Street's investment in Anthropic is fundamentally different from a typical VC's investment in Anthropic. 
+ A typical VC invests in Anthropic with the logic that "this company will grow, and I will make money." 
+ Jane Street invested in Anthropic because the logic is: “If this company builds stronger models, our trading systems will become stronger, we’ll make more money, we’ll have more capital to continue betting on AI, and the models will keep getting stronger…”
+ Some in the industry call this a "synergistic compound flywheel." I think a more straightforward way to put it is that Jane Street is playing a game of "mutual acceleration between investors and investees." They’re not engaging in charity or merely making financial allocations—they’re using capital to acquire a source of capability that feeds back into their own core competitiveness. 
+ To understand this, you must first recognize that Jane Street’s core competitive advantage is not capital, but its ability to price uncertainty faster and more accurately.
+ The essence of quantitative trading is to identify signals that the market has not yet reacted to, and execute trades before price corrections occur. This capability will be exponentially amplified in the AI era—or, if you lack top-tier AI, you will be left far behind by your competitors. 
+ This explains why Jane Street quietly built a data center in Texas with 4,032 liquid-cooled GPUs, scaling from just six Dell servers to its current size. This isn’t about using AI to assist trading—it’s about vertical integration, creating a complete, hard-to-replicate chain from chip-level computing power to models and ultimately to trading decisions. 
+ By the way, Jane Street currently has more than 3,500 employees and is still actively hiring—a pace of growth that is somewhat surprising for a company known for its low profile. 
+ 03 "Quiet Money" is reshaping AI 
+ When you look at this in the broader context, you'll notice something a little unsettling. 
+ Last month, two events involving Anthropic occurred almost simultaneously. On one hand, on June 12, the U.S. Department of Commerce issued an order requiring Anthropic to obtain government approval before foreign users can access its most powerful models, Fable 5 and Mythos 5—a move stemming from escalating tensions between the government and Anthropic over the past several months, which even led the Pentagon to classify Anthropic as a “supply chain risk.” 
+ On the other hand, shortly after this incident, at the G7 summit, Trump told Axios in an interview: “It’s not a threat anymore, but a week ago, it might have been.” — In other words, he acknowledged that he had indeed viewed Anthropic as a national security threat, but his stance softened after the meeting. Behind this statement lies a regulatory crisis that has just been resolved — far from as calm as it appears. 
+ Meanwhile, just last week, Nobel laureate and AlphaFold creator John Jumper announced his departure from Google DeepMind to join Anthropic. The significance of this talent signal requires no explanation to those in the industry. 
+ Anthropic is facing simultaneous pressures from geopolitical tensions, regulatory uncertainty, and rapidly advancing research capabilities. Meanwhile, Jane Street’s significant ownership stake in Anthropic and its ongoing investments in AI infrastructure suggest that a form of “quiet money” has already made its decision.
+ Here’s a key question to consider: When a trading firm with annual revenues nearing $40 billion begins making large-scale allocations to AI assets in the private market, it’s not just altering its own balance sheet—it’s reshaping the competitive dynamics of the entire early-stage AI funding landscape. Annual commitments of billions of dollars in AI infrastructure are significant enough to influence market pricing itself in a sector where single rounds often reach tens of billions of dollars. In other words, Jane Street’s entry has made price signals in the AI primary market more complex.
+ Of course, there are risks. The valuation of private companies is not as transparent as public markets, and it's a real question how much of the $20 billion portfolio consists of paper wealth rather than actual liquidity. Anthropic has not yet gone public, and although there are rumors it may list as early as this October, this path to liquidity is not guaranteed in an environment of policy uncertainty. 
+ 04 “AI-Native Financial Institutions” 
+ You may have always wondered what term best describes Jane Street’s current form. “An AI-focused quantitative fund” isn’t precise, and “an AI company” isn’t right either. 
+ A recent description that may be more accurate is “AI-native financial institution.” It means it’s not a bank that uses AI tools, but a trading institution whose AI capabilities are at the core of its business model—and whose capital, in turn, feeds back into the AI companies that generate these capabilities.
+ This is a new species, not merely an old one with an AI shell. 
+ Jane Street’s entry into AI, in hindsight, had an air of inevitability: In 2022, the collapse of FTX led to Anthropic’s equity entering liquidation; in early 2024, Jane Street made a bottom-fishing investment at a price far below its later valuation; from 2025 to 2026, as Anthropic’s valuation surged from over $10 billion to nearly $1 trillion, Jane Street achieved exceptional returns; in 2026, it further increased its stake in CoreWeave while building its own GPU data centers and simultaneously expanding its team. Each step was not an isolated financial decision, but part of building an integrated system. 
+ The current scale of this system includes over 3,500 employees, a $20 billion AI portfolio, proprietary computing infrastructure, and deep strategic alignment with Anthropic, a leading AI laboratory. 
+ This game, Jane Street has already reached the middle game. 
+ Source : Show original 
+ Disclaimer: The information on this page may have been obtained from third parties and does not necessarily reflect the views or opinions of KuCoin. This content is provided for general informational purposes only, without any representation or warranty of any kind, nor shall it be construed as financial or investment advice. KuCoin shall not be liable for any errors or omissions, or for any outcomes resulting from the use of this information.
+Investments in digital assets can be risky. Please carefully evaluate the risks of a product and your risk tolerance based on your own financial circumstances. For more information, please refer to our Terms of Use and Risk Disclosure . 
+ GemSlot
+ Complete Tasks to Earn Free Tokens Every Day
+ Go to GemSlot 
+ Limited-time offer for newcomers!
+ Newcomer Bonus: Up to -- USDT in Rewards!
+ Sign Up Already have an account? Log In 
+ Featured
+ Corporate About Us Join Us Blog News & Announcements Media Kit Global Brand Ambassador KuCoin Labs KuCoin Ventures Proof of Reserves (PoR) Security Terms of Use Privacy Policy Risk Disclosure Statement AML & CFT Law Enforcement Requests Whistleblower Contact If you discover any of the following:
+ 1. Offering/accepting bribes.
+ 2. Fraud or falsification.
+ 3. Breach of confidentiality.
+ 4. Theft of assets.
+ 5. Theft of resources.
+ 6. Illegal transfer of interests.
+ 7. Other misconduct.
+ Rewards will be provided to users who inform us of the above. Reward amounts will be determined based on the type and relevance of the information provided. Your personal information will be kept confidential.
+ Whistleblower Contact: Audit@kucoin.com 
+ Products Buy Crypto Convert KuCard KuCoin Pay Spot Trading Futures Trading Margin Trading ETFs KuCoin Earn Trading Bot Referral GemSPACE KuCoin Learn Converter Spotlight OTC Trading Service Beginner's Guide Help Center Submit a Ticket Technical Support Bug Bounty Ticket Verification Official Verification Center Fees & VIP Safeguard Program Special Treatment Delistings Sitemap Business Affiliate Program Brokers Institutions API Services Token Listing P2P Merchant Application KuCoin Pay Merchant Crypto Prices Bitcoin (BTC) Price Ethereum (ETH) Price Ripple (XRP) Price KuCoin Token (KCS) Price More Prices Learn Developer API Documentation SDK Download Historical Data App Download Android Download iOS Download Community 
+ Copyright © 2017 - 2026 KuCoin.com. All Rights Reserved. 
+ 24h Volume 0 USDT 
+ 

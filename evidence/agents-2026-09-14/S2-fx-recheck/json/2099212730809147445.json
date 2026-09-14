@@ -1,0 +1,109 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/lmtlssss/status/2099212730809147445",
+  "id": "2099212730809147445",
+  "text": "@METR_Evals rabid communists",
+  "raw_text": {
+   "text": "@METR_Evals rabid communists https://t.co/LlJE6eNI3C",
+   "display_text_range": [
+    12,
+    28
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "METR_Evals",
+     "id": "1706770561903497216"
+    },
+    {
+     "type": "media",
+     "indices": [
+      29,
+      52
+     ],
+     "id": "2099212719857795072",
+     "display": "pic.x.com/LlJE6eNI3C",
+     "original": "https://t.co/LlJE6eNI3C",
+     "replacement": "https://x.com/lmtlssss/status/2099212730809147445/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "lmtlssss",
+   "url": "https://x.com/lmtlssss",
+   "id": "1320210284254949376",
+   "followers": 1955,
+   "following": 143,
+   "likes": 36855,
+   "media_count": 275,
+   "name": "lmtlssss 🜐",
+   "description": "💲Sic parvis magna.",
+   "raw_description": {
+    "text": "💲Sic parvis magna.",
+    "facets": []
+   },
+   "location": "☤",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1320210284254949376/1787483172",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2063057287590121473/ETqJT0P8_200x200.jpg",
+   "joined": "Sun Oct 25 03:47:25 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://github.com/lmtlssss",
+    "display_url": "github.com/lmtlssss"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 2,
+  "likes": 100,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 19:04:51 +0000 2026",
+  "created_timestamp": 1789326291,
+  "possibly_sensitive": false,
+  "views": 2877,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "METR_Evals",
+  "replying_to_status": "2097765966088487290",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2099212719857795072",
+     "url": "https://pbs.twimg.com/media/HSHm2LsbAAAwp5b.jpg?name=orig",
+     "width": 1370,
+     "height": 1148
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2099212719857795072",
+     "url": "https://pbs.twimg.com/media/HSHm2LsbAAAwp5b.jpg?name=orig",
+     "width": 1370,
+     "height": 1148
+    }
+   ]
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:03Z",
+ "_http_status": 200
+}

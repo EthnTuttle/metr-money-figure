@@ -1,0 +1,126 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MacaesBruno/status/2099176680505974813",
+  "id": "2099176680505974813",
+  "text": "Good post",
+  "raw_text": {
+   "text": "Good post",
+   "display_text_range": [
+    0,
+    9
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "MacaesBruno",
+   "url": "https://x.com/MacaesBruno",
+   "id": "1480749782",
+   "followers": 139482,
+   "following": 1951,
+   "likes": 8964,
+   "media_count": 9475,
+   "name": "Bruno Maçães",
+   "description": "“Dawn of Eurasia” “Geopolitics for the End Time,” “Belt and Road,” “History Has Begun,” “Exit,” “In Search of Greater India” and the definitive “World Builders”",
+   "raw_description": {
+    "text": "“Dawn of Eurasia” “Geopolitics for the End Time,” “Belt and Road,” “History Has Begun,” “Exit,” “In Search of Greater India” and the definitive “World Builders”",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1480749782/1789176755",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1614221175395160064/885fa22r_200x200.jpg",
+   "joined": "Mon Jun 03 22:15:10 +0000 2013",
+   "protected": false,
+   "website": {
+    "url": "https://www.newstatesman.com/author/bruno-maaaes",
+    "display_url": "newstatesman.com/author/bruno-m…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 3,
+  "likes": 46,
+  "bookmarks": 19,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 16:41:36 +0000 2026",
+  "created_timestamp": 1789317696,
+  "views": 9776,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "id": "2098973625252708460",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+   "raw_text": {
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+    "display_text_range": [
+     0,
+     2152
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "DavidSacks",
+    "url": "https://x.com/DavidSacks",
+    "id": "1137701",
+    "followers": 1739135,
+    "following": 3525,
+    "likes": 94114,
+    "media_count": 1280,
+    "name": "David Sacks",
+    "description": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+    "raw_description": {
+     "text": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1137701/1667750503",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+    "joined": "Wed Mar 14 04:14:58 +0000 2007",
+    "protected": false,
+    "website": {
+     "url": "http://sacks.substack.com",
+     "display_url": "sacks.substack.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 3053,
+   "retweets": 10858,
+   "likes": 64743,
+   "bookmarks": 13157,
+   "quotes": 2361,
+   "created_at": "Sun Sep 13 03:14:43 +0000 2026",
+   "created_timestamp": 1789269283,
+   "views": 8240216,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for iPhone",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:50Z",
+ "_http_status": 200
+}

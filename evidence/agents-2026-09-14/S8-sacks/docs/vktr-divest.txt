@@ -1,0 +1,116 @@
+Title: Did AI Czar David Sacks Really Divest? New AI Investment Raises Ethics Questions
+
+URL Source: https://www.vktr.com/ai-ethics-law-risk/did-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions/
+
+Published Time: 2025-08-11T13:02:15Z
+
+Markdown Content:
+![Image 1: Donald Trump with David Sacks and Bo Hines in the Oval Office](https://www.vktr.com/-/media/39e0b76d70da4bf48421ce348c433ae3.ashx)
+
+News Analysis
+
+## Did AI Czar David Sacks Really Divest? New AI Investment Raises Ethics Questions
+
+![Image 2: Sharon Fisher avatar](https://www.vktr.com/-/media/0bd0beadc81647328687acd17751a908.aspx?mw=136&mh=136)
+
+David Sacks promised to eliminate conflicts of interest when he became [Trump's AI and Crypto Czar](https://www.vktr.com/ai-market/who-is-the-us-ai-czar-david-sacks/ "Trump's AI and Crypto Czar"). But seven months later, his venture capital firm invested $22 million in an AI company targeting federal contracts — the very sector he's supposed to regulate.
+
+When entrepreneur and investor David Sacks was appointed as a Special Government Employee in December 2024 by incoming President Donald Trump, critics voiced concerns over his role as an investor, both individually and as partner of Craft Ventures, which [he founded in 2017](https://www.mckinsey.com/alumni/news-and-events/global-news/alumni-news/2025-06-seven-alumni-among-worlds-100-best-vc-investors "he founded in 2017").
+
+Sacks, however, claimed that he divested his crypto holdings before he took office. "I didn't want to even have the appearance of a conflict,” he said in the March 8 episode of his All In podcast. “I could have waited. I didn't have to do it like that, but I decided to do it… You never want someone to be able to point at one of those fluctuations [in the crypto market] and say somehow that the cryptos have benefited from that and created a conspiracy theory.”
+
+## White House Waivers Cited Sacks’ ‘Significant’ Divestment Steps
+
+That same week, David Warrington, Counsel to the President, [issued a limited waiver](https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf "issued a limited waiver") for Sacks in connection with his cryptocurrency holdings that “determined that the financial interests covered by this waiver are not so substantial as to be deemed likely to affect the integrity of your services to the Government.”
+
+The waiver was issued, it noted, because Sacks had already taken “significant steps” by divesting hundreds of millions of dollars in cryptocurrency investments.
+
+In June, Warrington issued a similar limited waiver for Sacks in connection with his AI holdings, noting that Sacks had sold or arranged to sell his own direct AI interests, including Amazon, Meta Platforms and Taiwan Semiconductor Manufacturing Co., as well as more than 97% of the Craft Funds holdings that could be affected by Sacks’ role.
+
+Sacks and Craft Ventures, as well as Sacks’ family members, also agreed not to directly acquire any new financial interest in companies that would be directly and predictably affected by his duties as Special Advisor for AI and Crypto.
+
+“In total, you have initiated or completed divestment of over 99% of your holdings in companies that could potentially raise a conflict of interest concern for your position,” the waiver claimed, with the remaining holdings representing less than 0.1% of Craft Funds’ invested assets.
+
+**Related Article:[Who Is the US AI Czar David Sacks?](https://www.vktr.com/ai-market/who-is-the-us-ai-czar-david-sacks/ "Related Article: Who Is the US AI Czar David Sacks?")**
+
+## SGEs Have Long Blurred the Line Between Industry and Government
+
+Trump isn’t the first president to appoint special government employees (SGEs). The idea of an industry executive appointed as a special advisor has been around since President Franklin D. Roosevelt’s “[dollar a year men](http://www.fdrlibrary.marist.edu/_resources/images/psf/psf000538.pdf "dollar a year men"),” said [Meredith McGehee](https://www.linkedin.com/in/meredith-mcgehee-2bab353/ "Meredith McGehee"), a retired expert on money, politics, ethics and lobbying. It’s not unusual for SGEs to be intimately involved in the industries for which they are appointed. In fact, that’s kind of the idea.
+
+By its very nature, according to the waiver, the position of Special Advisor for AI and Crypto requires an appointee with extensive and hands-on experience in emerging technologies and innovation.
+
+“It would be exceedingly difficult to find such real-world expertise if digital technology executives, software company founders and venture capital investors in emerging technologies were excluded from the position,” McGehee added.
+
+Someone like Sacks, she continued, highlights the tension of government service. “If you want to have somebody who’s going to be your head of agriculture, it would be nice to have someone who knows about farming.”
+
+## Conflict of Interest Rules Still Apply — Even Off the Clock
+
+“It’s not like the conflict only applies when you’re on the clock. It’s all the time.”
+
+**- Mark Lee Greenblatt**
+
+Former Inspector General for the US Department of the Interior
+
+Conflict of interest requirements are covered by [Section 208](https://www.oge.gov/web/oge.nsf/Resources/18+U.S.C.+%C2%A7+208:+Acts+affecting+a+personal+financial+interest "Section 208") of the United States Code. Compared with a full-time government executive who undergoes Congressional confirmation, SGEs are time-limited (Sacks is only able to work 130 days or less in a one-year period), do not have to file the same financial requirements and are not subjected to some of the more stringent conflict of interest requirements, explained McGehee.
+
+The challenge is protecting against not just real conflicts of interest, but, after the Watergate scandal of the 1970s, even the appearance of such conflicts. Usually, oversight for such waivers or divestiture would be performed by the Office of Government Ethics, an independent office — the director of which, David Huitema, was [removed by Trump](https://oge.gov/web/oge.nsf/News%20Releases/FCCCCDB6367A7C0A85258C2D00683079?opendocument "removed by Trump") on February 10.
+
+While SGEs are, by definition, not full-time, their conflict of interest requirements still apply all the time, said Mark Lee Greenblatt, former inspector general for the [US Department of the Interior](https://www.doi.gov/ "US Department of the Interior") and former chair of the [Inspectors General Council](https://www.ignet.gov/ "Inspectors General Council").
+
+Greenblatt, who was fired by Trump on January 24, said, “It’s not like the conflict only applies when you’re on the clock. It’s all the time.”
+
+**Related Article:[Trump Unveils Massive AI Strategy: ‘We Will Not Allow Any Foreign Nation to Beat Us’](https://www.vktr.com/ai-news/trump-unveils-massive-ai-strategy-we-will-not-allow-any-foreign-nation-to-beat-us/ "Related Article: Trump Unveils Massive AI Strategy: ‘We Will Not Allow Any Foreign Nation to Beat Us’")**
+
+![Image 3](https://media.sumome.com/8f6a450acb307f1e1f39eab67def2f53dc83577cc13a1ac0c56945b1937f9b2e)
+
+Join today’s top AI practitioners
+
+and forward thinking leaders
+
+## Sacks’ Unpaid Status Likely Exempts Him From Stricter Disclosure Rules
+
+Different regulations apply to government employees based on factors such as how many days they work and how much they’re paid, according to Greenblatt. It’s complicated, but it boils down to:
+
+*   **Form [278e](https://www.oge.gov/web/278eGuide.nsf/Overview "278e"):** People who are senior, and their financial disclosures are made public
+*   **Form [450](https://www.oge.gov/web/oge.nsf/OGE%20Forms/2026049D943E0C34852585B6005A23CE/$FILE/OGE%20Form%20450%20Confidential%20Financial%20Disclosure%20Report.pdf?open "450"):** People who aren’t senior, and their financial disclosures can be kept private
+
+In addition, those senior people required to fill out a form 278e also need to fill out form [278-T](https://www.oge.gov/web/278eGuide.nsf/Form_278-T "278-T,"), which discloses purchases, sales or exchanges of securities in excess of $1,000 made on behalf of the filer, the filer's spouse or dependent child, within 30 days of receiving notification of a transaction but not later than 45 days after the transaction.
+
+Sacks has stated he is unpaid. Because of that, and the fact that his financial disclosures weren’t made public, it’s likely he doesn’t have to comply with Form 278 regulations.
+
+## Craft Ventures’ New AI Investment Raises Fresh Conflict Questions
+
+“I would argue there is little public confidence that a waiver from the White House Counsel and the agreement is going to be respected as ensuring that there aren’t conflicts or the appearance of conflicts."
+
+**- Meredith McGehee**
+
+Retired Expert on Money, Politics, Ethics & Lobbying
+
+The waivers notwithstanding, AI firm Vultron announced on July 15 that it had [raised $22 million](https://www.prnewswire.com/news-releases/vultron-raises-22-million-to-power-the-agentic-operating-system-for-federal-growth-302504991.html "raised $22 million"), including investments from Craft Ventures. The news raised eyebrows, with Vultron specifically targeting federal procurement using [agentic AI](https://www.vktr.com/ai-technology/ai-agent-vs-agentic-ai-whats-the-difference-and-why-it-matters/ "agentic AI").
+
+In fact, Vultron called out Sacks and his government role in its announcement. “Craft Ventures, co-founded by White House AI adviser David Sacks, backed the round, signaling investor confidence that Vultrons[sic] is the category-defining system for AI-driven federal growth.’
+
+Vultron was not listed on the nearly 30 pages of potentially AI-related investments, such as [software-as-a-service (SaaS)](https://www.vktr.com/ai-technology/will-agentic-ai-mean-the-end-of-saas/ "software-as-a-service (SaaS)") and hardware companies, that Craft still held, according to the June waiver. Sacks does not appear to have addressed the investment in his podcast.
+
+What isn’t clear is to what degree this investment violates the waiver or what repercussions could occur. According to the waiver, “Craft Ventures agrees to consult with the Office of White House Counsel regarding new potential investments prior to closing to ensure any new assets are appropriately considered.” It’s unknown if that happened in this case.
+
+Learning Opportunities[View All](https://www.vktr.com/events/)
+“I would argue there is little public confidence that a waiver from the White House Counsel and the agreement is going to be respected as ensuring that there aren’t conflicts or the appearance of conflicts,” said McGehee.
+
+The White House Press Office did not respond to requests for comment.
+
+Main image:[The White House on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donald_Trump_with_David_Sacks_and_Bo_Hines.jpg)
+
+### About the Author
+
+[![Image 4: Sharon Fisher](https://www.vktr.com/-/media/0bd0beadc81647328687acd17751a908.aspx?mw=120&mh=120)](https://www.vktr.com/author/sharon-fisher/)
+
+Featured Research Most Read Today[![Image 5: What Human-in-the-Loop AI Looks Like in Practice](https://www.vktr.com/-/media/6e39b37193a947aca547fb1aff1c2549.ashx?mw=539)](https://www.vktr.com/ai-ethics-law-risk/human-in-the-loop-is-not-optional/)[![Image 6: Anthropic Sounds the Alarm on Recursive AI While Expanding Its Own Reach](https://www.vktr.com/-/media/6517f29b2e7a4d50a9371b385b5b3033.ashx?mw=539)](https://www.vktr.com/ai-ethics-law-risk/anthropic-sounds-the-alarm-on-recursive-ai-while-expanding-its-own-reach/)[![Image 7: The Recovery Stack Agentic Commerce Requires](https://www.vktr.com/-/media/ff4c04342f1c4626bbd0abbd4bf5fbe9.ashx?mw=539)](https://www.vktr.com/ai-ethics-law-risk/the-forgotten-moment-in-agentic-commerce-what-happens-when-the-agent-is-wrong/)
+
+We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.
+
+![Image 8](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.24613010832996518)![Image 9](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.9a726fe0894082ed46e5d2ab388ecfee4d9a2a6775f9ae01280b4620a608f5f7&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.2345006731867405)![Image 10](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.843494667aecebfc67d4cb1b7a8e8b1a5c0c7d5068e400d2ebb999b6e1d364cc&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.9923401826745714)![Image 11](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.9a726fe0894082ed46e5d2ab388ecfee4d9a2a6775f9ae01280b4620a608f5f7.843494667aecebfc67d4cb1b7a8e8b1a5c0c7d5068e400d2ebb999b6e1d364cc&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.48804604570200005)![Image 12](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.665938644920103)![Image 13](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.ddd584f936f6a54e566f277a0bfffed62cf02ee290c43d6f72f5819db5f372af&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.3871842001661576)![Image 14](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.87cfac5b8c906505340e8d4d2ec2c7bc01fe7f2bf5bddf466e2c94470ba42664&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.759228127105673)![Image 15](https://sumome.com/api/event/?site_id=36515aaf17cb31c360124c239cb5466d583adda88185ad88ee683d8274037c35&app_id=156085c5-0017-4150-b225-a731ad248f38.ddd584f936f6a54e566f277a0bfffed62cf02ee290c43d6f72f5819db5f372af.87cfac5b8c906505340e8d4d2ec2c7bc01fe7f2bf5bddf466e2c94470ba42664&shortcut_id=undefined&visitor_id=71833bf27ae7cf4b01fe7120dd6585374b55962ef9b0ee70a6ddbae934eb4ee3&event=popup&href=https%3A%2F%2Fwww.vktr.com%2Fai-ethics-law-risk%2Fdid-ai-czar-david-sacks-really-divest-new-ai-investment-raises-ethics-questions%2F&ref=null&cache=0.8979689987870453)
+
+![Image 16](https://media.sumome.com/5261a9eb5b4ccf1a29c7f0412c56a8bd27eafc44e21c0dd37eaa3d767967f3cb)
+
+EARLY BIRD PRICING ENDS IN...

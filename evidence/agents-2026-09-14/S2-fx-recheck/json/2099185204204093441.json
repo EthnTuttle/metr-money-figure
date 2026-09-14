@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/lian75864/status/2099185204204093441",
+  "id": "2099185204204093441",
+  "text": "@METR_Evals How can we trust an organization full of former Anthropic employees and ideology to be \"independent\"?",
+  "raw_text": {
+   "text": "@METR_Evals How can we trust an organization full of former Anthropic employees and ideology to be \"independent\"?",
+   "display_text_range": [
+    12,
+    113
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "METR_Evals",
+     "id": "1706770561903497216"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "lian75864",
+   "url": "https://x.com/lian75864",
+   "id": "1718011571383799808",
+   "followers": 188,
+   "following": 871,
+   "likes": 7501,
+   "media_count": 53,
+   "name": "Zhiwei",
+   "description": "Opinions are my own",
+   "raw_description": {
+    "text": "Opinions are my own",
+    "facets": []
+   },
+   "location": "United States",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Fri Oct 27 21:08:56 +0000 2023",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 5,
+  "likes": 298,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 17:15:28 +0000 2026",
+  "created_timestamp": 1789319728,
+  "views": 3390,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "METR_Evals",
+  "replying_to_status": "2097765966088487290",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:55Z",
+ "_http_status": 200
+}

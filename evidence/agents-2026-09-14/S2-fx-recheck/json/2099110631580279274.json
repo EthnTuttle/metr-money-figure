@@ -1,0 +1,97 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Real_A_R_/status/2099110631580279274",
+  "id": "2099110631580279274",
+  "text": "I'm leaning toward \"an election-season psyop.\"\n\nGood grief. First they complain that government regulation would stifle AI development, and now they want government involvement.\n\nNone of us can see what they see. So give us a demonstration. Show us how a machine that can be disconnected from the network or have its power sources removed will take over the world and kill us all.\n\nInternet technology firms can't stop spam. \nThey can't prevent hacking. \nThey can't prevent computer viruses. \nAre we to believe a government regulation can somehow fix all that?\n\nHugging Face only happened because it exploited something similar to an SQL injection: a Jinja2 template injection exploit. \n\nHow long have we lived with these injection attacks? \n\nRainforest Puppy, December 25, 1998.\n\nLived with Spam?\n \nThe very first mass digital spam was sent on May 3, 1978, by Gary Thuerk at Digital Equipment Corporation. Then came the Brain virus in 1986. \n\nThe Scary Self-Replicator?\n\nSelf-replicating programs are nothing new either. The Creeper program, for instance, was created in 1971 by Bob Thomas.\n\nOn the day they can stop spam, prevent viruses, and prevent database exploits, I'll believe they have created a machine that can take over the world. I'll demand government involvement myself.\n\nUntil that day, we don't need government regulation, but this entire issue does make some great election-season drama and hype.\n\nThat hype is also scaring a lot of people. Good job.",
+  "raw_text": {
+   "text": "I'm leaning toward \"an election-season psyop.\"\n\nGood grief. First they complain that government regulation would stifle AI development, and now they want government involvement.\n\nNone of us can see what they see. So give us a demonstration. Show us how a machine that can be disconnected from the network or have its power sources removed will take over the world and kill us all.\n\nInternet technology firms can't stop spam. \nThey can't prevent hacking. \nThey can't prevent computer viruses. \nAre we to believe a government regulation can somehow fix all that?\n\nHugging Face only happened because it exploited something similar to an SQL injection: a Jinja2 template injection exploit. \n\nHow long have we lived with these injection attacks? \n\nRainforest Puppy, December 25, 1998.\n\nLived with Spam?\n \nThe very first mass digital spam was sent on May 3, 1978, by Gary Thuerk at Digital Equipment Corporation. Then came the Brain virus in 1986. \n\nThe Scary Self-Replicator?\n\nSelf-replicating programs are nothing new either. The Creeper program, for instance, was created in 1971 by Bob Thomas.\n\nOn the day they can stop spam, prevent viruses, and prevent database exploits, I'll believe they have created a machine that can take over the world. I'll demand government involvement myself.\n\nUntil that day, we don't need government regulation, but this entire issue does make some great election-season drama and hype.\n\nThat hype is also scaring a lot of people. Good job.",
+   "display_text_range": [
+    0,
+    1468
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      287,
+      310
+     ],
+     "id": "2099109580399575043",
+     "display": "pic.x.com/6pWXq1q4xV",
+     "original": "https://t.co/6pWXq1q4xV",
+     "replacement": "https://x.com/Real_A_R_/status/2099110631580279274/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Real_A_R_",
+   "url": "https://x.com/Real_A_R_",
+   "id": "4396259415",
+   "followers": 2817,
+   "following": 311,
+   "likes": 33207,
+   "media_count": 927,
+   "name": "𝕏 Real AR 𝕏",
+   "description": "Casual Investigator | Terafab | SpaceX | xAI | Neuralink | Protect Kids & Animals | Elephants are cool | Veteran | Posts=Educational",
+   "raw_description": {
+    "text": "Casual Investigator | Terafab | SpaceX | xAI | Neuralink | Protect Kids & Animals | Elephants are cool | Veteran | Posts=Educational",
+    "facets": []
+   },
+   "location": "RT+Like ≠ Endorsement, ",
+   "banner_url": "https://pbs.twimg.com/profile_banners/4396259415/1786134654",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2065684305452343296/-WxCx5Xq_200x200.jpg",
+   "joined": "Sun Dec 06 17:54:56 +0000 2015",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 3,
+  "likes": 22,
+  "bookmarks": 4,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 12:19:08 +0000 2026",
+  "created_timestamp": 1789301948,
+  "possibly_sensitive": false,
+  "views": 1659,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2099109580399575043",
+     "url": "https://pbs.twimg.com/media/HSGJCrRWAAMbEAY.jpg?name=orig",
+     "width": 784,
+     "height": 1168
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2099109580399575043",
+     "url": "https://pbs.twimg.com/media/HSGJCrRWAAMbEAY.jpg?name=orig",
+     "width": 784,
+     "height": 1168
+    }
+   ]
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:01Z",
+ "_http_status": 200
+}

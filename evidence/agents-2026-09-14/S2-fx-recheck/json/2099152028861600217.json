@@ -1,0 +1,302 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/BoringBiz_/status/2099152028861600217",
+  "id": "2099152028861600217",
+  "text": "David Sacks when it comes to dunking on Dario and Sam for AI regulatory capture",
+  "raw_text": {
+   "text": "David Sacks when it comes to dunking on Dario and Sam for AI regulatory capture https://t.co/Dh9PxecF07",
+   "display_text_range": [
+    0,
+    79
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      80,
+      103
+     ],
+     "id": "2099151875513999360",
+     "display": "pic.x.com/Dh9PxecF07",
+     "original": "https://t.co/Dh9PxecF07",
+     "replacement": "https://x.com/BoringBiz_/status/2099152028861600217/video/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "BoringBiz_",
+   "url": "https://x.com/BoringBiz_",
+   "id": "1652717271469506565",
+   "followers": 207963,
+   "following": 1353,
+   "likes": 59110,
+   "media_count": 6592,
+   "name": "Boring_Business",
+   "description": "Nobody asks about your external rate of return",
+   "raw_description": {
+    "text": "Nobody asks about your external rate of return",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1652717271469506565/1706288244",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1819515130528358400/8rlmZQWu_200x200.jpg",
+   "joined": "Sun Apr 30 16:51:25 +0000 2023",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 12,
+  "retweets": 89,
+  "likes": 2011,
+  "bookmarks": 114,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 15:03:38 +0000 2026",
+  "created_timestamp": 1789311818,
+  "possibly_sensitive": false,
+  "views": 85896,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "2099151875513999360",
+     "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099151875513999360/img/dK9Lz_4sWTqCjgSH.jpg",
+     "duration": 27.2,
+     "width": 2510,
+     "height": 2160,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/pl/VEBqxJ4DLxav6cTl.m3u8?tag=29&v=4ad",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/312x270/ywtDyPp1PkhXJZwy.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/418x360/oSPQVjPuc3m9T2BM.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/836x720/etNbhyaGpQouLIwy.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/1254x1080/zcwg3V_LJx8MRRWz.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+       "bitrate": 25128000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/pl/VEBqxJ4DLxav6cTl.m3u8?tag=29&v=4ad",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/312x270/ywtDyPp1PkhXJZwy.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/418x360/oSPQVjPuc3m9T2BM.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/836x720/etNbhyaGpQouLIwy.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/1254x1080/zcwg3V_LJx8MRRWz.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+       "bitrate": 25128000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2099151875513999360",
+     "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099151875513999360/img/dK9Lz_4sWTqCjgSH.jpg",
+     "duration": 27.2,
+     "width": 2510,
+     "height": 2160,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/pl/VEBqxJ4DLxav6cTl.m3u8?tag=29&v=4ad",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/312x270/ywtDyPp1PkhXJZwy.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/418x360/oSPQVjPuc3m9T2BM.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/836x720/etNbhyaGpQouLIwy.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/1254x1080/zcwg3V_LJx8MRRWz.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+       "bitrate": 25128000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/pl/VEBqxJ4DLxav6cTl.m3u8?tag=29&v=4ad",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/312x270/ywtDyPp1PkhXJZwy.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/418x360/oSPQVjPuc3m9T2BM.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/836x720/etNbhyaGpQouLIwy.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/1254x1080/zcwg3V_LJx8MRRWz.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099151875513999360/vid/avc1/2510x2160/ebC5x9hnrCiJk4wM.mp4?tag=29",
+       "bitrate": 25128000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "quote": {
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "id": "2098973625252708460",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+   "raw_text": {
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+    "display_text_range": [
+     0,
+     2152
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "DavidSacks",
+    "url": "https://x.com/DavidSacks",
+    "id": "1137701",
+    "followers": 1739135,
+    "following": 3525,
+    "likes": 94114,
+    "media_count": 1280,
+    "name": "David Sacks",
+    "description": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+    "raw_description": {
+     "text": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1137701/1667750503",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+    "joined": "Wed Mar 14 04:14:58 +0000 2007",
+    "protected": false,
+    "website": {
+     "url": "http://sacks.substack.com",
+     "display_url": "sacks.substack.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 3053,
+   "retweets": 10858,
+   "likes": 64743,
+   "bookmarks": 13157,
+   "quotes": 2361,
+   "created_at": "Sun Sep 13 03:14:43 +0000 2026",
+   "created_timestamp": 1789269283,
+   "views": 8240216,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for iPhone",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:36Z",
+ "_http_status": 200
+}

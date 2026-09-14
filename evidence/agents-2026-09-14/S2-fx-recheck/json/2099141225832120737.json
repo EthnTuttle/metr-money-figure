@@ -1,0 +1,292 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/BrianRoemmele/status/2099141225832120737",
+  "id": "2099141225832120737",
+  "text": "BOOM! I BROKE OPEN THE AI DOOM CULT!\n\nMajor AI Labs just handed over super powers to a shady group called METR some may very well know who they are and some AI leaders may not.\n\nThis Beth Barnes the founder and CEO of METR and is a leader in the Effective Altruism cult. You can’t make this stuff up.\n\nFull article out soon at http://ReadMultiplex.com.\n\nHere is Beth who makes a good couple with Temu Harry Potter given her passionate speech on how to engineer people and their goals like software.",
+  "raw_text": {
+   "text": "BOOM! I BROKE OPEN THE AI DOOM CULT!\n\nMajor AI Labs just handed over super powers to a shady group called METR some may very well know who they are and some AI leaders may not.\n\nThis Beth Barnes the founder and CEO of METR and is a leader in the Effective Altruism cult. You can’t make this stuff up.\n\nFull article out soon at https://t.co/tcKeuiQyql.\n\nHere is Beth who makes a good couple with Temu Harry Potter given her passionate speech on how to engineer people and their goals like software.",
+   "display_text_range": [
+    0,
+    497
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2099141112560758784",
+     "display": "pic.x.com/okTWeIwQVm",
+     "original": "https://t.co/okTWeIwQVm",
+     "replacement": "https://x.com/BrianRoemmele/status/2099141225832120737/video/1"
+    },
+    {
+     "type": "url",
+     "indices": [
+      327,
+      350
+     ],
+     "original": "https://t.co/tcKeuiQyql",
+     "replacement": "http://ReadMultiplex.com",
+     "display": "ReadMultiplex.com"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "BrianRoemmele",
+   "url": "https://x.com/BrianRoemmele",
+   "id": "101584084",
+   "followers": 487895,
+   "following": 44135,
+   "likes": 704394,
+   "media_count": 50787,
+   "name": "Brian Roemmele",
+   "description": "we can only see what we think is possible...",
+   "raw_description": {
+    "text": "we can only see what we think is possible...",
+    "facets": []
+   },
+   "location": "transcendence",
+   "banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_200x200.png",
+   "joined": "Sun Jan 03 22:04:29 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "http://readmultiplex.com/",
+    "display_url": "readmultiplex.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 138,
+  "retweets": 270,
+  "likes": 969,
+  "bookmarks": 384,
+  "quotes": 42,
+  "created_at": "Sun Sep 13 14:20:43 +0000 2026",
+  "created_timestamp": 1789309243,
+  "possibly_sensitive": false,
+  "views": 121400,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "2099141112560758784",
+     "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099141112560758784/img/QUlK-kAWVpTTyJxU.jpg",
+     "duration": 361.79,
+     "width": 640,
+     "height": 360,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/pl/OcPgdrlFmEreGNkH.m3u8?tag=29&v=ee8",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/480x270/IiTYFdGhdS_vvZuk.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/pl/OcPgdrlFmEreGNkH.m3u8?tag=29&v=ee8",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/480x270/IiTYFdGhdS_vvZuk.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2099141112560758784",
+     "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099141112560758784/img/QUlK-kAWVpTTyJxU.jpg",
+     "duration": 361.79,
+     "width": 640,
+     "height": 360,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/pl/OcPgdrlFmEreGNkH.m3u8?tag=29&v=ee8",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/480x270/IiTYFdGhdS_vvZuk.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/pl/OcPgdrlFmEreGNkH.m3u8?tag=29&v=ee8",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/480x270/IiTYFdGhdS_vvZuk.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099141112560758784/vid/avc1/640x360/Cto3c1R1U9d-JlWi.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "quote": {
+   "url": "https://x.com/BrianRoemmele/status/2099136962930381307",
+   "id": "2099136962930381307",
+   "text": "Out soon at http://ReadMultiplex.com.\n\nMETR was just given super access and super power over AI and its direction.\n\nYou will not believe who they are.\n\nModel Evaluation and Threat Research (METR), pronounced “meter,” presents itself as an independent nonprofit dedicated to scientifically measuring whether frontier AI systems can autonomously complete long-horizon tasks that might pose catastrophic risks. In practice it has become one of the most influential unofficial regulators in the field.\n\nI will release this soon.",
+   "raw_text": {
+    "text": "Out soon at https://t.co/tcKeuiQyql.\n\nMETR was just given super access and super power over AI and its direction.\n\nYou will not believe who they are.\n\nModel Evaluation and Threat Research (METR), pronounced “meter,” presents itself as an independent nonprofit dedicated to scientifically measuring whether frontier AI systems can autonomously complete long-horizon tasks that might pose catastrophic risks. In practice it has become one of the most influential unofficial regulators in the field.\n\nI will release this soon.",
+    "display_text_range": [
+     0,
+     523
+    ],
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       12,
+       35
+      ],
+      "original": "https://t.co/tcKeuiQyql",
+      "replacement": "http://ReadMultiplex.com",
+      "display": "ReadMultiplex.com"
+     },
+     {
+      "type": "media",
+      "indices": [
+       273,
+       296
+      ],
+      "id": "2099136959201640448",
+      "display": "pic.x.com/t2bOpzEG7u",
+      "original": "https://t.co/t2bOpzEG7u",
+      "replacement": "https://x.com/BrianRoemmele/status/2099136962930381307/photo/1"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "BrianRoemmele",
+    "url": "https://x.com/BrianRoemmele",
+    "id": "101584084",
+    "followers": 487895,
+    "following": 44135,
+    "likes": 704394,
+    "media_count": 50787,
+    "name": "Brian Roemmele",
+    "description": "we can only see what we think is possible...",
+    "raw_description": {
+     "text": "we can only see what we think is possible...",
+     "facets": []
+    },
+    "location": "transcendence",
+    "banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_200x200.png",
+    "joined": "Sun Jan 03 22:04:29 +0000 2010",
+    "protected": false,
+    "website": {
+     "url": "http://readmultiplex.com/",
+     "display_url": "readmultiplex.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 25,
+   "retweets": 35,
+   "likes": 184,
+   "bookmarks": 34,
+   "quotes": 7,
+   "created_at": "Sun Sep 13 14:03:46 +0000 2026",
+   "created_timestamp": 1789308226,
+   "possibly_sensitive": false,
+   "views": 64528,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "type": "photo",
+      "id": "2099136959201640448",
+      "url": "https://pbs.twimg.com/media/HSGh8VQbgAAWVDW.jpg?name=orig",
+      "width": 1280,
+      "height": 720
+     }
+    ],
+    "photos": [
+     {
+      "type": "photo",
+      "id": "2099136959201640448",
+      "url": "https://pbs.twimg.com/media/HSGh8VQbgAAWVDW.jpg?name=orig",
+      "width": 1280,
+      "height": 720
+     }
+    ]
+   },
+   "source": "Twitter for iPhone",
+   "twitter_card": "summary_large_image",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:22Z",
+ "_http_status": 200
+}

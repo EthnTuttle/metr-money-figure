@@ -1,0 +1,83 @@
+
+Joe Benton left Anthropic a day before Dario's post, to work for METR evaluation... | Hacker News
+Hacker News
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+login
+nullbio
+21 hours ago
+ | 
+parent
+ | 
+context
+ | 
+favorite
+ |  on: 
+Everyone should slow down AI development except fo...
+Joe Benton left Anthropic a day before Dario's post, to work for METR evaluations. He was with Anthropic for over a year. He did the same thing that Jacob did (big song and dance about AI apocalypse, media interviews all over the place). He managed the Scalable Oversight team at Anthropic and was the research lead for the Anthropic Fellows Program. So he has equity, and likely lots of it.
+Then you have Josh Engels quitting DeepMind to work for METR the day before as well, doing the exact same thing. Again, doomer drama all over socials, interviews, and so on.
+Did I mention METR is founded by an ex-OpenAI researcher?
+Now you have Demis Hassabis, Sam Altman and Dario, all circlejerking eachother on X saying "we all agree with Dario" - while they ask to be "regulated" by the company that has all of their combined equity-holding ex-employees in it.
+METR's salaries are listing around 500k/yr. Gee, I wonder where this non-profit with ~35 people is getting all of its money?
+So the fact that Dario tries to frame it as an "independent third party" is all the evidence you need to know that Dario is a pathological liar and always will be.
+---
+Some more info:
+Dario's sister, president of Anthropic, is married to the co-founder of Open Philanthropy. The two largest AI doomer NGOs, Center for AI Safety (CAIS) and the Future of Life Institute (FLI), have both received many millions of dollars from them.
+Ajeya Cotra worked at Open Philanthropy/Coefficient Giving for roughly nine years, including leading its technical AI-safety program in 2024 and contributing to AI-giving strategy in 2025. She subsequently left Coefficient and joined METR, where she is now technical staff.
+Ajeya is married to Paul Christiano, who founded Alignment Research Center (ARC). Alignment Research Center donated ~$4.5mil to METR.
+Good Ventures is a funding partner of Open Philanthropy, who funded Jacob Coxon (the first of the Anthropic employees going viral in the media) via a scholarship.
+help
+Turn_Trout
+12 hours ago
+[–]
+> Good Ventures is a funding partner of Open Philanthropy, who funded Jacob Coxon (the first of the Anthropic employees going viral in the media) via a scholarship.
+This conspiracy theory is truly crazy. A $20K scholarship in 2022 is supposed to explain Coxon walking away from unvested equity for a company worth over $950 billion dollars?
+reply
+nullbio
+6 hours ago
+ | 
+parent
+ | 
+next
+[–]
+Obviously not, and that's not what it demonstrates. It demonstrates relationships, collusion and favoritism.
+I don't think Coxon was ever planning on or entitled to taking equity, I think this was the plan from the beginning and why he was hired for 6 weeks to begin with.
+reply
+nativeit
+6 hours ago
+ | 
+parent
+ | 
+prev
+[–]
+The company is 
+valued
+ over $950B. It remains to be seen how much it’s worth.
+reply
+Guidelines
+ | 
+FAQ
+ | 
+Lists
+ | 
+API
+ | 
+Security
+ | 
+Legal
+ | 
+Apply to YC
+ | 
+Contact
+Search: 

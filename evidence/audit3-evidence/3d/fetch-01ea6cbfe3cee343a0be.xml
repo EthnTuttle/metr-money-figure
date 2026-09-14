@@ -1,0 +1,954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-13T13:03:15-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Baker Tilly Advisory Group LP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3 Lagoon Drive Ste 400</AddressLine1Txt>
+        <CityNm>Redwood CIty</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94065</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>201164239</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HIGH TIDE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% CORIENT</InCareOfNm>
+      <BusinessNameControlTxt>OVER</BusinessNameControlTxt>
+      <PhoneNum>2122072122</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O CORIENT101 PARK AVESTE 3100</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10178</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RICHARD H LAWRENCE</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2122072122</PhoneNum>
+      <SignatureDt>2025-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GEORGE D MARINOS</PreparerPersonNm>
+      <PTIN>P00305572</PTIN>
+      <PhoneNum>6503654646</PhoneNum>
+      <PreparationDt>2025-11-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="15">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>140530008</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2150784</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>25</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>25</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>1700328</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2404080</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>6265125</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>16375967</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>7361255</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">276469</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-272728</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>10392731</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>9492632</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">277399</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>277399</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">81035</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>24520</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>71525</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">950260</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>820092</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>78168</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">376475</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>54929</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSch">3799</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>181690</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>176937</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">2033862</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>235778</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>2031976</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>3904520</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1135319</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2636005</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>2977471</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>2333334</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>6881991</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1135319</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>4969339</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>3510740</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>8357313</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>131362</CashBOYAmt>
+        <CashEOYAmt>207847</CashEOYAmt>
+        <CashEOYFMVAmt>207847</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>17169368</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>9661439</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>9661439</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>250373</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>302469</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>302469</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>70333385</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">90012385</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>90012385</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>33219589</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">37154035</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>37154035</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>130056</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>128803</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>4497</LandBOYAmt>
+        <LandEOYAmt>1253</LandEOYAmt>
+        <LandEOYFMVAmt>1253</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">6368970</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">3190580</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">3190580</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>127477544</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>140530008</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>140530008</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>760264</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>951894</AccountsPayableEOYAmt>
+        <GrantsPayableEOYAmt>666666</GrantsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>760264</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1618560</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>126717280</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>138911448</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>126717280</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>138911448</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>127477544</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>140530008</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>126717280</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>3510740</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch">15748547</OtherIncreasesAmt>
+        <SubtotalAmt>145976567</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">7065119</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>138911448</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>15279837</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9014712</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6265125</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6265125</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PARTNERSHIP - CAPITAL GAIN</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>1096130</GrossSalesPriceAmt>
+          <GainOrLossAmt>1096130</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1096130</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>7361255</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>116167</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>116167</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>116167</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>272528</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>272528</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>156361</OverpaymentAmt>
+        <AppliedToESTaxAmt>156361</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>https://www.hightidefoundation.org/</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>CORIENT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2122072122</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>101 PARK AVESTE 3100</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD H LAWRENCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O CORIENT101 PARK AVESTE 3100</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10178</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEE M LAWRENCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O CORIENT101 PARK AVESTE 3100</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10178</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILLIP S LAWRENCE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O CORIENT101 PARK AVESTE 3100</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10178</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName referenceDocumentId="ContractCompenExpln">
+            <BusinessNameLine1Txt>Baker Tilly Advisory Group LP</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>3 LAGOON DRIVE STE 400</AddressLine1Txt>
+            <CityNm>REDWOOD CITY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94087</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>TAX SERVICES</ServiceTypeTxt>
+          <CompensationAmt>50437</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName referenceDocumentId="ContractCompenExpln">
+            <BusinessNameLine1Txt>ERNST &amp; YOUNG LLP</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>200 PLAZA DRIVE</AddressLine1Txt>
+            <CityNm>SECAUCUS</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07094</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>CONSULTING SERICES</ServiceTypeTxt>
+          <CompensationAmt>80000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName referenceDocumentId="ContractCompenExpln">
+            <BusinessNameLine1Txt>Riley Duren</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>425 E Canyon View Place</AddressLine1Txt>
+            <CityNm>TUCSON</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85704</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>PROGRAM CONSULTING</ServiceTypeTxt>
+          <CompensationAmt>170500</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName referenceDocumentId="ContractCompenExpln">
+            <BusinessNameLine1Txt>LEADERS QUEST</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>208-10 CROSS ISLAND PARKWAY</AddressLine1Txt>
+            <CityNm>BAYSIDE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11360</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>GRANT CONSULTING</ServiceTypeTxt>
+          <CompensationAmt>68117</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE FOUNDATION IS DEDICATED TO MAKING A SIGNIFICANT, MEASURABLE IMPACT ON THE LIVES OF ALL PEOPLE. (SEE ATTACHMENT A)</Description1Txt>
+        <Expenses1Amt>491397</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>INVEST IN CHARITABLE PROGRAM RUN BY PROYEECTO MIRADOR FOUNDATION. THE PROGRAM IS FOR CONSTRUCTION OF FUEL- EFFICIENT COOKSTOVES IN RURAL HONDURAS &amp; CENTRAL AMERICA.</Description1Txt>
+        <Expenses1Amt>6000000</Expenses1Amt>
+        <TotalAmt>6000000</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>75363221</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>18995659</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>36780451</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>131139331</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>131139331</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1967090</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>129172241</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>6458612</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>6458612</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>116167</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>116167</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>6342445</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>6342445</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>6342445</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>4969339</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>6000000</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>10969339</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>6342445</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2022</PriorYear1Yr>
+        <PriorYear2Yr>2021</PriorYear2Yr>
+        <PriorYear3Yr>2020</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>18635535</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>7463816</ExcessDistributionCyovYr4Amt>
+        <TotalExcessDistributionCyovAmt>26099351</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>10969339</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>6342445</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4626894</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>30726245</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>18635535</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>12090710</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>7463816</ExcessFromYear4Amt>
+        <ExcessFromCurrentYearAmt>4626894</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>RICHARD H AND DEE M LAWRENCE</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE RAND CORPORATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1776 MAIN STREET</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 2138</AddressLine2Txt>
+            <CityNm>SANTA MONICA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support tTHE PROJECT CANARY</GrantOrContributionPurposeTxt>
+          <Amt>333334</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DOS POR TRES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>53 STATE STREET</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT CHARITABLE PROGRAMS.</GrantOrContributionPurposeTxt>
+          <Amt>2000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>2333334</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>25</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <BusinessCd>900099</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>1624</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1698704</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>900099</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>127496</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>6137629</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp>
+          <ExclusionCd>16</ExclusionCd>
+        </NetIncomeLossFromSpecialEvtGrp>
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>EXCISE TAX</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>276469</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>129120</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>8112827</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>8241947</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>265141</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>414654</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>163464</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>62917</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>5</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>175256</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>6</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>143773</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>7</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>146851</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>8</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>224291</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>9</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>171685</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>10</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>162262</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>11</ContributorNum>
+        <ContributorPersonNm>RICHARD H DEE M LAWRENCE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>C/O CORIENT 101 PARK AVE STE 310</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10178</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>217537</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>1,894 SH AMD AVE 139.99</NoncashPropertyDesc>
+        <FairMarketValueAmt>265141</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>1,299 SH ARISTA NETWORKS INC AVE 319.21</NoncashPropertyDesc>
+        <FairMarketValueAmt>414654</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>3</ContributorNum>
+        <NoncashPropertyDesc>184 SH ASML HOLDING V NY AVE 888.39</NoncashPropertyDesc>
+        <FairMarketValueAmt>163464</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>4</ContributorNum>
+        <NoncashPropertyDesc>17 SH BOOKING HOLDINGS INC AVE 3,701</NoncashPropertyDesc>
+        <FairMarketValueAmt>62917</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>5</ContributorNum>
+        <NoncashPropertyDesc>510 SH CIGNA GROUP AVE 343.64</NoncashPropertyDesc>
+        <FairMarketValueAmt>175256</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>6</ContributorNum>
+        <NoncashPropertyDesc>227 SH INTUIT INC AVE 633.36</NoncashPropertyDesc>
+        <FairMarketValueAmt>143773</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>7</ContributorNum>
+        <NoncashPropertyDesc>1,020 SH LVMH MOET HENNESSY LOUIS VUITTON SA AVE 143.97</NoncashPropertyDesc>
+        <FairMarketValueAmt>146851</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>8</ContributorNum>
+        <NoncashPropertyDesc>1,029 SH MARSH &amp; MCLENNAN COS INC AVE 217.97</NoncashPropertyDesc>
+        <FairMarketValueAmt>224291</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>9</ContributorNum>
+        <NoncashPropertyDesc>2,564 SH NASDAQ INC AVE 66.96</NoncashPropertyDesc>
+        <FairMarketValueAmt>171685</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>10</ContributorNum>
+        <NoncashPropertyDesc>257 SH NETFLIX INC AVE 631.37</NoncashPropertyDesc>
+        <FairMarketValueAmt>162262</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>11</ContributorNum>
+        <NoncashPropertyDesc>777 SH VERISK ANALYTICS INC AVE 279.97</NoncashPropertyDesc>
+        <FairMarketValueAmt>217537</FairMarketValueAmt>
+        <ReceivedDt>2024-07-29</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>81035</Amt>
+        <NetInvestmentIncomeAmt>24520</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>71525</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ContractorCompensationExpln documentId="ContractCompenExpln">
+      <ContractorCompExplnGrp>
+        <ContractorPersonNm>Baker Tilly Advisory Group LP</ContractorPersonNm>
+        <ExplanationTxt>TO PROVIDE TAX SERVICES.</ExplanationTxt>
+      </ContractorCompExplnGrp>
+      <ContractorCompExplnGrp>
+        <ContractorPersonNm>ERNST YOUNG LLP</ContractorPersonNm>
+        <ExplanationTxt>TO PROVIDE CONSULTING SERVICES FOR ACCOUNTING.</ExplanationTxt>
+      </ContractorCompExplnGrp>
+      <ContractorCompExplnGrp>
+        <ContractorPersonNm>Riley Duren</ContractorPersonNm>
+        <ExplanationTxt>TO PROVIDE CONSULTING SERVICE FOR THE FOUNDATION'S PROGRAMS</ExplanationTxt>
+      </ContractorCompExplnGrp>
+      <ContractorCompExplnGrp>
+        <ContractorPersonNm>LEADERS QUEST</ContractorPersonNm>
+        <ExplanationTxt>TO PROVIDE CONSULTING SERVICES FOR THE PROGARMS AND GRANTS.</ExplanationTxt>
+      </ContractorCompExplnGrp>
+    </ContractorCompensationExpln>
+    <DepreciationSchedule documentId="DepreciationSch">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SOFTWARE</PropertyDesc>
+        <AcquiredDt>2018-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>21215</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21215</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEASEHOLD IMPROVEM</PropertyDesc>
+        <AcquiredDt>2000-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>11846</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11846</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>10</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER EQUIPMENT</PropertyDesc>
+        <AcquiredDt>2015-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>100245</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>100245</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER HARDWARE</PropertyDesc>
+        <AcquiredDt>2021-08-01</AcquiredDt>
+        <CostOrOtherBasisAmt>7547</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3544</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>3450</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER HARDWARE</PropertyDesc>
+        <AcquiredDt>2024-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1048</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3</LifeRt>
+        <CurrentYearExpenseAmt>349</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PUBLICLY TRADED SECURITIES</StockNm>
+        <EOYBookValueAmt>90012385</EOYBookValueAmt>
+        <EOYFMVAmt>90012385</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OVERLOOK 3G INVESTMENTS LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>4748450</BookValueAmt>
+        <EOYFMVAmt>4748450</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>THE OVERLOOK PARTNERS FUND LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>15786281</BookValueAmt>
+        <EOYFMVAmt>15786281</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HEDGE FUND INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>8873749</BookValueAmt>
+        <EOYFMVAmt>8873749</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PRIVATE EQUITY INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>6414429</BookValueAmt>
+        <EOYFMVAmt>6414429</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>REAL ESTATE EQUITY INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1331126</BookValueAmt>
+        <EOYFMVAmt>1331126</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>GENERAL CORPORATE COUNSEL</CategoryTxt>
+        <LegalFeesAmt>277399</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>277399</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>WORLDVIEW INVESTMENTS</Desc>
+        <BOYBookValueAmt>3155000</BOYBookValueAmt>
+        <EOYBookValueAmt>3155000</EOYBookValueAmt>
+        <EOYFMVAmt>3155000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DUE FROM MRYD</Desc>
+        <BOYBookValueAmt>31010</BOYBookValueAmt>
+        <EOYBookValueAmt>3302</EOYBookValueAmt>
+        <EOYFMVAmt>3302</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>OTHER RECEIVABLES</Desc>
+        <BOYBookValueAmt>3182960</BOYBookValueAmt>
+        <EOYBookValueAmt>32278</EOYBookValueAmt>
+        <EOYFMVAmt>32278</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>CURRENT YEAR PROGRAM RELATED INVESTMENT</Desc>
+        <Amt>6000000</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>DJUSTMENT FOR AUDIT STATEMENTS</Desc>
+        <Amt>1065119</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3216</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3049</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>39191</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>39191</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PERSONNEL COSTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1501388</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1501388</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PARTNERSHIP INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>203509</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>5793</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6630</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE DEVELOPMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>5153</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4535</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SOFTWARE &amp; HARDWARE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>67245</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>68440</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROFESSIONAL EDUCATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>10000</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>GRANT MAKING CONFERENCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>17110</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20262</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>11078</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11078</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>414</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>378</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>538</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>470</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROGRAM EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>340468</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>376555</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AMROTIZED PURCHASE CONTRACT</Desc>
+        <RevenueAndExpensesPerBooksAmt>32268</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>32269</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>EXCISE TAX REFUND</Desc>
+        <RevenueAndExpensesPerBooksAmt>276469</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>PARTNERSHIP INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-272728</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>CHANGE OF UNREALIZED GAIN/LOSS</Desc>
+        <Amt>15748547</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>117321</Amt>
+        <DisbursementsCharitablePrpsAmt>65321</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>IT CONSULTING FEES</CategoryTxt>
+        <Amt>12847</Amt>
+        <DisbursementsCharitablePrpsAmt>12847</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISING FEES</CategoryTxt>
+        <Amt>820092</Amt>
+        <NetInvestmentIncomeAmt>820092</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <NetInvestmentIncomeAmt>54929</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAXES</CategoryTxt>
+        <Amt>376475</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

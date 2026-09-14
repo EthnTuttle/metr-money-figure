@@ -1,0 +1,154 @@
+[ld:description] Who owns Anthropic and how much: founders (2-3% each, \$7.6-11.4B), strategic investors (Google 14%, Amazon significant minority), EA-aligned investors (Tallinn \$2-6B, Moskovitz \$3-9B), and employee equity pool (12-18%, \$46-68B). At \$380B Series G (Feb 2026); secondary markets imply ~\$595B (Mar 2026).
+[ld:headline] Anthropic Stakeholders
+[ld:dateModified] 2026-03-22
+=====BODY=====
+ Anthropic Stakeholders | Longterm Wiki 
+ Skip to content Longterm Wiki Search Entities 
+ Research 
+ Policy 
+ Sources 
+ FactBase About Internal 
+ Search ⌘K 
+ Wiki Organizations Anthropic Stakeholders Updated 2026-03-22 History Data Feedback 
+ Page Status Content Table 
+ Edited 6 months ago 980 words 4 backlinks Updated biweekly Overdue by 162 days 
+ 60 Quality Good • Quality: 60/100 LLM-assigned rating of overall page quality, considering depth, accuracy, and completeness. Structure suggests 87 85 Importance High Importance: 85/100 How central this topic is to AI safety. Higher scores mean greater relevance to understanding or mitigating AI risk. 85 Research High Research Value: 85/100 How much value deeper investigation of this topic could yield. Higher scores indicate under-explored topics with high insight potential. 
+ Content 7 / 12 
+ Summary Summary Basic text summary used in search results, entity link tooltips, info boxes, and related page cards. Schedule Schedule How often the page should be refreshed. Drives the overdue tracking system. Entity Entity YAML entity definition with type, description, and related entries. Edit history 4 Edit history Tracked changes from improve pipeline runs and manual edits. 
+ – Tables 3 / ~ 5 Tables Data tables for structured comparisons and reference material. Add data tables to the page Diagrams 0 Diagrams Visual content — Mermaid diagrams or charts. Add Mermaid diagrams Int. links 23 / ~ 5 Int. links Links to other wiki pages. More internal links = better graph connectivity. Ext. links 8 / ~ 3 Ext. links Links to external websites, papers, and resources outside the wiki. Footnotes 0 / ~ 2 Footnotes Footnote citations [^N] with source references at the bottom of the page. Add [^N] footnote citations References 6 / ~ 2 References Curated external resources linked via <R> components or cited_by in YAML. Quotes 0 Quotes Supporting quotes extracted from cited sources to back up page claims. crux citations extract-quotes <id> Accuracy 0 Accuracy Citations verified against their sources for factual accuracy. crux citations verify <id> Ratings N:3 R:5 A:7 C:6 Ratings Sub-quality ratings: Novelty, Rigor, Actionability, Completeness (0-10 scale). Backlinks 4 Backlinks Number of other wiki pages that link to this page. Higher backlink count means better integration into the knowledge graph. 
+ Change History 4 
+ Enhanced Anthropic stakeholders table with HoverCards, entity previews, full-bleed layout 7 months ago 
+ Multi-round enhancement of the Anthropic stakeholders page. Session 1: added 5 canonical facts, refactored table into server+client split, column toggles, pledge ranges. Session 2: replaced FactRef hash badges with Radix HoverCard popovers on values (interactive, stays open); added EntityPreviewLink hover cards on stakeholder names; added live valuation input so users can recalculate at custom valuations; added `contentFormat: table` + `hideSidebar: true` to hide left sidebar and give table full container width; added `prose-constrain-text` CSS to keep text at 65rem while table component uses full 90rem container; fixed EA connections (Chris Olah and Jack Clark upgraded to "Moderate"; Tom/Jared/Sam updated to "Weak/unknown" with reasoning); added Methodology & Assumptions section explaining how all estimates were derived.
+ sonnet-4-6 · ~2h (two sessions)
+ PR polish + frontmatter update # 295 7 months ago 
+ Updated PR #295 description to check off the already-satisfied CI lint item and annotate remaining test plan items as human-action-required. Updated `anthropic-stakeholders.mdx` frontmatter: raised `readerImportance` and `researchImportance` to 85, set `update_frequency` to 14 days. Ran full gate check (7/7 passed). Marked issue #294 done.
+ sonnet-4 · ~15min
+ Create dedicated Anthropic stakeholder page 7 months ago 
+ Created a new dedicated `anthropic-stakeholders` page with the most shareable ownership tables (all stakeholders with stakes, values, EA alignment), added a condensed stakeholder summary to the top of the main Anthropic page, and wrote 4 proposed GitHub issues for broader system changes (datasets infrastructure, importance metrics rethink, concrete data expansion, continuous maintenance).
+ opus-4-6 · ~30min
+ Enhance fact system on Anthropic stakeholders page 7 months ago 
+ Added 8 new canonical facts to `data/facts/anthropic.yaml` (Google stake %, Google/Amazon investments, founder equity totals, EA-aligned capital range), a new `equity-stake-percent` measure, and built a programmatic `AnthropicStakeholdersTable` React component with derived "Exp. Donated" and "Exp. EA-Effective" columns that auto-scale with the current valuation fact. Updated the MDX page to use `<F>` components for volatile inline figures.
+ sonnet-4 · ~30min
+ Issues 3 
+ Quality Rated 60 but structure suggests 87 (underrated by 27 points) 
+ Links 7 links could use <R> components 
+ Stale Last edited 176 days ago - may need review 
+ Anthropic Stakeholders
+ Data as of March 2026
+ All values at $380B Valuation $380B As of: Feb 2026 Series G post-money valuation; second-largest venture deal ever behind OpenAI's $40B Source: reuters.com sid_mK9pX3rQ7n . valuation → post-money valuation ( Anthropic Organization Anthropic Comprehensive reference page on Anthropic covering financials ($380B valuation, $14B ARR at Series G growing to $19B by March 2026), safety research (Constitutional AI, mechanistic interpretability... Quality: 74 /100 Series G, Feb 2026). Secondary/derivatives markets imply ≈$595B (Ventuals, Mar 2026) — at that pricing, all dollar values below would scale by approximately 1.57x. A $5-6B employee tender offer launched Feb 2026 at $350B pre-money. For detailed analysis of EA-aligned capital flows, see Anthropic (Funder) Analysis Anthropic (Funder) Comprehensive model of EA-aligned philanthropic capital at Anthropic. At $380B valuation (Series G, Feb 2026, $30B raised): $27-76B risk-adjusted EA capital expected. Total funding raised exceeds $... Quality: 65 /100 . For valuation scenarios and secondary market breakdown, see Anthropic Valuation Analysis Analysis Anthropic Valuation Analysis Valuation analysis updated March 2026. Series G closed at $380B (Feb 2026) with $14B run-rate; by March 2026, secondary/derivatives markets price Anthropic at ~$595B implied (Ventuals), a 57% premi... Quality: 72 /100 .
+ Stakeholder Ownership & Philanthropy
+ The table below shows each stakeholder's estimated equity stake, the fraction pledged to charitable giving ("Pledge %"), the estimated probability those donations go to EA-aligned causes ("EA Align %"), and two derived columns: expected donated dollars and expected EA-effective giving. All values scale automatically with the current valuation.
+ Anthropic Stakeholder Ownership & Philanthropy as of 2026-02 
+ Dollar values at $380B valuation. Pledge % = fraction of equity pledged to charity. EA Align % = estimated probability donations go to EA-aligned causes.
+ Columns: Category Stake Value Pledge % EA Align Donated EA-Effective 
+ Adjust valuation: $ B 
+ Stakeholder Category Est. Stake Value at $380B Pledge % EA Align % Exp. Donated Exp. EA-Effective 
+ Amazon $10.75B invested; exact stake undisclosed; primary cloud partner Strategic investor Undisclosed Not checked — — — — — 
+ Sam McCandlish Alignment researcher; no publicly documented EA connections Co-founder 2–3% Not checked $7.6B–$11.4B 80% Verified 15–30%  ·  Low Not checked $6.1B–$9.1B $0.9B–$2.7B 
+ Dustin Moskovitz $500M already in Good Ventures nonprofit vehicle Early investor 0.8–2.5% Not checked $3.0B–$9.5B 95% Not checked 90–95%  ·  Very high Not checked $2.9B–$9.0B $2.6B–$8.6B 
+ Employee Equity Pool Pledge rates vary: pre-2025 hires up to 50% with 3:1 match; post-2024 hires 25% with 1:1 match. Employees 12–18% Not checked $45.6B–$68.4B 25–50% 40–70%  ·  Medium $11.4B–$34.2B $4.6B–$23.9B 
+ Daniela Amodei Married to Holden Karnofsky (GiveWell co-founder) Co-founder, President 2–3% Not checked $7.6B–$11.4B 80% Verified 80–90%  ·  Very high Not checked $6.1B–$9.1B $4.9B–$8.2B 
+ Jared Kaplan Scaling laws pioneer; safety-motivated co-founder; no documented EA pledge Co-founder, Chief Scientist 2–3% Not checked $7.6B–$11.4B 80% Verified 15–30%  ·  Low Not checked $6.1B–$9.1B $0.9B–$2.7B 
+ Dario Amodei GWWC signatory; early GiveWell supporter Co-founder, CEO 2–3% Not checked $7.6B–$11.4B 80% Verified 80–90%  ·  Very high Not checked $6.1B–$9.1B $4.9B–$8.2B 
+ Jack Clark Former OpenAI Policy Director; responsible AI advocate; EA-adjacent framing Co-founder 2–3% Not checked $7.6B–$11.4B 80% Verified 30–50%  ·  Medium Not checked $6.1B–$9.1B $1.8B–$4.6B 
+ Chris Olah Interpretability pioneer; participated in EA events; safety-focused Co-founder 2–3% Not checked $7.6B–$11.4B 80% Verified 40–60%  ·  Medium Not checked $6.1B–$9.1B $2.4B–$5.5B 
+ Series G Institutional GIC, Coatue, D.E. Shaw, Dragoneer, Founders Fund, ICONIQ, MGX Institutional Undisclosed Not checked — — — — — 
+ Google / Alphabet $3.3B invested across 3 rounds; no philanthropic pledge Strategic investor 13–15% Not checked $49.4B–$57.0B — — — — 
+ Tom Brown GPT-3 lead author; chose Anthropic's safety mission over other options Co-founder 2–3% Not checked $7.6B–$11.4B 80% Verified 15–30%  ·  Low Not checked $6.1B–$9.1B $0.9B–$2.7B 
+ Jaan Tallinn Led Series A; Skype co-founder; major AI safety funder Early investor 0.6–1.7% Not checked $2.3B–$6.5B 90% Not checked 90–95%  ·  Very high Not checked $2.1B–$5.8B $1.8B–$5.5B 
+ Totals (pledged stakeholders) $58.9B–$112.9B $25.7B–$72.7B 
+ Ranges reflect uncertainty. Pledges are not legally binding.
+ Total funding raised : $67B Total Funding Raised $67B As of: Feb 2026 Total funding raised as of Series G (Feb 2026), per Reuters. Includes Series A-G equity rounds plus Amazon's $10.75B and Google's $3.3B strategic investments. Excludes Microsoft/Nvidia 'up to $15B' commitment (not fully deployed). The FTX ~$500M investment (2022) was sold to creditors after FTX's collapse and is not counted in the live total. Source: reuters.com sid_mK9pX3rQ7n . total-funding → across 17 rounds. Current valuation : $380B (as of Feb 2026 ) Valuation $380B As of: Feb 2026 Series G post-money valuation; second-largest venture deal ever behind OpenAI's $40B Source: reuters.com sid_mK9pX3rQ7n . valuation → (Series G).
+ Founder Donation Pledges
+ All seven co-founders have pledged to donate 80% of their equity. Fortune At current valuations, that's $43–64B if fully honored — derived from $53–80B in combined founder equity.
+ Founder EA Connection Pledge Fulfillment Likelihood 
+ Dario Amodei Person Dario Amodei Comprehensive biographical profile of Anthropic CEO Dario Amodei documenting his competitive safety development philosophy, 10-25% catastrophic risk estimate, 2026-2030 AGI timeline, and Constituti... Quality: 41 /100 Strong — GWWC signatory, early GiveWell supporter, former roommate of Holden Karnofsky Person Holden Karnofsky Holden Karnofsky directed $300M+ in AI safety funding through Coefficient Giving (formerly Open Philanthropy), growing the field from ~20 to 400+ FTE researchers and developing influential framewor... Quality: 40 /100 High 
+ Daniela Amodei Person Daniela Amodei Biographical profile of Anthropic's President covering her education, early career, roles at Stripe and OpenAI, and her operational and commercial leadership at Anthropic. Includes fundraising hist... Quality: 21 /100 Strong — married to Holden Karnofsky Person Holden Karnofsky Holden Karnofsky directed $300M+ in AI safety funding through Coefficient Giving (formerly Open Philanthropy), growing the field from ~20 to 400+ FTE researchers and developing influential framewor... Quality: 40 /100 (GiveWell co-founder, now at Anthropic) High 
+ Chris Olah Person Chris Olah Comprehensive biographical profile of Chris Olah covering his unconventional career path, foundational contributions to mechanistic interpretability (feature visualization, circuit analysis, sparse... Quality: 27 /100 Moderate — interpretability pioneer; has participated in EA events; work closely aligned with EA safety priorities Medium 
+ Jack Clark Person Jack Clark A comprehensive biographical profile of Jack Clark covering his career from journalism through OpenAI to Anthropic co-founder, with reasonable balance including criticisms of RSP vagueness and lobb... Moderate — responsible AI advocate; founded Import AI newsletter; EA-adjacent framing in policy work Medium 
+ Tom Brown Person Tom Brown A biographical wiki page on Tom B. Brown covering his foundational contributions to GPT-3, RLHF, and AI alignment; reasonably thorough but hampered by opaque sourcing (no URLs, just 'research data'... Weak/unknown — GPT-3 lead author; chose Anthropic's safety mission; no documented EA pledge Low-Medium 
+ Jared Kaplan Person Jared Kaplan Comprehensive biographical profile of Jared Kaplan covering his scaling laws research, Anthropic co-founder role, and Responsible Scaling Officer appointment, with notable coverage of RSP enforceme... Weak/unknown — scaling laws pioneer; safety-motivated co-founder; no documented EA pledge Low-Medium 
+ Sam McCandlish Person Sam McCandlish A reasonably comprehensive biographical profile of Sam McCandlish covering his research contributions, roles at Anthropic, and relevant criticisms, but undermined by a significant sourcing problem:... Weak/unknown — alignment researcher; no publicly documented EA connections Low-Medium 
+ Only 2 of 7 founders have documented strong EA connections. The remaining 5 all chose to leave OpenAI specifically to found a safety-focused lab, suggesting at minimum EA-adjacent motivations — but no documented pledges or EA Forum activity for Brown, Kaplan, and McCandlish. Founder pledges are not legally binding — enforcement relies on reputational cost. Historical Giving Pledge Organization Giving Pledge The Giving Pledge, while attracting 250+ billionaire signatories since 2010, has a disappointing track record with only 36% of deceased pledgers actually meeting their commitments and living pledge... Quality: 68 /100 data shows only 36% of deceased pledgers met their commitment. IPS 
+ EA-Aligned Capital Summary
+ Source Gross Value Risk-Adjusted Value Reliability 
+ Strongly EA-aligned founders (Dario, Daniela) $11-17B $6-12B Pledge-dependent 
+ Safety-focused founders (Olah, Clark) $11-17B $3-8B Uncertain cause direction 
+ Non-EA founders (Brown, Kaplan, McCandlish) $17-25B $2-7B Unlikely EA 
+ Jaan Tallinn Person Jaan Tallinn Profile of Jaan Tallinn documenting $150M+ lifetime AI safety giving (86% of $51M in 2024), primarily through SFF ($34.33M distributed in a 2025 grant round). Co-founded CSER (2012) and FLI (2014),... Quality: 53 /100 $2-6B $1.4-5.4B Very high (>90%) 
+ Dustin Moskovitz Person Dustin Moskovitz Dustin Moskovitz and Cari Tuna have given $4B+ since 2011, with ~$336M (12% of total) directed to AI safety through Coefficient Giving (formerly Open Philanthropy), making them the largest individu... Quality: 49 /100 $3-9B $2.7-9B Certain (already committed) 
+ Employee pledges + matching $20-40B $16-38B Legally bound (in DAFs) 
+ Non-pledged EA employees ≈$2B $0.4-0.8B Moderate 
+ Total $66-116B $27-76B — 
+ Employee capital in donor-advised funds ($27–76B risk-adjusted) is the most reliable source — legally bound, though donors retain discretion over which charities receive grants. The historical 3 :1 matching program (employees pledge up to 50%, Anthropic matches 3x) has been reduced to 1 :1 at 25% for employees hired after 2024. EA Forum Anthropic Careers 
+ Funding Timeline
+ Funding History
+ 7 entries 
+ Date Raised Valuation Lead Investor Notes Source check 
+ 2024-02 $750M $18B Menlo Ventures — Not checked 
+ 2023-05 $450M — Spark Capital Series C led by Spark Capital. Other participants included Google, Menlo Ventures, Salesforce Ventures, Microsoft, and others. Google separately agreed to invest up to $2B in 2023 to acquire ~10% stake. Not checked 
+ 2025-03-03 $3.5B $62B Lightspeed Venture Partners Series E led by Lightspeed Venture Partners ($1B contributed). Participants included Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity Management & Research, General Catalyst, Jane Street, Menlo Ventures, and Salesforce Ventures. Post-money valuation of $61.5B. Not checked 
+ 2022-04 $580M $4B FTX / Sam Bankman-Fried Series B led by Sam Bankman-Fried and Caroline Ellison of FTX. Post-money valuation of $4B. FTX subsequently collapsed in 2022. Not checked 
+ 2025-09-02 $13B $183B ICONIQ Series F led by ICONIQ, co-led by Fidelity Management & Research and Lightspeed Venture Partners. Significant investors include Altimeter, Baillie Gifford, BlackRock, Blackstone, Coatue, GIC, Goldman Sachs Alternatives, General Catalyst, Insight Partners, Jane Street, Ontario Teachers' Pension Plan, Qatar Investment Authority, TPG, T. Rowe Price, and XN. Post-money valuation of $183B. Not checked 
+ 2021-05 $124M $550M Dustin Moscovitz / Jaan Tallinn Dustin Moscovitz (Facebook co-founder) and Jaan Tallinn (Skype co-founder) were among seed investors and led the Series A. Pre-money valuation of $550M. Not checked 
+ 2026-02-12 $30B $380B GIC / Coatue Series G led by GIC and Coatue, co-led by D.E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. Round includes a portion of previously announced investments from Microsoft and NVIDIA. Significant investors include Accel, Sequoia Capital, Bessemer, General Catalyst, Goldman Sachs, JPMorganChase, Lightspeed, Menlo, Morgan Stanley, Temasek, TPG, and others. Post-money valuation of $380B — second-largest private venture funding deal of all time. Not checked 
+ Total raised : $67B Total Funding Raised $67B As of: Feb 2026 Total funding raised as of Series G (Feb 2026), per Reuters. Includes Series A-G equity rounds plus Amazon's $10.75B and Google's $3.3B strategic investments. Excludes Microsoft/Nvidia 'up to $15B' commitment (not fully deployed). The FTX ~$500M investment (2022) was sold to creditors after FTX's collapse and is not counted in the live total. Source: reuters.com sid_mK9pX3rQ7n . total-funding → across 17 rounds. Anthropic 
+ Google has invested $3.3B across 3 rounds for approximately ~14% of equity. Amazon has invested $10.75B and serves as Anthropic's primary cloud partner; its exact stake is undisclosed.
+ Capital Deployment Timeline
+ Source Earliest Peak Flow Status 
+ Employee DAFs 2025-2026 2027-2030 Already transferring 
+ Moskovitz 2026-2027 2027-2030 $500M in nonprofit vehicle 
+ Tallinn 2027-2028 2028-2032 Likely post-IPO 
+ Founders 2028-2030 2030-2040 Depends on IPO + pledge timing 
+ IPO expected 2026-2027 (Kalshi: 72% chance Anthropic IPOs before OpenAI). Lock-up periods typically delay capital 6-12 months post-IPO. See Anthropic IPO Analysis Anthropic IPO Anthropic is actively preparing for a potential 2026 IPO with concrete steps like hiring Wilson Sonsini and conducting bank discussions, though timeline uncertainty remains with prediction markets ... Quality: 65 /100 .
+ Methodology & Assumptions
+ All figures in this table are estimates with significant uncertainty. Key assumptions:
+ Equity stakes: 
+ Founders (2–3% each) : Estimated from reported total founder equity (~14–21% for 7 co-founders). No individual founder stakes have been publicly disclosed; range reflects typical dilution across 7 people with differential contributions.
+ Google (~14%) : Derived from Google's $3.3B total investment and Anthropic's $18B Series D valuation; cross-checked against Bloomberg reporting .
+ Tallinn (0.6–1.7%), Moskovitz (0.8–2.5%) : Estimated from Series A lead position and subsequent dilution; no public disclosures.
+ Employee pool (12–18%) : Typical early-stage AI lab employee equity range; diluted from founding allocations through Series G.
+ Pledge rates: 
+ Founders (80%) : Documented in Fortune reporting on the public pledge announcement.
+ Employee pool (25–50%) : Lower bound from current 1 :1 matching at 25% for post-2024 hires; upper bound from historical 3 :1 matching program at 50% for pre-2025 hires. See EA Forum .
+ Tallinn (90%), Moskovitz (95%) : Based on documented giving track records and explicit commitments.
+ EA alignment estimates (most uncertain column): 
+ Based on: public statements, organizational affiliations, EA Forum activity, documented giving patterns, and whether donations have gone to EA-identified causes.
+ Dario/Daniela: GWWC signatories with documented EA community ties → 80–90%.
+ Chris Olah Person Chris Olah Comprehensive biographical profile of Chris Olah covering his unconventional career path, foundational contributions to mechanistic interpretability (feature visualization, circuit analysis, sparse... Quality: 27 /100 : Interpretability work is core EA-aligned; EA event participation → 40–60%.
+ Jack Clark: EA-adjacent responsible AI framing, less documented EA cause alignment → 30–50%.
+ Brown/Kaplan/McCandlish: Safety motivation for founding Anthropic but no documented EA cause preferences → 15–30%.
+ Employee pool: Blended estimate across a population with high EA representation at senior levels → 40–70%.
+ These are Fermi estimates for planning purposes, not verified figures. The "EA-Effective" column represents expected value and should be treated with wide error bars.
+ Related Pages
+ Anthropic (Funder) Analysis Anthropic (Funder) Comprehensive model of EA-aligned philanthropic capital at Anthropic. At $380B valuation (Series G, Feb 2026, $30B raised): $27-76B risk-adjusted EA capital expected. Total funding raised exceeds $... Quality: 65 /100 — Full analysis of EA-aligned capital, Squiggle models, and scenario analysis
+ Anthropic Organization Anthropic Comprehensive reference page on Anthropic covering financials ($380B valuation, $14B ARR at Series G growing to $19B by March 2026), safety research (Constitutional AI, mechanistic interpretability... Quality: 74 /100 — Company overview, products, safety research
+ Anthropic Valuation Analysis Analysis Anthropic Valuation Analysis Valuation analysis updated March 2026. Series G closed at $380B (Feb 2026) with $14B run-rate; by March 2026, secondary/derivatives markets price Anthropic at ~$595B implied (Ventuals), a 57% premi... Quality: 72 /100 — Valuation scenarios and competitive positioning
+ Anthropic IPO Analysis Anthropic IPO Anthropic is actively preparing for a potential 2026 IPO with concrete steps like hiring Wilson Sonsini and conducting bank discussions, though timeline uncertainty remains with prediction markets ... Quality: 65 /100 — IPO timeline and liquidity analysis
+ Pre-IPO DAF Transfers Analysis Anthropic Pre-IPO DAF Transfers Analyzes Anthropic charitable giving mechanisms from both the equity holder's and philanthropic community's perspective. The employee matching program (3:1 at 50% historically, 1:1 at 25% currently... Quality: 58 /100 — Tax optimization and DAF mechanics
+ Founder Pledge Interventions Analysis Anthropic Founder Pledges: Interventions to Increase Follow-Through Evaluates interventions to make Anthropic founders' 80% donation pledges more likely to be fulfilled. Distinguishes collaborative interventions founders would welcome (DAF tax planning, foundation ... Quality: 45 /100 — Interventions to increase pledge fulfillment
+ References
+ 1 Google has taken a roughly 10% stake in AI startup Anthropic as tech giants circle the space Fortune ▸ 
+ This Fortune article reported on Google's approximately 10% investment stake in Anthropic, reflecting the trend of major tech companies making significant investments in leading AI safety-focused labs. The page is no longer accessible, returning a 404 error.
+ ★★★☆☆ 
+ fortune.com 
+ 2 Anthropic raises $4 billion from Amazon in expanded cloud partnership Reuters ▸ 
+ Anthropic secured a $4 billion investment from Amazon, expanding their cloud partnership and making Amazon Web Services the primary cloud provider for Anthropic's AI workloads. This deal significantly increases Anthropic's total funding and deepens the company's ties to Amazon's infrastructure, reinforcing the role of major cloud providers in shaping the competitive AI landscape.
+ ★★★★☆ 
+ reuters.com 
+ 3 Anthropic's billionaire co-founders are giving away 80% of their wealth Fortune ▸ 
+ Anthropic's co-founders, including CEO Dario Amodei, have committed to donating 80% of their wealth to philanthropic causes, with a focus on addressing inequality and navigating the societal impacts of the AI revolution. The pledge reflects the effective altruism-influenced values that have shaped Anthropic's culture and mission. This signals how leading AI lab founders are thinking about their responsibilities given potential large-scale wealth creation from AI.
+ ★★★☆☆ 
+ fortune.com 
+ 4 The Giving Pledge at 15 ips-dc.org ▸ 
+ A critical analysis from the Institute for Policy Studies evaluating the Giving Pledge's 15-year track record, finding that most original signatories have grown wealthier rather than giving away their fortunes, with contributions largely warehoused in private foundations and donor-advised funds. The report argues the Pledge is structurally unfulfillable and insufficient as a mechanism for wealth redistribution or addressing societal challenges.
+ ips-dc.org 
+ 5 Anthropic Careers Anthropic ▸ 
+ Anthropic's careers page outlines the company's mission to build safe and beneficial AI, highlighting their guiding principles and inviting researchers, engineers, and builders to join their work on Claude and AI safety. The page emphasizes a 'race to the top' on safety culture and a commitment to ensuring powerful AI benefits humanity.
+ ★★★★☆ 
+ anthropic.com 
+ 6 Anthropic: Raises \$30 Billion Series G Funding at \$380 Billion Post-Money Valuation Anthropic ▸ 
+ Anthropic announced a major Series G funding round, reflecting significant investor confidence in safety-focused AI development. The round highlights the growing capital flowing into frontier AI labs and the commercial viability of safety-oriented AI research organizations.
+ ★★★★☆ 
+ anthropic.com 
+ 

@@ -1,0 +1,488 @@
+2024
+
+Annual Report
+Model Evaluation and Threat Research
+                    Table of Contents
+
+                    METR in one page                              03
+
+
+
+                    Measuring ability to automate AI R&D          04
+
+
+
+                    General autonomous capabilities               05
+
+
+
+                    Evaluating cutting-edge models                08
+
+
+
+                    Sharing infrastructure and methods            09
+
+
+
+                    Supporting the integration of these methods
+                                                                  10
+                    into company and government policy
+
+
+
+                    Investing for the future                      11
+
+
+
+                    See also                                      11
+
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org            02
+METR
+In one page
+METR researches, develops and runs evaluations of frontier AI systems’ ability to
+complete complex tasks.
+This means our work focuses on AI agents. METR’s evaluations indicate potential major impact on the
+world by measuring general-purpose tasks like conducting research or developing an app, and
+concerning capabilities like an AI agent conducting cyberattacks or making itself hard to shut down.
+
+METR also prototypes governance approaches which use AI systems’ measured or forecasted
+capabilities to determine when better risk mitigations are needed for further scaling. This included
+prototyping the widely-used Responsible Scaling Policies approach.
+
+
+In 2024
+ Supporting Risk Management                            Running Evaluations
+METR supported the development of industry-           METR evaluated the autonomous and AI R&D
+standard risk management. For example, Google         capabilities of OpenAI o1, o1-preview, Claude 3.5
+DeepMind, Anthropic, Magic, G42 and Amazon            Sonnet June and October versions, and GPT-4o,
+have written that METR helped them establish          typically before public release, in partnership
+frameworks for managing catastrophic risks from       with the frontier AI companies.
+
+their AI systems.                                     In early 2025, METR published evaluations of
+                                                      DeepSeek-V3 (not a partnership), Anthropic used
+ Sharing Infrastructure                               METR evaluation tasks and review for Claude 3.7
+METR open-sourced Vivaria, the tool on which          Sonnet, and METR conducted a pre-deployment
+both our and the AI Security Institute’s work on      evaluation of GPT-4.5.
+AI agent evaluations were initially built.
+
+ Strengthening Autonomy Evaluations                    Establishing AI R&D Evaluations
+METR developed a powerful method for                  METR developed and published RE-Bench, a first-
+quantifying the autonomous capabilities of AI         of-its-kind benchmark for assessing the ability
+systems. AI companies and the AI Security             of AI systems to automate machine learning
+Institute used METR’s software to assess such         engineering. METR found that frontier AI systems
+capabilities.                                         already reach similar performance to humans on
+                                                      research engineering tasks when both are given
+                                                      only a few hours.
+
+
+METR achieved this and more on a total 2024 budget of $10 million.
+
+In 2025, we seek to raise and deploy $15 million, and intend to achieve even more than in
+2024. We have already been able to attract fantastic hires, especially in late 2024, so are
+already ready to operate at this greater scale.
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                               03
+                                                                                                     00
+Measuring
+Ability to automate AI R&D
+When AI systems can automate AI R&D, AI capabilities could advance extremely rapidly.  
+New dangerous capabilities could emerge much faster than humanity could respond with protective
+measures. Tracking when this might occur is a primary focus at METR.
+
+
+
+
+  RE-Bench
+                                                             METR developed RE-Bench, a first-of-its-
+                                                             kind benchmark measuring performance on
+                                                             seven projects representative of work done
+                                                             by AI research engineers. It tests the ability
+                                                             of AI systems to perform tasks of much
+                                                             greater realism than anything before: day-
+                                                             long projects like fitting a scaling law or
+                                                             designing an AI coding agent.
+
+                                                             Remarkably, we found that frontier AI
+                                                             systems can already compete with humans
+                                                             on some research engineering tasks. This
+                                                             generated exceptional discussion, and was
+                                                             taken seriously by notable figures who work
+                                                             on AI risks and by skeptics.
+
+                                                             The results were highlighted in the launch of
+                                                             the International AI Safety Report.
+
+                                                             We are now working to expand RE-Bench
+                                                             and to conduct other experiments. In early
+                                                             2025, we published research specifically on
+                                                             Measuring Automated Kernel Engineering.
+                                                             We found that AI agents can accelerate GPU
+                                                             computations about 15x more than
+                                                             previously reported.
+
+
+      C   ontributions
+      We showed that AI capabilities toward automating AI R&D can be rigorously assessed. This
+      put both the risk factor and this way of measuring it on the map for a range of audiences
+      We discovered that existing AI systems can make material progress on important dimensions
+      of M engineering. They already outperform humans if both are given 2 hours
+           L
+
+
+
+      Humans outperform overall if both are given   8   hours, but AI systems are already competitive
+      on multiple tasks.
+
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                                   04
+Analysis of
+
+
+General autonomous capabilities
+
+
+How long are the tasks that                    In 2024, METR began quantifying AI agents’
+                                               autonomous capabilities in terms of the length of
+an AI agent can handle?
+                                               tasks they can complete, as measured by humans
+                                               attempting the same tasks.
+
+
+
+
+  Quantifying autonomy
+
+
+  We shared our first proposal for quantifying autonomy in our example autonomy evaluation
+  protocol and used improved methodology to demonstrate initial results in our August update.
+
+
+
+
+  By the end of 2024, simple AI agents could complete about as many self-contained software
+  engineering, cybersecurity, ML, research and reasoning tasks as skilled humans who have a time
+  limit of very approximately 2 hours per task. They complete 1-hour-long tasks of these types with
+  around 50% reliability.
+
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                                05
+  Tasks completed in given token budget or time limit
+
+
+
+
+  Tracking whether the agent can complete the task at all is a relevant metric because if an AI agent
+  can complete a software engineering, cybersecurity, ML, research or reasoning task at all, it can
+  probably complete it for much less cost than a human.
+
+
+
+The comparisons to how long tasks take humans are based on people with STEM undergraduate
+degrees and technical work experience attempting the same tasks under similar conditions. Gathering
+this human comparison data takes considerable work but makes the quantification of autonomous
+capabilities far more meaningful.
+
+
+
+
+Strengthening the autonomy task suite
+METR doubled its available autonomy tasks to around
+200 software engineering, cybersecurity, ML, research
+and reasoning tasks. You can see examples here. The
+new tasks add diversity and scale to the task suite,
+increasing the external and internal validity of
+evaluations conducted using it. We also improved the
+structure of our tasks, including adding machine-
+readable documentation and tests to verify that tasks
+work as expected.
+As noted above, we gathered data on how long it takes for humans to complete the same
+tasks we test AI systems on. As well as enabling meaningful comparison to humans like in the
+graphs above, it forms part of our quality assurance process. Many benchmarks include tasks
+which are simply impossible or otherwise have major issues, and having a human do the task
+catches these cases. We also made process improvements to make contracting humans to
+do these tasks highly efficient.
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                                  06
+     Looking forward
+     In early 2025, we will be publishing research on the rapid growth of autonomy in
+     frontier AI systems (something like Moore’s Law for the autonomy of AI systems). 
+
+     This requires augmenting our autonomy task suite, such as adding shorter tasks to
+     be able to evaluate older systems (e.g. GPT-2), and deciding how best to interpret
+     and extrapolate from the data we have on various AI systems. 
+
+     In parallel, we continue to improve our autonomy task suite, such as investigating
+     ways in which it might be insufficiently representative of the real world.
+
+
+
+
+Other autonomy work
+METR also published measurements of the            Google DeepMind also built on our 2023 report
+impact of different approaches to making AI        Evaluating language-model agents on realistic
+agents more capable.
+                              autonomous tasks in their publication Evaluating
+                                                   Frontier Models for Dangerous Capabilities.
+We shared our latest thoughts on The Rogue
+Replication Threat Model, including short
+investigations into the barriers to rogue AI
+agents multiplying to a large scale and how hard
+it would be to shut down an AI agent which has
+done so.
+
+
+
+
+A look into
+AI control / monitoring
+We piloted a small project assessing how well monitoring systems
+can detect dangerous behavior by AI systems. Another research
+group, Redwood Research, is taking that forward, while in early 2025
+METR began prototyping a tool for monitoring chain of thought.
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                           07
+A look into
+
+Evaluating cutting-edge models
+We applied our latest methods to frontier models before or after their release, both to
+understand the capabilities of frontier models and to pilot third-party evaluator
+arrangements. Most recent are a pre-deployment evaluation of GPT-4.5, and Anthropic using
+METR evaluation tasks and review for Claude 3.7 Sonnet. Public 2024 examples are:
+
+
+
+
+ GPT-4o                                             Claude 3.5 Sonnet ( June)
+
+ Focused on autonomous capabilities.                Evaluation of general autonomous
+ Summarized in the GPT-4o system card.              capabilities and AI R&D automation.
+ OpenAI also used tests built by METR to show
+ that GPT-4o is not able to automate
+ significant parts of AI R&D.
+
+    Published report                                     Published report
+
+
+
+
+ OpenAI o1-mini and o1-preview                      Claude 3.5 Sonnet (October)
+
+ Evaluation of general autonomous                   Evaluation of general autonomous
+ capabilities and AI R&D automation.                capabilities and AI R&D automation.
+
+
+
+
+    Published report                                     Summary
+
+
+
+ OpenAI o1                                          DeepSeek-V3
+ Evaluation of general autonomous                   Evaluation of general autonomous
+ capabilities and AI R&D automation,                capabilities and AI R&D automation, and
+ summarized in the o1 system card.                  verification of performance claims.
+                                                    (Completed in 2025.) DeepSeek-R1
+                                                    forthcoming.
+
+
+    Summary                                              Published report
+
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                        08
+Approach to
+Sharing infrastructure and methods
+    Open-sourcing our Vivaria evaluation platform
+    METR open-sourced Vivaria, the tool on which both our and the AI Security
+    Institute’s work on AI agent evaluations were initially built. Vivaria runs AI agents on
+    tasks, logs their actions and provides efficient ways to study the results, both at a
+    large scale (e.g. databases and dashboards) and at a small scale (e.g. editing a run
+    part-way through to see how this would change the results).
+
+
+    Sharing evaluation methods
+    METR published resources on how to develop and run autonomy evaluations
+    additional to those noted earlier, including:
+
+
+    Tasks
+    10 families of example tasks. METR shares other families of tasks privately to avoid AI
+    systems being trained on them.
+
+    Protocol
+    A full example protocol for running an autonomy evaluation.
+
+    METR Task Standard
+    The  METR Task Standard               w      fi
+                              , a standard ay to de ne tasks for evaluating the
+                                                              w
+    capabilities of AI agents, enabling much easier sharing ithin the nascent
+               F x
+    ecosystem. or e ample, Anthropic     says “W  e strongly encourage you to adhere to
+    either theMETR Inspect
+                      or                                              ”
+                                  task standards for your evaluations , recommending
+    METR for autonomy evaluations and Inspect for others.
+
+
+    We also improved the content of our website to help users find our key research.
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                         09
+Supporting
+
+
+Integration of methods into company
+
+and government policy
+
+
+                                                      In 2023, METR published a proposal for how
+
+                                                      to use capability evaluations to manage risk:
+
+                                                      AI companies should define specific
+
+                                                      capability thresholds by which they must
+
+                                                      have specific safety measures in place before
+
+                                                      developing or deploying such systems. The
+
+                                                      first commitments were made the same year,
+
+                                                      and by early 2025, 9 major AI companies had
+
+                                                      established such policies.
+
+
+
+                                                      Anthropic, Google DeepMind, Magic, G42 and
+
+                                                      Amazon credited METR for assistance
+
+                                                      establishing their first policies. Additionally,
+
+                                                      OpenAI, Meta, Microsoft and xAI published
+
+                                                      policies.
+
+
+
+                                                      Additionally, to help companies understand
+
+                                                      existing best practices, METR published
+
+                                                      Common Elements of Frontier AI Safety
+
+                                                      Policies and presented at the Conference on
+
+                                                      Frontier AI Safety Frameworks. We expect
+
+                                                      more companies to publish policies, and we
+
+                                                      maintain a list here.
+
+
+
+                                                      This proposal is now industry consensus, in
+
+                                                      fact the most consensus AI governance
+
+                                                      approach among major AI companies.
+
+
+
+
+                                    public
+   ut            usly c duct s ftw re e gi eeri g t sks
+The AI Security Institute used our           and private tasks to assess the ability of AI systems
+
+
+
+                                                                   U NIST AI S f y Ins i u
+to a    onomo          on      o    a    n   n    n    a     , and used our evaluation platform
+
+
+
+Consor ium                                                                              N ’
+discussed earlier. Additionally, METR was selected for the          S              a et        t t te
+
+
+
+                                                                              N
+          t     , established to contribute expertise, products, data, and models to               IST s AI
+
+safety work, and we intend to provide expertise, software and data to               IST and other
+
+partners.
+
+
+
+                                                                        Gene al-Pu p e AI C de
+Pa e
+We were also invited to provide technical input on making the                  r          r   os        o     of
+
+ r ctic       more effective and less burdensome.
+
+
+
+
+©   Model Evaluation and Threat Research 202 4—   metr.org                                                         1
+                                                                                                                   0
+A look into
+
+Investing for the future
+                                                          Hiring
+We aim for even greater impact in 2025.
+To achieve this, we seek to raise and
+deploy $15 million over the year, and we                 METR made very strong hires in 2024.
+                                                         For example
+have invested heavily in building an
+excellent team. Notable updates include:                    Research engineers: David Rein,
+                                                            Cohere early employee and project
+                                                            lead for the widely-used GPQA
+   METR’s founder Beth Barnes will                          benchmark; Neev Parikh, former
+                                                            Stripe software engineer; Seraphina
+   return as CEO following a period as
+                                                            Nix, formerly of Redwood Research;
+   Head of Research
+                                                            William Saunders, formerly of
+                                                            OpenAI; Amy Deng, founding
+   We conducted retrospectives on
+                                                            engineer at Martian; and Nate Rush,
+   each major 2024 workstream to find
+                                                            AI company founder
+   ways we can move faster while
+                                                            Platform engineers: serial
+   maintaining our high standards
+                                                            entrepreneurs Ben West and Sami
+   Yoshua Bengio kindly agreed to                           Jawhar.
+
+   advise our work.
+
+
+
+
+See also
+
+
+
+
+© Model Evaluation and Threat Research 2024 — metr.org                                            00
+                                                                                                   11
+

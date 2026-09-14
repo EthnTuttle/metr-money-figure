@@ -1,0 +1,178 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/SpeakerJohnson/status/2099284105003257875",
+  "id": "2099284105003257875",
+  "text": "Congress has been studying the AI issue since I set up a bipartisan task force to do so soon after I was elected Speaker. We all have a sense of urgency to create guardrails around the technology. \n\nThe key is designing the guardrails carefully, in a way that prevents any harm from AI —while also preserving American innovation and our national security by keeping our edge over China and other international competitors.\n\nI am calling for a meeting in Washington with AI platform providers and key experts to determine the right course forward and discuss the responsibility providers have to ensure the safety of their products.",
+  "raw_text": {
+   "text": "Congress has been studying the AI issue since I set up a bipartisan task force to do so soon after I was elected Speaker. We all have a sense of urgency to create guardrails around the technology. \n\nThe key is designing the guardrails carefully, in a way that prevents any harm from AI —while also preserving American innovation and our national security by keeping our edge over China and other international competitors.\n\nI am calling for a meeting in Washington with AI platform providers and key experts to determine the right course forward and discuss the responsibility providers have to ensure the safety of their products.",
+   "display_text_range": [
+    0,
+    631
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      278,
+      301
+     ],
+     "id": "2099284008697999360",
+     "display": "pic.x.com/nTJtjSr6R9",
+     "original": "https://t.co/nTJtjSr6R9",
+     "replacement": "https://x.com/SpeakerJohnson/status/2099284105003257875/video/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "SpeakerJohnson",
+   "url": "https://x.com/SpeakerJohnson",
+   "id": "827279765287559171",
+   "followers": 1241020,
+   "following": 748,
+   "likes": 1569,
+   "media_count": 3652,
+   "name": "Speaker Mike Johnson",
+   "description": "56th Speaker of the House | Christian, husband, dad, Constitutional law attorney & small biz owner.",
+   "raw_description": {
+    "text": "56th Speaker of the House | Christian, husband, dad, Constitutional law attorney & small biz owner.",
+    "facets": []
+   },
+   "location": "Washington, DC",
+   "banner_url": "https://pbs.twimg.com/profile_banners/827279765287559171/1698334712",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1807858058380349440/V8iMdtLm_200x200.jpg",
+   "joined": "Thu Feb 02 22:17:20 +0000 2017",
+   "protected": false,
+   "website": {
+    "url": "https://www.speaker.gov/",
+    "display_url": "speaker.gov"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "government"
+   },
+   "avatar_color": null
+  },
+  "replies": 317,
+  "retweets": 131,
+  "likes": 758,
+  "bookmarks": 59,
+  "quotes": 24,
+  "created_at": "Sun Sep 13 23:48:28 +0000 2026",
+  "created_timestamp": 1789343308,
+  "possibly_sensitive": false,
+  "views": 41377,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "2099284008697999360",
+     "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099284008697999360/img/T3W95W7m2f6z17AI.jpg",
+     "duration": 145.711,
+     "width": 640,
+     "height": 360,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/pl/lmK3K2Zh0Dreuxnc.m3u8?tag=29&v=cee",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/480x270/CexxIt11I-mgSjad.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/pl/lmK3K2Zh0Dreuxnc.m3u8?tag=29&v=cee",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/480x270/CexxIt11I-mgSjad.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2099284008697999360",
+     "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099284008697999360/img/T3W95W7m2f6z17AI.jpg",
+     "duration": 145.711,
+     "width": 640,
+     "height": 360,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/pl/lmK3K2Zh0Dreuxnc.m3u8?tag=29&v=cee",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/480x270/CexxIt11I-mgSjad.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/pl/lmK3K2Zh0Dreuxnc.m3u8?tag=29&v=cee",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/480x270/CexxIt11I-mgSjad.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2099284008697999360/vid/avc1/640x360/h8ZGTHeKSvz0H-l3.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:16Z",
+ "_http_status": 200
+}

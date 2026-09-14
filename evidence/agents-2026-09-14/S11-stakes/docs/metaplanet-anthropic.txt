@@ -1,0 +1,19 @@
+
+=====BODY=====
+ Anthropic | Metaplanet About us Portfolio News FAQ 
+ State: Active
+ Category: AI & Robotics
+ Year: 2021
+ Location: United States
+ Description:
+ AI research and products that put safety at the frontier.
+ Anthropic's work centres on developing AI systems that are not only powerful, but also aligned with human values and ethical principles. Their approach, exemplified by innovations like Constitutional AI, aims to ensure their models prioritize safety, reliability, and beneficial outcomes. By focusing on long-term societal impact and rigorous research into AI safety, Anthropic is working to create advanced AI technologies that can serve humanity responsibly, while addressing both the opportunities and potential risks that such systems present. Their efforts extend beyond just model development to include interpretability research and novel governance structures.
+ Anthropic hires OpenAI co-founder Durk Kingma 01.10.24 Venture: Anthropic Source: TechCrunch 
+ Anthropic chief product officer Mike Krieger on what AI chatbots of the future will look like 09.09.24 Venture: Anthropic Source: The Verge 
+ Anthropic launches Claude Enterprise plan to compete with OpenAI 04.09.24 Venture: Anthropic Source: TechCrunch 
+ OpenAI and Anthropic will share their models with the US government 29.08.24 Venture: Anthropic Source: The Verge 
+ Anthropic publishes the ‘system prompts’ that make Claude tick 26.08.24 Venture: Anthropic Source: TechCrunch 
+ Menlo Ventures and Anthropic team up on a $100M AI fund 17.07.24 Venture: Anthropic Source: TechCrunch 
+ Anthropic hires former OpenAI safety lead to head up new team 28.05.24 Venture: Anthropic Source: TechCrunch 
+ Metaplanet Holdings OÜ Toompuiestee 33a Tallinn 10149 Estonia
+ 

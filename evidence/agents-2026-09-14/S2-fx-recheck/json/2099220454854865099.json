@@ -1,0 +1,86 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/CharlesD353/status/2099220454854865099",
+  "id": "2099220454854865099",
+  "text": "Even if we accept for the moment that CG giving $10m to a $38m RAND/METR collaboration (of which METR got $17m) is the same as CG giving $10m to METR, you claimed that CG gave METR most of their funding, and also that CG gives them money \"every year\". $10m isn't most of their funding! They received $71m in the last 6 months alone! https://metr.org/blog/2026-08-14-funding-update/\n\nMETR is mostly funded by a handful of very rich EAs at Jane Street and a mix of other foundations AFAIK.",
+  "raw_text": {
+   "text": "Even if we accept for the moment that CG giving $10m to a $38m RAND/METR collaboration (of which METR got $17m) is the same as CG giving $10m to METR, you claimed that CG gave METR most of their funding, and also that CG gives them money \"every year\". $10m isn't most of their funding! They received $71m in the last 6 months alone! https://t.co/TUccSxUv2R\n\nMETR is mostly funded by a handful of very rich EAs at Jane Street and a mix of other foundations AFAIK.",
+   "display_text_range": [
+    0,
+    462
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      333,
+      356
+     ],
+     "original": "https://t.co/TUccSxUv2R",
+     "replacement": "https://metr.org/blog/2026-08-14-funding-update/",
+     "display": "metr.org/blog/2026-08-1…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "CharlesD353",
+   "url": "https://x.com/CharlesD353",
+   "id": "1721714774",
+   "followers": 1345,
+   "following": 1011,
+   "likes": 31595,
+   "media_count": 290,
+   "name": "Charles🔸",
+   "description": "Ex-quant trader, pod shop PM. Trying to figure the world out @ArbResearch",
+   "raw_description": {
+    "text": "Ex-quant trader, pod shop PM. Trying to figure the world out @ArbResearch",
+    "facets": []
+   },
+   "location": "London",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1721714774/1771498111",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1412515256673386498/43s6FGGJ_200x200.jpg",
+   "joined": "Mon Sep 02 08:51:36 +0000 2013",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 19:35:32 +0000 2026",
+  "created_timestamp": 1789328132,
+  "views": 15,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "segyges",
+  "replying_to_status": "2099207591780033004",
+  "source": "Twitter for Android",
+  "card": {
+   "url": "https://metr.org/blog/2026-08-14-funding-update/",
+   "title": "Funding update",
+   "description": "In the last 6 months, METR raised commitments of around $71 million. This will fund ambitious projects: studying autonomous capabilities, tracking recursive self-improvement, evaluating monitoring...",
+   "domain": "metr.org",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2098897449847042049/AQ9nbTH8?format=png&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:06Z",
+ "_http_status": 200
+}

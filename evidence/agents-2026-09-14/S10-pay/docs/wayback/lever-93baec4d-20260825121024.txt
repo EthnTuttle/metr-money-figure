@@ -1,0 +1,116 @@
+
+METR - Member of Technical Staff, Evaluation Execution
+Member of Technical Staff, Evaluation Execution
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks, and mitigations, with a specific focus on threats related to AI R&D automation and misalignment.
+METR has consistently set precedents for catastrophic AI risk evaluations, including the first independent safety evaluations (working informally with Anthropic and OpenAI in 2022), the
+ first loss-of-control evaluations and first agentic dangerous capability evaluations
+, the first evaluations using finetuning (mentioned briefly 
+here
+), the 
+first independent evaluations using internal information about training
+, the 
+first review partnership for company risk analysis
+, the 
+first embedded redteaming
+, and the 
+first evaluations of internal deployments
+.
+We’ve been consulted and/or favorably referenced by groups on opposite ends of various spectra, including a16z, Khosla, Gary Marcus, Obama, and Dean Ball, and are known for producing one of the most positive results on AI capabilities (the 
+time horizon
+ trend) and the most negative (our 
+downlift study
+). We’re generally referenced as the canonical third party assessor, e.g. as
+ the obvious candidate to verify conditional pause agreements
+, and are trusted with AI incident investigations by 
+frontier
+labs
+ and 
+governments
+. 
+We believe it is robustly good for policymakers and civil society to have a clear understanding of risks from AI systems, and we are extremely excited to build a team of ambitious, excellent people to tackle one of the most important challenges of our time.
+What this role looks like
+Running models on tasks. Often this means integrating models into our agent scaffolds, running them on our 
+infrastructure
+ and checking the results carefully. (METR both develops our own tasks internally and runs external evaluations.)
+Communicating results and takeaways. This includes designing useful graphs, writing up conclusions for different audiences (system cards, risk reports, regulators, X, etc), and having great takes on what matters for risk.
+Building software to improve our evaluations. We don't just try and run the same evaluation over and over again. We also run faster, more informative evaluations over time; this means making the right investments (with the support of our platform team).
+Project management. Live evaluations require keeping track of a bunch of threads and staying organized. With our recent risk report process, we were running many evaluations at once.
+Strong and professional communication. We run important and sensitive evaluations, and so the team needs to coordinate with METR leadership, lab contacts, regulators, and others.
+Why this role matters
+As part of informing the world about risk from frontier AI systems, METR often runs and 
+publishes
+ evaluations of frontier models.
+Our evaluations are a central tool the world uses to understand AI progress. Our 
+Time Horizon
+ methodology has been included in 
+system
+cards
+, called an 
+"obsession" by the NYT
+, 
+has wide reach
+ online, and is 
+used by governments
+ to inform national policy.
+We’re expanding the ambition and scale of our evaluations. We have recently begun to measure model 
+propensities and monitorability
+, and we are increasing the speed, reliability, and quantity of evaluations we aim to do so that we can keep the world informed.
+How METR’s evaluations are changing over 2026
+Time Horizon
+ is close to saturation, so we’re currently working on 
+Time Horizon 2.0
+, which we expect to be running on models over the next 6 to 18 months. 
+We’re gearing up for our first large-scale publication on 
+monitorability
+, which we believe will be similar to TH in helping folks understand trends over time.
+We spent the past three months working on a large, industry-wide 
+third-party risk assessment program
+ - which includes us collecting information (and running evaluations!) for both monitorability and propensities/alignment. We expect to do much more work as part of our own risk assessment programs in the future.
+In general, many ambitious impact stories for METR require us having the capacity to run many more evaluations than we have run historically. For example, while our evaluations currently inform many key decisionmakers about AI capabilities, they are not yet consistently run with the scale, reliability, and speed necessary to play concrete, codified roles in regulatory frameworks. Unlocking this capacity is part of the near-future vision for evaluation execution.
+Required skills
+Software engineering.
+ You're a strong engineer with solid infra fundamentals. You can dig into unfamiliar systems, debug from logs, and identify and fix performance bottlenecks.
+Speed and scrappiness.
+ You get things done quickly. You’re able to quickly identify what 80/20 looks like, and then do that.
+High attention to detail.
+ You read closely, can spot bugs in transcripts, and pay attention to the important fiddly bits.
+Nice to haves
+Research understanding and taste.
+ You understand research ideas and priorities, and have good intuitions for which plots are informative and which analyses are worth running to poke at the data.
+Strong external communicator.
+ You communicate well with external stakeholders, and we trust you to stay on the ball with communications with, e.g., lab contacts.
+Project management.
+ You can juggle many balls at once, keep stakeholders updated, and track and anticipate blockers.
+Strong writing ability.
+ You can be a solid contributor to METR’s writeups of evaluation results, see e.g. our 
+GPT-5 report
+.
+$285,548 - $503,116 a year
+We're looking for both more junior/mid-level and more senior versions of the role. For junior/mid-level, the compensation ranges from $285k-350k, and for more senior, the compensation ranges from $350k-503k.
+For very experienced and exceptional candidates, we are open to exploring paying much higher than this stated range.
+The listed range applies to the base salary for this role. METR also has a host of benefits:
+- The office: Catered lunch and dinner daily; in-office gym and shower
+- Relocation support: Stipend for moving to the Bay Area⁠
+- Time-off and leave: Unlimited PTO and 21-week parental leave for new parents
+- Commuter benefit: Monthly transit/parking stipend and an annual Uber budget
+- Professional development benefit: for training, courses, conferences, and AI safety education⁠
+- Mental health benefit: for therapy, medication, and other mental health expenses⁠
+- Wellness benefit: for gym memberships and other wellness expenses⁠
+- Work equipment benefit: for home office and workstation equipment⁠ expenses
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters. 
+Hybrid Requirements:
+ Our technical team members are in our office in Berkeley 3-5 days/week. Please let us know in your application if this is a constraint. If you lack US work authorization and would like to work in-person (strongly preferred), we can likely sponsor a cap-exempt H-1B visa for this role
+.
+We encourage you to apply even if your background may not seem like the perfect fit! We would rather review a larger pool of applications than risk missing out on a promising candidate for the position.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

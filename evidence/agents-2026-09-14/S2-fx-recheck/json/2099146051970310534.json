@@ -1,0 +1,83 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/lthlnkso/status/2099146051970310534",
+  "id": "2099146051970310534",
+  "text": "@DavidSacks hey @pangram is this slop?",
+  "raw_text": {
+   "text": "@DavidSacks hey @pangram is this slop?",
+   "display_text_range": [
+    12,
+    38
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      16,
+      24
+     ],
+     "original": "pangram",
+     "id": "1706455927531147264"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "lthlnkso",
+   "url": "https://x.com/lthlnkso",
+   "id": "1697071789850161152",
+   "followers": 16557,
+   "following": 473,
+   "likes": 6418,
+   "media_count": 910,
+   "name": "Quick Thoughts",
+   "description": "Politics, misinformation, logic, news, and AI.",
+   "raw_description": {
+    "text": "Politics, misinformation, logic, news, and AI.",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1697071789850161152/1693945135",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1821283500471058432/rbk-EwtM_200x200.jpg",
+   "joined": "Thu Aug 31 02:20:28 +0000 2023",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 0,
+  "likes": 23,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 14:39:53 +0000 2026",
+  "created_timestamp": 1789310393,
+  "views": 1220,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:28Z",
+ "_http_status": 200
+}

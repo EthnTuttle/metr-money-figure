@@ -1,0 +1,150 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/timrudner/status/2099141076716077278",
+  "id": "2099141076716077278",
+  "text": "Greg, I understand the frustration, and I agree that security experts should play a central role in frontier AI oversight, but I also think it's important to recognize that AI agent security is in some ways meaningfully different from traditional cybersecurity.\n\nFor one, effective and reliable frontier AI oversight (of which security is one important component) requires a deep understanding of *both* cybersecurity and AI, and what's more, we don't actually have the technical tools to perform reliable frontier AI oversight at scale.\n\nhttps://x.com/timrudner/status/2098912252283818194",
+  "raw_text": {
+   "text": "Greg, I understand the frustration, and I agree that security experts should play a central role in frontier AI oversight, but I also think it's important to recognize that AI agent security is in some ways meaningfully different from traditional cybersecurity.\n\nFor one, effective and reliable frontier AI oversight (of which security is one important component) requires a deep understanding of *both* cybersecurity and AI, and what's more, we don't actually have the technical tools to perform reliable frontier AI oversight at scale.\n\nhttps://t.co/7NMmcaaKj2",
+   "display_text_range": [
+    0,
+    562
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      539,
+      562
+     ],
+     "original": "https://t.co/7NMmcaaKj2",
+     "replacement": "https://x.com/timrudner/status/2098912252283818194",
+     "display": "x.com/timrudner/stat…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "timrudner",
+   "url": "https://x.com/timrudner",
+   "id": "4338555809",
+   "followers": 3154,
+   "following": 1015,
+   "likes": 551,
+   "media_count": 105,
+   "name": "Tim G. J. Rudner",
+   "description": "Incoming Assistant Professor, @UofT\nCIFAR AI Chair, @VectorInst\n\nAI Safety, Alignment, Scalable Oversight, Governance\n\nPrev: Rhodes Scholar, @UniofOxford, @Yale",
+   "raw_description": {
+    "text": "Incoming Assistant Professor, @UofT\nCIFAR AI Chair, @VectorInst\n\nAI Safety, Alignment, Scalable Oversight, Governance\n\nPrev: Rhodes Scholar, @UniofOxford, @Yale",
+    "facets": []
+   },
+   "location": "Toronto + Oxford + New Haven",
+   "banner_url": "https://pbs.twimg.com/profile_banners/4338555809/1755105796",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1965799453408837632/NcELaVD__200x200.jpg",
+   "joined": "Tue Dec 01 09:55:56 +0000 2015",
+   "protected": false,
+   "website": {
+    "url": "https://timrudner.com",
+    "display_url": "timrudner.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 0,
+  "likes": 8,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 14:20:07 +0000 2026",
+  "created_timestamp": 1789309207,
+  "views": 4268,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "Laughing_Mantis",
+  "replying_to_status": "2099012495834743090",
+  "quote": {
+   "url": "https://x.com/timrudner/status/2098912252283818194",
+   "id": "2098912252283818194",
+   "text": "We don't just need more evaluator organizations, we also need better methods for effective frontier AI oversight.\n\nFill out this form if you want to work together on improving scalable oversight for frontier AI: https://forms.gle/VpWyH6gTqqcMot7e9\n\nTopics of interest (what's missing?):\n- Formal verification and runtime verification for AI agents and multi-agent systems\n- Scalable oversight for very large multi-agent systems\n- Statistical guarantees for scalable oversight\n- Mechanism design for frontier AI multi-agent systems\n- Collusion in frontier AI multi-agent systems\n- Emergent cooperative norms in frontier AI multi-agent systems\n- Covert communication (steganography) in frontier AI multi-agent systems\n- Oversight alternatives to CoT monitoring\n- AI control",
+   "raw_text": {
+    "text": "We don't just need more evaluator organizations, we also need better methods for effective frontier AI oversight.\n\nFill out this form if you want to work together on improving scalable oversight for frontier AI: https://t.co/MCWxWSlF7x\n\nTopics of interest (what's missing?):\n- Formal verification and runtime verification for AI agents and multi-agent systems\n- Scalable oversight for very large multi-agent systems\n- Statistical guarantees for scalable oversight\n- Mechanism design for frontier AI multi-agent systems\n- Collusion in frontier AI multi-agent systems\n- Emergent cooperative norms in frontier AI multi-agent systems\n- Covert communication (steganography) in frontier AI multi-agent systems\n- Oversight alternatives to CoT monitoring\n- AI control",
+    "display_text_range": [
+     0,
+     759
+    ],
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       212,
+       235
+      ],
+      "original": "https://t.co/MCWxWSlF7x",
+      "replacement": "https://forms.gle/VpWyH6gTqqcMot7e9",
+      "display": "forms.gle/VpWyH6gTqqcMot…"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "timrudner",
+    "url": "https://x.com/timrudner",
+    "id": "4338555809",
+    "followers": 3154,
+    "following": 1015,
+    "likes": 551,
+    "media_count": 105,
+    "name": "Tim G. J. Rudner",
+    "description": "Incoming Assistant Professor, @UofT\nCIFAR AI Chair, @VectorInst\n\nAI Safety, Alignment, Scalable Oversight, Governance\n\nPrev: Rhodes Scholar, @UniofOxford, @Yale",
+    "raw_description": {
+     "text": "Incoming Assistant Professor, @UofT\nCIFAR AI Chair, @VectorInst\n\nAI Safety, Alignment, Scalable Oversight, Governance\n\nPrev: Rhodes Scholar, @UniofOxford, @Yale",
+     "facets": []
+    },
+    "location": "Toronto + Oxford + New Haven",
+    "banner_url": "https://pbs.twimg.com/profile_banners/4338555809/1755105796",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1965799453408837632/NcELaVD__200x200.jpg",
+    "joined": "Tue Dec 01 09:55:56 +0000 2015",
+    "protected": false,
+    "website": {
+     "url": "https://timrudner.com",
+     "display_url": "timrudner.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 6,
+   "retweets": 4,
+   "likes": 45,
+   "bookmarks": 46,
+   "quotes": 2,
+   "created_at": "Sat Sep 12 23:10:51 +0000 2026",
+   "created_timestamp": 1789254651,
+   "possibly_sensitive": false,
+   "views": 8698,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter Web App",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter Web App",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:21Z",
+ "_http_status": 200
+}

@@ -1,0 +1,137 @@
+Former Y Combinator president Geoff Ralston launches new AI ‘safety’ fund | TechCrunch
+Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now
+Back by popular demand: Save up to $300 on Disrupt
+ Close
+ TechCrunch Desktop Logo
+ TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+SearchSubmit
+ Site Search Toggle
+ Mega Menu Toggle
+Topics
+ Latest 
+ AI 
+ Amazon 
+ Apps 
+ Biotech & Health 
+ Climate 
+ Cloud Computing 
+ Commerce 
+ Crypto 
+ Enterprise 
+ EVs 
+ Fintech 
+ Fundraising 
+ Gadgets 
+ Gaming 
+ Google 
+ Government & Policy 
+ Hardware 
+ Instagram 
+ Layoffs 
+ Media & Entertainment 
+ Meta 
+ Microsoft 
+ Privacy 
+ Robotics 
+ Security 
+ Social 
+ Space 
+ Startups 
+ TikTok 
+ Transportation 
+ Venture 
+More from TechCrunch
+ Staff 
+ Events 
+ Startup Battlefield 
+ StrictlyVC 
+ Newsletters 
+ Podcasts 
+ Videos 
+ Partner Content 
+ TechCrunch Brand Studio 
+ Contact Us 
+ Image Credits:Web Summit 
+ Venture 
+ Former Y Combinator president Geoff Ralston launches new AI ‘safety’ fund
+ Julie Bort
+ 12:33 PM PDT · April 17, 2025
+Geoff Ralston, well-known in the startup community for his years at Y Combinator, is back in the formal investing ring, he announced Thursday.
+His new fund is called Safe Artificial Intelligence Fund, or SAIF, which is both an explanation of its thesis and a play on words.
+Ralston is specifically looking for startups that “enhance AI safety, security, and responsible deployment,” as his fund’s website describes. He plans to write $100,000 checks as a SAFE, “pun intended,” he says, with a $10 million cap. A SAFE is, of course, the invest now/price later pre-seed investment tool pioneered by Y Combinator (it stands for simple agreement for future equity).
+While most VCs these days are looking to invest in AI startups, Ralston’s take is a bit more focused on the idea of safe AI, even though he admits the concept is a bit broad.
+“The vast majority of AI projects out in the world today are using the technology to solve problems or create efficiencies or create new capabilities. They are not necessarily intrinsically unsafe, but safety is not their primary concern,” Ralston tells TechCrunch. “I intend to fund startups whose primary objective is safe AI — as I have (very broadly) defined it.”
+That list includes startups focused on improving the safety of AI, like those that clarify an AI’s decision-making process or benchmark AI safety. It includes products that protect intellectual property, those that ensure an AI conforms to compliance requirements, fight disinformation, and detect AI-generated attacks. He also wants to invest in functional AI tools with built-in safety in mind, such as better AI forecasting tools and AI-enabled business negotiation tools that won’t reveal corporate secrets to outsiders.
+This might sound like a list of AI startups that many VCs are pursuing, but there are areas Ralston says he won’t back. One example is fully autonomous weapons.
+“There are certainly uses of AI which would (will) be unsafe: using the technology to create bioweapons, to manage conventional weapons without a human in the loop, etc.,” he explained. 
+In fact, he’d like to fund “weapon safety systems” that could detect or prevent attacks from AI weapons.
+This is an interesting contrarian viewpoint from many of today’s defense tech founders and VCs. As TechCrunch has previously reported, some of the people building AI weapons have increasingly been floating the idea that such weapons would be better operating without a human. 
+Still, all things AI is a crowded field for VCs these days. That’s where Ralston hopes his YC connections could give him an advantage. Ralston departed YC in 2022, after three years as president (succeeded by Garry Tan) and over a decade as an adviser. 
+Ralston plans to offer mentoring of the kind he did at the storied startup accelerator and has promised to coach them through how to apply to YC. And he’s offering to help them tap into his considerable investor network. 
+Ralston declined to say how big this fund is, how many startups he intends to back, or who his LP backers are.
+ Topics
+ AI, Geoff Ralston, TC, Venture, venture funds, Y Combinator 
+ When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.
+ Julie Bort 
+ Venture Editor
+ Julie Bort is the Startups/Venture Desk editor for TechCrunch. 
+You can contact or verify outreach from Julie by emailing julie.bort@techcrunch.com or via @Julie188 on X. 
+ View Bio 
+ October 13 – 15
+ San Francisco
+Last day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.
+BOOK NOW
+Most Popular
+ Revolut confirms customer data breach through fake government requests
+Jagmeet Singh
+ OpenAI puts Pro subscriptions on hold due to Astra demand
+Sarah Perez
+ ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen
+Zack Whittaker
+ Automattic’s board forces CEO Matt Mullenweg into leave of absence
+Julie Bort
+Sarah Perez
+ Apple unveils its first foldable, the iPhone Duo
+Ivan Mehta
+ OpenAI fought dirty on career-making math problem, says NYU mathematician
+Russell Brandom
+ A secret new Elizabeth Holmes documentary stuns Telluride
+Connie Loizos
+ Loading the next article 
+ Error loading the next article 
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+TechCrunch
+Staff
+Contact Us
+Advertise
+Site Map
+Terms of Service
+Privacy Policy
+RSS Terms of Use
+Code of Conduct
+OpenAI
+Hugging Face
+Flock
+Startup Battlefield
+Disrupt 2026
+Tech Layoffs
+ChatGPT
+© 2026 TechCrunch Media LLC.

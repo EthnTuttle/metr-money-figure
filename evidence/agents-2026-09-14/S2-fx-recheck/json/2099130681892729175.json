@@ -1,0 +1,98 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ThePrimeagen/status/2099130681892729175",
+  "id": "2099130681892729175",
+  "text": "METR is not independent",
+  "raw_text": {
+   "text": "METR is not independent",
+   "display_text_range": [
+    0,
+    23
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "ThePrimeagen",
+   "url": "https://x.com/ThePrimeagen",
+   "id": "291797158",
+   "followers": 380534,
+   "following": 1378,
+   "likes": 127716,
+   "media_count": 5499,
+   "name": "ThePrimeagen",
+   "description": "skill issues: 🟩⬛️⬛️⬛️⬛️⬛️(69/420)\n\nhttps://boot.dev/prime\nhttps://youtube.com/theprimetimeagen\nhttps://twitch.tv/theprimeagen",
+   "raw_description": {
+    "text": "skill issues: 🟩⬛️⬛️⬛️⬛️⬛️(69/420)\n\nhttps://t.co/TYJ6aSq4O0\nhttps://t.co/wQJlh4stsc\nhttps://t.co/wxeJWY8LmI",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       35,
+       58
+      ],
+      "original": "https://t.co/TYJ6aSq4O0",
+      "replacement": "https://boot.dev/prime",
+      "display": "boot.dev/prime"
+     },
+     {
+      "type": "url",
+      "indices": [
+       59,
+       82
+      ],
+      "original": "https://t.co/wQJlh4stsc",
+      "replacement": "https://youtube.com/theprimetimeagen",
+      "display": "youtube.com/theprimetimeag…"
+     },
+     {
+      "type": "url",
+      "indices": [
+       83,
+       106
+      ],
+      "original": "https://t.co/wxeJWY8LmI",
+      "replacement": "https://twitch.tv/theprimeagen",
+      "display": "twitch.tv/theprimeagen"
+     }
+    ]
+   },
+   "location": "Windows ME",
+   "banner_url": "https://pbs.twimg.com/profile_banners/291797158/1773426848",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_200x200.jpg",
+   "joined": "Mon May 02 16:42:29 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://twitch.tv/ThePrimeagen",
+    "display_url": "twitch.tv/ThePrimeagen"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 77,
+  "retweets": 145,
+  "likes": 2277,
+  "bookmarks": 61,
+  "quotes": 11,
+  "created_at": "Sun Sep 13 13:38:49 +0000 2026",
+  "created_timestamp": 1789306729,
+  "views": 112573,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:16Z",
+ "_http_status": 200
+}

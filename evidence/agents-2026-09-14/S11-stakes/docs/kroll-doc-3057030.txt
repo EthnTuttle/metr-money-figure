@@ -1,0 +1,3074 @@
+               Case 22-11068-JTD             Doc 6952        Filed 02/03/24          Page 1 of 23
+
+
+
+
+                        IN THE UNITED STATES BANKRUPTCY COURT
+                             FOR THE DISTRICT OF DELAWARE
+
+In re:                                                        Chapter 11
+
+FTX TRADING LTD., et al., 1                                   Case No. 22-11068 (JTD)
+
+         Debtors.                                             (Jointly Administered)
+
+                                                              Hearing Date: February 22, 2024 at 1:00 p.m. (ET)
+                                                              Objection Deadline: February 15, 2024 at 4:00 p.m. (ET)
+
+
+
+
+       MOTION OF DEBTORS FOR ENTRY OF AN ORDER AUTHORIZING AND
+    APPROVING (I) PROCEDURES FOR SALE OF DEBTORS’ EQUITY INTERESTS IN
+    ANTHROPIC, PBC; (II) SALE(S) OF SUCH EQUITY INTERESTS IN ACCORDANCE
+       WITH SUCH PROCEDURES FREE AND CLEAR OF ANY LIENS, CLAIMS,
+       INTERESTS AND ENCUMBRANCES; AND (III) REDACTION AND FILING
+            UNDER SEAL OF CERTAIN CONFIDENTIAL COMMERCIAL
+                   INFORMATION IN THE SALE PROCEDURES
+
+                  FTX Trading Ltd. (“FTX Trading”) and its affiliated debtors and debtors-in-
+
+possession (collectively, the “Debtors”) hereby submit this motion (this “Motion”) for entry of
+
+an order, substantially in the form attached hereto as Exhibit A (the “Order”), pursuant to
+
+sections 105(a), 107(b) and 363 of title 11 of the United States Code, 11 U.S.C. §§ 101 et seq.
+
+(the “Bankruptcy Code”), rules 2002, 6004 and 9018 of the Federal Rules of Bankruptcy
+
+Procedure (the “Bankruptcy Rules”) and rules 2002-1, 6004-1, 9006-1 and 9018-1(b) of the
+
+Local Rules of Bankruptcy Practice and Procedure of the United States Bankruptcy Court for the
+
+District of Delaware (the “Local Rules”), authorizing and approving (a) procedures (the “Sale
+
+Procedures”) for the sale of all or a portion of the Series B Preferred Stock (the “Anthropic
+
+Shares”), including any rights or interests therein, held by Debtor Clifton Bay Investments LLC
+
+
+1
+     The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and
+     4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the
+     Debtors and the last four digits of their federal tax identification numbers is not provided herein. A complete
+     list of such information may be obtained on the website of the Debtors’ claims and noticing agent at
+     https://cases.ra.kroll.com/FTX. The principal place of business of Debtor Emergent Fidelity Technologies Ltd is
+     Unit 3B, Bryson’s Commercial Complex, Friars Hill Road, St. John’s, Antigua and Barbuda.
+             Case 22-11068-JTD         Doc 6952      Filed 02/03/24     Page 2 of 23
+
+
+
+
+(f/k/a Alameda Research Ventures LLC, “Clifton Bay”) in Anthropic, PBC, a Delaware public
+
+benefit corporation (“Anthropic”), (b) the sale(s) of the Anthropic Shares in accordance with the
+
+Sale Procedures free and clear of any liens, claims, interests and encumbrances (except as set
+
+forth in the Sale Procedures) and (c) the redaction and filing under seal of certain confidential
+
+commercial information contained in the Sale Procedures. In support of this Motion, the Debtors
+
+respectfully state as follows:
+
+                                           Background
+
+               1.      On November 11 and November 14, 2022 (as applicable, the “Petition
+
+Date”), the Debtors filed with the Court voluntary petitions for relief under the Bankruptcy Code.
+
+The Debtors continue to operate their businesses and manage their properties as debtors-in-
+
+possession pursuant to sections 1107(a) and 1108 of the Bankruptcy Code. Joint administration
+
+of these Chapter 11 Cases was authorized by the Court by entry of an order on November 22,
+
+2022 [D.I. 128]. On December 15, 2022, the Office of the United States Trustee for the District
+
+of Delaware (the “U.S. Trustee”) appointed the Official Committee of Unsecured Creditors (the
+
+“Official Committee”) pursuant to section 1102 of the Bankruptcy Code [D.I. 231].
+
+               2.      Additional factual background relating to the Debtors’ businesses and the
+
+commencement of these Chapter 11 Cases is set forth in the Declaration of John J. Ray III in
+
+Support of Chapter 11 Petitions and First Day Pleadings [D.I. 24], the Declaration of Edgar W.
+
+Mosley II in Support of Chapter 11 Petitions and First Day Pleadings [D.I. 57], the
+
+Supplemental Declaration of John J. Ray III in Support of First Day Pleadings [D.I. 92] and the
+
+Supplemental Declaration of Edgar W. Mosley II in Support of First Day Pleadings [D.I. 93].
+
+
+
+
+                                                 2
+             Case 22-11068-JTD          Doc 6952      Filed 02/03/24     Page 3 of 23
+
+
+
+
+                              Facts Specific to the Relief Requested
+
+       I.      The Debtors’ Investment in Anthropic.
+
+               3.      Prior to the Petition Date, the Debtors regularly entered into and exited
+
+investments across a variety of asset categories, including interests in privately held companies,
+
+debt and equity securities in publicly traded companies, investments in crypto, venture capital or
+
+other investment funds. Many of these assets were held purely for purposes of investment and,
+
+as a result, were meant to be monetized over time rather than integrated into the Debtors’ core
+
+crypto exchange businesses.
+
+               4.      As part of these investment efforts, on October 5, 2021, Clifton Bay
+
+acquired a Modified Simple Agreement for Future Equity (the “M-SAFE”) from Anthropic for
+
+an aggregate consideration of $500,000,000. On May 13, 2022, the M-SAFE was converted into
+
+44,539,240 shares of Series B Preferred Stock at a per share price of $11.2261. Anthropic’s
+
+Series B Preferred Stock and other series of preferred securities are generally issued to outside
+
+investors and convertible into shares of Anthropic’s N-Class Common Stock or Voting Common
+
+Stock, as applicable, upon certain events, including an IPO or SPAC transaction. Upon the
+
+closing of Anthropic’s Series B funding on April 30, 2022, Clifton Bay owned approximately
+
+13.56% of Anthropic, on a fully diluted basis. Subsequently, Anthropic closed several rounds of
+
+financing transactions in which additional preferred securities were issued to investors. To the
+
+Debtors’ knowledge, as of January 2024, Clifton Bay currently holds approximately 7.84% of
+
+Anthropic, on a fully diluted basis, following subsequent financing rounds undertaken by
+
+Anthropic.
+
+               5.      The Debtors’ proposed chapter 11 plan provides for, and the Debtors have
+
+undertaken efforts to monetize assets in anticipation of, dollarized distributions to creditors.
+
+Given the increased interest in AI and large language models, there has been significant
+
+
+                                                  3
+             Case 22-11068-JTD           Doc 6952       Filed 02/03/24   Page 4 of 23
+
+
+
+
+appreciation in the value of the Anthropic Shares since the Debtors’ acquisition and investment
+
+in Anthropic in 2021.
+
+                6.      Additionally, the Debtors understand that Anthropic will likely continue to
+
+seek additional rounds of equity financing. Establishing the Sale Procedures and allowing the
+
+Debtors to conduct and consummate sales of the Anthropic Shares in accordance therewith will
+
+permit the Debtors to coordinate the most optimal and appropriate time for the sale of Anthropic
+
+Shares in conjunction with Anthropic’s capital raising efforts. Accordingly, the Debtors submit
+
+that establishing the Sale Procedures and conducting and consummating sales of the Anthropic
+
+Shares in accordance with the proposed Sale Procedures will maximize the value of the Debtors’
+
+estates for the benefit of all stakeholders.
+
+                                               Jurisdiction
+
+                7.      The Court has jurisdiction to consider this Motion pursuant to 28 U.S.C.
+
+§§ 157 and 1334 and the Amended Standing Order of Reference from the United States District
+
+Court for the District of Delaware, dated February 29, 2012. This matter is a core proceeding
+
+pursuant to 28 U.S.C. § 157(b). Venue is proper in the Court pursuant to 28 U.S.C. §§ 1408 and
+
+1409. The statutory predicates for the relief requested herein are sections 105(a), 107(b) and 363
+
+of the Bankruptcy Code, Bankruptcy Rules 2002, 6004 and 9018 and Local Rules 2002-1, 6004-
+
+1, 9006-1 and 9018-1(b). Pursuant to Local Rule 9013-1(f), the Debtors consent to the entry of a
+
+final order or judgment by the Court in connection with this Motion to the extent it is later
+
+determined that the Court, absent consent of the parties, cannot enter final orders or judgments
+
+consistent with Article III of the United States Constitution.
+
+                                          Relief Requested
+
+                8.      By this Motion, the Debtors seek entry of the Order, substantially in the
+
+form attached hereto as Exhibit A, authorizing and approving (a) the Sale Procedures to sell the
+
+
+                                                    4
+             Case 22-11068-JTD          Doc 6952      Filed 02/03/24     Page 5 of 23
+
+
+
+
+Anthropic Shares, (b) the sale(s) of the Anthropic Shares in accordance with the Sale Procedures
+
+free and clear of any liens, claims, interests and encumbrances (except as set forth in the Sale
+
+Procedures) and (c) the redaction and filing under seal of certain confidential commercial
+
+information contained in the Sale Procedures.
+
+                                         Sales Procedures
+
+               9.       The Debtors believe that flexibility with respect to the sale timing and
+
+process is crucial to maximizing the value of the Anthropic Shares and thus the value to the
+
+Debtors’ estates. The Debtors intend to work cooperatively with Anthropic to execute the sale(s)
+
+of the Anthropic Shares, including complying with the applicable Anthropic organizational and
+
+corporate documents, including without limitation the Company’s Amended and Restated
+
+Bylaws, Amended and Restated Certificate of Incorporation, the Amended and Restated
+
+Investors’ Rights Agreement, the Amended and Restated Voting Agreement, the Amended and
+
+Restated Right of First Refusal and Co-Sale Agreement and any other agreements and
+
+documents that govern the rights and obligations of Clifton Bay as an investor in Anthropic
+
+(collectively, the “Company Documents”). The flexibility to adjust the sale timeline will help
+
+facilitate such cooperation, including by allowing the Debtors to capture excess demand for
+
+Anthropic’s equity securities channeled from any of Anthropic’s financing rounds. Further,
+
+given the significant number and value of Anthropic Shares held by the Debtors, the flexibility to
+
+sell portions of Anthropic Shares at different times will help the Debtors monetize their interest.
+
+Moreover, the streamlined Sale Procedures will allow the Debtors to respond quickly to the
+
+market without the delay of filing a separate motion for each proposed Sale.
+
+               10.      The Debtors propose to utilize the following Sale Procedures:
+
+                     (a) Assets. The Anthropic Shares.
+
+
+
+
+                                                  5
+Case 22-11068-JTD       Doc 6952      Filed 02/03/24      Page 6 of 23
+
+
+
+
+    (b) Method of Sale. The Debtors may pursue the sale of all or a portion of the
+        Anthropic Shares in one or a series of public auctions as contemplated by
+        paragraph (d) below or private sale transactions as contemplated in
+        paragraph (e) below (each, a “Sale”), in each case to a single purchaser or
+        multiple purchasers and in compliance with these Sale Procedures.
+    (c) Required Terms. Regardless of the method of Sale, the documentation for
+        any Sale shall include provisions acceptable to the Debtors that the
+        Anthropic Shares are being transferred (i) “as is,” “where is,” and “with all
+        faults,” (ii) without any indemnity to the purchaser(s) thereof, and (iii) free
+        and clear of all liens, claims, interests and encumbrances (other than
+        permitted encumbrances approved by the Debtors, including restrictions
+        arising under applicable securities laws or as set forth in the Company
+        Documents or the legends on certificates of the Anthropic Shares), with
+        any such liens, claims, interests and encumbrances attaching only to the
+        sale proceeds with the same validity, extent and priority as existed
+        immediately prior to the Sale.
+    (d) Auction Procedures. The Debtors may hold one or a series of auctions
+        (each, an “Auction”) at any time after entry of the Order approving this
+        Motion. The Debtors shall conduct any Auction in accordance with the
+        following procedures and any supplemental procedures the Debtors
+        consider appropriate and in the best interests of the Debtors’ estates.
+           (i) To the extent that the Debtors determine to hold an Auction, the
+               Debtors shall provide Anthropic with five (5) business days’ notice
+               prior to filing a notice (the “Auction Notice”) with the Court. The
+               Auction Notice shall include the date, time and location of the
+               Auction and the number of Anthropic Shares for sale at the
+               Auction. The Auction Notice also may include any supplemental
+               procedures applicable to the Auction. The Auction Notice shall be
+               served on each of the Sale Notice Parties (as defined below). The
+               date of the Auction shall be no less than ten (10) business days
+               after the date of the Auction Notice.
+           (ii) Only “Qualified Bidders” will be permitted to bid at an Auction.
+                In order to become a Qualified Bidder, an interested party must
+                make the following deliveries to the Debtors no later than five (5)
+                business days prior to the commencement of the Auction, unless
+                the Debtors determine, in consultation with the Official Committee
+                and the Ad Hoc Committee of Non-US Customers of FTX.com
+                (the “AHC”, and together with the Official Committee, the
+                “Consultation Parties”), to waive one or more of the requirements
+                for such interested party; provided, that, the Debtors cannot waive
+                the requirement for the bidder questionnaire without the prior
+                consent of Anthropic.
+
+
+
+
+                                  6
+Case 22-11068-JTD     Doc 6952      Filed 02/03/24      Page 7 of 23
+
+
+
+
+            (A) A written statement of the number of Anthropic Shares on
+                which the bidder seeks to bid, and the proposed per share price
+                for such Anthropic Shares;
+            (B) Sufficient evidence of the bidder’s financial capacity and any
+                required authorizations to close the Sale without material
+                delay, including without limitation, such bidder’s current
+                audited (if applicable) financial statements and information for
+                determining whether any regulatory approvals are required to
+                close the Sale;
+            (C) a complete draft purchase agreement, together with all exhibits
+                and schedules, marked to show any amendments and
+                modifications to the form of purchase agreement provided by
+                the Debtors for the Auction, which form purchase agreement
+                shall be made available to bidders, Anthropic and the
+                Consultation Parties upon issuance of the Auction Notice;
+            (D) the interested party’s agreement to such terms and conditions
+                as may be required by the Debtors to register to bid and
+                participate in the Auction;
+            (E) a written certification that such bidder is not an “insider” of the
+                Debtors, as that term is defined in section 101(31) of the
+                Bankruptcy Code;
+            (F) responses to a bidder questionnaire; and
+            (G) if requested by the Debtors, a cash deposit by wire transfer (the
+                amount of which shall be set by the Debtors in their sole
+                discretion) to be held in an escrow account to be identified and
+                established by the Debtors (the “Good Faith Deposit”).
+         (iii) No bid submitted during an Auction may contain any financing or
+               due diligence contingency. Any such bid will not be considered a
+               qualified bid. The bid of any Successful Bidder (as defined below)
+               will be binding whether or not the Successful Bidder has obtained
+               financing or completed its due diligence investigation.
+         (iv) Upon the conclusion of an Auction, the Debtors may, in
+              consultation with the Consultation Parties, (A) identify and certify
+              the bid or bids that constitute the highest or best offer or offers for
+              the applicable Anthropic Shares (each such bid, a “Successful
+              Bid”, and each person submitting such bid, a “Successful Bidder”),
+              and (B) identify and, in consultation with the Consultation Parties,
+              certify the bid or bids that constitute the next highest or best offer
+              or offers for the applicable Anthropic Shares (each person
+              submitting such a bid, a “Backup Bidder”), and, in each case,
+              notify the Successful Bidder(s) and Backup Bidder(s).
+         (v) Subject to paragraph (g) (Sale Objections), once the Debtors close
+             the Auction, the Debtors are authorized to consummate the Sale
+
+
+                                7
+Case 22-11068-JTD      Doc 6952      Filed 02/03/24     Page 8 of 23
+
+
+
+
+               with the Successful Bidder pursuant to the Successful Bid and shall
+               have no obligation to consider any subsequent higher and better
+               offer.
+          (vi) All Good Faith Deposits will be returned to any Qualified Bidder
+               who is not a Successful Bidder or a Backup Bidder; provided,
+               however, that if a Successful Bidder fails to consummate a
+               transaction within five (5) business days after the closing deadline
+               set forth in the purchase agreement for the Successful Bid or
+               otherwise mutually agreed to by the Debtors and the Successful
+               Bidder, (A) the Debtors will not have any obligation to return the
+               Good Faith Deposit of such Successful Bidder and shall be entitled
+               to retain (and the Successful Bidder shall forfeit) such Good Faith
+               Deposit which shall irrevocably become the property of the
+               Debtors; and (B) if the Debtors selected a Backup Bidder, the
+               Debtors shall proceed to closing the Sale with the Backup Bidder.
+               Within two (2) business days of closing the Sale with the
+               Successful Bidder, the Debtors shall return the Good Faith Deposit
+               to the Backup Bidder.
+    (e) Private Sales and the Reference Price. Subject to paragraph (g) (Sale
+        Objections), the Debtors are authorized to consummate, without an
+        Auction, the Sale of the Anthropic Shares in one or more private sale
+        transactions (each, a “Private Sale”) in accordance with the following
+        procedures and any supplemental procedures the Debtors consider
+        appropriate and in the best interests of the Debtors’ estates.
+          (i) To the extent that Anthropic has closed a primary offer and sale of
+              preferred stock to third-party investors in an equity financing
+              round on or within 120 days prior to the date on which the Debtor
+              enters into a Private Sale, the Debtors may enter into a definitive
+              agreement for a Private Sale without notice to any Consultation
+              Party [REDACTED] (a “Reference Price”) [REDACTED];
+              provided, that, prior to entering into any agreement with respect to
+              a Private Sale, the Debtors shall provide Anthropic five (5)
+              business days’ notice of such sale, a copy of all applicable Sale
+              Disclosures and a copy of responses to the bidder questionnaire
+              from the purchaser.
+          (ii) Prior to entering into any definitive agreement for a Private Sale
+               that is not at or above a Reference Price, the Debtors shall notify
+               firms serving as the legal counsel and financial advisor to the
+               Consultation Parties.
+    (f) Sale Disclosures.
+          (i) No later than two (2) business days after entering into a definitive
+              purchase agreement with respect to any Sale, the Debtors shall file
+              with the Court a notice of the following (as described below, the
+              “Sale Disclosures”):
+
+
+                                 8
+Case 22-11068-JTD      Doc 6952      Filed 02/03/24     Page 9 of 23
+
+
+
+
+              (A) a list of each purchaser, the number of Anthropic Shares to be
+                  purchased, and the aggregate purchase price to be paid;
+              (B) in the case of an Auction, the identity of any Backup Bidder
+                  and the terms of the back-up bid, if any;
+              (C) a proposed sale order (the “Sale Order”), in substantially the
+                  form attached to the Order as Exhibit 1, which, among other
+                  things, authorizes the Debtors to consummate such Sale and
+                  approves the terms of such Sale;
+              (D) in the case of a Private Sale, whether the Sale is being
+                  consummated at or above the Reference Price;
+              (E) whether the Sale Order includes a proposed finding from the
+                  Court that the Anthropic Shares are being purchased in “good
+                  faith” for purposes of section 363(m) of the Bankruptcy Code
+                  (a “Good Faith Finding”); and
+              (F) if required as support for entry of the proposed Sale Order,
+                  declarations from the Debtors, the purchaser(s) or other parties
+                  with respect to such matters as the Debtors may determine.
+          (ii) The Debtors shall serve a copy of the Sale Disclosures (by email
+               or, if email is not available, by overnight mail) to the following
+               parties: (A) the U.S. Trustee; (B) counsel to the Official
+               Committee; (C) counsel to the AHC; (D) any known affected
+               creditor(s) asserting a lien, claim or encumbrance against, or
+               interest in, the relevant Anthropic Shares; (E) any known interested
+               or affected governmental or regulatory entity; (F) solely in the case
+               of a Sale that is not in excess of an applicable Reference Price, any
+               party who, in the discretion of the Debtors, would meet the
+               financial and other eligibility criteria of a Qualified Bidder known
+               by the Debtors to have expressed a written interest in purchasing
+               the relevant Anthropic Shares during the last six (6) months;
+               (G) Anthropic and counsel to Anthropic; and (H) any other party
+               that has requested notice pursuant to Bankruptcy Rule 2002
+               (collectively, the “Sale Notice Parties”).
+    (g) Sale Objections.
+          (i) The Debtors may consummate a Private Sale that (A) is at or above
+              an applicable Reference Price, (B) does not include a Good Faith
+              Finding and (C) complies with the Company Documents, without
+              prior notice to the Court or any party in interest (other than the
+              Sale Disclosures). The Debtors shall submit the Sale Order for
+              such a Private Sale under certification of counsel concurrently with
+              or at any time after the filing of the Sale Disclosures.
+          (ii) In the case of all other Sales, the Debtors may submit the Sale
+               Order for entry under certification of counsel after the Debtors
+               have provided all parties-in-interest and Anthropic no less than
+
+
+                                 9
+Case 22-11068-JTD      Doc 6952       Filed 02/03/24   Page 10 of 23
+
+
+
+
+               seven (7) business days’ notice to object to the entry of the Sale
+               Order. Objections to any such Sale must be (A) in writing and
+               state with specificity the basis for objecting and (B) filed with the
+               Court and served (which service may be by email) on (1) the U.S.
+               Trustee; (2) counsel to the Debtors; (3) counsel to the Official
+               Committee; (4) counsel to the AHC; and (5) any other party that
+               has requested notice pursuant to Bankruptcy Rule 2002
+               (collectively, the “Sale Objection Notice Parties”) within three (3)
+               business days of the service of the Sale Disclosures at 4:00 p.m.
+               (prevailing Eastern Time) (the “Sale Objection Deadline”). If no
+               party-in-interest objects in writing to such a Sale by the Sale
+               Objection Deadline, the Debtors may submit the Sale Order for
+               entry under certification of counsel. If a party-in-interest or
+               Anthropic with files the Court and serves on the Sale Objection
+               Notice Parties a written objection to a proposed Sale on or prior to
+               the Sale Objection Deadline, then the Debtors may only
+               consummate the Sale upon withdrawal of such objection,
+               submission of a consensual form of order resolving the objection
+               between the Debtors and the objecting party, or upon further order
+               of the Court. Subject to the Court’s availability, the Debtors may
+               seek an expedited hearing before the Court to resolve the
+               objection. After all timely filed objections have been addressed,
+               the Debtors may submit the Sale Order for entry under certification
+               of counsel. Immediately upon entry of the Sale Order, the Debtors
+               may consummate the proposed Sale on the terms set forth in the
+               Sale Order and the applicable documentation executed in
+               connection with such Sale; provided, that, if any party-in-interest
+               or Anthropic has filed an objection in accordance with these
+               procedures, absent written consent of the objecting party, the Sale
+               Order shall not contain a waiver the stay provided in Bankruptcy
+               Rule 6004(h).
+    (h) Modification; Fiduciary Duties. To the extent consistent with applicable
+        law, the Debtors may, in consultation with the Consultation Parties,
+        (A) adopt such additional rules and procedures at or prior to any
+        Auction(s), (B) modify or amend the Sale Procedures or waive the terms
+        and conditions set forth in the Sale Procedures with respect to any or all
+        potential bidders, and (C) adjourn, reschedule or cancel all or any portion
+        of the sale process contemplated by these Sale Procedures; provided, that,
+        in no case shall the Debtors take the action set forth in clause (B) above
+        with respect to rights specific to Anthropic in these Sale Procedures
+        adverse in any material respect to Anthropic without the prior written
+        consent of Anthropic or following an order from the Court.
+        Notwithstanding anything to the contrary contained herein, nothing in
+        these Sale Procedures will require the Debtors to take any action, or to
+        refrain from taking any action, unless the Debtors determine necessary to
+        comply with their respective fiduciary duties under applicable law.
+
+
+                                 10
+            Case 22-11068-JTD           Doc 6952       Filed 02/03/24    Page 11 of 23
+
+
+
+
+                     (i) Beneficiaries. These Sale Procedures are for the benefit of the Debtors
+                         and their estates. No interested party, Qualified Bidder or third party shall
+                         have any right or benefit hereunder at any time, nor shall the Debtors have
+                         any monetary liability to any person in connection with any failure or
+                         alleged failure to comply with these Sale Procedures.
+
+               11.      The Debtors believe that the Reference Price is sensitive and proprietary.
+
+The Reference Price is a key component of the Debtors’ marketing strategy for the Anthropic
+
+Shares and therefore should be kept strictly confidential to maintain the Debtors’ competitive
+
+advantages. The public disclosure of the Reference Price could be detrimental to the Debtors’
+
+goal of obtaining higher and better offers for the Anthropic Shares. Accordingly, the Debtors
+
+seek authorization for redacting and filing under seal the Reference Price in the Sale Procedures.
+
+                                           Basis for Relief
+
+  I.   Approval of the Sale Procedures and Sales in Accordance with the Sale Procedures
+       Are Fair, Appropriate and in the Best Interests of the Debtors’ Estates.
+
+               12.      Sections 363(b) and 105(a) of the Bankruptcy Code authorize the Court to
+
+approve the Sale Procedures. 11 U.S.C. §§ 105, 363(b)(1). Section 363(b) of the Bankruptcy
+
+Code provides that “[t]he trustee, after notice and a hearing, may use, sell or lease, other than in
+
+the ordinary course of business, property of the estate.” 11 U.S.C. § 363(b)(1). Section 105(a)
+
+of the Bankruptcy Code empowers bankruptcy courts to “issue any order, process, or judgment
+
+that is necessary or appropriate to carry out the provisions of this title.” 11 U.S.C. § 105(a).
+
+               13.      Bankruptcy courts routinely authorize sales of a debtor’s assets and
+
+procedures for the sale of such assets if there is a “sound business purpose” that justifies such use
+
+of estate property. See Dai-Ichi Kangyo Bank, Ltd. v. Montgomery Ward Holding Corp. (In re
+
+Montgomery Ward Holding Corp.), 242 B.R. 147, 153 (D. Del. 1999) (citing In re Lionel Corp.,
+
+722 F.2d at 1071 (citations omitted); Culp v. Stanziale (In re Culp), 550 B.R. 683, 697 (D. Del.
+
+2015), appeal dismissed, 681 Fed. Appx. 140 (3d Cir. 2017).
+
+
+
+                                                  11
+            Case 22-11068-JTD          Doc 6952        Filed 02/03/24    Page 12 of 23
+
+
+
+
+               14.     In evaluating whether a sale under section 363 is justified by a sound
+
+business purpose, courts consider a variety of factors which essentially amount to a business
+
+judgment test. See In re Culp, 550 B.R. at 697 (citing In re Montgomery Ward Holding Corp.,
+
+242 B.R. at 153). In Delaware, the business judgment rule is a “presumption that directors act in
+
+good faith, on an informed basis, honestly believing that their action is in the best interests of the
+
+company.” Stanizale v. Nachtomi (In re Tower Air, Inc.), 416 F.3d 229, 238 (3d Cir. 2005)
+
+(citing Aronson v. Lewis, 473 A.2d 805, 812 (Del. 1984)); see also In re Integrated Res., Inc.,
+
+147 B.R. 650, 656 (S.D.N.Y. 1992) (holding that Delaware’s business judgment rule principles
+
+have “vitality by analogy” in chapter 11).
+
+               15.     Courts have considered the following factors in determining whether a
+
+proposed sale satisfies this standard: (a) whether a sound business justification exists for the
+
+sale; (b) whether adequate and reasonable notice of the sale was provided to interested parties;
+
+(c) whether the sale will produce a fair and reasonable price for the property; and (d) whether the
+
+parties have acted in good faith. See In re Decora Indus., Inc., No. 00-4459 (JJF), 2002 WL
+
+32332749, at *2 (D. Del. May 20, 2002) (citing In re Del. & Hudson Ry. Co., 124 B.R. 169, 176
+
+(D. Del. 1991)); see also In re Elpida Memory, Inc., No. 12-10947 (CSS), 2012 Bankr. LEXIS
+
+5367, at *18 (Bankr. D. Del. Nov. 16, 2012).
+
+       A.      Approval of the Sale Procedures and Sales in Accordance with the Sale
+               Procedures Are Justified by Good and Sound Business Justification.
+
+               16.     A sound business purpose for the sale of a debtor’s assets outside the
+
+ordinary course of business exists where such sale is necessary to maximize and preserve the
+
+value of the estate for the benefit of creditors and interest holders. See, e.g., In re Mushroom
+
+Transp. Co., 382 F.3d 325, 339 (3d Cir. 2004) (finding that a debtor had a fiduciary duty to
+
+protect and maximize the value of the estate’s assets); In re Lionel Corp., 722 F.2d at 1071; Four
+
+
+
+                                                  12
+            Case 22-11068-JTD         Doc 6952        Filed 02/03/24    Page 13 of 23
+
+
+
+
+B. Corp. v. Food Barn Stores, Inc. (In re Food Barn Stores, Inc.), 107 F.3d 558, 564–65 (8th Cir.
+
+1997).
+
+               17.     Implementation of the Sale Procedures and sales in accordance with the
+
+Sale Procedures represent a sound exercise of the Debtors’ business judgment and are justified
+
+under sections 363(b) and 105(a) of the Bankruptcy Code. The Sale Procedures are designed to
+
+give the Debtors the flexibility needed to sell the Anthropic Shares expediently and efficiently,
+
+and in a manner that maximizes value for the benefit of all stakeholders.
+
+               18.     Sales in accordance with the Sale Procedures should be authorized
+
+because the Debtors may sell the Anthropic Shares in one or a series of Private Sales or Auctions
+
+and the Sale Procedures will alleviate the cost and delay of filing a separate motion for each
+
+proposed Sale. Moreover, any Sales of the Anthropic Shares will be appropriately limited by the
+
+Sale Procedures. The Sale Procedures require the Debtors to notify the Consultation Parties
+
+before determining to enter into any purchase agreement with respect to a Sale (other than Sales
+
+at or above the Reference Price). The Sale Procedures also require the Debtors to file with the
+
+Court and serve on the Sale Notice Parties Sale Disclosures that include key metrics of each Sale
+
+shortly following entry into such Sale.
+
+               19.     In addition, the market for equities of early-stage technology companies,
+
+especially those focused on artificial intelligence, can be volatile, and the value of the Anthropic
+
+Shares has changed significantly since the Petition Date. The Debtors may face stringent time
+
+constraints in order to capitalize when the value of and demand for the Anthropic Shares is high
+
+such that filing individual motions with the associated notice period would not be practicable.
+
+Further, the ability to coordinate the timing of the Sales with Anthropic and its financing
+
+activities will assist with the Debtors’ outreach to investors and reduce the cost associated with
+
+
+
+
+                                                 13
+            Case 22-11068-JTD          Doc 6952       Filed 02/03/24    Page 14 of 23
+
+
+
+
+marketing and maximize the value of potential Sales. Based on the foregoing, the Debtors
+
+submit, in their sound exercise of business judgment, that any Sale or Sales of the Anthropic
+
+Shares pursuant to the Sale Procedures and responsive to market conditions will maximize the
+
+value of the Anthropic Shares for the benefit of all stakeholders and should therefore be
+
+approved.
+
+       B.      The Noticing Procedures Are Reasonable and Appropriate.
+
+               20.      The notice and hearing requirements contained in section 363(b)(1) of the
+
+Bankruptcy Code are satisfied if, in light of the particular circumstances of a proposed
+
+transaction, appropriate notice and an opportunity for a hearing are given. See 11 U.S.C.
+
+§ 102(1)(A) (defining “after notice and a hearing” to mean such notice and opportunity for a
+
+hearing “as [are] appropriate in the particular circumstances”). Bankruptcy Rules 2002(a)(2),
+
+2002(i) and 2002(k) require that a minimum of 21 days’ notice of the proposed sale of property
+
+outside the ordinary course of business be provided by mail to “the debtor, the trustee, all
+
+creditors and indenture trustees,” the Official Committee and the U.S. Trustee unless a debtor
+
+shows “cause.” See FED. R. BANKR. P. 2002(a)(2), 2002(i), 2002(k). Once the debtor shows
+
+“cause,” however, Bankruptcy Rule 2002(a)(2) authorizes the Court to shorten the generally
+
+applicable 21-day notice period and to direct a method of notice other than mail. See FED. R.
+
+BANKR. P. 2002(a)(2).
+
+               21.      Moreover, the Court is authorized to limit, even without a prior showing
+
+of cause, notice of asset sales outside the ordinary course of a debtor’s business to the Official
+
+Committee and any creditor or equity holder requesting notice. See FED. R. BANKR. P. 2002(i).
+
+In addition, the sale or transfer of property outside the ordinary course of business may be
+
+authorized without an actual hearing if no party in interest timely requests such a hearing. See
+
+11 U.S.C. § 102(1)(B)(i) (authorizing “an act without an actual hearing if such notice is given
+
+
+                                                 14
+            Case 22-11068-JTD          Doc 6952        Filed 02/03/24     Page 15 of 23
+
+
+
+
+properly and if such a hearing is not requested timely by a party in interest,” notwithstanding the
+
+statutory requirement for “notice and a hearing”).
+
+               22.     The usual process of obtaining court approval for each Sale: (a) would
+
+result in increased costs to the Debtors’ estates that may undermine or eliminate the economic
+
+benefits of the underlying transactions and (b) in some instances, may hinder the Debtors’ ability
+
+to take advantage of sale opportunities that are available only for a limited time. The Debtors
+
+therefore propose to streamline the process and shorten the applicable notice periods to
+
+maximize the net value realized from Sales for the benefit of all parties-in-interest.
+
+               23.     The Sale Procedures comply with the notice and hearing requirements of
+
+the Bankruptcy Code, as well as due process, by providing the Sale Notice Parties with an
+
+opportunity to present objections as to each proposed Sale (other than Sales at or above the
+
+Reference Price) and to request a hearing. Furthermore, all known holders of liens will receive
+
+notice and an opportunity to object to each proposed Sale (other than Sales at or above the
+
+Reference Price). Based on the foregoing, the Debtors submit that sufficient cause exists to
+
+implement the Sale Procedures for the Anthropic Shares and that such procedures will improve
+
+the efficiency of the sale process for the Anthropic Shares, thereby maximizing the value of such
+
+assets to the Debtors’ estates.
+
+   C. Purchaser(s) of Shares in Accordance with the Sale Procedures Should Be Entitled to the
+      Good-Faith Protections of Section 363(m) of the Bankruptcy Code.
+
+               24.     Section 363(m) of the Bankruptcy Code protects a good-faith purchaser’s
+
+interest in property purchased from the debtor notwithstanding that authorization of the sale
+
+conducted under section 363(b) is later reversed or modified on appeal. Specifically, section
+
+363(m) provides, in relevant part, as follows:
+
+               The reversal or modification on appeal of an authorization under
+               [section 363(b)] . . . does not affect the validity of a sale . . . to an
+
+
+                                                  15
+            Case 22-11068-JTD         Doc 6952        Filed 02/03/24     Page 16 of 23
+
+
+
+
+               entity that purchased . . . such property in good faith, whether or not
+               such entity knew of the pendency of the appeal, unless such
+               authorization and such sale . . . were stayed pending appeal.
+
+11 U.S.C. § 363(m).
+
+               25.     Section 363(m) “reflects the . . . ‘policy of not only affording finality to
+
+the judgment of the bankruptcy court, but particularly to give finality to those orders and
+
+judgments upon which third parties rely.’” In re Abbotts Dairies of Pa., Inc., 788 F.2d 143, 147
+
+(3d Cir. 1986) (quoting Hoese Corp. v. Vetter Corp. (In re Vetter Corp.), 724 F.2d 52, 55 (7th
+
+Cir. 1983)); see also United States v. Salerno, 932 F.2d 117, 123 (2d Cir. 1991) (noting that
+
+section 363(m) furthers the policy of finality in bankruptcy sales and “assists bankruptcy courts
+
+in maximizing the price for assets sold in such proceedings”).
+
+               26.     While the Bankruptcy Code does not define “good faith,” the Third Circuit
+
+has held that “the phrase encompasses one who purchases in ‘good faith’ and for ‘value.’” In re
+
+Abbotts Dairies of Pa., Inc., 788 F.2d at 147. To constitute lack of good faith, a purchaser’s
+
+conduct in connection with a sale must usually amount to “fraud, collusion between the
+
+purchaser and other bidders or the trustee, or an attempt to take grossly unfair advantage of other
+
+bidders.” Id. (quoting In re Rock Indus. Mach. Corp., 572 F.2d 1195, 1198 (7th Cir. 1978))
+
+(citations omitted). Due to the absence of a bright-line test for good faith, the determination is
+
+based on the facts of each case, with a focus on the “integrity of [a bidder’s] conduct in the
+
+course of the sale proceedings.” See id.; see also Pursuit Capital Mgmt. Fund I, L.P. v. Burtch
+
+(In re Pursuit Capital Mgmt., LLC), 874 F.3d 124, 135 (3d Cir. 2017).
+
+               27.     The Debtors submit that any Sale consummated in accordance with the
+
+Sale Procedures will be an arm’s-length transaction without indication of any fraud or collusion
+
+between any purchaser and other bidders or the trustee, or an attempt to take grossly unfair
+
+advantage of other bidders or similar conduct that would cause section 363(m) of the Bankruptcy
+
+
+                                                 16
+            Case 22-11068-JTD          Doc 6952       Filed 02/03/24     Page 17 of 23
+
+
+
+
+Code to not apply to such Sales. The Sale Procedures provide that to the extent a purchaser
+
+requires a Good Faith Finding, the Debtors and the purchaser will file relevant declarations in
+
+support of the Good Faith Finding as necessary. Accordingly, the Debtors request that the Court
+
+determine that, to the extent that the Sale Procedures are complied with, any purchaser for whom
+
+sufficient declarations are provided is a good-faith purchaser entitled to the protections of section
+
+363(m) of the Bankruptcy Code.
+
+ II.   The Sales Should Be Free and Clear of Liens, Claims, Interests and Encumbrances
+       Under Section 363(f) of the Bankruptcy Code.
+
+               28.     In the interest of attracting the best offers, the Debtors request
+
+authorization to sell the Anthropic Shares free and clear of any liens, claims, encumbrances and
+
+other interests (except as set forth in the Sale Procedures) in accordance with section 363(f) of
+
+the Bankruptcy Code, with any such liens, claims, encumbrances and other interests attaching to
+
+the proceeds of the sale of the Anthropic Shares.
+
+               29.     The sale of estate property free and clear of any interest is governed by
+
+section 363(f) of the Bankruptcy Code, which provides:
+
+               The trustee may sell property under subsection (b) or (c) of this
+               section free and clear of any interest in such property of an entity
+               other than the estate, only if—
+
+               (1)     applicable nonbankruptcy law permits sale of such property
+                       free and clear of such interest;
+               (2)     such entity consents;
+               (3)     such interest is a lien and the price at which such property is
+                       to be sold is greater than the aggregate value of all liens on
+                       such property;
+               (4)     such interest is in bona fide dispute; or
+               (5)     such entity could be compelled, in a legal or equitable
+                       proceeding, to accept a money satisfaction of such interest.
+
+11 U.S.C. § 363(f).
+
+
+
+
+                                                 17
+             Case 22-11068-JTD          Doc 6952          Filed 02/03/24   Page 18 of 23
+
+
+
+
+                30.     Section 363(f) of the Bankruptcy Code is drafted in the disjunctive:
+
+approval of a proposed sale of assets free and clear of interests requires only that one of the five
+
+requirements be satisfied with respect to each such interest. See In re Kellstrom Indus., Inc.,
+
+282 B.R. 787, 793 (Bankr. D. Del. 2002) (“Section 363(f) is written in the disjunctive, not the
+
+conjunctive, and if any of the five conditions are met, the debtor has the authority to conduct the
+
+sale free and clear of all liens.”) (citation omitted).
+
+                31.     Furthermore, section 105(a) of the Bankruptcy Code grants the Court
+
+broad discretionary powers, providing that “[t]he Court may issue any order, process or
+
+judgment that is necessary or appropriate to carry out the provisions of [the Bankruptcy Code].”
+
+11 U.S.C. § 105(a). This equitable power may be utilized to effectuate the provisions of
+
+section 363(f). See, e.g., In re Trans World Airlines, Inc., No. 01-0056 (PJW), 2001 WL
+
+1820325 (Bankr. D. Del. 2001), at *8 (highlighting bankruptcy courts’ equitable authority to
+
+authorize sale of estate assets free and clear).
+
+                32.     The Sale Procedures satisfy the requirements of section 363(f) of the
+
+Bankruptcy Code. Pursuant to the Sale Procedures, in any Sale, to the extent there are any
+
+known holders of liens on the Anthropic Shares, the Debtors will provide such parties with a set
+
+of Sale Disclosures for such Sale prior to the disposition of the applicable Anthropic Shares.
+
+Absent any objection to a Sale, a holder of a lien will be deemed to have consented to such sale,
+
+and the relevant asset may be sold free and clear of such lien. See, e.g., Hargrave v. Twp. of
+
+Pemberton (In re Tabone, Inc.), 175 B.R. 855, 858 (Bankr. D.N.J. 1994) (failure to object to sale
+
+free and clear of liens, claims and encumbrances satisfies section 363(f)(2)) (citations omitted);
+
+In re BSA, 642 B.R. 504, 569 (Bankr. D. Del. 2022) (citing In re Tabone, Inc., 175 B.R. at 858).
+
+To the extent that consent of a lienholder is neither obtained nor deemed to have been obtained,
+
+
+
+
+                                                   18
+             Case 22-11068-JTD          Doc 6952       Filed 02/03/24     Page 19 of 23
+
+
+
+
+the Debtors submit that with respect to any Sale, lienholders could be compelled in a legal or
+
+equitable proceeding to accept a monetary satisfaction of their interests.
+
+                33.     A sale of the Anthropic Shares free and clear of claims and interests
+
+(except as set forth in the Sale Procedures) is necessary to maximize the value of offers to
+
+acquire the Anthropic Shares. If the Anthropic Shares are not sold free and clear of claims and
+
+interests (except as set forth in the Sale Procedures), or if any purchaser would, or in the future
+
+could, be liable for any such claim or interest, the Debtors would be unable to successfully
+
+market the Anthropic Shares without a significant reduction in price. Such a sale would provide
+
+substantially less value and certainty for the Debtors’ estates.
+
+                34.     Furthermore, any lien or claim on, in, to or against any Anthropic Shares
+
+existing immediately prior to a sale of such Anthropic Shares will attach to the sale proceeds
+
+with the same validity, priority, force and effect as it had at such time, subject to the rights and
+
+defenses of the Debtors or any party-in-interest. The Debtors submit that holders of any claim or
+
+interest will be sufficiently protected by the availability of the proceeds of the sale to satisfy their
+
+claims and interests. Accordingly, the Debtors submit that a Sale, if consummated, that is free
+
+and clear of claims and interests (except as set forth in the Sale Procedures) is in the best
+
+interests of the Debtors’ estates and stakeholders.
+
+III.    The Reference Price for the Anthropic Shares Contained in the Sale Procedures Is
+        Confidential Commercial Information and Should Be Filed Under Seal.
+
+                35.     The Debtors respectfully submit that the Reference Price set forth in
+
+Paragraph 9(e) of the Sale Procedures be redacted and filed under seal.
+
+                36.     Bankruptcy Code section 107(b) authorizes the issuance of orders that
+
+protect parties from the potential harm resulting from the disclosure of confidential information.
+
+Specifically, section 107(b) states that “[o]n request of a party in interest, the bankruptcy court
+
+
+
+                                                  19
+             Case 22-11068-JTD          Doc 6952        Filed 02/03/24     Page 20 of 23
+
+
+
+
+shall . . . (1) protect an entity with respect to a trade secret or other confidential research,
+
+development, or commercial information . . . .” Similarly, Bankruptcy Rule 9018 and Local
+
+Rule 9018-1 authorize the filing under seal of documents containing confidential information.
+
+                37.     The Debtors respectfully submit that the Reference Price is of a sensitive,
+
+confidential and proprietary nature, and thus is confidential commercial information as
+
+contemplated by section 107 of the Bankruptcy Code. “Commercial information” has been
+
+defined as “information which would result in an ‘unfair advantage to competitors by providing
+
+them with information as to the commercial operations of the debtor.’” In re Alterra Healthcare
+
+Corp., 353 B.R. 66, 75 (Bankr. D. Del. 2006) (quoting Video Software Dealers Ass’n v. Orion
+
+Pictures Corp. (In re Orion Pictures Corp.), 21 F.3d 24, 27 (2d Cir. 1994)). Unlike its
+
+counterpart in rule 26(c) of the Federal Rules of Civil Procedure, section 107(b) of the
+
+Bankruptcy Code does not require an entity seeking such protection to demonstrate “good
+
+cause.” In re Orion Pictures Corp., 21 F.3d at 28. If an interested party is requesting to seal
+
+information covered by section 107(b) of the Bankruptcy Code, “the court is required to protect a
+
+requesting party and has no discretion to deny the application.” Id. at 27. Moreover, the
+
+resulting order should be broad, that is “any order which justice requires.” FED. R. BANKR. P.
+
+9018; In re Global Crossing, Ltd., 295 B.R. 720, 724 (Bankr. S.D.N.Y. 2003). Courts are
+
+required to provide such protections, “generally where open inspection may be used as a vehicle
+
+for improper purposes.” In re Orion Pictures Corp., 21 F.3d at 27. Indeed, the “authority goes
+
+not just to the protection of confidential documents, but to other confidentiality restrictions that
+
+are warranted in the interests of justice.” In re Global Crossing, Ltd., 295 B.R. at 724.
+
+                38.     The Reference Price constitutes “commercial information” subject to the
+
+protection of section 107(b). The Reference Price is a key component of the marketing strategy
+
+
+
+
+                                                   20
+            Case 22-11068-JTD          Doc 6952       Filed 02/03/24    Page 21 of 23
+
+
+
+
+of PWP, the Debtors’ financial advisor, and could give a competitor a significant and unfair
+
+advantage. Further, the public disclosure of the Reference Price could potentially disrupt the
+
+Debtors’ sale process and depress the value of the Anthropic Shares to the ultimate detriment of
+
+the Debtors. The Debtors submit that parties-in-interest will not be prejudiced by the Reference
+
+Price being redacted from the public record because such information is not necessary to
+
+evaluating the reasonableness of the proposed Sale Procedures and will be disclosed in its
+
+entirety to the Court, the Official Committee and the U.S. Trustee.
+
+               39.     Accordingly, the Debtors submit that the Reference Price is “commercial
+
+information” within the ambit of section 107 and that the Debtors should be authorized to file
+
+under seal the Reference Price.
+
+                             Bankruptcy Rules 6004(a) and 6004(h)
+
+               40.     The Debtors request that the Court (a) find that notice of the Motion is
+
+adequate under Bankruptcy Rule 6004(a) under the circumstances and (b) waive the 14-day stay
+
+requirements under Bankruptcy Rule 6004(h). In light of the Debtors’ current financial
+
+conditions and the importance of an efficient timeline for maximizing the value of the Anthropic
+
+Shares, the proposed Sales Procedures contemplated herein should be approved as soon as
+
+practicable to allow the Debtors to commence the sale process. Accordingly, the Debtors request
+
+that the Order be effective immediately upon entry and that the 14-day stay imposed by
+
+Bankruptcy Rule 6004(h) be waived.
+
+                                               Notice
+
+               41.     The Debtors have provided notice of the Motion to the following entities
+
+or, in lieu thereof, their counsel: (a) the U.S. Trustee; (b) counsel to the Official Committee;
+
+(c) counsel to the AHC; (d) the Securities and Exchange Commission; (e) the Internal Revenue
+
+Service; (f) the United States Department of Justice; (g) the United States Attorney for the
+
+
+                                                 21
+             Case 22-11068-JTD         Doc 6952        Filed 02/03/24   Page 22 of 23
+
+
+
+
+District of Delaware; (h) any known affected creditor(s) asserting a lien, claim or encumbrance
+
+against, or interest in, the Anthropic Shares; (i) any party known by the Debtors to have
+
+expressed a written interest in purchasing the Anthropic Shares during the last six (6) months;
+
+(j) Anthropic and (k) to the extent not listed herein, those parties requesting notice pursuant to
+
+Bankruptcy Rule 2002. In light of the nature of the relief requested herein, the Debtors submit
+
+that no other or further notice is required.
+
+                                         No Prior Request
+
+               42.     No prior motion for the relief requested herein has been made to this or
+
+any other court.
+
+                                               Conclusion
+
+               WHEREFORE, for the reasons set forth herein, the Debtors respectfully request
+
+that the Court (a) enter the Order, substantially in the form attached hereto as Exhibit A and
+
+(b) grant such other and further relief as is just and proper
+
+
+
+
+                                                  22
+          Case 22-11068-JTD   Doc 6952     Filed 02/03/24   Page 23 of 23
+
+
+
+
+Dated: February 2, 2024           LANDIS RATH & COBB LLP
+       Wilmington, Delaware
+                                  /s/ Matthew R. Pierce
+                                  Adam G. Landis (No. 3407)
+                                  Kimberly A. Brown (No. 5138)
+                                  Matthew R. Pierce (No. 5946)
+                                  919 Market Street, Suite 1800
+                                  Wilmington, Delaware 19801
+                                  Telephone: (302) 467-4400
+                                  Facsimile: (302) 467-4450
+                                  E-mail: landis@lrclaw.com
+                                          brown@lrclaw.com
+                                          pierce@lrclaw.com
+
+                                  -and-
+
+                                  SULLIVAN & CROMWELL LLP
+                                  Andrew G. Dietderich (admitted pro hac vice)
+                                  James L. Bromley (admitted pro hac vice)
+                                  Brian D. Glueckstein (admitted pro hac vice)
+                                  Alexa J. Kranzley (admitted pro hac vice)
+                                  125 Broad Street
+                                  New York, NY 10004
+                                  Telephone: (212) 558-4000
+                                  Facsimile: (212) 558-3588
+                                  E-mail: dietdericha@sullcrom.com
+                                          bromleyj@sullcrom.com
+                                          gluecksteinb@sullcrom.com
+                                          kranzleya@sullcrom.com
+
+
+                                  Counsel for the Debtors and Debtors-in-Possession
+
+
+
+
+                                      23
+Case 22-11068-JTD   Doc 6952-1   Filed 02/03/24   Page 1 of 38
+
+
+
+
+                       EXHIBIT A
+
+                      Proposed Order
+              Case 22-11068-JTD             Doc 6952-1         Filed 02/03/24        Page 2 of 38
+
+
+
+
+                        IN THE UNITED STATES BANKRUPTCY COURT
+                             FOR THE DISTRICT OF DELAWARE
+
+In re:                                                        Chapter 11
+
+FTX TRADING LTD., et al., 1                                   Case No. 22-11068 (JTD)
+
+         Debtors.                                             (Jointly Administered)
+
+                                                              Ref. No. __
+
+      ORDER AUTHORIZING AND APPROVING (I) PROCEDURES FOR SALE OF
+     DEBTORS’ EQUITY INTERESTS IN ANTHROPIC, PBC; (II) SALE(S) OF SUCH
+    EQUITY INTERESTS IN ACCORDANCE WITH SUCH PROCEDURES FREE AND
+      CLEAR OF ANY LIENS, CLAIMS, INTERESTS AND ENCUMBRANCES; AND
+     (III) REDACTION AND FILING UNDER SEAL OF CERTAIN CONFIDENTIAL
+             COMMERCIAL INFORMATION IN THE SALE PROCEDURES
+
+                  Upon the motion (the “Motion”) 2 of FTX Trading Ltd. (“FTX Trading”) and its
+
+affiliated debtors and debtors-in-possession (collectively, the “Debtors”), for entry of an order
+
+(this “Order”), pursuant to sections 105(a), 107(b) and 363 of title 11 of the United States Code,
+
+11 U.S.C. §§ 101 et seq. (the “Bankruptcy Code”), rules 2002, 6004 and 9018 of the Federal
+
+Rules of Bankruptcy Procedure (the “Bankruptcy Rules”) and rules 2002-1, 6004-1, 9006-1 and
+
+9018-1(b) of the Local Rules of Bankruptcy Practice and Procedure of the United States
+
+Bankruptcy Court for the District of Delaware (the “Local Rules”), authorizing and approving
+
+(a) the Sale Procedures for the sale or transfer of the Anthropic Shares, (b) the sale(s) of the
+
+Anthropic Shares in accordance with the Sale Procedures free and clear of any liens, claims,
+
+interests and encumbrances (except as set forth in the Sale Procedures), and (c) the redaction and
+
+
+
+
+1
+     The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and
+     4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the
+     Debtors and the last four digits of their federal tax identification numbers is not provided herein. A complete
+     list of such information may be obtained on the website of the Debtors’ claims and noticing agent at
+     https://cases.ra.kroll.com/FTX.
+2
+     Capitalized terms not otherwise defined herein are to be given the meanings ascribed to them in the Motion.
+             Case 22-11068-JTD              Doc 6952-1         Filed 02/03/24        Page 3 of 38
+
+
+
+
+filing under seal of certain confidential commercial information contained in the Sale
+
+Procedures; and this Court having jurisdiction to consider the Motion pursuant to 28 U.S.C.
+
+§§ 157 and 1334 and the Amended Standing Order of Reference from the United States District
+
+Court for the District of Delaware, dated February 29, 2012; and this Court being able to issue a
+
+final order consistent with Article III of the United States Constitution; and venue of these
+
+Chapter 11 Cases and the Motion in this district being proper pursuant to 28 U.S.C. §§ 1408 and
+
+1409; and this matter being a core proceeding pursuant to 28 U.S.C. § 157(b); and this Court
+
+having found that proper and adequate notice of the Motion and the relief requested therein has
+
+been provided in accordance with the Bankruptcy Rules and the Local Rules; and that, except as
+
+otherwise ordered herein, no other or further notice is necessary; and objections (if any) to the
+
+Motion having been withdrawn, resolved or overruled on the merits; and a hearing (the “Sale
+
+Procedures Hearing”) having been held to consider the relief requested in the Motion and upon
+
+the record of the hearing and all of the proceedings had before this Court; and this Court having
+
+found and determined that the legal and factual bases set forth in the Motion establish just cause
+
+for the relief granted herein; and after due deliberation and sufficient cause appearing therefor,
+
+                 IT IS HEREBY FOUND AND DETERMINED THAT: 3
+
+                 A.       This Court has jurisdiction to consider the Motion pursuant to
+
+28 U.S.C. §§ 157 and 1334 and the Amended Standing Order of Reference from the United
+
+States District Court for the District of Delaware, dated February 29, 2012. This Court may
+
+issue a final order on the Motion consistent with Article III of the United States Constitution.
+
+
+
+
+3
+    Findings of fact shall be construed as conclusions of law and conclusions of law shall be construed as findings
+    of fact to the fullest extent of the law. See FED. R. BANKR. P. 7052.
+
+                                                        -2-
+            Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24    Page 4 of 38
+
+
+
+
+Venue is proper pursuant to 28 U.S.C. §§ 1408 and 1409. This matter is a core proceeding
+
+pursuant to 28 U.S.C. § 157(b).
+
+               B.      The Debtors’ notice of the Motion, the Sale Procedures, the Sale
+
+Procedures Hearing and the proposed entry of this Order was (i) appropriate and reasonably
+
+calculated to provide all interested parties with timely and proper notice, (ii) in compliance with
+
+all applicable requirements of the Bankruptcy Code, the Bankruptcy Rules and the Local Rules
+
+and (iii) adequate and sufficient under the circumstances of these Chapter 11 Cases, and no other
+
+or further notice is required, except as set forth herein. A reasonable opportunity to object or be
+
+heard regarding the relief granted by this Order has been afforded to those parties entitled to
+
+notice pursuant to Local Rule 2002-1(b).
+
+               C.      The Sale Procedures set forth in this Order were proposed in good faith by
+
+the Debtors, are fair, reasonable and appropriate under the circumstances and are properly
+
+designed to maximize the recovery from any Sale of the Anthropic Shares. The Debtors have
+
+demonstrated good and sufficient business reasons for this Court to enter this Order, and such
+
+good and sufficient reasons, which are set forth in the Motion and on the record at the Sale
+
+Procedures Hearing, are incorporated herein by reference and, among other things, form the basis
+
+for the findings of fact and conclusions of law set forth herein.
+
+               D.      The form and manner of notices to be delivered pursuant to this Order,
+
+including the Sale Notice and the Auction Notice, are (i) reasonably calculated to provide all
+
+interested parties with timely and proper notice; (ii) in compliance with all applicable
+
+requirements of the Bankruptcy Code, the Bankruptcy Rules and the Local Rules and
+
+(iii) adequate and sufficient under the circumstances of these Chapter 11 Cases.
+
+
+
+
+                                                 -3-
+            Case 22-11068-JTD           Doc 6952-1       Filed 02/03/24     Page 5 of 38
+
+
+
+
+                E.      Subject to compliance with the Sale Procedures, the Debtors may sell the
+
+Anthropic Shares free and clear of any interests in such Anthropic Shares of any kind or nature
+
+whatsoever (except as set forth in the Sale Procedures) because in each case one or more of the
+
+standards set forth in section 363(f)(1)–(5) of the Bankruptcy Code has been satisfied.
+
+                F.      A publicly viewable redacted version of the Motion has been filed in these
+
+Chapter 11 Cases at Dkt. No. [●]. The Reference Price is highly sensitive. Filing the Reference
+
+Price under seal pursuant to sections 105(a) and 107(b) of the Bankruptcy Code is in the best
+
+interests of the Debtors, their estates, creditors and other parties-in-interest.
+
+                G.      The legal and factual bases set forth in the Motion establish just cause for
+
+the relief granted herein. Entry of this Order is in the best interests of the Debtors and their
+
+estates, creditors, interest holders and all other parties-in-interest.
+
+                IT IS HEREBY ORDERED THAT:
+
+                1.      The Motion is hereby GRANTED as set forth herein.
+
+                2.      The Sale Procedures are approved as follows:
+
+                     (j) Assets. The Anthropic Shares.
+                     (k) Method of Sale. The Debtors may pursue the sale of all or a portion of the
+                         Anthropic Shares in one or a series of public auctions as contemplated by
+                         paragraph (d) below or private sale transactions as contemplated in
+                         paragraph (e) below (each, a “Sale”), in each case to a single purchaser or
+                         multiple purchasers and in compliance with these Sale Procedures.
+                     (l) Required Terms. Regardless of the method of Sale, the documentation for
+                         any Sale shall include provisions acceptable to the Debtors that the
+                         Anthropic Shares are being transferred (i) “as is,” “where is,” and “with all
+                         faults,” (ii) without any indemnity to the purchaser(s) thereof, and (iii) free
+                         and clear of all liens, claims, interests and encumbrances (other than
+                         permitted encumbrances approved by the Debtors, including restrictions
+                         arising under applicable securities laws or as set forth in the Company
+                         Documents or the legends on certificates of the Anthropic Shares), with
+                         any such liens, claims, interests and encumbrances attaching only to the
+                         sale proceeds with the same validity, extent and priority as existed
+                         immediately prior to the Sale.
+
+
+                                                   -4-
+Case 22-11068-JTD      Doc 6952-1      Filed 02/03/24     Page 6 of 38
+
+
+
+
+     (m) Auction Procedures. The Debtors may hold one or a series of auctions
+         (each, an “Auction”) at any time after entry of the Order approving this
+         Motion. The Debtors shall conduct any Auction in accordance with the
+         following procedures and any supplemental procedures the Debtors
+         consider appropriate and in the best interests of the Debtors’ estates.
+           (i) To the extent that the Debtors determine to hold an Auction, the
+               Debtors shall provide Anthropic with five (5) business days’ notice
+               prior to filing a notice (the “Auction Notice”) with the Court. The
+               Auction Notice shall include the date, time and location of the
+               Auction and the number of Anthropic Shares for sale at the
+               Auction. The Auction Notice also may include any supplemental
+               procedures applicable to the Auction. The Auction Notice shall be
+               served on each of the Sale Notice Parties (as defined below). The
+               date of the Auction shall be no less than ten (10) business days
+               after the date of the Auction Notice.
+           (ii) Only “Qualified Bidders” will be permitted to bid at an Auction.
+                In order to become a Qualified Bidder, an interested party must
+                make the following deliveries to the Debtors no later than five (5)
+                business days prior to the commencement of the Auction, unless
+                the Debtors determine, in consultation with the Official Committee
+                and the Ad Hoc Committee of Non-US Customers of FTX.com
+                (the “AHC”, and together with the Official Committee, the
+                “Consultation Parties”), to waive one or more of the requirements
+                for such interested party; provided, that, the Debtors cannot waive
+                the requirement for the bidder questionnaire without the prior
+                consent of Anthropic.
+               (A) A written statement of the number of Anthropic Shares on
+                   which the bidder seeks to bid, and the proposed per share price
+                   for such Anthropic Shares;
+               (B) Sufficient evidence of the bidder’s financial capacity and any
+                   required authorizations to close the Sale without material
+                   delay, including without limitation, such bidder’s current
+                   audited (if applicable) financial statements and information for
+                   determining whether any regulatory approvals are required to
+                   close the Sale;
+               (C) a complete draft purchase agreement, together with all exhibits
+                   and schedules, marked to show any amendments and
+                   modifications to the form of purchase agreement provided by
+                   the Debtors for the Auction, which form purchase agreement
+                   shall be made available to bidders, Anthropic and the
+                   Consultation Parties upon issuance of the Auction Notice;
+               (D) the interested party’s agreement to such terms and conditions
+                   as may be required by the Debtors to register to bid and
+                   participate in the Auction;
+
+                                 -5-
+Case 22-11068-JTD     Doc 6952-1      Filed 02/03/24      Page 7 of 38
+
+
+
+
+             (E) a written certification that such bidder is not an “insider” of the
+                 Debtors, as that term is defined in section 101(31) of the
+                 Bankruptcy Code;
+             (F) responses to a bidder questionnaire; and
+             (G) if requested by the Debtors, a cash deposit by wire transfer (the
+                 amount of which shall be set by the Debtors in their sole
+                 discretion) to be held in an escrow account to be identified and
+                 established by the Debtors (the “Good Faith Deposit”).
+          (iii) No bid submitted during an Auction may contain any financing or
+                due diligence contingency. Any such bid will not be considered a
+                qualified bid. The bid of any Successful Bidder (as defined below)
+                will be binding whether or not the Successful Bidder has obtained
+                financing or completed its due diligence investigation.
+          (iv) Upon the conclusion of an Auction, the Debtors may, in
+               consultation with the Consultation Parties, (A) identify and certify
+               the bid or bids that constitute the highest or best offer or offers for
+               the applicable Anthropic Shares (each such bid, a “Successful
+               Bid”, and each person submitting such bid, a “Successful Bidder”),
+               and (B) identify and, in consultation with the Consultation Parties,
+               certify the bid or bids that constitute the next highest or best offer
+               or offers for the applicable Anthropic Shares (each person
+               submitting such a bid, a “Backup Bidder”), and, in each case,
+               notify the Successful Bidder(s) and Backup Bidder(s).
+          (v) Subject to paragraph (g) (Sale Objections), once the Debtors close
+              the Auction, the Debtors are authorized to consummate the Sale
+              with the Successful Bidder pursuant to the Successful Bid and shall
+              have no obligation to consider any subsequent higher and better
+              offer.
+          (vi) All Good Faith Deposits will be returned to any Qualified Bidder
+               who is not a Successful Bidder or a Backup Bidder; provided,
+               however, that if a Successful Bidder fails to consummate a
+               transaction within five (5) business days after the closing deadline
+               set forth in the purchase agreement for the Successful Bid or
+               otherwise mutually agreed to by the Debtors and the Successful
+               Bidder, (A) the Debtors will not have any obligation to return the
+               Good Faith Deposit of such Successful Bidder and shall be entitled
+               to retain (and the Successful Bidder shall forfeit) such Good Faith
+               Deposit which shall irrevocably become the property of the
+               Debtors; and (B) if the Debtors selected a Backup Bidder, the
+               Debtors shall proceed to closing the Sale with the Backup Bidder.
+               Within two (2) business days of closing the Sale with the
+               Successful Bidder, the Debtors shall return the Good Faith Deposit
+               to the Backup Bidder.
+
+
+                                -6-
+Case 22-11068-JTD      Doc 6952-1      Filed 02/03/24     Page 8 of 38
+
+
+
+
+     (n) Private Sales and the Reference Price. Subject to paragraph (g) (Sale
+         Objections), the Debtors are authorized to consummate, without an
+         Auction, the Sale of the Anthropic Shares in one or more private sale
+         transactions (each, a “Private Sale”) in accordance with the following
+         procedures and any supplemental procedures the Debtors consider
+         appropriate and in the best interests of the Debtors’ estates.
+           (i) To the extent that Anthropic has closed a primary offer and sale of
+               preferred stock to third-party investors in an equity financing
+               round on or within 120 days prior to the date on which the Debtor
+               enters into a Private Sale, the Debtors may enter into a definitive
+               agreement for a Private Sale without notice to any Consultation
+               Party [REDACTED] (a “Reference Price”) [REDACTED];
+               provided, that, prior to entering into any agreement with respect to
+               a Private Sale, the Debtors shall provide Anthropic five (5)
+               business days’ notice of such sale, a copy of all applicable Sale
+               Disclosures and a copy of responses to the bidder questionnaire
+               from the purchaser.
+           (ii) Prior to entering into any definitive agreement for a Private Sale
+                that is not at or above a Reference Price, the Debtors shall notify
+                firms serving as the legal counsel and financial advisor to the
+                Consultation Parties.
+     (o) Sale Disclosures.
+           (i) No later than two (2) business days after entering into a definitive
+               purchase agreement with respect to any Sale, the Debtors shall file
+               with the Court a notice of the following (as described below, the
+               “Sale Disclosures”):
+               (A) a list of each purchaser, the number of Anthropic Shares to be
+                   purchased, and the aggregate purchase price to be paid;
+               (B) in the case of an Auction, the identity of any Backup Bidder
+                   and the terms of the back-up bid, if any;
+               (C) a proposed sale order (the “Sale Order”), in substantially the
+                   form attached to the Order as Exhibit 1, which, among other
+                   things, authorizes the Debtors to consummate such Sale and
+                   approves the terms of such Sale;
+               (D) in the case of a Private Sale, whether the Sale is being
+                   consummated at or above the Reference Price;
+               (E) whether the Sale Order includes a proposed finding from the
+                   Court that the Anthropic Shares are being purchased in “good
+                   faith” for purposes of section 363(m) of the Bankruptcy Code
+                   (a “Good Faith Finding”); and
+
+
+
+
+                                 -7-
+Case 22-11068-JTD      Doc 6952-1      Filed 02/03/24     Page 9 of 38
+
+
+
+
+               (F) if required as support for entry of the proposed Sale Order,
+                   declarations from the Debtors, the purchaser(s) or other parties
+                   with respect to such matters as the Debtors may determine.
+           (ii) The Debtors shall serve a copy of the Sale Disclosures (by email
+                or, if email is not available, by overnight mail) to the following
+                parties: (A) the U.S. Trustee; (B) counsel to the Official
+                Committee; (C) counsel to the AHC; (D) any known affected
+                creditor(s) asserting a lien, claim or encumbrance against, or
+                interest in, the relevant Anthropic Shares; (E) any known interested
+                or affected governmental or regulatory entity; (F) solely in the case
+                of a Sale that is not in excess of an applicable Reference Price, any
+                party who, in the discretion of the Debtors, would meet the
+                financial and other eligibility criteria of a Qualified Bidder known
+                by the Debtors to have expressed a written interest in purchasing
+                the relevant Anthropic Shares during the last six (6) months;
+                (G) Anthropic and counsel to Anthropic; and (H) any other party
+                that has requested notice pursuant to Bankruptcy Rule 2002
+                (collectively, the “Sale Notice Parties”).
+     (p) Sale Objections.
+           (i) The Debtors may consummate a Private Sale that (A) is at or above
+               an applicable Reference Price, (B) does not include a Good Faith
+               Finding and (C) complies with the Company Documents, without
+               prior notice to the Court or any party in interest (other than the
+               Sale Disclosures). The Debtors shall submit the Sale Order for
+               such a Private Sale under certification of counsel concurrently with
+               or at any time after the filing of the Sale Disclosures.
+           (ii) In the case of all other Sales, the Debtors may submit the Sale
+                Order for entry under certification of counsel after the Debtors
+                have provided all parties-in-interest and Anthropic no less than
+                seven (7) business days’ notice to object to the entry of the Sale
+                Order. Objections to any such Sale must be (A) in writing and
+                state with specificity the basis for objecting and (B) filed with the
+                Court and served (which service may be by email) on (1) the U.S.
+                Trustee; (2) counsel to the Debtors; (3) counsel to the Official
+                Committee; (4) counsel to the AHC; and (5) any other party that
+                has requested notice pursuant to Bankruptcy Rule 2002
+                (collectively, the “Sale Objection Notice Parties”) within three (3)
+                business days of the service of the Sale Disclosures at 4:00 p.m.
+                (prevailing Eastern Time) (the “Sale Objection Deadline”). If no
+                party-in-interest objects in writing to such a Sale by the Sale
+                Objection Deadline, the Debtors may submit the Sale Order for
+                entry under certification of counsel. If a party-in-interest or
+                Anthropic files with the Court and serves on the Sale Objection
+                Notice Parties a written objection to a proposed Sale on or prior to
+                the Sale Objection Deadline, then the Debtors may only
+
+                                 -8-
+           Case 22-11068-JTD          Doc 6952-1       Filed 02/03/24    Page 10 of 38
+
+
+
+
+                               consummate the Sale upon withdrawal of such objection,
+                               submission of a consensual form of order resolving the objection
+                               between the Debtors and the objecting party, or upon further order
+                               of the Court. Subject to the Court’s availability, the Debtors may
+                               seek an expedited hearing before the Court to resolve the
+                               objection. After all timely filed objections have been addressed,
+                               the Debtors may submit the Sale Order for entry under certification
+                               of counsel. Immediately upon entry of the Sale Order, the Debtors
+                               may consummate the proposed Sale on the terms set forth in the
+                               Sale Order and the applicable documentation executed in
+                               connection with such Sale; provided, that, if any party-in-interest
+                               or Anthropic has filed an objection in accordance with these
+                               procedures, absent written consent of the objecting party, the Sale
+                               Order shall not contain a waiver the stay provided in Bankruptcy
+                               Rule 6004(h).
+                    (q) Modification; Fiduciary Duties. To the extent consistent with applicable
+                        law, the Debtors may, in consultation with the Consultation Parties,
+                        (A) adopt such additional rules and procedures at or prior to any
+                        Auction(s), (B) modify or amend the Sale Procedures or waive the terms
+                        and conditions set forth in the Sale Procedures with respect to any or all
+                        potential bidders, and (C) adjourn, reschedule or cancel all or any portion
+                        of the sale process contemplated by these Sale Procedures; provided, that,
+                        in no case shall the Debtors take the action set forth in clause (B) above
+                        with respect to rights specific to Anthropic in these Sale Procedures
+                        adverse in any material respect to Anthropic without the prior written
+                        consent of Anthropic or following an order from the Court.
+                        Notwithstanding anything to the contrary contained herein, nothing in
+                        these Sale Procedures will require the Debtors to take any action, or to
+                        refrain from taking any action, unless the Debtors determine necessary to
+                        comply with their respective fiduciary duties under applicable law.
+                    (r) Beneficiaries. These Sale Procedures are for the benefit of the Debtors
+                        and their estates. No interested party, Qualified Bidder or third party shall
+                        have any right or benefit hereunder at any time, nor shall the Debtors have
+                        any monetary liability to any person in connection with any failure or
+                        alleged failure to comply with these Sale Procedures.
+
+               3.      Pursuant to section 363(f) of the Bankruptcy Code, any sale of the
+
+Anthropic Shares in accordance with this Order shall be free and clear of any liens, claims,
+
+encumbrances and interests (except as set forth in the Sale Procedures), with any such liens,
+
+claims, encumbrances and interests to attach to the proceeds of such sale with the same validity,
+
+priority, force and effect as such liens, claims, encumbrances and interests had on the sold assets
+
+
+                                                 -9-
+           Case 22-11068-JTD          Doc 6952-1        Filed 02/03/24     Page 11 of 38
+
+
+
+
+immediately prior to the sale, subject to the rights, claims, defenses and obligations, if any, of the
+
+Debtors and all interested parties with respect to any such asserted liens, claims, encumbrances
+
+and interests.
+
+                 4.    The Sale Procedures shall not apply to the sale of any causes of action
+
+against any current or former employee, director, officer or professionals of the Debtors, and the
+
+Debtors shall not sell or release any causes of action against any current or former employee,
+
+director, officer or professionals of the Debtors in connection with any sale of the Anthropic
+
+Shares. For the avoidance of doubt, the Debtors may release causes of action against the
+
+applicable Anthropic Shares, Anthropic and the purchaser of any Anthropic Shares in connection
+
+with such purchase; provided, however, that if the Debtors release or sell causes of action, the
+
+Debtors shall comply with the procedures set forth in paragraph 2 and specify within the Sale
+
+Disclosures any releases or sale of causes of action in connection with a sale of the Anthropic
+
+Shares.
+
+                 5.    All rights of all parties-in-interest in these cases to object to a Sale of the
+
+Anthropic Shares in accordance with the Sale Procedures are hereby expressly reserved.
+
+                 6.    The absence of a timely objection to the sale or transfer of the Anthropic
+
+Shares in accordance with the Sale Procedures and the terms of this Order shall constitute
+
+“consent” to such sale or transfer free and clear of liens and claims (except as set forth in the
+
+Sale Procedures) within the meaning of section 363(f)(2) by any party asserting liens, claims,
+
+encumbrances against, and other interests in, any Anthropic Shares, as applicable.
+
+                 7.    The Debtors are authorized to take any action that is reasonable and
+
+necessary to close the Sales and to obtain the proceeds thereof.
+
+
+
+
+                                                 -10-
+           Case 22-11068-JTD          Doc 6952-1       Filed 02/03/24     Page 12 of 38
+
+
+
+
+               8.      The noticing procedures as set forth in this Order are hereby approved.
+
+Within three business days after entry of this Order, the Debtors shall serve this Order, together
+
+with any attachments, by first-class mail (and/or by email, as applicable) upon the Sale Notice
+
+Parties. On or about the same date, the Debtors shall publish this Order on the Debtors’ case
+
+information website (located at https://restructuring.ra.kroll.com/FTX). Service of this Order
+
+and for each proposed Sale, the respective Sale Disclosures on the Sale Notice Parties and
+
+publication thereof in the manner described in this Order, to the extent required by the Sale
+
+Procedures, constitutes good and sufficient notice of the Debtors’ such proposed Sale of the
+
+Anthropic Shares free and clear of any liens, claims, interests and encumbrances (except as set
+
+forth in the Sale Procedures), pursuant to Bankruptcy Code section 363(f). No other or further
+
+notice is required, except as otherwise set forth herein.
+
+               9.      Except for Anthropic, all persons or entities that participate in the sale
+
+process shall be deemed to have knowingly and voluntarily submitted to the exclusive
+
+jurisdiction of this Court with respect to all matters related to the Sale Procedures.
+
+               10.     The Debtors are authorized and empowered to execute and deliver such
+
+documents, and to take and perform all actions necessary to implement and effectuate the relief
+
+granted in this Order (excluding, for the avoidance of doubt, the payment of any amounts or the
+
+incurrence of any fees, costs or expenses to such investee companies and/or their representatives
+
+except as expressly contemplated by this Order).
+
+               11.     Notwithstanding anything to the contrary in the Motion, this Order, or any
+
+findings announced at the Sale Procedures Hearing, nothing in the Motion, this Order, or
+
+announced at the Sale Procedures Hearing constitutes a finding under the federal securities laws
+
+as to whether transactions involving the Anthropic Shares are securities transactions, and the
+
+
+
+                                                -11-
+           Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24    Page 13 of 38
+
+
+
+
+right of the United States Securities and Exchange Commission to challenge transactions
+
+involving the Anthropic Shares on any basis are expressly reserved.
+
+               12.     The Debtors are authorized to file the Reference Price under seal. Absent
+
+further order of the Court, the Reference Price shall remain under seal and not be made available
+
+to anyone except for the Court, the U.S. Trustee and counsel to the Official Committee.
+
+               13.     Nothing contained herein shall be deemed to modify, amend, waive, or
+
+alter the Company Documents or any rights of Anthropic or the Debtors under the Company
+
+Documents. Anthropic has not waived any rights under the Company Documents and all such
+
+rights are expressly reserved. Failure to object to the Sale Procedures shall not be deemed a
+
+waiver, modification or amendment to any of Anthropic’s rights or any term of any Company
+
+Document, and any Bankruptcy Court order approving these Sale Procedures shall not, and the
+
+Debtors shall be precluded from raising any defenses that failure by Anthropic to object to this
+
+Order will, bar, estop or limit in any manner, Anthropic’s right to object to any Sale. Nothing in
+
+the Sale Procedures or this Order shall constitute an admission by the Debtors that Anthropic is a
+
+party-in-interest with respect to any Sale.
+
+               14.     All time periods set forth in this Order shall be calculated in accordance
+
+with Bankruptcy Rule 9006(a).
+
+               15.     The requirements set forth in Local Rule 9013-1(b) are satisfied.
+
+               16.     The requirements set forth in Bankruptcy Rule 6004(a) are satisfied.
+
+               17.     This Order is immediately effective and enforceable, notwithstanding the
+
+possible applicability of Bankruptcy Rule 6004(h) or otherwise.
+
+
+
+
+                                               -12-
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24    Page 14 of 38
+
+
+
+
+               18.    This Court shall retain jurisdiction with respect to any matters, claims,
+
+rights or disputes arising from or related to the Motion or the implementation of this Order.
+
+ Dated: ___________________
+        Wilmington, Delaware                          The Honorable John T. Dorsey
+                                                      United States Bankruptcy Judge
+
+
+
+
+                                               -13-
+Case 22-11068-JTD   Doc 6952-1   Filed 02/03/24   Page 15 of 38
+
+
+
+
+                        EXHIBIT 1
+
+                     Form of Sale Order
+             Case 22-11068-JTD             Doc 6952-1         Filed 02/03/24        Page 16 of 38
+
+
+
+
+                        IN THE UNITED STATES BANKRUPTCY COURT
+                             FOR THE DISTRICT OF DELAWARE
+
+In re:                                                        Chapter 11
+
+FTX TRADING LTD., et al., 1                                   Case No. 22-11068 (JTD)
+
+         Debtors.                                             (Jointly Administered)
+
+                                                              Ref. Nos. [●]
+
+     ORDER (I) AUTHORIZING AND APPROVING SALE OF EQUITY INTERESTS IN
+    ANTHROPIC, PBC FREE AND CLEAR OF ANY LIENS, CLAIMS, INTERESTS AND
+       ENCUMBRANCES; (II) AUTHORIZING AND APPROVING ENTRY INTO,
+                AND PERFORMANCE UNDER, THE PURCHASE AND
+            SALE AGREEMENT; AND (III) GRANTING RELATED RELIEF
+
+                  Upon (i) the motion (the “Motion”) 2 of FTX Trading Ltd. and its affiliated
+
+debtors and debtors-in-possession (collectively, the “Debtors”), for entry of an order (this “Sale
+
+Order”), pursuant to sections 105(a) and 363 of title 11 of the United States Code, 11 U.S.C. §§
+
+101 et seq. (the “Bankruptcy Code”), rules 2002 and 6004 of the Federal Rules of Bankruptcy
+
+Procedure (the “Bankruptcy Rules”) and rules 2002-1, 6004-1 and 9006-1 of the Local Rules of
+
+Bankruptcy Practice and Procedure of the United States Bankruptcy Court for the District of
+
+Delaware (the “Local Rules”), authorizing and approving (a) procedures (the “Sale Procedures”)
+
+for the sale of all or a portion of the shares of Series B Preferred Stock (the “Anthropic Shares”)
+
+held by Debtor Clifton Bay Investments LLC in Anthropic PBC, a Delaware public benefit
+
+corporation, (b) the sale(s) of the Anthropic Shares in accordance with the Sale Procedures free
+
+
+
+
+1
+     The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and
+     4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the
+     Debtors and the last four digits of their federal tax identification numbers is not provided herein. A complete
+     list of such information may be obtained on the website of the Debtors’ claims and noticing agent at
+     https://cases.ra.kroll.com/FTX. The principal place of business of Debtor Emergent Fidelity Technologies Ltd
+     is Unit 3B, Bryson’s Commercial Complex, Friars Hill Road, St. John’s, Antigua and Barbuda.
+2
+     Capitalized terms not otherwise defined herein are to be given the meanings ascribed to them in the Motion.
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 17 of 38
+
+
+
+
+and clear of any liens, claims, interests and encumbrances, and (c) redaction and filing under seal
+
+of certain confidential commercial information, (ii) this Court’s order approving the Motion [D.I.
+
+[●]] (the “Sale Procedures Order”), and (iii) the Purchase and Sale Agreement (the “Purchase
+
+and Sale Agreement”, and the transactions contemplated thereby, the “Sale Transaction”), dated
+
+as of [●], 2024, a copy of which is attached as [●] to the Sale Disclosures notice in accordance
+
+with the Sale Procedures, between Debtor FTX Trading Ltd., a company established under the
+
+laws of Antigua and Barbuda (“Seller”), and [name of Purchaser[s]] ([“Purchaser”][each, a
+
+“Purchaser” and together, “Purchasers”]); and this Court having jurisdiction to consider the
+
+approval of the Purchase and Sale Agreement in accordance with the Sale Procedures pursuant to
+
+28 U.S.C. §§ 157 and 1334 and the Amended Standing Order of Reference from the United
+
+States District Court for the District of Delaware, dated February 29, 2012; and this Court being
+
+able to issue a final order consistent with Article III of the United States Constitution; and venue
+
+of these Chapter 11 Cases and this matter in this district being proper pursuant to 28 U.S.C.
+
+§§ 1408 and 1409; and this matter being a core proceeding pursuant to 28 U.S.C. § 157(b); and
+
+this Court having found that notice of the Agreement and the relief requested therein has been
+
+provided in accordance with the Sale Procedures, Bankruptcy Rules and the Local Rules; and
+
+that, except as otherwise ordered herein, no other or further notice is necessary; and objections
+
+(if any) to the relief requested having been withdrawn, resolved or overruled on the merits; and
+
+upon the record of all of the proceedings had before this Court; and this Court having found and
+
+determined that the legal and factual bases establish just cause for the relief granted herein; and
+
+after due deliberation and sufficient cause appearing therefor,
+
+
+
+
+                                                  2
+            Case 22-11068-JTD              Doc 6952-1         Filed 02/03/24        Page 18 of 38
+
+
+
+
+                 IT IS HEREBY FOUND AND DETERMINED THAT: 3
+
+                 A.       Jurisdiction and Venue. This Court has jurisdiction over this matter and
+
+over the property of the Debtors’ estates pursuant to 28 U.S.C. §§ 157 and 1334 and the
+
+Amended Standing Order of Reference from the United States District Court for the District of
+
+Delaware, dated February 29, 2012. This Court may issue a final order consistent with Article
+
+III of the United States Constitution. Venue is proper pursuant to 28 U.S.C. §§ 1408 and 1409.
+
+This matter is a core proceeding pursuant to 28 U.S.C. § 157(b).
+
+                 B.       Statutory and Rule Predicates. The statutory and other legal predicates for
+
+the approvals and authorization herein are sections 105(a) and 363 of the Bankruptcy Code,
+
+Bankruptcy Rules 2002, 6004, 9007, 9008 and 9014 and Local Rules 2002-1, 6004-1 and
+
+9006-1.
+
+                 C.       Final Order. This Sale Order constitutes a final order within the meaning
+
+of 28 U.S.C. § 158(a). Notwithstanding Bankruptcy Rule 6004(h), and to the extent necessary
+
+under Bankruptcy Rule 9014 and rule 54(b) of the Federal Rules of Civil Procedures, as made
+
+applicable by Bankruptcy Rule 7054, this Court expressly finds that there is no just reason for
+
+delay in the implementation of this Sale Order, and expressly directs entry of judgment as set
+
+forth herein and authorizes the closing of the Sale Transaction contemplated hereby without
+
+regard to any stay or delay in its implementation.
+
+                 D.       Compliance with the Sale Procedures. The Sale Procedures provided a
+
+full, fair and reasonable opportunity for any party to make an offer to purchase the Anthropic
+
+Shares. The disclosures made by the Debtors with respect to the Purchase and Sale Agreement
+
+
+
+
+3
+    Findings of fact shall be construed as conclusions of law and conclusions of law shall be construed as findings
+    of fact to the fullest extent of the law. See FED. R. BANKR. P. 7052.
+
+                                                         3
+           Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24     Page 19 of 38
+
+
+
+
+and the Sale Transaction were good, complete and adequate. The Debtors (including Seller),
+
+Purchaser[s] and their respective counsel and other advisors have complied, in good faith, with
+
+the Sale Procedures Order and the Sale Procedures in all respects. Through marketing efforts
+
+and a competitive sale process conducted in accordance with the Sale Procedures, the Debtors
+
+(i) afforded interested potential purchasers a full, fair and reasonable opportunity to qualify as
+
+bidders and submit their highest or otherwise best offer to purchase the Anthropic Shares,
+
+(ii) provided potential purchasers sufficient information to enable them to make an informed
+
+judgment on whether to bid on the Anthropic Shares and (iii) considered any bids properly
+
+submitted in accordance with the Sale Procedures on or before the deadline for bidding.
+
+[Purchaser[s] submitted a qualified bid pursuant to the Sale Procedures approved by this Court
+
+and [was][were] determined to be the Successful Bidder[s] for the Anthropic Shares.]
+
+               E.      No Collusion. [No Purchaser is][Purchaser is not] an “insider” of the
+
+Debtors, as that term is defined in section 101(31) of the Bankruptcy Code. The Purchase and
+
+Sale Agreement and the Sale Transaction were negotiated, proposed and entered into by Seller
+
+and [each] Purchaser without collusion or fraud, in good faith and from arm’s-length bargaining
+
+positions, and are substantively and procedurally fair to all parties. Neither the Debtors nor [any]
+
+Purchaser has engaged in any conduct that would cause or permit the Purchase and Sale
+
+Agreement or the consummation of the Sale Transaction to be avoided, or costs or damages to be
+
+imposed under section 363(n) of the Bankruptcy Code, and accordingly neither the Debtors nor
+
+[any] Purchaser has violated section 363(n) of the Bankruptcy Code by any action or inaction.
+
+Specifically, [no Purchaser has][Purchaser has not] acted in a collusive manner with any person
+
+and the purchase price was not controlled by any agreement among bidders. The Sale
+
+Transaction may not be avoided, and no damages may be assessed against [any] Purchaser or any
+
+
+
+                                                  4
+           Case 22-11068-JTD         Doc 6952-1      Filed 02/03/24     Page 20 of 38
+
+
+
+
+other party under section 363(n) of the Bankruptcy Code or any other applicable bankruptcy or
+
+non-bankruptcy law.
+
+               F.      Good Faith of Purchaser[s]. [Each] Purchaser is purchasing [its respective
+
+portion of] the Anthropic Shares in good faith and for value, and is a good-faith buyer within the
+
+meaning of section 363(m) of the Bankruptcy Code. [Each] Purchaser is therefore entitled to all
+
+of the protections afforded under section 363(m) and any other applicable or similar bankruptcy
+
+or non-bankruptcy law, and otherwise has proceeded in good faith in all respects in connection
+
+with this proceeding in that, inter alia: (a) [each] Purchaser recognized that the Debtors were free
+
+to deal with any other party interested in acquiring the Anthropic Shares; (b) [each] Purchaser
+
+complied with the provisions in the Sale Procedures Order; (c) [each] Purchaser in no way
+
+induced or caused the filing of these Chapter 11 Cases by the Debtors; (d) all payments to be
+
+made, and all other material agreements or arrangements entered into or to be entered into, by
+
+[each] Purchaser in connection with the Sale Transaction have been disclosed; (e) [no Purchaser
+
+has][Purchaser has not] violated section 363(n) of the Bankruptcy Code by any action or
+
+inaction; (f) the negotiation and execution of the Purchase and Sale Agreement were at arm’s
+
+length and in good faith, and at all times [each] Purchaser and Seller were represented by
+
+competent counsel of their choosing; and (g) [no Purchaser has][Purchaser has not] acted in a
+
+collusive manner with any person. [Each] Purchaser will be acting in good faith within the
+
+meaning of section 363(m) in closing the transactions contemplated by the Purchase and Sale
+
+Agreement.
+
+               G.      Highest and Best Offer. The Debtors and their advisors, including, without
+
+limitation, Perella Weinberg Partners LP, have appropriately marketed the Anthropic Shares and
+
+conducted the related sale process contemplated by the Sale Procedures Order, and a reasonable
+
+
+
+                                                 5
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 21 of 38
+
+
+
+
+opportunity has been given to any interested party to make a higher or better offer for the Anthropic
+
+Shares. No other person or entity or group of entities has offered to purchase the Anthropic Shares
+
+for higher or otherwise better value to the Debtors’ estates than Purchaser[s]. The offer to purchase
+
+the Anthropic Shares made by [each] Purchaser, under the terms and conditions set forth in the
+
+Purchase and Sale Agreement: (a) was made in good faith and complied in all respects with the
+
+Sale Procedures Order; (b) is the highest or otherwise best offer obtained for the Anthropic Shares
+
+and will provide a greater recovery for the Debtors’ estates than would be provided by any other
+
+reasonably available alternative; (c) is for fair, adequate and sufficient consideration that
+
+constitutes reasonably equivalent value for the Anthropic Shares being conveyed to [such]
+
+Purchaser; (d) is fair and reasonable; (e) is in the best interests of the Debtors’ estates; and
+
+(f) would not have been made by [such] Purchaser absent the protections afforded to [such]
+
+Purchaser by this Sale Order.
+
+               H.      The Debtors’ determination that the Sale Transaction, pursuant to the
+
+Purchase and Sale Agreement, provides the highest or otherwise best offer for the Anthropic
+
+Shares, and their related decision to sell the Anthropic Shares, constitute a reasonable exercise of
+
+the Debtors’ business judgment. The facts and circumstances demonstrate the Debtors’ business
+
+judgment to sell the Anthropic Shares to Purchaser[s] at this time, and the Debtors have articulated
+
+sound business reasons for consummating the Sale Transaction and for selling the Anthropic
+
+Shares outside of a chapter 11 plan. Moreover, the sale of the Anthropic Shares outside of a chapter
+
+11 plan pursuant to the Purchase and Sale Agreement neither impermissibly restructures the rights
+
+of the Debtors’ creditors nor dictates the terms of any chapter 11 plan. The Sale Transaction does
+
+not constitute a sub rosa chapter 11 plan. It is a reasonable exercise of the Debtors’ business
+
+judgment to execute, deliver and consummate the Sale Transaction, subject to this Sale Order.
+
+
+
+                                                 6
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 22 of 38
+
+
+
+
+               I.      Fair Consideration. The consideration provided by [each] Purchaser
+
+pursuant to the Purchase and Sale Agreement constitutes reasonably equivalent value (as those
+
+terms are defined in each of the Uniform Fraudulent Transfer Act, Uniform Fraudulent
+
+Conveyance Act and section 548 of the Bankruptcy Code) and fair consideration under the
+
+Bankruptcy Code and under the laws of the United States, any state, territory, possession or the
+
+District of Columbia. [No other Qualified Bidder has offered to purchase the Anthropic Shares
+
+for higher or otherwise better value to the Debtors’ estates than Purchaser(s).]
+
+               J.      No Successor or Other Derivative Liability. As a result of any action
+
+taken in connection with the Sale Transaction, the Purchase and Sale Agreement, or this Sale
+
+Order: (a) [no Purchaser is][Purchaser is not] a successor to or mere continuation of or
+
+substantial continuation of the Debtors or their estates and there is no continuity of enterprise
+
+between any Purchaser and the Debtors; and (b) [no Purchaser shall be][Purchaser shall not be]
+
+deemed to be holding itself out to the public as a continuation of the Debtors based on the Sale
+
+Transaction. [No Purchaser is][Purchaser is not], or shall [not] be, considered a successor in
+
+interest to any of the Debtors or their estates, by reason of any theory of law or equity, and the
+
+Sale Transaction does not amount to a consolidation, succession, merger, or de facto merger of
+
+[any] Purchaser and the Debtors and/or the Debtors’ estates. [No Purchaser would
+
+have][Purchaser would not have] entered into the Purchase and Sale Agreement if the sale of the
+
+Anthropic Shares were not made free and clear of any successor liability of [such] Purchaser.
+
+               K.      Corporate Power and Authority. As set forth in section [●] of the
+
+Purchase and Sale Agreement, Seller (a) has full corporate power and authority to execute and
+
+deliver the Purchase and Sale Agreement and all other documents contemplated thereby, (b) has
+
+all corporate authority necessary to consummate the Sale Transaction, and (c) has taken all
+
+
+
+                                                  7
+           Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24      Page 23 of 38
+
+
+
+
+corporate action and formalities necessary to authorize and approve the Purchase and Sale
+
+Agreement and the consummation of the Sale Transaction. Seller’s sale of the Anthropic Shares
+
+has been duly and validly authorized by all necessary corporate action of the Debtors. No
+
+consents or approvals, other than those expressly provided for in the Purchase and Sale
+
+Agreement, are required for Seller to consummate the Sale Transaction.
+
+               L.     The Purchase and Sale Agreement was not entered into for the purpose of
+
+hindering, delaying or defrauding creditors under the Bankruptcy Code or under the laws of the
+
+United States, any state, territory, possession or the District of Columbia. Neither the Debtors
+
+nor [any] Purchaser is entering into the Sale Transaction fraudulently for the purpose of statutory
+
+and common law fraudulent conveyance and fraudulent transfer claims.
+
+               M.     Title to Assets. The transfer of the Debtors’ rights, titles and interests to the
+
+Anthropic Shares to [each] Purchaser will be, as of the Closing Date (as defined in the Purchase
+
+and Sale Agreement), a legal, valid and effective transfer of such rights, titles and interests in
+
+[such][the] Anthropic Shares, which transfer vests or will vest [such] Purchaser with all rights,
+
+titles and interests of the Debtors to [such][the] Anthropic Shares free and clear of any Liens (as
+
+defined below and in the Purchase and Sale Agreement), other than the permitted encumbrances
+
+set forth in the Purchase and Sale Agreement (including restrictions arising under applicable
+
+securities laws or as set forth in the Company Documents or the legends on certificates of the
+
+Anthropic Shares) (such encumbrances, “Permitted Encumbrances”). The Purchase and Sale
+
+Agreement is a valid and binding contract between Seller and [each] Purchaser and shall be
+
+enforceable according to its terms.
+
+               N.     Satisfaction of Section 363(f) Standards. The conditions of section 363(f)
+
+of the Bankruptcy Code have been satisfied in full, and upon entry of this Sale Order, the
+
+
+
+                                                 8
+            Case 22-11068-JTD           Doc 6952-1       Filed 02/03/24       Page 24 of 38
+
+
+
+
+Debtors are authorized to transfer all of their rights, titles and interests in and to the Anthropic
+
+Shares free and clear of any interest in the property, other than Permitted Encumbrances. The
+
+Debtors may sell the Anthropic Shares free and clear of any liens (statutory or otherwise),
+
+charges, pledges, mortgages, leases, easements, hypothecations, usufructs, deeds of trust,
+
+security interests, options, rights of use, first offer or first refusal, servitudes, restrictive
+
+covenants or conditions, encroachments, claims, interests, restrictions, or any other
+
+encumbrances of any kind (collectively, “Liens”), other than Permitted Encumbrances, against
+
+the Debtors, their estates or the Anthropic Shares because, in each case, one or more of the
+
+standards set forth in section 363(f)(l)-(5) of the Bankruptcy Code has been satisfied. Each
+
+holder with a Lien on the Anthropic Shares to be transferred pursuant to the Purchase and Sale
+
+Agreement: (a) has, subject to the terms and conditions of this Sale Order, consented to the Sale
+
+Transaction or is deemed to have consented; (b) could be compelled in a legal or equitable
+
+proceeding to accept money satisfaction of such Lien; or (c) otherwise falls within one or more
+
+of the other subsections of section 363(f) of the Bankruptcy Code. Holders of Liens against the
+
+Debtors, their estates or the Anthropic Shares who did not object, or who withdrew their
+
+objections, to the Sale Transaction (except with respect to Permitted Encumbrances), are deemed
+
+to have consented pursuant to section 363(f)(2) of the Bankruptcy Code. All other holders of
+
+Liens are adequately protected by having their Liens, if any, in each instance against the Debtors,
+
+their estates or the Anthropic Shares, attach to the net cash proceeds of the Sale Transaction
+
+ultimately attributable to the Anthropic Shares in which such creditor alleges a Lien, in the same
+
+order of priority, with the same validity, force and effect that such Liens had prior to the Sale
+
+Transaction, subject to any claims and defenses the Debtors and their estates may possess with
+
+respect thereto.
+
+
+
+                                                     9
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 25 of 38
+
+
+
+
+               O.      [No Purchaser would][Purchaser would not] have entered into the
+
+Purchase and Sale Agreement or would consummate the Sale Transaction if the sale of the
+
+Anthropic Shares to [such] Purchaser were not free and clear of any Liens (other than Permitted
+
+Encumbrances), or if [such] Purchaser or any of the [applicable] Purchaser Parties (as defined in
+
+the Purchase and Sale Agreement) would, or in the future could, be liable for any such Lien. The
+
+total consideration to be provided by [each] Purchaser under the Purchase and Sale Agreement
+
+reflects [such] Purchaser’s reliance on this Sale Order to provide it, pursuant to sections 105(a)
+
+and 363 of the Bankruptcy Code, with title to, interest in and possession of the Anthropic Shares
+
+free and clear of any Liens (other than Permitted Encumbrances). Not transferring the Anthropic
+
+Shares free and clear of any Liens (other than Permitted Encumbrances) would adversely impact
+
+the Debtors’ efforts to maximize the value of the estates, and the transfer of the Anthropic Shares
+
+other than pursuant to a transfer that is free and clear of any Liens (other than Permitted
+
+Encumbrances) would be of substantially less benefit to the Debtors’ estates.
+
+               P.      [Waiver of Bankruptcy Rule 6004(h). Good and sufficient reasons for
+
+approval of the Purchase and Sale Agreement and the Sale Transaction have been articulated. The
+
+Debtors have demonstrated both (a) good, sufficient and sound business purposes and justifications
+
+and (b) compelling circumstances for the Sale Transaction other than in the ordinary course of
+
+business, pursuant to section 363(b) of the Bankruptcy Code before, and outside of, a chapter 11
+
+plan, in that, among other things, the immediate consummation of the Sale Transaction is necessary
+
+and appropriate to maximize the value of the Debtors’ estates and progress these Chapter 11 Cases.
+
+Accordingly, there is cause to waive or lift the stay contemplated by Bankruptcy Rule 6004(h)
+
+with respect to the Sale Transaction. To maximize the value of the Anthropic Shares, it is essential
+
+that the Sale Transaction occur within the time constraints set forth in the Purchase and Sale
+
+
+
+                                                 10
+                Case 22-11068-JTD              Doc 6952-1        Filed 02/03/24   Page 26 of 38
+
+
+
+
+Agreement. Time is of the essence in consummating the Sale Transaction and the Debtors and
+
+Purchaser[s] intend to close the Sale Transaction as soon as practicable. Given all of the
+
+circumstances of these Chapter 11 Cases and the adequacy and fair value of the Aggregate
+
+Purchase Price[s] under the Purchase and Sale Agreement, the proposed Sale Transaction should
+
+be approved.] 4
+
+                    Q.        The consummation of the Sale Transaction is legal, valid and properly
+
+authorized under all applicable provisions of the Bankruptcy Code, including, without limitation,
+
+sections 105(a), 363(b), 363(f) and 363(m), and all of the applicable requirements of such
+
+sections have been complied with in respect of the transaction.
+
+                    R.        Personally Identifiable Information. The Sale Transaction does not
+
+involve the sale of any personally identifiable information. Thus, the appointment of a consumer
+
+privacy ombudsman pursuant to section 363(b)(1) or section 332 of the Bankruptcy Code is not
+
+required with respect to the Sale Transaction.
+
+                    S.        Legal and Factual Bases. The legal and factual bases establish just cause
+
+for the relief granted herein. Entry of this Sale Order is in the best interests of the Debtors and
+
+their estates.
+
+                    IT IS HEREBY ORDERED THAT:
+
+A.         General Provisions
+
+                    1.        The sale of the Anthropic Shares and the other relief requested is granted
+
+as set forth herein, and the Purchase and Sale Agreement and the provisions thereof and the Sale
+
+Transaction are approved in their entirety as set forth herein.
+
+
+
+
+4
+    Only to be included in the event no objections are filed.
+
+
+                                                            11
+            Case 22-11068-JTD         Doc 6952-1      Filed 02/03/24     Page 27 of 38
+
+
+
+
+               2.      All objections, responses, reservations of rights and requests for any
+
+continuances concerning the Sale Transaction are resolved in accordance with the terms of this
+
+Sale Order. To the extent any such objections, responses, reservations of rights or requests for
+
+any continuances were not otherwise withdrawn, waived, settled, or resolved, such are hereby
+
+overruled and denied on the merits. All interested parties that failed to timely object to the Sale
+
+Transaction are deemed to have consented to the relief granted herein for all purposes, including,
+
+without limitation, pursuant to section 363(f)(2) of the Bankruptcy Code.
+
+               3.      Notice of the Purchase and Sale Agreement and the sale of the Anthropic
+
+Shares free and clear of any Liens, except Permitted Encumbrances, was fair, equitable, proper,
+
+and sufficient under the circumstances and complied in all respects with the Sale Procedures and
+
+the Sale Procedures Order.
+
+B.      Approval of the Purchase and Sale Agreement
+
+               4.      The Purchase and Sale Agreement and all of the terms and conditions
+
+thereof are hereby authorized and approved in all respects. The failure to specifically include or
+
+make reference to any particular provision of the Purchase and Sale Agreement in this Sale
+
+Order shall not impair the effectiveness of such provision, it being the intent of this Court that
+
+the Purchase and Sale Agreement and the Sale Transaction are authorized and approved in their
+
+entirety.
+
+               5.      Pursuant to sections 363(b) and (f) of the Bankruptcy Code, the Debtors
+
+are authorized and empowered to take any and all actions necessary or appropriate to
+
+(a) consummate the Sale Transaction to Purchaser[s] in accordance with the terms and conditions
+
+of the Purchase and Sale Agreement, (b) close the Sale Transaction as contemplated in the
+
+Purchase and Sale Agreement and this Sale Order, and (c) execute and deliver, perform under,
+
+consummate and implement the Purchase and Sale Agreement, together with all additional
+
+                                                 12
+            Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24      Page 28 of 38
+
+
+
+
+instruments and documents that may be reasonably necessary or desirable to implement the
+
+Purchase and Sale Agreement and the Sale Transaction. [No Purchaser shall][Purchaser shall
+
+not] be required to seek or obtain relief from the automatic stay under section 362 of the
+
+Bankruptcy Code to enforce any of its remedies under the Purchase and Sale Agreement or any
+
+other sale-related document. The automatic stay imposed by section 362 of the Bankruptcy
+
+Code is modified solely to the extent necessary to implement the preceding sentence and the
+
+other provisions of this Sale Order; provided, however, that this Court shall retain exclusive
+
+jurisdiction over any and all disputes with respect thereto.
+
+                6.      This Sale Order shall be binding in all respects upon the Debtors, their
+
+estates, all creditors of and holders of equity interests in, the Debtors, any holders of Liens in,
+
+against or on all or any portion of the Anthropic Shares (whether known or unknown),
+
+Purchaser[s] and all successors and assigns of Purchaser[s], the Anthropic Shares and any
+
+trustees, if any, subsequently appointed in these Chapter 11 Cases or upon a conversion to
+
+Chapter 7 under the Bankruptcy Code of these Chapter 11 Cases. This Sale Order and the
+
+Purchase and Sale Agreement shall inure to the benefit of the Debtors, their estates and creditors,
+
+Purchaser[s] and the respective successors and assigns of each of the foregoing.
+
+C.      Consummation of the Sale Transaction
+
+                7.      Pursuant to sections 363(b) and 363(f) of the Bankruptcy Code, the
+
+Debtors are authorized to transfer all of their rights, titles and interests to [each] Purchaser’s
+
+[respective] Anthropic Shares to [such] Purchaser on the Closing Date and such transfer shall
+
+constitute a legal, valid, binding and effective transfer of such rights, titles and interests in [such]
+
+Anthropic Shares and shall vest [such] Purchaser with all of the Debtors’ rights, titles and
+
+interests in [such] Anthropic Shares and, upon the Debtors’ receipt of the [applicable] Aggregate
+
+Purchase Price, shall be free and clear of any Liens, including but not limited to, successor or
+
+                                                  13
+           Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24     Page 29 of 38
+
+
+
+
+successor-in-interest liability or, any tax liens or mechanic’s liens asserted against such
+
+Anthropic Shares, except Permitted Encumbrances, with any Liens to attach to the net cash
+
+proceeds ultimately attributable to the property against or in which such Liens are asserted,
+
+subject to the terms thereof, with the same validity, force and effect, and in the same order of
+
+priority, which such Liens now have against such Anthropic Shares, subject to any rights, claims
+
+and defenses the Debtors or their estates, as applicable, may possess with respect thereto. The
+
+provisions of this Sale Order authorizing and approving the transfer of the Anthropic Shares free
+
+and clear of any Liens (other than Permitted Encumbrances) shall be self-executing, and neither
+
+the Debtors nor [any] Purchaser shall be required to execute or file releases, termination
+
+statements, assignments, consents, or other instruments in order to effectuate, consummate, and
+
+implement the provisions of this Sale Order.
+
+               8.      A certified copy of this Sale Order may be filed with the appropriate clerk
+
+and/or recorded with the recorder to act to cancel any Liens and other encumbrances of record
+
+except Permitted Encumbrances.
+
+               9.      If any person or entity which has filed statements or other documents or
+
+agreements evidencing Liens in, against or on all or any portion of the Anthropic Shares shall not
+
+have delivered to the Debtors prior to the Closing, in proper form for filing and executed by the
+
+appropriate parties, termination statements, instruments of satisfaction, releases of Liens and any
+
+other documents necessary for the purpose of documenting the release of any Liens which the
+
+person or entity has or may assert with respect to all or any portion of the Anthropic Shares, the
+
+Debtors, Purchaser[s] and each of their respective officers, employees and agents are hereby
+
+authorized and empowered to execute and file such statements, instruments, releases and other
+
+documents on behalf of such person or entity with respect to the Anthropic Shares.
+
+
+
+                                                 14
+            Case 22-11068-JTD          Doc 6952-1       Filed 02/03/24      Page 30 of 38
+
+
+
+
+                10.     This Sale Order is and shall be effective as a determination that, on the
+
+Closing Date, any Liens existing as to the Anthropic Shares prior to the Closing Date, except
+
+Permitted Encumbrances, shall have been unconditionally released, discharged and terminated
+
+from the Anthropic Shares, and that the conveyances described herein have been effected. This
+
+Sale Order is and shall be binding upon and govern the acts of all persons and entities, including,
+
+without limitation, all filing agents, filing officers, title agents, title companies, recorders of
+
+mortgages, recorders of deeds, registrars of deeds, administrative agencies, governmental
+
+departments, secretaries of state, federal, state and local officials and all other persons and
+
+entities who may be required by operation of law, the duties of their office, or contract, to accept,
+
+file, register or otherwise record or release any documents or instruments, or who may be
+
+required to report or insure any title or state of title in or to any lease; and each of the foregoing
+
+persons and entities is hereby directed to accept for filing any and all of the documents and
+
+instruments necessary and appropriate to consummate the Sale Transaction.
+
+D.      Prohibition of Actions Against Purchaser[s]
+
+                11.     Except as expressly provided for in this Sale Order or the Purchase and
+
+Sale Agreement, [no Purchaser shall][Purchaser shall not] have any liability or other obligation
+
+or responsibility of the Debtors arising under or related to [its respective][the] Anthropic Shares
+
+prior to the Closing. [No Purchaser is][Purchaser is not] a “successor” to the Debtors or their
+
+estates by reason of any theory of law or equity. Without limiting the generality of the
+
+foregoing, and except as otherwise specifically provided herein or in the Purchase and Sale
+
+Agreement, [no Purchaser shall be][Purchaser shall not be] liable for any claims against the
+
+Debtors or any of its predecessors or affiliates, and [no Purchaser shall][Purchaser shall not]
+
+have any successor or vicarious liabilities of any kind or character, including, but not limited to,
+
+under any theory of antitrust, environmental (subject to paragraph 15 below), successor or
+
+                                                   15
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 31 of 38
+
+
+
+
+transferee liability, securities law, tax law, labor law, de facto merger, mere continuation or
+
+substantial continuity, whether known or unknown as of the Closing Date, now existing or
+
+hereafter arising, whether fixed or contingent, whether asserted or unasserted, whether legal or
+
+equitable, whether liquidated or unliquidated, including, but not limited to, liabilities on account
+
+of warranties, environmental liabilities (subject to paragraph 15 below), and any taxes arising,
+
+accruing or payable under, out of, in connection with, or in any way relating to any of [such]
+
+Purchaser’s respective Anthropic Shares prior to the Closing. The Sale Transaction does not
+
+amount to a consolidation, merger or de facto merger of any Purchaser, on the one hand, and the
+
+Debtors, the Debtors’ affiliates and/or the Debtors’ estates, on the other hand, and there is not
+
+substantial continuity between [any] Purchaser, on the one hand, and the Debtors or their
+
+affiliates, on the other hand, and [no Purchaser is][Purchaser is not] a mere continuation of the
+
+Debtors or their estates, and [no Purchaser constitutes][Purchaser does not constitute] a successor
+
+to the Debtors or their estates. For purposes of paragraphs 11 to 14 of this Sale Order, all
+
+references to [a] Purchaser shall include its respective Purchaser Parties.
+
+               12.     Except as expressly otherwise set forth in the Purchase and Sale
+
+Agreement and this Sale Order, all persons and entities, including, but not limited to, all debt
+
+security holders, equity security holders, governmental, tax and regulatory authorities, lenders,
+
+trade creditors, dealers, employees, litigation claimants and other creditors, holding Liens against
+
+or in all or any portion of the Anthropic Shares (whether legal or equitable, secured or unsecured,
+
+matured or unmatured, contingent or non-contingent, liquidated or unliquidated, senior or
+
+subordinate), arising under or out of, in connection with, or in any way relating to the Debtors or
+
+the Anthropic Shares prior to the Closing Date or the Sale Transaction, including the transfer of
+
+the Anthropic Shares to Purchaser[s], hereby are forever barred, estopped and permanently
+
+
+
+                                                 16
+           Case 22-11068-JTD          Doc 6952-1      Filed 02/03/24      Page 32 of 38
+
+
+
+
+enjoined from asserting against [any] Purchaser, its Affiliates, its successors or assigns, their
+
+property or the Anthropic Shares, such persons’ or entities’ Liens with respect to the Anthropic
+
+Shares, including, without limitation, the following actions: (a) commencing or continuing in any
+
+manner any action or other proceeding against [any] Purchaser, its Affiliates, its successors,
+
+assets or properties; (b) enforcing, attaching, collecting or recovering in any manner any
+
+judgment, award, decree or order against [any] Purchaser, its Affiliates, its successors, assets or
+
+properties; (c) creating, perfecting or enforcing any Liens against [any] Purchaser, its Affiliates,
+
+its successors, assets or properties; (d) asserting any unexercised set-off or right of subrogation
+
+against any obligation due with respect to [any] Purchaser, its Affiliates or its successors;
+
+(e) commencing or continuing any action, in any manner or place, that does not comply or is
+
+inconsistent with the provisions of this Sale Order, or the agreements or actions contemplated or
+
+taken in respect thereof or (f) revoking, terminating or failing or refusing to transfer or renew any
+
+license, permit or authorization to operate the businesses of Anthropic, subject to paragraph 16
+
+below. On the Closing Date, each creditor is authorized and directed to execute such documents
+
+and take all other actions as may be necessary to release Liens in or on the Anthropic Shares
+
+(except Permitted Encumbrances), if any, as provided for herein, as such Liens may have been
+
+recorded or may otherwise exist.
+
+               13.     All persons and entities are hereby forever prohibited and enjoined from
+
+taking any action that would adversely affect or interfere (a) with the ability of the Debtors
+
+and/or Seller to sell and transfer the Anthropic Shares to [any] Purchaser in accordance with the
+
+terms of the Purchase and Sale Agreement and this Sale Order, and (b) with the ability of [any]
+
+Purchaser to acquire and take possession of the Anthropic Shares in accordance with the terms of
+
+the Purchase and Sale Agreement and this Sale Order.
+
+
+
+                                                 17
+            Case 22-11068-JTD        Doc 6952-1       Filed 02/03/24     Page 33 of 38
+
+
+
+
+                  14.   [Each] Purchaser has given substantial consideration under the Purchase
+
+and Sale Agreement for the benefit of the Debtors and their estates. The consideration given by
+
+[each] Purchaser shall constitute valid and valuable consideration for the sale being free and
+
+clear of any potential liens, claims, interests, and encumbrances, including any Liens, as to the
+
+Anthropic Shares pursuant to this Sale Order, except with respect to the Permitted
+
+Encumbrances, and free and clear of any potential claims of successor liability against [such]
+
+Purchaser. The consideration provided by [each] Purchaser for the Anthropic Shares under the
+
+Purchase and Sale Agreement is fair and reasonable and may not be avoided under
+
+section 363(n) of the Bankruptcy Code.
+
+E.       Other Provisions
+
+                  15.   Nothing in this Sale Order or the Purchase and Sale Agreement releases,
+
+nullifies, precludes or enjoins the enforcement of any police or regulatory liability to a
+
+governmental unit that any entity would be subject to as the post-sale owner or operator of
+
+property after the date of entry of this Sale Order. In addition, nothing in this Sale Order divests
+
+any tribunal of any jurisdiction it may have under police or regulatory law, including the
+
+jurisdiction to interpret this Sale Order or to adjudicate any defense asserted under this Sale
+
+Order.
+
+                  16.   Further, nothing in this Sale Order or Purchase and Sale Agreement
+
+authorizes the transfer or assignment of any governmental license, permit, registration,
+
+authorization or approval, or the discontinuation of any obligation thereunder, without
+
+compliance with all applicable legal requirements and approvals under police or regulatory law
+
+as appropriate.
+
+                  17.   Notwithstanding anything to the contrary in this Sale Order, nothing in
+
+this Sale Order constitutes a finding under the federal securities laws as to whether crypto tokens
+
+                                                 18
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 34 of 38
+
+
+
+
+or transactions involving crypto tokens are securities, and the right of the United States
+
+Securities and Exchange Commission to challenge transactions involving crypto tokens on any
+
+basis is expressly reserved.
+
+               18.     The consideration provided by [each] Purchaser to the Debtors pursuant to
+
+the Purchase and Sale Agreement for the Anthropic Shares constitutes reasonably equivalent
+
+value and fair consideration under the Bankruptcy Code, Uniform Fraudulent Transfer Act,
+
+Uniform Fraudulent Conveyance Act and under the laws of the United States, any state, territory,
+
+possession or the District of Columbia.
+
+               19.     The sale of the Anthropic Shares does not include the sale or release of any
+
+causes of action held by any of the Debtors against any person or entity, including but not limited
+
+to causes of action against Samuel Bankman-Fried, Gary Wang, Nishad Singh, Caroline Ellison
+
+or any person known by the Debtors to have a familial relationship with any of the foregoing
+
+persons.
+
+               20.     The Sale Transaction is undertaken by [each] Purchaser without collusion
+
+and in good faith, within the meaning of section 363(m) of the Bankruptcy Code, and
+
+accordingly, the reversal or modification on appeal of the authorization provided herein to
+
+consummate the Sale Transaction shall not affect the validity of the Sale Transaction unless such
+
+authorization and such Sale Transaction were duly stayed pending such appeal at the time of the
+
+Closing. [Each] Purchaser is a good faith buyer within the meaning of section 363(m) of the
+
+Bankruptcy Code and, as such, is entitled to the full rights, benefits, privileges and protections of
+
+section 363(m) of the Bankruptcy Code. The Debtors and Purchaser[s] will be acting in good
+
+faith if they proceed to consummate the Sale Transaction at any time after the entry of this Order.
+
+
+
+
+                                                 19
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 35 of 38
+
+
+
+
+               21.     As a good faith purchaser of the Anthropic Shares, [each] Purchaser has
+
+not entered into an agreement with any other potential bidders, and has not colluded with any
+
+other bidders, potential bidders, or any other parties interested in the Anthropic Shares, and
+
+therefore, neither the Debtors nor any successor-in-interest to the Debtors’ estates shall be
+
+entitled to bring an action against [such] Purchaser, and the Sale Transaction may not be avoided
+
+pursuant to section 363(n) of the Bankruptcy Code, and no party shall be entitled to any damages
+
+or other recovery pursuant to section 363(n) in respect of the Purchase and Sale Agreement or
+
+Sale Transaction.
+
+               22.     Nothing contained in any plan of reorganization or liquidation, or order of
+
+any type or kind entered in (a) these Chapter 11 Cases, (b) any subsequent Chapter 7 case into
+
+which these Chapter 11 Cases may be converted or (c) any related proceeding subsequent to
+
+entry of this Sale Order shall conflict with or derogate from the provisions of the Purchase and
+
+Sale Agreement or the terms of this Sale Order. In the event there is a conflict between this Sale
+
+Order and the Purchase and Sale Agreement (or any ancillary agreements executed in connection
+
+therewith), this Sale Order shall control and govern. Likewise, all of the provisions of this Sale
+
+Order are non-severable and mutually dependent. To the extent that this Sale Order is
+
+inconsistent with any prior order or pleading in these Chapter 11 Cases, the terms of this Sale
+
+Order shall control. Except as expressly provided herein, nothing contained in this Sale Order
+
+shall modify, amend or waive any provision of any Company Document.
+
+               23.     [Pursuant to Bankruptcy Rules 7062, 9014 and 6004(h), this Sale Order
+
+shall be effective and enforceable immediately upon entry, the Debtors and Purchaser[s] are
+
+authorized to close the Sale Transaction immediately upon entry of this Sale Order, and the
+
+
+
+
+                                                 20
+           Case 22-11068-JTD         Doc 6952-1      Filed 02/03/24     Page 36 of 38
+
+
+
+
+14-day stay provided in Bankruptcy Rule 6004(h) is hereby expressly waived and shall not
+
+apply.]
+
+               24.     The failure specifically to include any particular provision of the Purchase
+
+and Sale Agreement in this Sale Order shall not diminish or impair the effectiveness of such
+
+provision, it being the intent of this Court that the Purchase and Sale Agreement be authorized
+
+and approved in its entirety; provided, however, that this Sale Order shall govern if there is any
+
+inconsistency between the Purchase and Sale Agreement (including all ancillary documents
+
+executed in connection therewith) and this Sale Order.
+
+               25.     The Purchase and Sale Agreement and any related agreements, documents
+
+or other instruments may be modified, amended or supplemented by the parties thereto and in
+
+accordance with the terms thereof, without further order of this Court, with prior written notice
+
+to the Committee, provided that any such modification, amendment or supplement does not have
+
+a material adverse effect on the Debtors’ estates or any of the Debtors’ creditors. If the Purchase
+
+and Sale Agreement is modified, the Debtors shall file the modified version with the Court.
+
+               26.     This Court shall retain exclusive jurisdiction to, among other things,
+
+interpret, implement and enforce the terms and provisions of this Sale Order and the Purchase and
+
+Sale Agreement, all amendments thereto and any waivers and consents thereunder and each of the
+
+agreements executed in connection therewith to which the Debtors are a party, and to adjudicate,
+
+if necessary, any and all disputes concerning or relating in any way to the Sale Transaction.
+
+Nothing contained herein shall be deemed a submission by Anthropic to the jurisdiction of the
+
+Bankruptcy Court.
+
+
+
+
+                                                21
+           Case 22-11068-JTD         Doc 6952-1       Filed 02/03/24     Page 37 of 38
+
+
+
+
+               27.     The Purchase and Sale Agreement shall be in full force and effect,
+
+regardless of any Debtor’s lack of good standing in any jurisdiction in which such Debtor is
+
+formed or authorized to transact business.
+
+               28.     No bulk sales law, bulk transfer law or any similar law of any state or
+
+other jurisdiction (including those relating to taxes other than Transfer Taxes (as defined in the
+
+Purchase and Sale Agreement)) shall apply to the Debtors’ conveyance of the Anthropic Shares
+
+or this Sale Order.
+
+               29.     The appointment of a consumer privacy ombudsman pursuant to section
+
+363(b)(1) or section 332 of the Bankruptcy Code is not required with respect to the Sale
+
+Transaction.
+
+               30.     [Each] Purchaser is a party-in-interest and shall have the ability to appear
+
+and be heard on all issues related to or otherwise connected to this Sale Order, the Sale
+
+Transaction and any issues related to or otherwise connected to the Purchase and Sale Agreement
+
+and the Sale Transaction.
+
+               31.     Nothing in this Sale Order shall affect the obligations, if any, of the
+
+Debtors, Purchaser[s], and/or any transferee or custodian to maintain all books and records that
+
+are subject to any governmental subpoena, document preservation letter, or other investigative
+
+request from a governmental agency.
+
+               32.     Nothing in this Sale Order shall be deemed to waive, release, extinguish or
+
+estop the Debtors or their estates from asserting or otherwise impairing or diminishing any right
+
+(including any right of recoupment), claim, cause of action, defense, offset or counterclaim in
+
+respect of any asset that is not the Anthropic Shares.
+
+
+
+
+                                                 22
+          Case 22-11068-JTD       Doc 6952-1       Filed 02/03/24     Page 38 of 38
+
+
+
+
+             33.    All time periods set forth in this Sale Order shall be calculated in
+
+accordance with Bankruptcy Rule 9006(a).
+
+
+ Dated: ___________________
+        Wilmington, Delaware                       The Honorable John T. Dorsey
+                                                   United States Bankruptcy Judge
+
+
+
+
+                                              23
+

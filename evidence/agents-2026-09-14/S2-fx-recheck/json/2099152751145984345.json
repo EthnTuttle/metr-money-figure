@@ -1,0 +1,67 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Laughing_Mantis/status/2099152751145984345",
+  "id": "2099152751145984345",
+  "text": "If I were a fraudulent company trying to sell a product I would definitely invest and buy out the scoring company grading the product in order to influence the market. \n\nWe have this happen in cybersecurity as well, it's nothing new to us who deal with scam products and businesses doing similar acts. \n\nMETR cannot now nor ever be considered a neutral or reliable source of evaluation. \n\nAs I explained before the AI alignment situation falls apart when there's no sandbox to break out and when we don't get to see the exact prompts operators passed to the agents.\n\nThe timing and reporting already suggests negligence on the operators and how long they failed to identify what the agents were performing. \n\nWithout these in scope we simply have someone directing a script to conduct offensive cybersecurity actions against a remote server. It is just the scale at which this was conducted that make it note worthy",
+  "raw_text": {
+   "text": "If I were a fraudulent company trying to sell a product I would definitely invest and buy out the scoring company grading the product in order to influence the market. \n\nWe have this happen in cybersecurity as well, it's nothing new to us who deal with scam products and businesses doing similar acts. \n\nMETR cannot now nor ever be considered a neutral or reliable source of evaluation. \n\nAs I explained before the AI alignment situation falls apart when there's no sandbox to break out and when we don't get to see the exact prompts operators passed to the agents.\n\nThe timing and reporting already suggests negligence on the operators and how long they failed to identify what the agents were performing. \n\nWithout these in scope we simply have someone directing a script to conduct offensive cybersecurity actions against a remote server. It is just the scale at which this was conducted that make it note worthy",
+   "display_text_range": [
+    0,
+    915
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "Laughing_Mantis",
+   "url": "https://x.com/Laughing_Mantis",
+   "id": "2352666902",
+   "followers": 38521,
+   "following": 2427,
+   "likes": 65841,
+   "media_count": 3202,
+   "name": "Greg Linares (Laughing Mantis)",
+   "description": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+   "raw_description": {
+    "text": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+    "facets": []
+   },
+   "location": "San Francisco, CA",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2352666902/1728932825",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1711943152511352832/GKf9Bhqr_200x200.png",
+   "joined": "Thu Feb 20 03:54:12 +0000 2014",
+   "protected": false,
+   "website": {
+    "url": "http://withpersona.com",
+    "display_url": "withpersona.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 1,
+  "likes": 31,
+  "bookmarks": 7,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 15:06:30 +0000 2026",
+  "created_timestamp": 1789311990,
+  "views": 3056,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "AlexBarry4",
+  "replying_to_status": "2099145749854409151",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:37Z",
+ "_http_status": 200
+}

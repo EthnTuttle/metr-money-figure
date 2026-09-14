@@ -1,0 +1,86 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/amuse/status/2099084587502592340",
+  "id": "2099084587502592340",
+  "text": "@DavidSacks @bgmasters Reminds me of the wealthy who claim they aren’t taxed enough. If you believe that cut a bigger check.",
+  "raw_text": {
+   "text": "@DavidSacks @bgmasters Reminds me of the wealthy who claim they aren’t taxed enough. If you believe that cut a bigger check.",
+   "display_text_range": [
+    23,
+    124
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      12,
+      22
+     ],
+     "original": "bgmasters",
+     "id": "117338050"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "amuse",
+   "url": "https://x.com/amuse",
+   "id": "4239551",
+   "followers": 683662,
+   "following": 504,
+   "likes": 332917,
+   "media_count": 53245,
+   "name": "@amuse",
+   "description": "Independent Publisher & Political Commentator | Subscriber Only DMs",
+   "raw_description": {
+    "text": "Independent Publisher & Political Commentator | Subscriber Only DMs",
+    "facets": []
+   },
+   "location": "United States of America",
+   "banner_url": "https://pbs.twimg.com/profile_banners/4239551/1789303117",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2018713704775204864/-U2Ynl9y_200x200.jpg",
+   "joined": "Wed Apr 11 20:34:15 +0000 2007",
+   "protected": false,
+   "website": {
+    "url": "https://amuseonx.com/chat",
+    "display_url": "amuseonx.com/chat"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 5,
+  "retweets": 25,
+  "likes": 612,
+  "bookmarks": 6,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 10:35:39 +0000 2026",
+  "created_timestamp": 1789295739,
+  "views": 16872,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:58:56Z",
+ "_http_status": 200
+}

@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ParikPatelCFA/status/2099111903821787307",
+  "id": "2099111903821787307",
+  "text": "@DavidSacks 🐐",
+  "raw_text": {
+   "text": "@DavidSacks 🐐",
+   "display_text_range": [
+    12,
+    13
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ParikPatelCFA",
+   "url": "https://x.com/ParikPatelCFA",
+   "id": "1295526279194828800",
+   "followers": 2023457,
+   "following": 1016,
+   "likes": 142305,
+   "media_count": 2210,
+   "name": "Dr. Parik Patel, BA, CFA, ACCA Esq.",
+   "description": "Aswath Damodaran 🙏🏾 Dhandho Investor Chapter 3:4 🐂 | God first, full employment second 😤 | Investor @SamosaCapital | Subscribe to my newsletter 👇🏾",
+   "raw_description": {
+    "text": "Aswath Damodaran 🙏🏾 Dhandho Investor Chapter 3:4 🐂 | God first, full employment second 😤 | Investor @SamosaCapital | Subscribe to my newsletter 👇🏾",
+    "facets": []
+   },
+   "location": "Parody. Not Investment Advice.",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1295526279194828800/1608339007",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1341030286386192386/TzEiVCaJ_200x200.jpg",
+   "joined": "Tue Aug 18 01:01:57 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "http://parikpatel.com",
+    "display_url": "parikpatel.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 2,
+  "likes": 252,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 12:24:12 +0000 2026",
+  "created_timestamp": 1789302252,
+  "views": 17365,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:02Z",
+ "_http_status": 200
+}

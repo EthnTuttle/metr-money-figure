@@ -1,0 +1,407 @@
+{
+  "arithmetic": {
+    "0.8_percent_of_965b": 7720000000.0,
+    "7.7b_over_500m": 15.4,
+    "calls_7.7b_valuation": false,
+    "ceiling_word_present": true,
+    "director_occurrences": 1,
+    "full_scale_in_2080px_canvases": 5.185576923076923,
+    "full_scale_pw_7.7b": 10786.0,
+    "not_a_director_present": true,
+    "one_thirtieth_width": 359,
+    "printed_x15_present": true
+  },
+  "daf": {
+    "coefficient_index_rows": 2911,
+    "exact_amount_match_count": 19,
+    "exact_amount_matches": [
+      {
+        "amount": 4132488,
+        "coefficient_match": true,
+        "coefficient_name": "EPOCH",
+        "filing": "npt25",
+        "filing_match": true,
+        "filing_name": "EPOCH ARTIFICIAL"
+      },
+      {
+        "amount": 1100000,
+        "coefficient_match": true,
+        "coefficient_name": "REDWOOD RESEARCH",
+        "filing": "npt25",
+        "filing_match": true,
+        "filing_name": "REDWOOD RESEARCH"
+      },
+      {
+        "amount": 5300000,
+        "coefficient_match": true,
+        "coefficient_name": "REDWOOD RESEARCH",
+        "filing": "npt23",
+        "filing_match": true,
+        "filing_name": "REDWOOD RESEARCH"
+      },
+      {
+        "amount": 1134769,
+        "coefficient_match": true,
+        "coefficient_name": "OBELUS",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "OBELUS"
+      },
+      {
+        "amount": 796878,
+        "coefficient_match": true,
+        "coefficient_name": "INTERNATIONAL AIDS VACCINE",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "INTERNATIONAL AIDS VACCINE"
+      },
+      {
+        "amount": 2000000,
+        "coefficient_match": true,
+        "coefficient_name": "RAND",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "RAND"
+      },
+      {
+        "amount": 2200000,
+        "coefficient_match": true,
+        "coefficient_name": "GIVING WHAT WE CAN",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "GIVING WHAT WE CAN"
+      },
+      {
+        "amount": 1300000,
+        "coefficient_match": true,
+        "coefficient_name": "COMPASSION IN WORLD FARMING",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "COMPASSION IN WORLD FARMING"
+      },
+      {
+        "amount": 257000,
+        "coefficient_match": true,
+        "coefficient_name": "PLANT BASED FOODS",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "PLANT BASED FOODS"
+      },
+      {
+        "amount": 296000,
+        "coefficient_match": true,
+        "coefficient_name": "ONE FOR THE WORLD",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "ONE FOR THE WORLD"
+      },
+      {
+        "amount": 218500,
+        "coefficient_match": true,
+        "coefficient_name": "LIFE SCIENCES RESEARCH",
+        "filing": "svcf24",
+        "filing_match": true,
+        "filing_name": "LIFE SCIENCES RESEARCH"
+      },
+      {
+        "amount": 7831500,
+        "coefficient_match": true,
+        "coefficient_name": "NUCLEAR THREAT",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "NUCLEAR THREAT"
+      },
+      {
+        "amount": 887300,
+        "coefficient_match": true,
+        "coefficient_name": "HUMANE SOCIETY INTERNATIONAL",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "HUMANE SOCIETY INTERNATIONAL"
+      },
+      {
+        "amount": 687589,
+        "coefficient_match": true,
+        "coefficient_name": "GLOBAL CHALLENGES",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "GLOBAL CHALLENGES"
+      },
+      {
+        "amount": 550000,
+        "coefficient_match": true,
+        "coefficient_name": "CAMBRIDGE BOSTON ALIGNMENT",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "CAMBRIDGE BOSTON ALIGNMENT"
+      },
+      {
+        "amount": 870000,
+        "coefficient_match": true,
+        "coefficient_name": "ONE FOR THE WORLD",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "ONE FOR THE WORLD"
+      },
+      {
+        "amount": 550000,
+        "coefficient_match": true,
+        "coefficient_name": "AQUATIC LIFE",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "AQUATIC LIFE"
+      },
+      {
+        "amount": 401750,
+        "coefficient_match": true,
+        "coefficient_name": "LIFE SCIENCES RESEARCH",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "LIFE SCIENCES RESEARCH"
+      },
+      {
+        "amount": 320000,
+        "coefficient_match": true,
+        "coefficient_name": "MAGNIFY MENTORING",
+        "filing": "svcf23",
+        "filing_match": true,
+        "filing_name": "MAGNIFY MENTORING"
+      }
+    ],
+    "npt_closely_held_equity_eoy_2023_2025": [
+      752489888,
+      737806285,
+      1734031057
+    ],
+    "npt_contributions_line_1h": 15153667777,
+    "npt_fy2025_eoy_increase": 996224772,
+    "npt_fy2025_schedule_m": {
+      "amount": 1183079981,
+      "count": 19
+    },
+    "npt_schedule_a_2_percent_exact": 303073355.54,
+    "npt_schedule_b_minimum_whole_dollars_above_floor": 303073356,
+    "on_disk_daf_xml_count": 18,
+    "st116_seven_named_grants_exact_total": 146860783,
+    "svcf_to_npt_2024": true,
+    "vanguard_posted_fields_present": true,
+    "vanguard_schedule_b_names_anthropic": false
+  },
+  "fetch_register": {
+    "attempts": 81,
+    "bad_artifacts": [],
+    "content_failures": [
+      {
+        "exists": true,
+        "hash_matches": true,
+        "path": "research/audit3-evidence/shared/bemc-2020-202210469349100116.xml",
+        "reason": "anti-bot challenge page"
+      },
+      {
+        "exists": true,
+        "hash_matches": true,
+        "path": "research/audit3-evidence/shared/bemc-2021-202323199349109357.xml",
+        "reason": "anti-bot challenge page"
+      },
+      {
+        "exists": true,
+        "hash_matches": true,
+        "path": "research/audit3-evidence/shared/bemc-2022-202333199349106948.xml",
+        "reason": "anti-bot challenge page"
+      },
+      {
+        "exists": true,
+        "hash_matches": true,
+        "path": "research/audit3-evidence/shared/bemc-2023-202403209349103005.xml",
+        "reason": "anti-bot challenge page"
+      },
+      {
+        "exists": true,
+        "hash_matches": true,
+        "path": "research/audit3-evidence/shared/bemc-2024-202523219349100137.xml",
+        "reason": "anti-bot challenge page"
+      }
+    ],
+    "expected_or_disclosed_errors": 18,
+    "http_successes": 63
+  },
+  "good_ventures": {
+    "anthropic_named_in_schedule_b": false,
+    "contributors": [
+      {
+        "amount": 1395695354,
+        "name": "DUSTIN A MOSKOVITZ REMAINDER INTEREST TRUST",
+        "noncash": true,
+        "number": 1
+      },
+      {
+        "amount": 150027,
+        "name": "BENEFICIAL AI FOUNDATION",
+        "noncash": false,
+        "number": 2
+      }
+    ],
+    "fy2024_open_philanthropy_advisors_10m": true,
+    "named_stock_fmv": {
+      "BROADCOM INC": 290449924,
+      "MICRON TECHNOLOGY INC": 184134391,
+      "SK HYNIX INC": 399749206,
+      "TAIWAN SEMICONDUCTOR MANUFACTURING": 508854795,
+      "VERTIV HOLDINGS CO": 178712948,
+      "VISTRA CORP": 202021342
+    },
+    "noncash_contributions": [
+      {
+        "contributor_number": 1,
+        "description": "PUBLICLY TRADED SECURITIES",
+        "fmv": 1395695354,
+        "received": "2025-06-30"
+      }
+    ],
+    "total_assets_eoy": 10107955038,
+    "vara_fee": 5264377
+  },
+  "quotes": {
+    "bluesky_fresh_vs_saved": {
+      "ST110": {
+        "fresh_equals_saved": true,
+        "fresh_text": "None of this will impact the financial impact at all and Ed’s lies will be laid bare when they give their financials looking back at IPO. What I want is for people to recognize reality. Society needs to react not deny.\n\nOur Anthropic shares are entirely in our foundation - no personal benefit."
+      },
+      "ST112": {
+        "fresh_equals_saved": true,
+        "fresh_text": "Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.\n\nThe “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand."
+      },
+      "ST113": {
+        "fresh_equals_saved": true,
+        "fresh_text": "I'm a long way from Meta at this point. We have given away $5B and we have about $20B more in the foundation and some more personal (you can look on bloomberg for that). The foundation is invested in Anthropic as well."
+      }
+    },
+    "forbes_apr_quote_present": true,
+    "forbes_nov_500m_present": true,
+    "forbes_nov_early_2025_present": true,
+    "stratechery_boardroom_present": true,
+    "stratechery_observer_present": true,
+    "wave_root_names_good_ventures": true,
+    "wave_thread_texts": [
+      "This is Good Ventures rather than new funders but it also reflects the fact that GV is itself a beneficiary of that wave (via Anthropic and a number of other investments). We happen to be a lot more liquid given a diversified portfolio than newer funders who need to wait for a big liquidity event.",
+      " I just saw this via a newsletter and did a little ‼️, very exciting. Am I right to read this is good ventures drawing down their existing pot earlier in anticipation of the new AI money, and not the new money actually landing in the ecosystem yet?",
+      "CG, via funding from Good Ventures, is surging budgets in 2026 across all categories. I'm particularly happy about this Givewell focused grant (larger than last year's *entire* budget!). It's timed and designed to scale the field ahead of the anticipated wave of new funders next year."
+    ]
+  },
+  "scope": {
+    "check_only_rows_count": 4,
+    "files": {
+      "IV01": "investments.csv",
+      "IV02": "investments.csv",
+      "IV03": "investments.csv",
+      "IV04": "investments.csv",
+      "IV05": "investments.csv",
+      "IV06": "investments.csv",
+      "IV07": "investments.csv",
+      "IV08": "investments.csv",
+      "IV09": "investments.csv",
+      "IV10": "investments.csv",
+      "IV11": "investments.csv",
+      "J02": "shared_donors.csv",
+      "J08": "shared_donors.csv",
+      "K01": "compute_inkind.csv",
+      "M139": "money_flows.csv",
+      "M140": "money_flows.csv",
+      "M141": "money_flows.csv",
+      "M142": "money_flows.csv",
+      "RW31": "redwood.csv",
+      "RW32": "redwood.csv",
+      "RW33": "redwood.csv",
+      "RW34": "redwood.csv",
+      "RW35": "redwood.csv",
+      "S13": "staff_origins.csv",
+      "ST100": "stakes.csv",
+      "ST101": "stakes.csv",
+      "ST102": "stakes.csv",
+      "ST103": "stakes.csv",
+      "ST104": "stakes.csv",
+      "ST105": "stakes.csv",
+      "ST106": "stakes.csv",
+      "ST107": "stakes.csv",
+      "ST108": "stakes.csv",
+      "ST109": "stakes.csv",
+      "ST110": "stakes.csv",
+      "ST111": "stakes.csv",
+      "ST112": "stakes.csv",
+      "ST113": "stakes.csv",
+      "ST114": "stakes.csv",
+      "ST115": "stakes.csv",
+      "ST116": "stakes.csv",
+      "ST117": "stakes.csv",
+      "ST118": "stakes.csv",
+      "ST121": "stakes.csv",
+      "ST125": "stakes.csv",
+      "ST127": "stakes.csv",
+      "ST133": "stakes.csv",
+      "ST26": "stakes.csv",
+      "ST32": "stakes.csv",
+      "ST33": "stakes.csv",
+      "ST41": "stakes.csv",
+      "ST49": "stakes.csv",
+      "ST54": "stakes.csv",
+      "ST78": "stakes.csv",
+      "ST79": "stakes.csv",
+      "ST89": "stakes.csv",
+      "ST90": "stakes.csv",
+      "ST91": "stakes.csv",
+      "ST92": "stakes.csv",
+      "ST93": "stakes.csv",
+      "ST94": "stakes.csv",
+      "ST95": "stakes.csv",
+      "ST96": "stakes.csv",
+      "ST97": "stakes.csv",
+      "ST98": "stakes.csv",
+      "ST99": "stakes.csv"
+    },
+    "missing": [],
+    "reported_verdict_count": 66,
+    "seed_scope_count": 62
+  },
+  "sec": {
+    "adv_charities_non_exchange_traded_zero": true,
+    "adv_four_clients": true,
+    "adv_q20_50_percent": true,
+    "arc_hoskin_board_member": true,
+    "blue_owl_ctf_trust": true,
+    "blue_owl_moskovitz_investments": true,
+    "form_d_initial_first_sale_yet_to_occur": true,
+    "form_d_june_2026_amount": true,
+    "form_d_march_2026_amount": true,
+    "holdings": [
+      {
+        "anthropic_named": false,
+        "file": "vara-13f-hr-2025-08-14.xml",
+        "positions": 72,
+        "total_usd": 4734560970
+      },
+      {
+        "anthropic_named": false,
+        "file": "vara-13f-hr-2026-02-17.xml",
+        "positions": 86,
+        "total_usd": 9944995059
+      },
+      {
+        "anthropic_named": false,
+        "file": "vara-13f-hr-2026-08-17.xml",
+        "positions": 123,
+        "total_usd": 40111386090
+      }
+    ]
+  },
+  "split_interest_trust_file": {
+    "apercen_match_count": 3,
+    "data_rows": 98802,
+    "lytton_314_match_count": 4,
+    "target_match_counts": {
+      "CARI TUNA": 0,
+      "CTF TRUST": 0,
+      "DUSTIN A MOSKOVITZ": 0,
+      "DUSTIN MOSKOVITZ": 0
+    }
+  }
+}

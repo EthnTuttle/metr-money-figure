@@ -1,0 +1,50 @@
+Title: David Sacks and the blurred lines of government service
+
+URL Source: https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/
+
+Published Time: 2025-07-19T17:56:28+00:00
+
+Markdown Content:
+When Vultron, a startup that creates AI tools specifically for federal contractors, announced its [$22 million funding round](https://www.prnewswire.com/news-releases/vultron-raises-22-million-to-power-the-agentic-operating-system-for-federal-growth-302504991.html) earlier this week, it made sure to highlight a key investor: Craft Ventures, the firm “co-founded by White House AI adviser David Sacks.”
+
+The announcement has raised questions about conflicts of interest in the Trump administration, where Sacks serves as both AI and crypto czar while maintaining his role at Craft Ventures — an arrangement that critics see as a new model of government service where the lines between public duty and private gain have become unclear.
+
+Sacks has secured not one but two ethics waivers allowing him to shape federal policy while maintaining financial stakes in the very industries he oversees. The [first](https://www.whitehouse.gov/wp-content/uploads/2025/03/Memo-David-Sacks-3.5.2025-1.pdf), an 11-page document from March, covers his crypto investments. The [second](https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf), issued in June, specifically addresses his AI holdings. Together, they’ve enabled what ethics experts call an unprecedented arrangement.
+
+“This is graft,” said Kathleen Clark, a Washington University law professor specializing in government ethics, after reviewing Sacks’ crypto waiver. “This is a [lawyer](https://en.wikipedia.org/wiki/David_Warrington) in the White House Counsel’s office doing Trump’s bidding, letting [Sacks] make money while insulating him from criminal liability.”
+
+Clark’s objection isn’t just philosophical; it’s about the math. She notes the waiver discusses percentages of Sacks’ total assets — when it was signed, his stake in Craft’s overall portfolio represented less than 3.8% of his total assets, for example — but never reveals actual dollar amounts. “The fact that this interest is just 3.8% of someone’s total assets, that’s something if you’re talking about a law professor. But 3.8% of this guy’s assets is a heck of a lot of money,” Clark said.
+
+Clark also argues that the waiver fails to consider any potential upside. Federal regulations require examining not just current value but “potential profit or loss.” For a venture capitalist like Sacks, Clark notes, “even if right now [if his shares are] less than 3.8% of his assets, if it does well, it could be more than that.”
+
+Craft Ventures did not respond to several requests from TechCrunch this week to discuss this story.
+
+**The Vultron investment**
+
+The timing of Vultron’s announcement illustrates the complexity of the arrangement. Vultron says its AI tools are “purpose-built for the demands of a shifting federal procurement landscape.” The company boasts of reducing proposal timelines “from weeks to days” and claims one Fortune 500 client now saves “more than 20 hours per user each week” on federal contracting work.
+
+A source close to the company says Craft Ventures’ investment predates Sacks’ government appointment. However, the timing raises questions: The nation’s AI czar has a financial stake in a company that profits from helping businesses win the very federal contracts his policies will influence.
+
+Senator Elizabeth Warren has been among the most vocal critics of these arrangements. In a May letter to the Office of Government Ethics, the ranking member of the Senate Banking Committee questioned Sacks’ crypto waiver, noting he was simultaneously “co-hosting a $1.5 million-a-head dinner for crypto industry players” while shaping federal crypto policy.
+
+“Mr. Sacks simultaneously leads a firm invested in crypto while guiding the nation’s crypto policy,” Warren wrote. “Normally, federal law would prohibit such an explicit conflict of interest.”
+
+Sacks has largely dismissed Warren’s concerns, accusing her of having a “[pathological hatred](https://www.thestreet.com/crypto/markets/trump-advisor-slams-senator-for-pathological-hatred) for the crypto community.” He has separately said that he sold a fortune in crypto before joining the White House “because I didn’t want to even have the [appearance](https://podcasts.happyscribe.com/all-in-with-chamath-jason-sacks-friedberg/tariffs-trump-s-economic-endgame-market-chaos-bitcoin-reserve-coreweave-ipo) of a conflict.”
+
+Indeed, supporters of Sacks point to the sacrifices he’s made for government service. According to his waivers, he and Craft Ventures have divested over $200 million in digital assets, with at least $85 million directly attributable to him. He has sold stakes in fast-growing companies, including his position in Elon Musk’s xAI, and initiated the sale of interests in approximately 90 venture capital funds, including Sequoia funds.
+
+The source close to Sacks emphasizes these divestments, noting that because of his government role, Craft Ventures must now run every AI and crypto-related deal past the White House ethics committee. This oversight, they suggest, makes it implausible to invest in feeder funds and smaller deals, given the volume of work that might entail for everyone involved.
+
+Clark argues that the underlying ethical framework remains flawed. The waivers themselves, she argues, are designed to provide legal cover rather than address ethical concerns. “This is whitewashing,” she said. Complicating matters further, Sacks works as a government employee just 130 days per year — effectively every other week — while maintaining his commercial activities during off periods. In September, for example, Sacks and his co-hosts in their popular podcast, All In, will stage what has become an annual three-day conference to which attendees pay $7,500 per person to join. While legally permissible, these activities further blur the lines between his public and private roles.
+
+Some observers wonder whether Sacks — a self-made billionaire by Forbes’ estimates — will declare victory and exit government service altogether. With the GENIUS Act [now law](https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/), he may consider his primary mission accomplished: bringing cryptocurrency from the fringes to center stage.
+
+But that will likely take time. Sacks used a Fox News appearance Friday to detail his immediate priorities following the act’s passage earlier in the day, emphasizing the development of regulatory frameworks in three key areas, including defining market structure categories (securities versus commodities versus digital assets), expanding stablecoin regulations, and evaluating a potential national digital asset stockpile.
+
+Meanwhile, critics concerned about conflicts of interest argue the precedent has been set. The rapid passage of crypto-friendly legislation, combined with ongoing investments in AI companies serving the federal government, suggests that Sacks and others with similar arrangements have positioned themselves and their wider orbit to benefit from their government access.
+
+Whether this represents a new normal for Silicon Valley relations with Washington, or instead an aberration that future administrations will reverse, remains to be seen. What’s clear is that traditional ethics frameworks may be inadequate for an era when venture capitalists can maintain their investment activities while simultaneously shaping the policies that determine those investments’ future value.
+
+For now, the arrangement continues, protected by carefully crafted waivers that ethics experts have questioned but find legally unassailable. As Clark puts it: “No one will be able to prosecute him.”
+
+_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._

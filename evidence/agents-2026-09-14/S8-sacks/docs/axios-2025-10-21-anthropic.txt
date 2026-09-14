@@ -1,0 +1,35 @@
+Title: Anthropic tries to defuse White House backlash
+
+URL Source: https://www.axios.com/2025/10/21/anthropic-ai-czar-white-house-david-sacks-jd-vance
+
+Published Time: 2025-10-21T15:27:57.749050Z
+
+Markdown Content:
+Anthropic is making the case that it's firmly in step with the White House after [AI czar David Sacks](https://www.axios.com/2025/10/16/anthropic-david-sacks-ai-white-house)' criticism sparked questions over the company's relationship with the administration.
+
+**Why it matters:**AI companies have a lot to lose if they're not in the good graces of the Trump administration, from lucrative government contracts to influence over the policies that could define their future.
+
+**Driving the news:**In a [blog post](https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership) on Tuesday, Anthropic CEO Dario Amodei laid out the company's alignment on AI policy with the administration, including:
+
+*   Contracts with the federal government 
+*   The company's public backing of President Trump's [AI action plan](https://www.axios.com/pro/tech-policy/2025/07/23/white-house-releases-ai-action-plan)
+*   Hiring senior former Trump officials
+*   A shared preference for a national AI standard 
+
+**Amodei quoted Vice President JD Vance**in his statement.
+
+*   "In his [recent remarks](https://www.newsmax.com/newsmax-tv/vance-artificial-intelligence-ai/2025/10/16/id/1230684/), the Vice President also said of AI, 'Is it good or is it bad, or is it going to help us or going to hurt us? The answer is probably both, and we should be trying to maximize as much of the good and minimize as much of the bad.'"
+*   "That perfectly captures our view," Amodei wrote. "We're ready to work in good faith with anyone of any political stripe to make that vision a reality."
+
+**Catch up quick:**Sacks [last week said](https://x.com/DavidSacks/status/1978145266269077891) on X that "Anthropic is running a sophisticated regulatory capture strategy based on fear-mongering."
+
+*   A couple of days later, Sacks [responded](https://x.com/DavidSacks/status/1978965238155239559) to a Bloomberg [column](https://www.bloomberg.com/opinion/articles/2025-10-15/anthropic-s-ai-principles-make-it-a-white-house-target?embedded-checkout=true) that the administration is targeting Anthropic because of its AI principles, saying that "in fact, it has been Anthropic's government affairs and media strategy to position itself consistently as a foe of the Trump administration."
+
+**Friction point:**Anthropic is at odds with Sacks on the question of preempting state-level regulation and the effort on Capitol Hill to impose a [10-year moratorium](https://www.axios.com/pro/tech-policy/2025/07/01/senate-strips-ai-moratorium) that failed during the reconciliation process.
+
+*   The company says it prefers a federal standard, but can't wait for Congress to act and supports [California's efforts](https://www.axios.com/2025/09/29/newsom-signs-major-california-ai-bill). 
+*   "Our longstanding position has been that a uniform federal approach is preferable to a patchwork of state laws. I [proposed such a standard](https://www.nytimes.com/2025/06/05/opinion/anthropic-ceo-regulate-transparency.html) months ago and we're ready to work with both parties to make it happen," Amodei wrote. 
+
+**The bottom line:**Anthropic is staying true to the positions it has held all along, and this blog post is no different.
+
+*   But the public back and forth is pressuring the company to do damage control.

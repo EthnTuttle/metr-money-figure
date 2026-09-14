@@ -1,0 +1,58 @@
+
+METR - Chief Information Security Officer
+Chief Information Security Officer
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks, and mitigations, with a specific focus on threats related to AI R&D automation and misalignment.
+We believe it is robustly good for policymakers and civil society to have a clear understanding of risks from AI systems, and we are extremely excited to build a team of ambitious, excellent people to tackle one of the most important challenges of our time.
+About the role
+Security at METR is becoming its own dedicated team, and you will lead it. It is extremely important that we continue to be an organization that frontier AI labs, governments, and the public trust with sensitive model access and confidential information. As misalignment incidents become more extreme and confidential information about models and frontier AI labs becomes more valuable, we expect to be under increasingly 
+heavy pressure
+ from external actors and internal agents. 
+We now need someone thinking about organizational security posture full time and proactively planning against future threats. You will own security at METR, ensuring our security strategy grows as the organization does.
+What this role looks like
+Advising METR leadership: 
+You will advise on the security implications of new partnerships, evaluation programs, and model access arrangements before commitments are made.
+Setting organizational strategy: 
+You will set our security roadmap and build up our security culture, consolidating ownership of security areas that today are spread across teams and filling gaps that currently have no owner. 
+Managing the security team: 
+You will manage a team of security engineers and contractors across incident response, infrastructure hardening, red-teaming, and meeting the security requirements of our external partnerships.
+Required Skills
+Deep security and management background. 
+You’ve been accountable for an org’s security posture or led high-stakes security engagements in the past, including being part of or leading an IR team. 
+Hands-on mentality. 
+You’re still interested in the lower-level security details, and can personally investigate an incident, read a cloud IAM policy, review a sandboxing design, or configure identity and endpoint tooling.
+Threat modeling and red teaming experience. 
+You can reason about defending against both insiders and sophisticated, well-resourced adversaries.
+Mission-aligned. 
+You care deeply about METR’s mission of investigating catastrophic risks for AI.
+Nice-to-haves
+Built a security team from scratch (first security hire or founding CISO).
+Led incident response end to end, including decision-making and communication to stakeholders.
+Experience securing AI/ML systems or agent infrastructure.
+Familiarity with the tooling in our environment: DataDog, Kubernetes, CrowdStrike Falcon, Okta, Tailscale, Pulumi, PostgreSQL.
+Compensation & Benefits
+$402,048 - $578,583 a year
+METR also has a host of benefits:
+The office: Catered lunch and dinner daily; in-office gym and shower
+Relocation support: Stipend for moving to the Bay Area⁠
+Time-off and leave: Unlimited PTO and 21-week parental leave for new parents
+Commuter benefit: Monthly transit/parking stipend and an annual Uber budget
+Professional development benefit: for training, courses, conferences, and AI safety education⁠
+Mental health benefit: for therapy, medication, and other mental health expenses⁠
+Wellness benefit: for gym memberships and other wellness expenses⁠
+Work equipment benefit: for home office and workstation equipment⁠ expenses
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters.
+Hybrid Requirements:
+ Our technical team members are in our office in Berkeley 3-5 days/week. Please let us know in your application if this is a constraint. If you lack US work authorization and would like to work in-person (strongly preferred), we can likely sponsor a cap-exempt H-1B visa for this role.
+We encourage you to apply even if your background may not seem like the perfect fit! We would rather review a larger pool of applications than risk missing out on a promising candidate for the position.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

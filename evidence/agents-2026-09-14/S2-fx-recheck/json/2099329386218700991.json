@@ -1,0 +1,86 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/emilaryd/status/2099329386218700991",
+  "id": "2099329386218700991",
+  "text": "@MaskedTorah @corsaren Isn’t the main underlying problem here that it’s hard for the public to adjudicate between different evaluators? Like, even a single evaluator could become sycophantic/bad/pressured, and the public would currently have a hard time figuring out if that’s the case.",
+  "raw_text": {
+   "text": "@MaskedTorah @corsaren Isn’t the main underlying problem here that it’s hard for the public to adjudicate between different evaluators? Like, even a single evaluator could become sycophantic/bad/pressured, and the public would currently have a hard time figuring out if that’s the case.",
+   "display_text_range": [
+    23,
+    286
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      12
+     ],
+     "original": "MaskedTorah",
+     "id": "2439629299"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      13,
+      22
+     ],
+     "original": "corsaren",
+     "id": "1866548556061962240"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "emilaryd",
+   "url": "https://x.com/emilaryd",
+   "id": "1784607057380855808",
+   "followers": 608,
+   "following": 324,
+   "likes": 5542,
+   "media_count": 13,
+   "name": "Emil Ryd",
+   "description": "ai safety research @anthropicai and physics olympiads.\nviews my own.",
+   "raw_description": {
+    "text": "ai safety research @anthropicai and physics olympiads.\nviews my own.",
+    "facets": []
+   },
+   "location": "San Francisco, CA",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1890765761834016768/mrpnebiB_200x200.jpg",
+   "joined": "Sun Apr 28 15:34:36 +0000 2024",
+   "protected": false,
+   "website": {
+    "url": "https://emilryd.com/",
+    "display_url": "emilryd.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Sep 14 02:48:23 +0000 2026",
+  "created_timestamp": 1789354103,
+  "views": 29,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "MaskedTorah",
+  "replying_to_status": "2099253108258095212",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:17Z",
+ "_http_status": 200
+}

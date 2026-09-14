@@ -1,0 +1,124 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/xerocooleth/status/2099170336809849312",
+  "id": "2099170336809849312",
+  "text": "Dario has to stop pretending AI is a threat\n\nIf Anthropic really thinks AI threatens humanity then they should just stop development or quarantine it\n\nAgree with David that he doesn't need permission\n\nThis looks more like Dario trying to get Claude an advantage by banning other AI",
+  "raw_text": {
+   "text": "Dario has to stop pretending AI is a threat\n\nIf Anthropic really thinks AI threatens humanity then they should just stop development or quarantine it\n\nAgree with David that he doesn't need permission\n\nThis looks more like Dario trying to get Claude an advantage by banning other AI",
+   "display_text_range": [
+    0,
+    281
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "xerocooleth",
+   "url": "https://x.com/xerocooleth",
+   "id": "1467734865676312579",
+   "followers": 68759,
+   "following": 15284,
+   "likes": 533799,
+   "media_count": 3635,
+   "name": "xero 🎮",
+   "description": "Memes & Satire | Not financial advice | Not selling any service",
+   "raw_description": {
+    "text": "Memes & Satire | Not financial advice | Not selling any service",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1467734865676312579/1770358980",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2019658015540932608/nU8044cH_200x200.jpg",
+   "joined": "Mon Dec 06 05:59:19 +0000 2021",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 12,
+  "retweets": 0,
+  "likes": 23,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 16:16:23 +0000 2026",
+  "created_timestamp": 1789316183,
+  "views": 2159,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "id": "2098973625252708460",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+   "raw_text": {
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+    "display_text_range": [
+     0,
+     2152
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "DavidSacks",
+    "url": "https://x.com/DavidSacks",
+    "id": "1137701",
+    "followers": 1739135,
+    "following": 3525,
+    "likes": 94114,
+    "media_count": 1280,
+    "name": "David Sacks",
+    "description": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+    "raw_description": {
+     "text": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1137701/1667750503",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+    "joined": "Wed Mar 14 04:14:58 +0000 2007",
+    "protected": false,
+    "website": {
+     "url": "http://sacks.substack.com",
+     "display_url": "sacks.substack.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 3053,
+   "retweets": 10858,
+   "likes": 64743,
+   "bookmarks": 13157,
+   "quotes": 2361,
+   "created_at": "Sun Sep 13 03:14:43 +0000 2026",
+   "created_timestamp": 1789269283,
+   "views": 8240216,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for iPhone",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter Web App",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:46Z",
+ "_http_status": 200
+}

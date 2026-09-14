@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en">
+	
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Canary: Evaluating Frontier AI | RAND</title>
+  <script src="https://assets.adobedtm.com/7b44bfa5332b3eae1bfbb635a10267e767a4284f/satelliteLib-ba20fb485110a0c5418b54627a4aec099af80722.js" async></script>
+      
+<script src="/etc.clientlibs/rand/support/js/core-init.min.b67ddb05460cc8b0f5fccb82dcb2bcf0.js"></script>
+    
+  <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/monument-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/fraktion-mono-regular.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/suisse-works.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/etc.clientlibs/rand/designs/common/fonts/resources/suisse-works-bold.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/etc.clientlibs/rand/designs/rand/ui/rand.min.3d04d6c618aecda56f8352a747988a97.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/common/css/rand-components/filters.min.ffbe3ed0b98b1bb45fdc23c30012057b.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/common/css/rand-components/staffList.min.c51bac8259c209691d9ad4182dd501f0.css"><link rel="stylesheet" href="/etc.clientlibs/rand/designs/common/css/rand-components/showHide.min.9e5446a631d7fbcb3c4b74168612e0eb.css">
+  <link rel="preconnect" href="https://www.google.com">
+  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+
+  
+  
+<style>
+
+/* Do not show the first item in the list because it is shown in the left column. */
+
+#additional-features ul.teasers li:first-child {
+        display: none;
+    }
+
+</style>
+
+  
+  <meta charset="utf-8">
+    <meta name="description" content="Canary is a research collaboration between RAND and METR, supported by The Audacious Project, to develop science-based tools for evaluating and reducing risks from frontier artificial intelligence systems before their deployment.">
+    <link rel="canonical" href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary.html">
+<meta property="og:title" content="AIxBio Canary">
+<meta property="og:description" content="Canary is a research collaboration between RAND and METR, supported by The Audacious Project, to develop science-based tools for evaluating and reducing risks from frontier artificial intelligence systems before their deployment.">
+<meta property="og:url" content="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary.html">
+<meta property="og:image" content="https://www.rand.org/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/teaser.crop.1200x900.cm.jpeg/1774895849814.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@RANDCorporation">
+<meta name="twitter:title" content="AIxBio Canary">
+<meta name="twitter:description" content="Canary is a research collaboration between RAND and METR, supported by The Audacious Project, to develop science-based tools for evaluating and reducing risks from frontier artificial intelligence systems before their deployment.">
+<meta name="twitter:image" content="https://www.rand.org/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/teaser.crop.600x317.cm.jpeg/1774895849814.jpeg">
+<meta name="rand-teaser-type" content="unit">
+<meta name="rand-teaser-title" content="AIxBio Canary">
+<meta name="rand-teaser-description" content="Canary is a research collaboration between RAND and METR, supported by The Audacious Project, to develop science-based tools for evaluating and reducing risks from frontier artificial intelligence systems before their deployment.">
+<meta name="rand-teaser-date" content="20260330">
+<meta name="rand-teaser-image" content="/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/teaser.crop.250x187.cm.jpeg/1774895849814.jpeg">
+<meta name="rand-teaser-image-alt" content="A woman's face is illuminated by strange light as she dissolves into DNA">
+
+  
+        
+	<link rel="icon" href="/etc.clientlibs/rand/designs/common/images/resources/favicon.png" type="image/png"><link rel="icon" href="/etc.clientlibs/rand/designs/common/images/resources/favicon.svg" type="image/svg+xml">
+  <link rel="search" href="/content/dam/rand/xml/search.xml" type="application/opensearchdescription+xml" title="RAND"/>
+  <script type="application/ld+json">
+{"@context":"http://schema.org","@graph":[{"@context":"https://schema.org","@type":"Organization","url":"https://www.rand.org","logo":"https://www.rand.org/etc.clientlibs/rand/designs/common/images/logo-corp.svg","name":"RAND","alternateName":"RAND Corporation","description":"RAND is a nonprofit, nonpartisan research organization that provides leaders with the information they need to make evidence-based decisions.","email":"correspondence@rand.org","foundingDate":"1948-05-14","legalName":"RAND Corporation","address":{"@type":"PostalAddress","postOfficeBoxNumber":"2138","streetAddress":"1776 Main Street","addressLocality":"Santa Monica","addressRegion":"CA","addressCountry":"US","postalCode":"90401-2138"},"sameAs":["https://www.linkedin.com/company/rand-corporation","https://x.com/RANDCorporation","https://www.instagram.com/randcorporation","https://www.facebook.com/RANDCorporation","https://www.youtube.com/user/TheRANDCorporation","https://bsky.app/profile/rand.org","https://www.threads.net/@randcorporation"]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Global and Emerging Risks","item":"https://www.rand.org/global-and-emerging-risks.html"},{"@type":"ListItem","position":2,"name":"Centers & Chairs","item":"https://www.rand.org/global-and-emerging-risks/centers.html"},{"@type":"ListItem","position":3,"name":"RAND CAST","item":"https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology.html"},{"@type":"ListItem","position":4,"name":"Canary: Evaluating Frontier AI"}]}]}
+</script>
+
+  
+</head>
+
+	
+
+<body class="">
+  
+<ul class="skip-links" id="top">
+	<li><a href="#page-content" class="access">Skip to page content</a></li>
+</ul>
+<header id="header" class="simple-header" lang="en" dir="ltr"><div class="header-inner">
+	<div class="flex-wrap">
+		
+
+<a href="/" class="logo">
+    <img src="/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg" alt="RAND" class="corp" width="40" height="40">
+  </a>
+  
+
+    <a href="/site_info/sitemap.html" class="nav-toggle corp" hidden><span class="access">Toggle Menu</span></a>
+    <search class="search-wrap" title="Site-wide">
+      
+	<a href="/search.html" class="search-toggle"><span class="label"><span class="access">Toggle</span> Search</span></a>
+	<div id="search" class="search"><form method="get" action="/search.html"><label for="search-box" class="access">Search terms</label><input name="q" id="search-box" class="query" type="search" placeholder="Search"><button class="submit search-submit" type="submit" id="search-submit"><span class="access">Submit</span></button></form></div>
+
+    </search>
+	</div>
+	<div class="iparsys-wrap">
+
+
+</div>
+  
+<nav class="byo-header">
+	<a href="#configurable-nav" class="nav-toggle configurable"><span class="access">Toggle Menu</span></a>
+  <a href="/global-and-emerging-risks.html" class="byo-primary"><span class="text">RAND Global and <span>Emerging Risks</span></span></a>
+  <div class="ul-wrap" id="configurable-nav"><ul>
+    <li class="nav-research-and-commentary">
+      <a href="/global-and-emerging-risks/research-and-commentary.html" class="byo-secondary">
+        Research &amp; Commentary
+      </a>
+    </li><li class="nav-centers current">
+      <a href="/global-and-emerging-risks/centers.html" class="byo-secondary">
+        Centers &amp; Chairs
+      </a>
+    </li><li class="nav-about">
+      <a href="/global-and-emerging-risks/about.html" class="byo-secondary">
+        About
+      </a>
+    </li>
+    <li class="cta"><a class="btn btn-xs" href="/global-and-emerging-risks/about/contact.html">Work with Us</a></li>
+  </ul></div>
+</nav>
+
+
+    
+
+
+</div></header>
+
+
+
+
+
+  
+<nav class="breadcrumbs-wrapper" aria-label="Breadcrumb"><div id="breadcrumbs" class="breadcrumbs"><ol>
+  <li><a href="/">RAND</a></li><li><a href="/global-and-emerging-risks.html">Global and Emerging Risks</a></li><li><a href="/global-and-emerging-risks/centers.html">Centers & Chairs</a></li><li><a href="/global-and-emerging-risks/centers/ai-security-and-technology.html">RAND CAST</a></li><li class="access"><a href="/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary.html" aria-current="page">Canary: Evaluating Frontier AI</a></li>
+  </ol></div>
+  </nav>
+  <div class="column-wrap one-column simplified">
+    
+
+<div id="content"><main id="page-content">
+	<div class="page-heading constrain-width">
+      
+
+<h1 id="RANDTitleHeadingId">Canary: Evaluating Frontier AI</h1>
+
+      
+<p class="subtitle">A RAND&ndash;METR initiative advances safer frontier AI through rigorous risk evaluation and biosecurity research.</p>
+    </div><div class="constrain-width"><div data-cmp-src="/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/wrapperdiv/imagewithclass_copy.fit.1048x0.jpeg/1782392571063.jpeg" id="image-2dde918e71" data-cmp-hook-image="imageV3" class="cmp-image photo expand-width" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/wrapperdiv/imagewithclass_copy.fit.1048x0.webp/1782392571063.webp" type="image/webp"/>
+
+      <img src="/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/_jcr_content/par/wrapperdiv/imagewithclass_copy.fit.1048x0.jpeg/1782392571063.jpeg" fetchpriority="high" itemprop="contentUrl" width="1048" height="419" alt="A woman&#39;s face is illuminated by strange light as she dissolves into DNA"/>
+    </picture>
+  
+  <div class="photo-text">
+    <div>
+      
+      <p class="credit">Photo by AscentXmedia/Getty Images</p>
+    </div>
+  </div>
+</div><div class="constrain-width constrain-width-sm">
+  <p><strong>Canary</strong> is a collaboration between RAND and <a href="https://metr.org/">METR</a> to help ensure that rapidly advancing artificial intelligence serves society safely. As AI systems grow more capable, their potential for both transformative benefit and serious harm expands. Canary brings together RAND’s deep experience in evidence-based policy research and METR’s technical expertise in evaluating autonomous AI behavior to build the science, methodology, and tools needed to understand emerging risks before new systems are released.</p>
+
+<p>By developing transparent, predeployment evaluation frameworks and sharing results with the broader AI community, Canary aims to lower barriers for responsible research and contribute to a global culture of safety. The project’s work will help AI developers, policymakers, and researchers anticipate misuse and autonomy risks, guiding the evolution of frontier AI toward outcomes that protect and strengthen society.</p>
+
+
+    
+</div><div class="pull-quote ">
+		<p>RAND is researching the implications of AI across nearly every policy domain, but this project is exciting because it is the first to incorporate our evidence-based approach to assess the capabilities of frontier AI systems while still in development.</p><p class="source">RAND President and CEO <a href="/about/people/m/matheny_jason.html">Jason Matheny</a></p></div>
+<div class="blue20 expand-width"><h2 class="section-title" id="featured-research--commentary-">Featured Research & Commentary</h2>
+
+<div class="row">
+    
+    <div class="six columns">
+      
+
+  <div>
+  <ul class="teasers feature hasImg">
+<li data-content-id="RRA5112-1"  >
+<a href="/pubs/research_reports/RRA5112-1.html"><div class="img-col"><div class="img-wrap"><div data-cmp-src="/content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.656x344.cm.jpeg/1789405567907.jpeg" id="image-444b34418c" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.656x344.cm.webp/1789405567907.webp 1x, /content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.1312x688.cm.webp/1789405567907.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5112-1/_jcr_content/par/teaser.crop.656x344.cm.jpeg/1789405567907.jpeg" loading="lazy" itemprop="contentUrl" width="656" height="344" alt/>
+    </picture>
+  
+  
+</div></div></div><div class="text"><h3 class="title">Open-Weight AI Models May Increase Biological Misuse Risks</h3><p class="desc">Researchers examined whether frontier open-weight LLMs can be modified for malicious biological purposes, and found that removing an LLM’s safety training is highly feasible.</p><p class="date">Sep 14, 2026</p></div></a></li>
+</ul>
+
+</div>
+
+    </div>
+    
+    <div class="six columns">
+      <div id="additional-features">
+
+  <div>
+  <ul class="teasers list hasImg">
+<li data-content-id="RRA5112-1"  >
+<a href="/pubs/research_reports/RRA5112-1.html"><div class="img-col"><div class="img-wrap"><div data-cmp-src="/content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.308x173.cm.jpeg/1789405567907.jpeg" id="image-77375fb570" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.308x173.cm.webp/1789405567907.webp 1x, /content/rand/pubs/research_reports/RRA5112-1/jcr:content/par/teaser.crop.616x346.cm.webp/1789405567907.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5112-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1789405567907.jpeg" loading="lazy" itemprop="contentUrl" width="308" height="173" alt/>
+    </picture>
+  
+  
+</div></div></div><div class="text"><h3 class="title">Open-Weight AI Models May Increase Biological Misuse Risks</h3><p class="date">Sep 14, 2026</p></div></a></li>
+
+<li data-content-id="RRA4741-2"  >
+<a href="/pubs/research_reports/RRA4741-2.html"><div class="img-col"><div class="img-wrap"><div data-cmp-src="/content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/teaser.crop.308x173.cm.jpeg/1786976413164.jpeg" id="image-fe1d18dd24" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/teaser.crop.308x173.cm.webp/1786976413164.webp 1x, /content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/teaser.crop.616x346.cm.webp/1786976413164.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA4741-2/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1786976413164.jpeg" loading="lazy" itemprop="contentUrl" width="308" height="173" alt/>
+    </picture>
+  
+  
+</div></div></div><div class="text"><h3 class="title">Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion</h3><p class="date">Aug 11, 2026</p></div></a></li>
+
+<li data-content-id="RRA5055-1"  >
+<a href="/pubs/research_reports/RRA5055-1.html"><div class="img-col"><div class="img-wrap"><div data-cmp-src="/content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/teaser.crop.308x173.cm.jpeg/1786041312807.jpeg" id="image-0f994bd52f" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/teaser.crop.308x173.cm.webp/1786041312807.webp 1x, /content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/teaser.crop.616x346.cm.webp/1786041312807.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5055-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1786041312807.jpeg" loading="lazy" itemprop="contentUrl" width="308" height="173" alt/>
+    </picture>
+  
+  
+</div></div></div><div class="text"><h3 class="title">Interpreting Dual-Use Biology Benchmarks for Frontier AI</h3><p class="date">Aug 6, 2026</p></div></a></li>
+
+<li data-content-id="RRA5000-1"  >
+<a href="/pubs/research_reports/RRA5000-1.html"><div class="img-col"><div class="img-wrap"><div data-cmp-src="/content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/teaser.crop.308x173.cm.jpeg/1786734879314.jpeg" id="image-d23031e0bb" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/teaser.crop.308x173.cm.webp/1786734879314.webp 1x, /content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/teaser.crop.616x346.cm.webp/1786734879314.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5000-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1786734879314.jpeg" loading="lazy" itemprop="contentUrl" width="308" height="173" alt/>
+    </picture>
+  
+  
+</div></div></div><div class="text"><h3 class="title">Restricting AI Agent Use of Biological Tools</h3><p class="date">Jul 20, 2026</p></div></a></li>
+</ul>
+
+</div></div>
+
+    </div>
+    </div>
+    
+
+
+</div><div class="expand-width"><h2 class="section-title" id="aixbio-research-from-canary-">AIxBio Research from Canary</h2>
+<div class="filteredlist">
+  <div>
+    <search title="Publications">
+      
+  
+  <form class="filteredlist-form   filter-form" data-filters="0" name="filteredlist-form" id="pubList-47363574-form" action="/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary.html" method="GET" data-action-async="/content/rand/global-and-emerging-risks/centers/ai-security-and-technology/projects/canary/jcr:content/par/wrapperdiv/wrapperdiv_1506728422/publist.html">
+    
+  
+
+    
+    <button type="submit" class="btn no-js">Submit filters</button>
+  </form>
+
+      
+  <div class="form-extension">
+    
+    
+    <div class="filteredlist__results-error" hidden>
+      <h3>Error</h3>
+    </div>
+  </div>
+
+    </search>
+    <div class="filteredlist-data">
+      <ul class="pub-list teasers filterable grid hasImg" id="pubList-47363574-results" data-results-start="0">
+        
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA4741-2.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/product.fit.242x242.jpeg/1786020544474.jpeg" id="image-281ff0f2f3" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/product.fit.242x242.webp/1786020544474.webp 1x, /content/rand/pubs/research_reports/RRA4741-2/jcr:content/par/product.fit.484x484.webp/1786020544474.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA4741-2/_jcr_content/par/product.fit.242x242.jpeg/1786020544474.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion</h3>
+          <p class="date">Aug 11, 2026</p>
+          <p class="desc">Large language model agents demonstrate an emerging ability to use biological tools to redesign peptides and proteins for nucleic acid synthesis screening evasion, indicating that agents could lower expertise barriers for hazardous capabilities.</p>
+          
+  <p class="authors">Jeffrey Lee, Alyssa Worland, Christopher Rodriguez, Kyle Brady, Grant Ellison, Henry Alexander Bradley, Dawid Maciorowski, Jordan Despanie, Barbara Del Castello, Jason Johnson, Steph Guerra</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA5055-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/product.fit.242x242.jpeg/1785955413924.jpeg" id="image-7ae27094ce" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/product.fit.242x242.webp/1785955413924.webp 1x, /content/rand/pubs/research_reports/RRA5055-1/jcr:content/par/product.fit.484x484.webp/1785955413924.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5055-1/_jcr_content/par/product.fit.242x242.jpeg/1785955413924.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Interpreting Dual-Use Biology Benchmarks for Frontier AI: Measurement, Saturation, and Generational Analysis</h3>
+          <p class="date">Aug 6, 2026</p>
+          <p class="desc">The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.</p>
+          
+  <p class="authors">Grant Ellison, Jeffrey Lee, Barbara Del Castello, Sunishchal Dev, Kyle Brady</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA5000-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/product.fit.242x242.jpeg/1784295023724.jpeg" id="image-22937b9434" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/product.fit.242x242.webp/1784295023724.webp 1x, /content/rand/pubs/research_reports/RRA5000-1/jcr:content/par/product.fit.484x484.webp/1784295023724.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA5000-1/_jcr_content/par/product.fit.242x242.jpeg/1784295023724.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers</h3>
+          <p class="date">Jul 20, 2026</p>
+          <p class="desc">AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited.</p>
+          
+  <p class="authors">Casey O. Barkan, Christopher Rodriguez, Swaptik Chowdhury, Li Ang Zhang, Roger Brent</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA4741-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA4741-1/jcr:content/par/product.fit.242x242.jpeg/1786020517745.jpeg" id="image-cd5a7fe9d3" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA4741-1/jcr:content/par/product.fit.242x242.webp/1786020517745.webp 1x, /content/rand/pubs/research_reports/RRA4741-1/jcr:content/par/product.fit.484x484.webp/1786020517745.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA4741-1/_jcr_content/par/product.fit.242x242.jpeg/1786020517745.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Can LLM Agents Select and Engage with Biological Tools? An Initial Biosecurity Assessment</h3>
+          <p class="date">Jun 25, 2026</p>
+          <p class="desc">Large language model agents are capable of performing initial interactions with biological tools (BTs), indicating that agents could lower expertise barriers for actors seeking to use BTs. Targeted testing of agent design capabilities is warranted.</p>
+          
+  <p class="authors">Jeffrey Lee, Alyssa Worland, Kyle Brady, Grant Ellison, Henry Alexander Bradley, Christopher Rodriguez, Casey O. Barkan, Sunishchal Dev, Dawid Maciorowski, Jordan Despanie, Barbara Del Castello, Bria Persaud, Amar Pandya, Ella Guest, Steph Guerra</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/perspectives/PEA4886-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/perspectives/PEA4886-1/jcr:content/par/product.fit.242x242.jpeg/1777481534011.jpeg" id="image-bea5021c96" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/perspectives/PEA4886-1/jcr:content/par/product.fit.242x242.webp/1777481534011.webp 1x, /content/rand/pubs/perspectives/PEA4886-1/jcr:content/par/product.fit.484x484.webp/1777481534011.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/perspectives/PEA4886-1/_jcr_content/par/product.fit.242x242.jpeg/1777481534011.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Open-Weight AI Models Require Proportional Evaluation Approaches</h3>
+          <p class="date">May 4, 2026</p>
+          <p class="desc">Open-weight AI models (OWMs) introduce distinct risk factors for which existing evaluation practices, largely designed for closed-weight model deployment, fail to account. The authors propose proportional evaluation approaches for OWMs.</p>
+          
+  <p class="authors">Patricia Paskov, Christopher Rodriguez, Sunishchal Dev, Stephen Casper</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/perspectives/PEA4710-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/perspectives/PEA4710-1/jcr:content/par/product.fit.242x242.jpeg/1770663827427.jpeg" id="image-ed12a69ab8" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/perspectives/PEA4710-1/jcr:content/par/product.fit.242x242.webp/1770663827427.webp 1x, /content/rand/pubs/perspectives/PEA4710-1/jcr:content/par/product.fit.484x484.webp/1770663827427.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/perspectives/PEA4710-1/_jcr_content/par/product.fit.242x242.jpeg/1770663827427.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Measuring Biological Capabilities and Risks of AI Agents: Generating and Interpreting Evidence from Agentic Evaluations</h3>
+          <p class="date">Feb 10, 2026</p>
+          <p class="desc">This perspective examines biological agentic evaluations as a tool for assessing risks from increasingly autonomous AI systems and offers practical guidance on how evaluation design shapes conclusions about biological capability and risk.</p>
+          
+  <p class="authors">Patricia Paskov, Jeffrey Lee, Kyle Brady, Alyssa Worland</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA4591-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA4591-1/jcr:content/par/product.fit.242x242.jpeg/1770056242812.jpeg" id="image-f91ec7aacd" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA4591-1/jcr:content/par/product.fit.242x242.webp/1770056242812.webp 1x, /content/rand/pubs/research_reports/RRA4591-1/jcr:content/par/product.fit.484x484.webp/1770056242812.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA4591-1/_jcr_content/par/product.fit.242x242.jpeg/1770056242812.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Bridging the Digital to Physical Divide: Evaluating LLM Agents on Benchtop DNA Acquisition</h3>
+          <p class="date">Feb 3, 2026</p>
+          <p class="desc">This report describes an automatable evaluation of eight frontier large language model (LLM) agents on their ability to design DNA segments, interact with a benchtop DNA synthesizer, and generate laboratory protocols.</p>
+          
+  <p class="authors">Kyle Brady, Jeffrey Lee, Dawid Maciorowski, Alyssa Worland, Jordan Despanie, Bria Persaud, Barbara Del Castello, Henry Alexander Bradley, Grant Ellison, Charles Teague, Sarah L. Gebauer, Greg McKelvey, Jr., Steph Guerra, Ella Guest</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA3797-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA3797-1/jcr:content/par/product.fit.242x242.jpeg/1763750320155.jpeg" id="image-aaae7098a3" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA3797-1/jcr:content/par/product.fit.242x242.webp/1763750320155.webp 1x, /content/rand/pubs/research_reports/RRA3797-1/jcr:content/par/product.fit.484x484.webp/1763750320155.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA3797-1/_jcr_content/par/product.fit.242x242.jpeg/1763750320155.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models</h3>
+          <p class="date">Nov 25, 2025</p>
+          <p class="desc">The authors evaluate the most-capable artificial intelligence (AI) models (as of May 2025) against eight knowledge benchmarks to determine the degree to which frontier AI models pose a risk of helping bad actors create biological or chemical weapons.</p>
+          
+  <p class="authors">Sunishchal Dev, Charles Teague, Grant Ellison, Kyle Brady, Jeffrey Lee, Sarah L. Gebauer, Henry Alexander Bradley, Dawid Maciorowski, Bria Persaud, Jordan Despanie, Barbara Del Castello, Alyssa Worland, Michael Miller, Adrian Salas, Dave Nguyen, James Liu, Jason Johnson, Andrew Sloan, Will Stonehouse, Travis Merrill, Thomas Goode, Greg McKelvey, Jr., Ella Guest</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/conf_proceedings/CFA3649-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/conf_proceedings/CFA3649-1/jcr:content/par/product.fit.242x242.jpeg/1755808572311.jpeg" id="image-143543ccf3" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/conf_proceedings/CFA3649-1/jcr:content/par/product.fit.242x242.webp/1755808572311.webp 1x, /content/rand/pubs/conf_proceedings/CFA3649-1/jcr:content/par/product.fit.484x484.webp/1755808572311.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/conf_proceedings/CFA3649-1/_jcr_content/par/product.fit.242x242.jpeg/1755808572311.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Defining Hazardous Capabilities of Biological AI Models: Expert Convening to Inform Future Risk Assessment</h3>
+          <p class="date">Aug 25, 2025</p>
+          <p class="desc">In June 2024, the Johns Hopkins Center for Health Security and RAND convened a group to discuss the potentially hazardous capabilities of biological AI models that are trained on or capable of manipulating substantial quantities of biological data.</p>
+          
+  <p class="authors">Jaspreet Pannu, Sarah L. Gebauer, Henry Alexander Bradley, Dulani Woods, Doni Bloomfield, Allison Berke, Greg McKelvey, Jr., Anita Cicero, Tom Inglesby</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/research_reports/RRA3124-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Research</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/research_reports/RRA3124-1/jcr:content/par/product.fit.242x242.jpeg/1749729110761.jpeg" id="image-d3f5765ec5" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/research_reports/RRA3124-1/jcr:content/par/product.fit.242x242.webp/1749729110761.webp 1x, /content/rand/pubs/research_reports/RRA3124-1/jcr:content/par/product.fit.484x484.webp/1749729110761.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/research_reports/RRA3124-1/_jcr_content/par/product.fit.242x242.jpeg/1749729110761.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Automated Grading for Efficiently Evaluating the Dual-Use Biological Capabilities of Large Language Models</h3>
+          <p class="date">Jun 12, 2025</p>
+          <p class="desc">The authors used an automated grader to evaluate the ability of large language models to answer knowledge-based questions and generate protocols that explain how to perform laboratory techniques that could be used to create biological threat proxies.</p>
+          
+  <p class="authors">Bria Persaud, Jeffrey Lee, Jordan Despanie, Helin Hernandez, Henry Alexander Bradley, Sarah L. Gebauer, Greg McKelvey, Jr.</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/perspectives/PEA3971-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/perspectives/PEA3971-1/jcr:content/par/product.fit.242x242.jpeg/1746126111717.jpeg" id="image-cc9923ecfd" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/perspectives/PEA3971-1/jcr:content/par/product.fit.242x242.webp/1746126111717.webp 1x, /content/rand/pubs/perspectives/PEA3971-1/jcr:content/par/product.fit.484x484.webp/1746126111717.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/perspectives/PEA3971-1/_jcr_content/par/product.fit.242x242.jpeg/1746126111717.jpeg" loading="lazy" itemprop="contentUrl" width="242" height="215" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Preliminary suggestions for rigorous GPAI model evaluations</h3>
+          <p class="date">May 1, 2025</p>
+          <p class="desc">This document presents suggestions that promote the internal validity, external validity and reproducibility of general-purpose AI evaluations, including benchmark evaluations and human uplift studies, across four evaluation life cycle stages.</p>
+          
+  <p class="authors">Patricia Paskov, Michael J. Byun, Kevin Wei, Toby Webster</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/external_publications/EP70827.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/etc.clientlibs/rand/designs/common/placeholders/resources/pub-list/expert-insights.svg" id="image-9eb456a7ff" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      
+      <img src="/etc.clientlibs/rand/designs/common/placeholders/resources/pub-list/expert-insights.svg" loading="lazy" itemprop="contentUrl" width="242" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">AI Could Pose Pandemic-Scale Biosecurity Risks: Here&#39;s How to Make It Safer</h3>
+          <p class="date">Feb 3, 2025</p>
+          <p class="desc">AI-enabled research might cause immense harm if it is used to design pathogens with worrying new properties. To prevent this, we need better collaboration between governments, AI developers and experts in biosafety and biosecurity.</p>
+          
+  <p class="authors">Jaspreet Pannu, Sarah L. Gebauer, Greg McKelvey, Jr., Anita Cicero, Tom Inglesby</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/perspectives/PEA3246-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/perspectives/PEA3246-1/jcr:content/par/product.fit.242x242.jpeg/1758062029735.jpeg" id="image-fa9745cb5a" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/perspectives/PEA3246-1/jcr:content/par/product.fit.242x242.webp/1758062029735.webp 1x, /content/rand/pubs/perspectives/PEA3246-1/jcr:content/par/product.fit.484x484.webp/1758062029735.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/perspectives/PEA3246-1/_jcr_content/par/product.fit.242x242.jpeg/1758062029735.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">A Response to NIST AI 800-1: Comments Concerning Bounty Programs, Threat Profiles, and Risk Thresholds</h3>
+          <p class="date">Sep 19, 2024</p>
+          <p class="desc">This paper provides public comment on NIST AI 800-1, Managing Misuse Risk for Dual-Use Foundation Models, and suggests that foundation model developers need more-specific recommendations about bounty programs, threat profiles, and risk thresholds.</p>
+          
+  <p class="authors">Julia Arnold, Sarah L. Gebauer</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+  
+    <li data-relevancy="1.0">
+      <a href="/pubs/conf_proceedings/CFA3429-1.html">
+        <div class="img-col">
+          <div class="type-time">
+            <p class="type">Expert Insights</p>
+            
+          </div>
+          
+          <div class="img-wrap">
+            <div data-cmp-src="/content/rand/pubs/conf_proceedings/CFA3429-1/jcr:content/par/product.fit.242x242.jpeg/1739839038279.jpeg" id="image-b78f981d40" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/pubs/conf_proceedings/CFA3429-1/jcr:content/par/product.fit.242x242.webp/1739839038279.webp 1x, /content/rand/pubs/conf_proceedings/CFA3429-1/jcr:content/par/product.fit.484x484.webp/1739839038279.webp 2x" type="image/webp"/>
+
+      <img src="/content/rand/pubs/conf_proceedings/CFA3429-1/_jcr_content/par/product.fit.242x242.jpeg/1739839038279.jpeg" loading="lazy" itemprop="contentUrl" width="187" height="242" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+            
+            
+          </div>
+        </div>
+        <div class="text">
+          
+          <h3 class="title">Evaluating Artificial Intelligence for National Security and Public Safety: Insights from Frontier Model Evaluation Science Day</h3>
+          <p class="date">Sep 16, 2024</p>
+          <p class="desc">Experts in artificial intelligence (AI), national security, and policy gathered to address the emerging challenges of evaluating threats from advanced AI systems. These proceedings capture insights and proposed actions from this gathering.</p>
+          
+  <p class="authors">Anton Shenk</p>
+
+        </div>
+      </a>
+    </li>
+  
+
+      </ul>
+      
+  
+
+    </div>
+    
+  <div class="filteredlist-error" hidden>
+    <div>
+      <h3>Oops! An unexpected error has occurred.</h3>
+      <span>
+        Please try again.  If you see this message repeatedly, there may be a problem with site
+        functionality at this time.  Thanks for your patience while we work to resolve the problem.
+      </span>
+    </div>
+    <div>
+      <button class="btn btn-async-retry" type="button" name="retry">Retry</button>
+    </div>
+  </div>
+
+    
+  </div>
+  
+    <div id="search-data-object" data-key="search" data-value="{&#34;currentPage&#34;:1,&#34;resultsPerPage&#34;:1000,&#34;totalResults&#34;:14,&#34;sortType&#34;:&#34;relevance&#34;}" data-event-name="contentFilter"></div>
+
+</div>
+<div id="list-updates" aria-live="polite" class="access"></div>
+<a class="more-link icon-after icon-after-arrow standalone" href="/global-and-emerging-risks/centers/ai-security-and-technology/research-and-commentary.html">More Publications from RAND <span class="last-word">CAST</span></a>
+
+</div><div class="constrain-width"><div class="staff-spotlight">
+  <h2>Research Lead</h2>
+  <ul class="staff-list list">
+    
+  
+    <li>
+      <a href="/about/people/g/guerra_stephanie.html">
+        <div class="image round">
+          <div data-cmp-src="/content/rand/about/people/g/guerra_stephanie/jcr:content/par/bio.crop.300x300.cm.jpeg/1755532527269.jpeg" id="image-8ec1f22c38" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+  
+  
+    <picture class="cmp-image__picture ">
+      <source srcset="/content/rand/about/people/g/guerra_stephanie/jcr:content/par/bio.crop.300x300.cm.webp/1755532527269.webp" type="image/webp"/>
+
+      <img src="/content/rand/about/people/g/guerra_stephanie/_jcr_content/par/bio.crop.300x300.cm.jpeg/1755532527269.jpeg" loading="lazy" itemprop="contentUrl" width="300" height="300" alt/>
+    </picture>
+  
+  
+</div>
+
+    
+
+
+        </div>
+        
+        <div class="info">
+          <h3 class="name">
+            Steph Guerra
+          </h3>
+          <p class="title">
+            AIxBio Lead, RAND Center on AI, Security, and Technology
+          </p>
+        </div>
+      </a>
+    </li>
+  
+
+  </ul>
+</div>
+
+    
+<h2 id="funding-">Funding</h2>
+
+  <p>Canary is supported through a major philanthropic commitment from <a href="https://audaciousproject.org/">The Audacious Project</a>, housed at <a href="https://www.ted.com/">TED</a>, which has provided funding for RAND and <a href="https://metr.org/">METR</a> to jointly pursue advances in AI safety. Additional support for related research activities is provided through RAND’s discretionary research funds and partner collaborations dedicated to the responsible development of artificial intelligence.</p>
+
+
+    
+</div></div>
+
+	</main>
+</div>
+</div>
+	
+
+<footer id="footer" class="global-footer" lang="en" dir="ltr"><div>
+
+
+  <div class="pre-footer simple">
+          <h2 class="section-name c5"><a href="/global-and-emerging-risks.html">RAND Global and Emerging Risks</a></h2>
+  </div>
+
+
+    
+
+</div>
+    
+
+
+<div class="footer-inner">
+			
+<div class="footer footerContent">
+<div class="foot-row border-right">
+	<div class="foot-column about">
+    <div class="brand-wrap"><a href="/" class="logo"><img src="/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg" alt="RAND" width="64" height="64"></a><div class="tag-line c6">Objective Analysis. Effective Solutions.</div></div>
+		<div class="footerAbout htmlBlock">
+  
+	<p class="small">RAND is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.</p>
+
+<div class="loc">
+<h2 class="c8">RAND Headquarters</h2>
+<p class="c8 adr">P.O. Box 2138 <br>1776 Main Street<br>Santa Monica, CA 90401-2138</p>
+
+<p class="c8">RAND has offices across the U.S., in Europe, and in Australia</p>
+<a href="/about/contacts.html" class="c8  underline">See all RAND locations</a>
+</div>
+
+
+    
+</div>
+
+	</div>
+  <div class="foot-column nav-links">
+    <div class="footerLinks htmlBlock">
+  <ul>
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/about/leadership.html">Leadership</a></li>
+  <li><a href="/about/research-integrity.html">Research Integrity</a></li>
+  <li><a href="https://www.rand.edu">Graduate School</a></li>
+  <li><a href="/support-us.html">Support RAND</a></li>
+  <li><a href="/jobs.html">Careers</a></li>
+  <li><a href="/about/contacts.html">Contact</a></li>
+  <li class="spacer-after"><a href="/services-and-impact/work-with-us.html">Work with Us</a></li>
+  <li><a href="/news.html">For Media</a></li>
+  <li><a href="/congress.html">For Congress</a></li>
+</ul>
+
+
+
+    
+</div>
+
+  </div>
+  <div class="foot-column stay-informed corp">
+    <div class="footer-subscribe-par parsys"><div class="headingTag parbase section"><h2 id="subscribe-footer-heading">Subscribe to the Policy Currents Newsletter</h2>
+</div>
+<div class="htmlBlock section">
+  <p class="small">And stay on top of the issues that matter most.</p>
+
+
+    
+</div>
+<div class="subscribeNoAccount section">
+
+
+<aside aria-label="Newsletter Subscription: Policy Currents newsletter" class="newsletter-subscription-box-wrapper" data-subscription-name="Policy Currents newsletter">
+  <div class="newsletter-subscription-box  pc">
+    
+    <div class="text"></div><form class="subscribeForm" method="post" data-component-path="/content/admin/rand-footer/jcr:content/par/footer/footer-subscribe-par/footer-subscribe" data-subscription-path="/content/rand/newsletters/rand-news-bulletin">
+        <label for="emailfooter-subscribe" class="access">Email</label><input type="email" name="emailfooter-subscribe" id="emailfooter-subscribe" class="email" required placeholder="Email Address">
+        <button class="btn btn-sm signup-recaptcha recaptcha-init " data-sitekey="6Lej1OkfAAAAACl4nbglyfLqKdV5PjWQHXCz_9Tc" data-size="invisible">Subscribe</button><div class="recaptcha-error error"></div>
+        </form><a href="/newsletters.html" class="standalone mono small">View all newsletters</a></div>
+</aside>
+</div>
+
+</div>
+
+    <div class="follow-rand">
+		<ul class="horizontal">
+			<li><a class="linkedin external" href="https://www.linkedin.com/company/rand-corporation"><span class="access">RAND on LinkedIn</span></a></li>
+			<li><a class="twitter external" href="https://x.com/RANDCorporation/"><span class="access">RAND on X</span></a></li>
+			<li><a class="instagram external" href="https://www.instagram.com/randcorporation/"><span class="access">RAND on Instagram</span></a></li>
+			<li><a class="facebook external" href="https://www.facebook.com/RANDCorporation"><span class="access">RAND on Facebook</span></a></li>
+			<li><a class="youtube external" href="https://www.youtube.com/user/TheRANDCorporation"><span class="access">RAND on YouTube</span></a></li>
+			<li><a class="bluesky external" href="https://bsky.app/profile/rand.org"><span class="access">RAND on Bluesky</span></a></li>
+			<li><a class="threads external" href="https://www.threads.net/@randcorporation"><span class="access">RAND on Threads</span></a></li>
+			<li><a class="policy-minded external" href="/pubs/podcasts.html"><span class="access">Policy Minded: RAND's Flagship Podcast</span></a></li>
+		</ul>
+</div>
+
+  </div>
+</div>
+<div class="sub-footer">
+  <div class="inner">
+    <div class="sub-flex">
+      <p>RAND® is a registered trademark. © 2026 RAND Corporation.</p>
+      <p class="legal-links"><a href="/site_info/privacy.html">Privacy Policy</a><a href="/site_info/terms-and-conditions.html">Terms and Conditions</a></p>
+      <dl class="internat">
+        <dt class="access">International Websites:</dt>
+        <dd class="zh"><a href="/zh-hans.html" lang="zh">中文</a></dd>
+        <dd class="ar"><a href="/ar.html" dir="rtl" lang="ar">العربية</a></dd>
+      </dl>
+    </div>
+    <p class="g-links">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</p>
+  </div>
+</div>
+</div>
+
+
+		
+
+
+
+	
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","G-M182E1GBSR");RAND.analyticsExtendDataObject({"page":{"id":"f8d514fa051f46fb13bfb1701354d45832f64f5e","isProduction":true,"language":"en","siteName":"rand","randDate":1774873380000,"contentType":"project","tags":["Project"]},"search":{"currentPage":1,"resultsPerPage":1000,"totalResults":14,"sortType":"relevance"}});RAND.analyticsExtendDataObject("pageTimestamp", 1789412684);if(typeof(pageDataTracker) == 'object'){pageDataTracker.trackPageLoad();}
+</script>
+  
+<script async src="https://www.google.com/recaptcha/api.js?onload=randRecaptchaCallback&render=explicit"></script>
+<script defer src="/etc.clientlibs/rand/support/js/core.min.1bee33ace434d5e341e0858e0f7ef812.js"></script>
+<script defer src="/etc.clientlibs/rand/support/js/filtered-list.min.3386b66a4974c7d8ded2955383b7867a.js"></script>
+<script defer src="/etc.clientlibs/rand/support/js/grid-calculator-for-lists.min.960f37434ca2242d6ad02649a0df9728.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M182E1GBSR"></script>
+
+</div></footer>
+
+  </body>
+
+</html>

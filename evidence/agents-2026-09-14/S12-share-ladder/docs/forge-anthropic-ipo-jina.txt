@@ -1,0 +1,167 @@
+Title: Anthropic IPO Timeline and Financing Details - Forge
+
+URL Source: https://forgeglobal.com/anthropic_ipo/
+
+Markdown Content:
+2021
+
+Founded
+
+Dec 2025
+
+IPO Mentioned
+
+Jun 2026
+
+Confidentially Filed
+
+## Company details
+
+Anthropic was founded in 2021 by Daniela Amodei, Dario Amodei, Jack Clark, Sam McCandlish, and Tom Brown. In early 2023 Anthropic was valued at $4.1 billion, and as of October 2023, CNBC confirmed Google’s investment with the company of $2 billion. The AI company has not publicly endorsed plans to participate in an IPO.
+
+Anthropic is the developer of an AI chatbot that is designed to enable higher degrees of safety regulation and steering than its competitors, without sacrificing reliability or autonomy. In May 2023, the company announced new series C funding of $450 million from investors such as Google, Salesforce Ventures, Sound Ventures, and Zoom Ventures. Per Forge Data, Anthropic has had 9 funding rounds and is valued at $3.3 billion.
+
+These comments should not be interpreted to mean that the company is formally pursuing or foregoing an IPO.
+
+Sector
+
+Subsector
+
+Founded
+
+2021
+
+Headquarters
+
+San Francisco, CA, United States
+
+Founders
+
+Daniela Amodei, Dario Amodei
+
+Forge Price 1
+
+Price not yet available
+
+Market Activity 2
+
+Medium
+
+Last Matched Price
+
+Post-Money Valuation 3
+
+$965B
+
+Total Funding
+
+$118.15B
+
+Last Funding Round
+
+Series H-1
+
+## Anthropic major investors
+
+Metaplanet Holdings
+
+## Anthropic pre-IPO valuation and funding rounds
+
+Funding history chart
+
+Funding round and deals details
+
+|  | Funding Date | Round | Amount Raised | Price per Share | Post-Money Valuation 3 | Key Investors |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 05/28/2026 | Series H-1 | $41.29B | $589.01 | $965B | Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+| Price per Share Shares Outstanding 70,096,048 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+|  | 05/28/2026 | Series H-2 | $18.2B | $589.01 | $965B | Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+| Price per Share Shares Outstanding 30,907,511 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+|  | 05/28/2026 | Series H-4 | $3.57B | $50.48 | $965B | Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+| Price per Share Shares Outstanding 70,655,961 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+|  | 05/28/2026 | Series H-3 | $1.94B | $20.93 | $965B | Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+| Price per Share Shares Outstanding 92,764,719 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Altimeter Capital, Amazon, Baillie Gifford, Blackstone, Brookfield, Capital Group, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Dst Global, Fidelity, Greenoaks, Iconiq Capital, Micron, Samsung, Sequoia Capital, Sk Hynix |
+|  | 02/12/2026 | Series G-1 | $15.16B | $259.14 | $380B | Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+| Price per Share Shares Outstanding 58,508,869 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+|  | 02/12/2026 | Series G-2 | $14.06B | $259.14 | $380B | Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+| Price per Share Shares Outstanding 54,254,274 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+|  | 02/12/2026 | Series G-4 | $500.78M | $233.22 | $380B | Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+| Price per Share Shares Outstanding 2,147,214 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+|  | 02/12/2026 | Series G-3 | $278.19M | $20.93 | $380B | Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+| Price per Share Shares Outstanding 13,292,515 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa, Baillie Gifford, Bessemer Venture Partners, Blackrock, Blackstone, Coatue Management, D1 Capital Partners, D.E. Shaw Ventures, Dragoneer, Fidelity, Founders Fund, General Catalyst, Gic, Goldman Sachs, Greenoaks, Iconiq Capital, Insight Partners, Jane Street Capital, Jpmorgan Chase, Lightspeed Venture Partners, Menlo Ventures, MGX, Microsoft, Morgan Stanley Investment Management, Nvidia, NX1 Capital, Qatar Investment Authority, Sands Capital, Sequoia Capital, Temasek, Towerbrook Capital Partners, Tpg, Whale Rock Capital, Xn |
+|  | 09/02/2025 | Series F-1 | $12.58B | $140.97 | $183B | Blackrock, Blackstone, Coatue Management, D1 Capital Partners, General Atlantic, General Catalyst, Gic, Goldman Sachs, Iconiq Capital, Insight Partners, Jane Street Capital, Ontario Teachers' Pension Plan, Qatar Investment Authority, Tpg, T. Rowe Price, Wcm Investment Management, Xn |
+| Price per Share Shares Outstanding 89,240,219 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Blackrock, Blackstone, Coatue Management, D1 Capital Partners, General Atlantic, General Catalyst, Gic, Goldman Sachs, Iconiq Capital, Insight Partners, Jane Street Capital, Ontario Teachers' Pension Plan, Qatar Investment Authority, Tpg, T. Rowe Price, Wcm Investment Management, Xn |
+|  | 09/02/2025 | Series F-2 | $420.02M | $20.93 | $183B | Blackrock, Blackstone, Coatue Management, D1 Capital Partners, General Atlantic, General Catalyst, Gic, Goldman Sachs, Iconiq Capital, Insight Partners, Jane Street Capital, Ontario Teachers' Pension Plan, Qatar Investment Authority, Tpg, T. Rowe Price, Wcm Investment Management, Xn |
+| Price per Share Shares Outstanding 20,069,787 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Blackrock, Blackstone, Coatue Management, D1 Capital Partners, General Atlantic, General Catalyst, Gic, Goldman Sachs, Iconiq Capital, Insight Partners, Jane Street Capital, Ontario Teachers' Pension Plan, Qatar Investment Authority, Tpg, T. Rowe Price, Wcm Investment Management, Xn |
+|  | 03/03/2025 | Series E-1 | $2.89B | $56.09 | $61.5B | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street Capital, Lightspeed Venture Partners, Menlo Ventures, Salesforce Ventures |
+| Price per Share Shares Outstanding 51,466,999 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street Capital, Lightspeed Venture Partners, Menlo Ventures, Salesforce Ventures |
+|  | 03/03/2025 | Series E-2 | $1.61B | $20.93 | $61.5B | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street Capital, Lightspeed Venture Partners, Menlo Ventures, Salesforce Ventures |
+| Price per Share Shares Outstanding 77,092,706 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street Capital, Lightspeed Venture Partners, Menlo Ventures, Salesforce Ventures |
+|  | 11/22/2024 | Series E-3 | $710.31M | $56.09 | $41.07B | Amazon |
+| Price per Share Shares Outstanding 12,664,555 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Amazon |
+|  | 11/22/2024 | Series E-5 | $1.29B | $53.28 | $41.07B | Amazon |
+| Price per Share Shares Outstanding 24,243,584 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Amazon |
+|  | 11/22/2024 | Series E-4 | $774.48M | $50.48 | $41.07B | Amazon |
+| Price per Share Shares Outstanding 15,342,945 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Amazon |
+|  | 03/27/2024 | Series D-3 | $150M | $30.00 | $18.4B | Amazon |
+| Price per Share Shares Outstanding 4,999,250 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Amazon |
+|  | 03/27/2024 | Series D-2 | $120M | $27.00 | $18.4B | Amazon |
+| Price per Share Shares Outstanding 4,443,769 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Amazon |
+|  | 10/27/2023 | Series D-1 | $1.05B | $30.00 | $14.55B | Google |
+| Price per Share Shares Outstanding 35,012,753 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Google |
+|  | 05/23/2023 | Series C-2 | $150M | $11.23 | $4.55B | Google, Menlo Ventures, Nls Ventures, Raison, Salesforce Ventures, Seven Rivers Capital, Sound Ventures, Spark Capital, Sva, Zoom Ventures |
+| Price per Share Shares Outstanding 13,361,719 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Google, Menlo Ventures, Nls Ventures, Raison, Salesforce Ventures, Seven Rivers Capital, Sound Ventures, Spark Capital, Sva, Zoom Ventures |
+|  | 05/23/2023 | Series C-1 | $296.34M | $11.23 | $4.55B | Google, Menlo Ventures, Nls Ventures, Raison, Salesforce Ventures, Seven Rivers Capital, Sound Ventures, Spark Capital, Sva, Zoom Ventures |
+| Price per Share Shares Outstanding 26,397,182 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Google, Menlo Ventures, Nls Ventures, Raison, Salesforce Ventures, Seven Rivers Capital, Sound Ventures, Spark Capital, Sva, Zoom Ventures |
+|  | 02/03/2023 | Series B | $981.5M | $11.23 | $4.02B | Caroline Ellison, Center For Emerging Risk Research, Jaan Tallinn, James Mcclave, Nishad Singh, Sam Bankman-Fried |
+| Price per Share Shares Outstanding 87,430,352 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Caroline Ellison, Center For Emerging Risk Research, Jaan Tallinn, James Mcclave, Nishad Singh, Sam Bankman-Fried |
+|  | 05/28/2021 | Series A | $124.62M | $2.57 | $623.11M | Center For Emerging Risk Research, Dustin Moskovitz, Eric Schmidt, Jaan Tallinn, James Mcclave |
+| Price per Share Shares Outstanding 48,574,420 Liquidation Pref Order 1 Liquidation Pref As Multiplier 1.0x Conversion Ratio 1.0x Dividend Rate 6.0% Cumulative Non-cumulative Participating Non-participating Participation Cap -- Key Investors Center For Emerging Risk Research, Dustin Moskovitz, Eric Schmidt, Jaan Tallinn, James Mcclave |
+
+## Anthropic IPO news and media highlights
+
+### Latest curated insights
+
+### Independent IPO news coverage
+
+## Private companies exploring an IPO
+
+See which private companies are preparing for the public market. [Register](https://auth.forgeglobal.com/signup) to get full access to the latest secondary market pricing data.
+
+Sector:Enterprise Software
+
+Subsector:Data Intelligence
+
+| Trade Metrics | Last Funding Round |
+| --- | --- |
+| Company | Forge Price | Last Matched | Round | Post-Money Valuation 3 | Price Per Share | Amount Raised |
+|  | [![Image 1: OpenAI](https://forgeglobal.com/site/assets/files/3310/openai-logo-500w2.48x48.png)](https://forgeglobal.com/openai_stock/) | [OpenAI](https://forgeglobal.com/openai_stock/) | $721.85 +$0.15 (0.02%) | $ xx.xx | Series C | $852B | $687.69 | $122B |
+|  | [![Image 2: Cohesity](https://forgeglobal.com/site/assets/files/1484/cohesity-logo-500w-1.48x48.png)](https://forgeglobal.com/cohesity_stock/) | [Cohesity](https://forgeglobal.com/cohesity_stock/) | $15.67 +$0.01 (0.06%) | $ xx.xx | Series H-1 | $4.69B | $15.66 | $27.5M |
+|  | [![Image 3: Deel](https://forgeglobal.com/site/assets/files/1577/deel-logo-500w-1.48x48.png)](https://forgeglobal.com/deel_stock/) | [Deel](https://forgeglobal.com/deel_stock/) | $38.92 +$3.21 (8.99%) | $ xx.xx | Series E | $17.3B | $38.92 | $300M |
+|  | [![Image 4: Genesys](https://forgeglobal.com/site/assets/files/5719/genesys-logo-250w.48x48.png)](https://forgeglobal.com/genesys_stock/) | [Genesys](https://forgeglobal.com/genesys_stock/) | Not available | $ xx.xx | Not available | -- | -- | -- |
+|  | [![Image 5: Envoy](https://forgeglobal.com/site/assets/files/4084/envoy-1.48x48.com)](https://forgeglobal.com/envoy_stock-1/) | [Envoy](https://forgeglobal.com/envoy_stock-1/) | Not available | $ xx.xx | Series C | $1.4B | $3.14 | $111M |
+|  | [![Image 6: Relativity](https://forgeglobal.com/site/assets/files/3303/relativity-1.48x48.com)](https://forgeglobal.com/relativity_stock/) | [Relativity](https://forgeglobal.com/relativity_stock/) | Not available | $ xx.xx | Not available | -- | -- | -- |
+
+## Private market movers
+
+Track trading activity and investor momentum across thousands of private companies. [Register](https://auth.forgeglobal.com/signup) to view last matched prices and additional transactional details.
+
+### Top Gainers
+
+|  | Company | Forge Price (6M Change) | Market Activity | Last Matched |
+| --- | --- | --- | --- | --- |
+| [![Image 7: Kalshi](https://forgeglobal.com/site/assets/files/23560/kalshi-logo-48w-thumb-1.png)](https://forgeglobal.com/kalshi_stock/) | [Kalshi](https://forgeglobal.com/kalshi_stock/) | $962.28 +$639.97 (198.56%) | High | $xxx.xx |
+| [![Image 8: SandboxAQ](https://forgeglobal.com/site/assets/files/11058/sandboxaq-logo-48w-thumb-1.png)](https://forgeglobal.com/sandboxaq_stock/) | [SandboxAQ](https://forgeglobal.com/sandboxaq_stock/) | $41.35 +$26.10 (171.15%) | High | $xxx.xx |
+| [![Image 9: SambaNova Systems](https://forgeglobal.com/site/assets/files/2630/sambanova_systems-logo-48w-thumb.png)](https://forgeglobal.com/sambanova-systems_stock/) | [SambaNova Systems](https://forgeglobal.com/sambanova-systems_stock/) | $79.37 +$48.38 (156.11%) | High | $xxx.xx |
+| [![Image 10: Stoke Space](https://forgeglobal.com/site/assets/files/215315/stoke_space-logo-48w-thumb.png)](https://forgeglobal.com/stoke-space_stock/) | [Stoke Space](https://forgeglobal.com/stoke-space_stock/) | $119.38 +$69.46 (139.14%) | Limited | $xxx.xx |
+| [![Image 11: EliseAI](https://forgeglobal.com/site/assets/files/102621/eliseai-logo-48w-thumb.png)](https://forgeglobal.com/eliseai_stock/) | [EliseAI](https://forgeglobal.com/eliseai_stock/) | $223.86 +$103.86 (86.55%) | Medium | $xxx.xx |
+
+### Artificial Intelligence (AI)
+
+|  | Company | Forge Price | Market Activity | Last Matched |
+| --- | --- | --- | --- | --- |
+| [![Image 12: OpenAI](https://forgeglobal.com/site/assets/files/3310/openai_48x48-1.png)](https://forgeglobal.com/openai_stock/) | [OpenAI](https://forgeglobal.com/openai_stock/) | $721.85 +$0.15 (0.02%) | High | $xxx.xx |
+| [![Image 13: Anthropic](https://forgeglobal.com/site/assets/files/7385/anthropic-logo-48w-thumb-1.png)](https://forgeglobal.com/anthropic_stock/) | [Anthropic](https://forgeglobal.com/anthropic_stock/) | Not available | Medium | $xxx.xx |
+| [![Image 14: Anduril](https://forgeglobal.com/site/assets/files/1148/anduril-logo-48w-thumb-1.png)](https://forgeglobal.com/anduril_stock/) | [Anduril](https://forgeglobal.com/anduril_stock/) | $124.52 -$0.78 (0.62%) | High | $xxx.xx |
+| [![Image 15: Databricks](https://forgeglobal.com/site/assets/files/1560/databricks-logo-48w-thumb-1.png)](https://forgeglobal.com/databricks_stock/) | [Databricks](https://forgeglobal.com/databricks_stock/) | $266.82 +$0.88 (0.33%) | High | $xxx.xx |
+| [![Image 16: Perplexity](https://forgeglobal.com/site/assets/files/270153/perplexity-logo-48w-thumb.png)](https://forgeglobal.com/perplexity_stock/) | [Perplexity](https://forgeglobal.com/perplexity_stock/) | $69.50 +$4.50 (6.92%) | High | $xxx.xx |

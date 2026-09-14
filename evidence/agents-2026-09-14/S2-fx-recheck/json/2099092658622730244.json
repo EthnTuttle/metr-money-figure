@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Evan_ss6/status/2099092658622730244",
+  "id": "2099092658622730244",
+  "text": "@DavidSacks great post David wow",
+  "raw_text": {
+   "text": "@DavidSacks great post David wow",
+   "display_text_range": [
+    12,
+    32
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Evan_ss6",
+   "url": "https://x.com/Evan_ss6",
+   "id": "279828819",
+   "followers": 66804,
+   "following": 1631,
+   "likes": 164477,
+   "media_count": 7742,
+   "name": "Evanss6",
+   "description": "Study, lessons in there / *NOT INVESTMENT ADVICE* Grass toucher, Hedgoooor Unbothered, objective There is no need to be upset. Very serious account",
+   "raw_description": {
+    "text": "Study, lessons in there / *NOT INVESTMENT ADVICE* Grass toucher, Hedgoooor Unbothered, objective There is no need to be upset. Very serious account",
+    "facets": []
+   },
+   "location": "The Gully",
+   "banner_url": "https://pbs.twimg.com/profile_banners/279828819/1709968182",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1544887512455188480/NTlA57Iu_200x200.jpg",
+   "joined": "Sun Apr 10 03:10:20 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://evanss6.substack.com/",
+    "display_url": "evanss6.substack.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 72,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 11:07:43 +0000 2026",
+  "created_timestamp": 1789297663,
+  "views": 3879,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:58:57Z",
+ "_http_status": 200
+}

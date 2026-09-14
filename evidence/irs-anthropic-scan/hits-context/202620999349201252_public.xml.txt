@@ -1,0 +1,1 @@
+262:        <ExplanationTxt>Other expenses include: Cloud computing credits consumed (Azure/AWS) $53,000; Claude AI subscriptions (Anthropic) $424; Venmo payments $626; Other business expenses (Amex, LinkedIn, bank fees) $122.</ExplanationTxt>

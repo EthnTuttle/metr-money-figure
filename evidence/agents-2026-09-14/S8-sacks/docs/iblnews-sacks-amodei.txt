@@ -1,0 +1,37 @@
+Title: President Trump's Advisor David Sacks, Against Dario Amodei's Views on AI
+
+URL Source: https://iblnews.org/story/president-trumps-advisor-against-dario-amodeis-views-on-ai-policy
+
+Markdown Content:
+**IBL News | New York**
+
+[David Sacks](https://x.com/DavidSacks), Co-Chair of President Trump’s Council of Advisers on Science & Technology and a tech investor, criticized Anthropic’s CEO’s views on AI in a post on X today.
+
+_“Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize,”_ said [President Trump’s advisor](https://iblnews.org/story/anthropic-and-openai-are-lobbying-regulators-in-washington-to-restrict-open-source-models).
+
+Anthropic CEO Dario Amodei recently pushed back against the idea that he’s been painting an overly pessimistic picture of artificial intelligence. _“I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over.”_
+
+_“I think by far the most accurate criticism of AI companies, including Anthropic, is that we haven’t yet delivered on our big promises to benefit the world,”_ Amodei said. _“That is totally on us, and I think it’s the criticism you should be making, instead of all this stuff about messaging and marketing.”_
+
+In response to Anthropic’s CEO, David Sacks also launched a warning, _“I have repeatedly argued for strong antitrust enforcement to keep industries competitive, especially Big Tech. If Anthropic continues toward **monopoly or duopoly status**, I would be among the first to demand those rules apply.”_
+
+President Trump’s advisor did address Anthropic’s **lobbying investment** in Washington, D.C.
+
+_“Industry groups have concentrated stakes and pour resources into influencing regulators, whereas the public’s stake is diffuse and unorganized. The revolving door between companies and the agencies that regulate them compounds the problem. Anthropic understands these dynamics: it has hired multiple senior Biden AI-policy officials and built a substantial government-affairs operation plus a network of aligned organizations to push its preferred frameworks at state and federal levels.”_
+
+On openness, _“Dario wants open models under heavier scrutiny (…) He says he has never sought a ban, but he could achieve a similar result by insisting that identical rules apply to both open and closed models. The U.S. risks becoming an island of costly closed models while the rest of the world races ahead with broader choice.”_
+
+Regarding fear of AI, _“Dario’s post assumes we have amnesia about Anthropic’s **well-orchestrated campaigns hyping AI fears**. His May 2025 claim that AI would wipe out 50 percent of entry-level knowledge jobs within five years still lacks supporting evidence fifteen months later. Similarly, Anthropic breathlessly promoted its heavily contrived “blackmail” study on 60 Minutes. Yet Dario blames public negativity on a long-standing loss of trust in institutions rather than his own messaging.”_
+
+> Some thoughts on Dario’s post:
+> 
+> 
+> 1. Dario does not actually address Gavin Baker’s account of what he said – something he could easily deny if it were inaccurate.
+> 
+> 
+> 2. Dario claims his critics live in a “bubble” where all regulation equals regulatory capture. He calls this an overly… [https://t.co/Pz3HFfk3Uy](https://t.co/Pz3HFfk3Uy)
+> 
+> 
+> — David Sacks (@DavidSacks) [August 17, 2026](https://x.com/DavidSacks/status/2089227290769080656?ref_src=twsrc%5Etfw)
+
+IBL News is funded by the New York-based, family-owned company[ibl.ai](https://ibl.ai/). Our stories adhere to the highest ethical standards in journalism and are available to news syndication agencies.

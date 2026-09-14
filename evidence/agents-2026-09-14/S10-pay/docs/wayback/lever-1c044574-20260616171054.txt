@@ -1,0 +1,48 @@
+
+METR - Member of Technical Staff
+Member of Technical Staff
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+NOTE:
+ If you previously applied to one of our Research Engineer/Scientist, Machine Learning Research Engineer/Scientist, or Research Stream Lead roles, 
+you
+do not need to apply again
+. We are merging all inbound applications for researcher roles into this one.
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks and mitigations, with a specific focus on threats related to autonomy, AI R&D automation, and alignment. 
+We believe it is robustly good for civilization to have a clearer understanding of what dangers AI systems pose, and 
+we are extremely excited to find ambitious, excellent people to join our team and tackle one of the most important challenges of our time.
+What We're Looking For
+METR hosts many research streams. Right now, we're primarily hiring for the Evaluation Execution Stream, which focuses on productionizing, improving, and executing our various evaluations. We streamline our processes and build common infrastructure to scale our ability to continually run our most up-to-date evaluations on the latest models. This stream is focused much more on research execution and software engineering skills (see descriptions below), as opposed to research science.
+Research Execution
+You are an experienced executor/contributor; you are familiar with patterns of successful and unsuccessful execution in frontier ML research. You are undaunted by "I've never done this before" or even "no-one has done this before".
+You are creative, ambitious and entrepreneurial. You work fast and are highly responsive and available. You can juggle many balls when it is useful.
+Software Engineering
+You balance rapid prototyping with the creation of maintainable, scalable systems and make sound technical decisions.
+You lead large projects from ideation to delivery, balancing innovative ML solutions with reliable, high-quality code.
+You set high standards for system architecture, code quality, and maintainability, influencing broad software practices across the organization.
+$285,548 - $503,116 a year
+For very experienced and exceptional researchers, we are open to exploring paying much higher than this stated range.
+The listed range applies to the base salary for this role. METR also has a host of benefits:
+- The office: Catered lunch and dinner daily; in-office gym and shower
+- Relocation support: Stipend for moving to the Bay Area⁠
+- Time-off and leave: Unlimited PTO and 21-week parental leave for new parents
+- Commuter benefit: Monthly transit/parking stipend and an annual Uber budget
+- Professional development benefit: for training, courses, conferences, and AI safety education⁠
+- Mental health benefit: for therapy, medication, and other mental health expenses⁠
+- Wellness benefit: for gym memberships and other wellness expenses⁠
+- Work equipment benefit: for home office and workstation equipment⁠ expenses
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters. 
+Hybrid Requirements:
+ Our technical team members are in our office in Berkeley 3-5 days/week. Please let us know in your application if this is a constraint. If you lack US work authorization and would like to work in-person (strongly preferred), we can likely sponsor a cap-exempt H-1B visa for this role
+.
+We encourage you to apply even if your background may not seem like the perfect fit! We would rather review a larger pool of applications than risk missing out on a promising candidate for the position.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

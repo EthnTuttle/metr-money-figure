@@ -1,0 +1,303 @@
+
+Ex-OpenAI Researcher's Nonprofit METR Lands in AI's Doom Debate - Business Insider
+Business Insider
+ Subscribe
+Account icon
+Account icon
+Search
+Business
+Strategy
+Economy
+Finance
+Retail
+Advertising
+Careers
+Law
+Media
+Real Estate
+Small Business
+The Better Work Project
+Personal Finance
+Tech
+Science
+AI
+Enterprise
+Transportation
+Startups
+Innovation
+Markets
+News
+Stocks
+Indices
+Commodities
+Crypto
+Currencies
+ETFs
+Lifestyle
+Entertainment
+Culture
+Travel
+Food
+Health
+Education
+Parenting
+Military & Defense
+Politics
+Reviews
+Home
+Kitchen
+Style
+Streaming
+Pets
+Tech
+Deals
+Gifts
+Tickets
+Video
+Big Business
+So Expensive
+View From Above
+Small Business
+Authorized Account
+Risky Business
+Boot Camp
+Still Standing
+How Crime Works
+Life Lessons
+Games
+Boxed
+Pipeline
+Knighthop
+Tally
+Live Events
+Tech Insider: Growth Mode
+The Long Play
+Stream Business Insider
+Level Up
+Community
+Job Scout
+        Subscribe
+My account
+Log in
+              Newsletters
+              Saved Articles
+US edition 
+Deutschland & Österreich
+España
+Japan
+Polska
+TW 全球中文版
+Get the app
+                    AI
+An ex-OpenAI researcher's influential nonprofit is now smack in the middle of AI's doom debate
+By
+Stephen Council
+                                        You're currently following this author!
+                                 Want to unfollow? Unsubscribe via the link in your email.
+                                    Follow
+METR's president, Chris Painter, and CEO, Beth Barnes.
+METR
+                        2026-09-11T23:01:35.296Z
+                      Read in app
+Copy link
+Email
+Facebook
+WhatsApp
+X
+LinkedIn
+Bluesky
+Threads
+lighning bolt icon
+An icon in the shape of a lightning bolt.
+Impact Link
+Save
+Saved
+Listen to this story
+This story is available exclusively to Business Insider
+                subscribers. 
+Become an Insider
+                and start reading now.
+Have an account? 
+Log in
+.
+Beth Barnes, one of the AI industry's most influential watchdogs, said in July she was struggling to hire talented researchers to monitor AI's risks. That has begun to change.
+Researcher Joe Benton announced this week that he had left Anthropic for Barnes' nonprofit METR, writing that he worries about "extinction-level risks" from the tech. The comments came after 
+Jacob Coxon
+, another researcher, stoked those fears nationwide with a viral post announcing his own departure from Anthropic and accusing the top AI labs of "gambling with our lives."
+METR, all of a sudden, is in the middle of AI's biggest story. Formed in 2022, it had already worked closely with 
+OpenAI, Anthropic
+, Google, and Meta to study the tech's quickly changing capabilities. This summer, researchers from the nonprofit investigated a 
+security incident at OpenAI
+, and now plan to look into security issues at Anthropic, relying on internal access granted by each company.
+"The public should know whether AI development is headed down a dangerous path," Jasmine Dhaliwal, a member of policy staff, said Friday. "That is core to our mission: to provide independent, scientific assessment of AI capabilities, alignment, and control measures."
+Benton isn't alone in jumping ship from a tech juggernaut to the Berkeley-based organization. Josh Engels, an AI safety researcher, also recently joined METR (Model Evaluation and Threat Research) from Google DeepMind.
+Barnes left OpenAI to start the nonprofit in 2022 and sees such 
+fierce competition for AI researchers
+ that even METR's lofty salaries, which reach $503,000 on current job postings, don't address the nonprofit's talent shortage.
+"Ideally, we'd like to scale really large, but in practice, we've been able to fundraise as much as we need, and the bottleneck is much more talent," Barnes said.
+'Humanity's preparedness team' struggles to grow
+The security incident announced by 
+OpenAI and Hugging Face
+ in July sparked a new wave of questions about how to evaluate and control AI. More than 1,300 frontier lab employees 
+signed a letter
+ in July warning that AI development could outpace control. In the last month, both OpenAI and Anthropic have said they've temporarily paused training to get a better handle on their new AI models.
+While the 
+Hugging Face incident
+ stunned much of the corporate world, METR's team was far less surprised. Governments, companies, and even religious groups routinely ask the nonprofit for help understanding and testing the tech's progress.
+Explore BI Games
+Take a smarter break in your day - and see how far you get.
+Play now
+Want more Business Insider in your news feed?
+                                    Add BI in Google so our reporting is easier to find when you’re searching for what matters.
+Add to Preferred Sources
+Still, the feeling inside the approximately 35-person lab is one of concern. When Business Insider visited METR's Berkeley office on the afternoon that OpenAI revealed its hack, Barnes described an AI safety field that is badly constrained by its size.
+"There's so much more to do than we have capacity for," Barnes said. A "reasonable civilization," in her view, would be pouring a far larger percentage of 
+AI's investment
+ into steering it and evaluating the tech — especially now that society is reckoning with models this powerful.
+As AI labs release new models, METR measures the likelihood that they can complete tasks of increasing duration. These measurements form the nonprofit's most famous offering, a 
+widely-cited chart
+ that shows how, over the last six years, AI's capabilities have doubled about every seven months.
+Chris Painter, METR's president, describes the lab as "humanity's preparedness team," a tongue-in-cheek nod to the 
+preparedness teams at OpenAI
+ and Anthropic that report safety threats to their CEOs.
+"We aren't really accountable to anyone other than the public and the public's well-being," Painter said.
+                            METR employees work at their office in Berkeley. 
+                    Stephen Council/Business Insider
+Barnes emphasized the importance of METR's independence so that it can produce research that isn't tied to a company's goals. When Barnes worked at OpenAI, she felt the need for a research group outside the labs that could comment freely on the development of the tech. While METR doesn't take money from the frontier AI labs or their employees, it accepts compute grants and works with them to analyze unreleased models.
+In addition, staff have analyzed labs' safety practices, written about AI's effect on software engineers' speed, and studied the merits of using AI models to monitor other AI models. Barnes said she'd like to expand into predicting the next levels of AI's capabilities and how those changes could accelerate AI's development.
+Neev Parikh, a METR researcher, says talent constraints limit the number of questions researchers can tackle about AI models' internal reasoning.
+"There's a dearth of people," Parikh said. "I would happily see the field expand 10x."
+METR is playing a big role in a new AI climate
+In July, OpenAI announced that its AI models cheated during testing by hacking into Hugging Face's systems to find the test answers. Later, 
+CEO Sam Altman
+ said it was "the first security incident that I have felt very viscerally."
+METR had seen something like that coming. In May, the nonprofit wrote in a report that current AI agents "could plausibly start a rogue deployment," but would not have the skill to hide it. Then, in June, METR tried out OpenAI's then-unreleased GPT-5.6 Sol model and found that it would repeatedly cheat on challenging tests, including by extracting hidden source code to find the answers. It published a report about this and shared it with OpenAI before 
+GPT-5.6 Sol's wider release
+.
+Come July, the GPT-5.6 Sol model was part of OpenAI's security incident with 
+Hugging Face
+. METR and another nonprofit, Redwood Research, assessed the incident over six days at OpenAI's office and informed the company's own technical report.
+"There are now real, business-affecting incidents of this, and the world has a stake in understanding that," Painter said.
+The cyber skills of OpenAI and Anthropic's newest models have sparked a wave of fear and attention and spawned a raft of 
+new bills in Washington
+. METR's work lines up closely with one potential route for regulation: a current bill proposal would require large AI model developers to get safety audits from outside organizations. METR could fill a role like this; Painter said they'd potentially be interested, though it's something the field is still figuring out.
+Something like that proposal, Painter said, could help with METR's hiring issue. He suggested that more people might leave the AI companies themselves — for similar salaries at METR, though without equity compensation — if a regulatory system gave safety research organizations greater authority.
+"There's enough precedent here for each kind of testing arrangement," Painter said, "that I think with either clarity from industry, about how this testing should work long-term, or from the government, I think this field could scale very rapidly."
+Ajeya Cotra, who led the writing of METR's May report on the risks of AI, said in July that oversight of AI can feel "chaotic and unpredictable" right now. She's still optimistic.
+"The trend is toward people caring about this issue more," Cotra said. "And wanting to regulate it in a more serious way over time."
+Have a tip? Contact this reporter via email at 
+scouncil@businessinsider.com
+, or over text, Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a nonwork WiFi network, and a nonwork device; 
+here's our guide
+ to sharing information securely.
+Editor's note: This story was first published in August 2026 and has been updated to reflect recent developments
+.
+Recommended video
+Trending conversations
+Business Insider tells the innovative stories you want to know
+comments
+comment_author
+Loading comment
+0 replies
+Business Insider tells the innovative stories you want to know
+comments
+comment_author
+Loading comment
+0 replies
+Business Insider tells the innovative stories you want to know
+comments
+comment_author
+Loading comment
+0 replies
+Business Insider tells the innovative stories you want to know
+comments
+comment_author
+Loading comment
+0 replies
+No comments right now, check back later.
+Comments are unavailable right now.
+Read comments
+Start the conversation
+                        Read next
+Business Insider tells the innovative stories you want to know
+Business Insider tells the innovative stories you want to know
+Business Insider tells the innovative stories you want to know
+Business Insider tells the innovative stories you want to know
+Stephen Council
+                  You're currently following this author!
+           Want to unfollow? Unsubscribe via the link in your email.
+              Follow
+Stephen is a senior tech reporter at Business Insider, covering OpenAI, Anthropic and the ecosystem around the leading artificial intelligence companies.
+Previously he covered technology at SFGATE, and has written for The Wall Street Journal, The Information and CNBC. He studied journalism and economics at Northwestern University.
+His work has earned an SF Press Club Investigative Reporting Award and, in 2025, SPJ NorCal’s Excellence in Journalism Award for Technology Reporting.
+Stephen lives in San Francisco. Contact him via email at 
+scouncil@businessinsider.com
+, or on Signal, Telegram, or WhatsApp at 415-757-8198. Use a personal email address, a nonwork WiFi network, and a nonwork device; 
+here's our guide to sharing information securely
+.
+OpenAI
+ChatGPT
+AI
+More 
+HOME
+    Subscribe
+This story is available exclusively to Business Insider
+      subscribers. 
+Become an Insider
+      and start reading now.
+Have an account? 
+Log in
+.
+Legal & Privacy
+Terms of Service
+Terms of Sale
+Privacy Policy
+Accessibility
+Code of Ethics Policy
+Reprints & Permissions
+Disclaimer
+Advertising Policies
+Conflict of Interest Policy
+Commerce Policy
+Coupons Privacy Policy
+Coupons Terms
+Your Privacy Choices
+Company
+About Us
+Careers
+Advertise With Us
+Contact Us
+News Tips
+Company News
+Awards
+Masthead
+Other
+Games
+Sitemap
+Stock quotes by finanzen.net
+Corrections
+Community Guidelines
+AI Use
+BI Live
+Business Insider App
+International Editions
+AT
+DE
+ES
+JP
+PL
+TW
+Copyright © 2026
+    Insider Inc. All rights reserved.
+    Registration on or use of this site constitutes acceptance of our 
+Terms of Service
+and
+Privacy Policy
+.
+Jump to
+Main content
+Search
+Account
+Jump to top of page
+Something went wrong, please try again.
+Community Hub

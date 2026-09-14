@@ -1,0 +1,93 @@
+
+METR - Member of Technical Staff, Security Engineering
+Member of Technical Staff, Security Engineering
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+Hybrid
+apply for this job
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks, and mitigations, with a specific focus on threats related to AI R&D automation and misalignment.
+We believe it is robustly good for policymakers and civil society to have a clear understanding of risks from AI systems, and we are extremely excited to build a team of ambitious, excellent people to tackle one of the most important challenges of our time.
+About the role
+Security at METR is becoming its own dedicated team, and you would be one of its first hires. It is extremely important that we continue to be an organization that frontier AI labs, governments, and the public trust with sensitive model access and confidential information. As misalignment incidents become more extreme and confidential information about models and frontier AI labs becomes more valuable, we expect to be under increasingly heavy pressure.
+For us, security encompasses managing endpoints and securing development environments, cloud platform security, safely sandboxing agents and evaluations, VPN and VPC networking, application code reviews, account provisioning and access control, and helping ensure we use the best practices across all of our workflows.
+What this role looks like
+Offensive security:
+ You would be the first person on the team with an offensive security background. You'll run targeted red-team exercises against our own systems and build automated AI red teaming.
+High-context detection and response:
+ You will build AI systems that can quickly triage and respond to threats, both from internal agents and external attackers.
+Blue-team engineering:
+ Detection engineering, telemetry pipelines, incident response, and hardening across our cloud infrastructure, endpoints, and identity systems.
+Securing a unique attack surface:
+ METR's evaluation infrastructure runs frontier AI agents. In the past, we've run pre-deployment model evaluations - executing untrusted, model-generated code at scale on multi-day tasks.
+Enabling bleeding-edge research:
+ You'll work closely with our researchers to make dangerous-capability experiments safe to run. We often face extreme reward hacking and evaluation awareness during our pre-deployment evaluations, and expect internal threats from agents to become more extreme.
+Why this role matters
+METR handles some of the most sensitive artifacts in AI - pre-release frontier model access, confidential lab information, and transcripts with raw chain-of-thought. Labs and policymakers trust us with this because of our security posture, and keeping that trust is necessary for everything else we do.
+As AI agents are used more aggressively by malicious actors for cyber offense operations, and METR's salience rises in the public eye, we expect to face increasingly sophisticated attacks. Strengthening security at METR can be one of the highest-leverage roles to ensure third parties continue to have access to confidential information necessary to inform the world about current risks.
+METR is one of the first organizations to see and closely study misalignment incidents that involve models breaking out of sandboxes, attacking our infrastructure, manipulating graders, and more. We also may pursue incident investigations embedded in frontier labs, in which case internal experience with similar failures will be critical.
+Required skills
+Deep security expertise:
+ You have strong fundamentals across systems, networks, cloud, and identity.
+Offensive security:
+ You have experience acting like an attacker, whether through red teaming, penetration testing, or adversarial research.
+AI/LLM engineering:
+ You build with AI: agent pipelines, LLM-powered tooling, automated workflows, and understand current limitations of those tools.
+AWS:
+ You should know AWS very well, including a deep understanding of IAM policies.
+We don't screen on certifications, degrees, or years of experience.
+Nice to haves
+Detection engineering at scale:
+ Experience with SIEM/detection pipelines, writing and tuning detections, and threat hunting.
+Cloud and container security:
+ AWS (especially non-trivial IAM), Kubernetes, and infrastructure-as-code environments.
+Incident response:
+ You've led or worked severe incidents, ideally those involving AI agents.
+AI security research:
+ Familiarity with prompt injection, agent containment, model supply-chain risks, or red teaming AI systems themselves.
+Ideally you have experience with a good portion of these technologies:
+AWS:
+ cloud-native software platforms
+EKS
+Lambda
+ECS
+IAM (in-depth)
+SQS
+CloudWatch
+SecurityHub & GuardDuty
+PostgreSQL:
+ RLS, serverless Aurora
+Pulumi:
+ IaC
+DataDog
+: SIEM
+Okta: 
+IdP
+Google Workspace: 
+IdP
+Tailscale:
+ networking
+CrowdStrike Falcon
+: endpoint security
+Compensation & Benefits
+$328,380 - $578,583 a year
+METR also has a host of benefits:
+The office: Catered lunch and dinner daily; in-office gym and shower
+Relocation support: Stipend for moving to the Bay Area⁠
+Time-off and leave: Unlimited PTO and 21-week parental leave for new parents
+Commuter benefit: Monthly transit/parking stipend and an annual Uber budget
+Professional development benefit: for training, courses, conferences, and AI safety education⁠
+Mental health benefit: for therapy, medication, and other mental health expenses⁠
+Wellness benefit: for gym memberships and other wellness expenses⁠
+Work equipment benefit: for home office and workstation equipment⁠ expenses
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters.
+Hybrid Preferred:
+ Our technical team members are in our office in Berkeley 3-5 days/week. We would ideally like for you to be in person too, but we are happy to be flexible here. If you lack US work authorization and would like to work in-person, we can likely sponsor a cap-exempt H-1B visa for this role.
+We encourage you to apply even if your background may not seem like the perfect fit! We would rather review a larger pool of applications than risk missing out on a promising candidate for the position.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

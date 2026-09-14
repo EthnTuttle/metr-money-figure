@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/lindayaX/status/2099157503212658853",
+  "id": "2099157503212658853",
+  "text": "@DavidSacks spot on! 🎯",
+  "raw_text": {
+   "text": "@DavidSacks spot on! 🎯",
+   "display_text_range": [
+    12,
+    22
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "lindayaX",
+   "url": "https://x.com/lindayaX",
+   "id": "548263294",
+   "followers": 842094,
+   "following": 1648,
+   "likes": 18774,
+   "media_count": 521,
+   "name": "Linda Yaccarino",
+   "description": "CEO of eMed Population Health, Mom, foodie, fashion enthusiast, @penn_state alum, former CEO of X",
+   "raw_description": {
+    "text": "CEO of eMed Population Health, Mom, foodie, fashion enthusiast, @penn_state alum, former CEO of X",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/548263294/1755530026",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2014074990279233536/5k1SyejA_200x200.jpg",
+   "joined": "Sun Apr 08 08:36:04 +0000 2012",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 8,
+  "likes": 426,
+  "bookmarks": 2,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 15:25:23 +0000 2026",
+  "created_timestamp": 1789313123,
+  "views": 10509,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:39Z",
+ "_http_status": 200
+}

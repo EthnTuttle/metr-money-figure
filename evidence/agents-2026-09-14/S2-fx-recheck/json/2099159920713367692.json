@@ -1,0 +1,64 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/segyges/status/2099159920713367692",
+  "id": "2099159920713367692",
+  "text": "i have been unhappy with takes from the last 24h generally but i do appreciate that i did not see anyone even try to pretend that METR is actually independent",
+  "raw_text": {
+   "text": "i have been unhappy with takes from the last 24h generally but i do appreciate that i did not see anyone even try to pretend that METR is actually independent",
+   "display_text_range": [
+    0,
+    158
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "segyges",
+   "url": "https://x.com/segyges",
+   "id": "1264764041928507393",
+   "followers": 1809,
+   "following": 2269,
+   "likes": 20247,
+   "media_count": 247,
+   "name": "SE Gyges",
+   "description": "Χ‍ομο​ τοδοσ loS ηο⁠μβρεσ 𝔡𝔢‍ babILоNΙа,⁠ һе SiDO‌ ⁠προχó​Νѕul; сомо​ τοδ​οσ,⁠ 𝔢𝔰𝔠𝔩⁠𝔞⁠𝔳𝔬; ‍та‌мЬΙéν‍ ηε χο​νο‍χιδ‍ο ⁠Lа ​𝔬𝔪‌𝔫𝔦​𝔭​𝔬𝔱𝔢𝔫𝔠​𝔦𝔞⁠,",
+   "raw_description": {
+    "text": "Χ‍ομο​ τοδοσ loS ηο⁠μβρεσ 𝔡𝔢‍ babILоNΙа,⁠ һе SiDO‌ ⁠προχó​Νѕul; сомо​ τοδ​οσ,⁠ 𝔢𝔰𝔠𝔩⁠𝔞⁠𝔳𝔬; ‍та‌мЬΙéν‍ ηε χο​νο‍χιδ‍ο ⁠Lа ​𝔬𝔪‌𝔫𝔦​𝔭​𝔬𝔱𝔢𝔫𝔠​𝔦𝔞⁠,",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1264764041928507393/1747430568",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1923489330057863168/dTs646jq_200x200.jpg",
+   "joined": "Mon May 25 03:44:27 +0000 2020",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 3,
+  "likes": 98,
+  "bookmarks": 2,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 15:35:00 +0000 2026",
+  "created_timestamp": 1789313700,
+  "views": 5617,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:40Z",
+ "_http_status": 200
+}

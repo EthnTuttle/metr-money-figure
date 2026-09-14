@@ -1,0 +1,64 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/nobbins2001/status/2099127704368910465",
+  "id": "2099127704368910465",
+  "text": "It’s notable that 10 hours later this post has 3M views and ~35K likes.  The former AI Czar with a popular podcast and 1.7M followers on X who posts frequently.\n\nYet some kid with 2 months of work experience at Anthropic, a half dozen followers and no prior posts managed to get over 100M views and 10x the likes in the same time.  And we’re expected to believe this happened organically.\n\nGive me a break.",
+  "raw_text": {
+   "text": "It’s notable that 10 hours later this post has 3M views and ~35K likes.  The former AI Czar with a popular podcast and 1.7M followers on X who posts frequently.\n\nYet some kid with 2 months of work experience at Anthropic, a half dozen followers and no prior posts managed to get over 100M views and 10x the likes in the same time.  And we’re expected to believe this happened organically.\n\nGive me a break.",
+   "display_text_range": [
+    0,
+    406
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "nobbins2001",
+   "url": "https://x.com/nobbins2001",
+   "id": "2222493463",
+   "followers": 103,
+   "following": 416,
+   "likes": 17492,
+   "media_count": 66,
+   "name": "Rust Cohle",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1521897656448036864/S-8QVXAc_200x200.jpg",
+   "joined": "Sat Nov 30 04:57:54 +0000 2013",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 5,
+  "retweets": 14,
+  "likes": 439,
+  "bookmarks": 13,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 13:26:59 +0000 2026",
+  "created_timestamp": 1789306019,
+  "views": 14185,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:12Z",
+ "_http_status": 200
+}

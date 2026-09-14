@@ -1,0 +1,152 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Yixiong_Hao/status/2099144006441824658",
+  "id": "2099144006441824658",
+  "text": "@DavidSacks ‘Hey Claude, come up what whatever bullshit to make Anthropic and the AI safety people look bad because I don’t like them 😡 grrr’",
+  "raw_text": {
+   "text": "@DavidSacks ‘Hey Claude, come up what whatever bullshit to make Anthropic and the AI safety people look bad because I don’t like them 😡 grrr’ https://t.co/f5CCxJHKsx",
+   "display_text_range": [
+    12,
+    141
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "media",
+     "indices": [
+      142,
+      165
+     ],
+     "id": "2099144002541096960",
+     "display": "pic.x.com/f5CCxJHKsx",
+     "original": "https://t.co/f5CCxJHKsx",
+     "replacement": "https://x.com/Yixiong_Hao/status/2099144006441824658/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      142,
+      165
+     ],
+     "id": "2099144002578870273",
+     "display": "pic.x.com/f5CCxJHKsx",
+     "original": "https://t.co/f5CCxJHKsx",
+     "replacement": "https://x.com/Yixiong_Hao/status/2099144006441824658/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Yixiong_Hao",
+   "url": "https://x.com/Yixiong_Hao",
+   "id": "1642829110748803072",
+   "followers": 1039,
+   "following": 1846,
+   "likes": 2952,
+   "media_count": 182,
+   "name": "Yixiong Hao",
+   "description": "trying to make AI go well. grantmaker, head of strategy @secondlookxlab. Past: @GraySwanAI, @cais, @uchicagoxlab, http://aisi.dev. @gtcomputing",
+   "raw_description": {
+    "text": "trying to make AI go well. grantmaker, head of strategy @secondlookxlab. Past: @GraySwanAI, @cais, @uchicagoxlab, https://t.co/pJCxjv8eM3. @gtcomputing",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       114,
+       137
+      ],
+      "original": "https://t.co/pJCxjv8eM3",
+      "replacement": "http://aisi.dev",
+      "display": "aisi.dev"
+     }
+    ]
+   },
+   "location": "Bay Area (when i graduate)",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1642829110748803072/1775541220",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2099385586486521856/stiL-4Xm_200x200.jpg",
+   "joined": "Mon Apr 03 09:59:41 +0000 2023",
+   "protected": false,
+   "website": {
+    "url": "https://yixiong.dev/",
+    "display_url": "yixiong.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 21,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 14:31:46 +0000 2026",
+  "created_timestamp": 1789309906,
+  "possibly_sensitive": false,
+  "views": 1432,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2099144002541096960",
+     "url": "https://pbs.twimg.com/media/HSGoWTvakAAb9-g.jpg?name=orig",
+     "width": 947,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "id": "2099144002578870273",
+     "url": "https://pbs.twimg.com/media/HSGoWT4a8AEBEmm.jpg?name=orig",
+     "width": 947,
+     "height": 2048
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2099144002541096960",
+     "url": "https://pbs.twimg.com/media/HSGoWTvakAAb9-g.jpg?name=orig",
+     "width": 947,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "id": "2099144002578870273",
+     "url": "https://pbs.twimg.com/media/HSGoWT4a8AEBEmm.jpg?name=orig",
+     "width": 947,
+     "height": 2048
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2099144006441824658/HSGoWTvakAAb9-g/HSGoWT4a8AEBEmm",
+     "webp": "https://mosaic.fxtwitter.com/webp/2099144006441824658/HSGoWTvakAAb9-g/HSGoWT4a8AEBEmm"
+    }
+   }
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:25Z",
+ "_http_status": 200
+}

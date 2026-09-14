@@ -1,0 +1,124 @@
+Title: Redwood Research
+
+URL Source: https://www.redwoodresearch.org/team
+
+Markdown Content:
+[![Image 1: Redwood Research](https://www.redwoodresearch.org/redwood_logo.svg)](https://www.redwoodresearch.org/)
+
+*   [Home](https://www.redwoodresearch.org/)
+*   [Research](https://www.redwoodresearch.org/research)
+*   [Team](https://www.redwoodresearch.org/team)
+*   [Careers](https://www.redwoodresearch.org/careers)
+*   [Blog](https://www.redwoodresearch.org/blog)
+
+*   [Home](https://www.redwoodresearch.org/)
+*   [Research](https://www.redwoodresearch.org/research)
+*   [Team](https://www.redwoodresearch.org/team)
+*   [Careers](https://www.redwoodresearch.org/careers)
+*   [Blog](https://www.redwoodresearch.org/blog)
+
+## Our Team
+
+Meet the people dedicated to AI safety at Redwood Research.
+
+## Executive Team
+
+![Image 2: Buck Shlegeris](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fbuck.jpeg&w=3840&q=75)
+
+### Buck Shlegeris
+
+Chief Executive Officer
+
+![Image 3: Ryan Greenblatt](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fryan.png&w=3840&q=75)
+
+### Ryan Greenblatt
+
+Chief Scientist
+
+## Technical Staff
+
+![Image 4: Emery Cooper](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fcaspar_oesterheld.jpg&w=3840&q=75)
+
+### Emery Cooper
+
+![Image 5: James Lucassen](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fjames.jpeg&w=3840&q=75)
+
+### James Lucassen
+
+![Image 6: Adam Kaufman](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fadam.jpeg&w=3840&q=75)
+
+### Adam Kaufman
+
+![Image 7: Keshav Shenoy](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fkeshav.jpeg&w=3840&q=75)
+
+### Keshav Shenoy
+
+![Image 8: Alex Kastner](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Falex_kastner.jpeg&w=3840&q=75)
+
+### Alex Kastner
+
+![Image 9: Vivek Hebbar](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fvivek.png&w=3840&q=75)
+
+### Vivek Hebbar
+
+![Image 10: Caspar Oesterheld](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Femery_cooper.png&w=3840&q=75)
+
+### Caspar Oesterheld
+
+![Image 11: Marshall Richards](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fmarshall.png&w=3840&q=75)
+
+### Marshall Richards
+
+![Image 12: Alexa Pan](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Falexa.jpg&w=3840&q=75)
+
+### Alexa Pan
+
+![Image 13: Tyler Tracy](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Ftyler.png&w=3840&q=75)
+
+### Tyler Tracy
+
+![Image 14: Linh Chi Nguyen](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Flinh_chi_nyugen.jpg&w=3840&q=75)
+
+### Linh Chi Nguyen
+
+![Image 15: Lukas Finnveden](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Flukas.png&w=3840&q=75)
+
+### Lukas Finnveden
+
+![Image 16: Eric Gan](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Feric.jpeg&w=3840&q=75)
+
+### Eric Gan
+
+![Image 17: Alex Mallen](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Falex.png&w=3840&q=75)
+
+### Alex Mallen
+
+![Image 18: Alek Westover](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Falek.png&w=3840&q=75)
+
+### Alek Westover
+
+![Image 19: Aryan Bhatt](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Faryan.png&w=3840&q=75)
+
+### Aryan Bhatt
+
+![Image 20: Aghyad Deeb](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Faghyad.jpg&w=3840&q=75)
+
+### Aghyad Deeb
+
+![Image 21: Julian Stastny](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fjulian.png&w=3840&q=75)
+
+### Julian Stastny
+
+## Board of Directors
+
+![Image 22: Buck Shlegeris](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fbuck.jpeg&w=3840&q=75)
+
+### Buck Shlegeris
+
+![Image 23: Nate Thomas](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fnate.png&w=3840&q=75)
+
+### Nate Thomas
+
+![Image 24: Ammon Bartram](https://www.redwoodresearch.org/_next/image?url=%2Fheadshots%2Fammon.webp&w=3840&q=75)
+
+### Ammon Bartram

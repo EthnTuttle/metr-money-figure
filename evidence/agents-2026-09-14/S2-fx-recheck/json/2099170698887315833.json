@@ -1,0 +1,78 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/GavinSBaker/status/2099170698887315833",
+  "id": "2099170698887315833",
+  "text": "Wild 24 hours for AI and lots of different proposals have been made.\n\nTLDR; the only *tangible* new fact is that OpenAI and Anthropic are going to have embedded 3rd party evaluators from unknown organizations with Dario floating METR as a possibility. Having 3rd party evaluators is smart as there is no Section 230 style liability shield for model outputs and showing a “duty of care” will be important in future litigation. Several internet companies might have gone bankrupt without Section 230 so limiting liability really matters.\n\nThere are minimal investment implications from this single new fact, but I do think that for anyone who wants a “smoother for longer” cycle then most constraints are good: wafers, watts, real rates and spreads. Excessive regulation is a different matter but I don’t think we are anywhere close to this even if the vector changed over the last 24 hours.\n\nTo summarize the events: \n\nDario made the most maximalist proposal of the weekend: embedded 3rd party evaluators, a national regulatory regime for models beyond a certain capability/ingredient threshold, a broad international regulatory pact between democracies, stricter limits on compute/distillation for China and then a different international regulatory regime that encompasses China. Before there is a national regulatory regime, he wants a Sherman act waiver so that Anthropic can safely coordinate with OpenAI and other frontier labs without antitrust fears. TBF, this latest proposal is much less maximalist than some of his prior proposals like “Policy on the AI Exponential,” where he advocated for an FAA for AI. I believe he is sincere in his beliefs. And despite all the protestations, all of this would also probably be good for his business over the long-term.\n\nSam agreed that embedded 3rd party evaluators were a good idea and stated they would implement them. Again, this is smart as should help limit future liability.\n\nElon said “Dario is right” and later specified that “Dario is right that there should be some oversight. Peer review of AI by competitors is the right way to start this off.” This would be a MPAA like self-regulatory structure for AI with regular calls between the labs plus a process where each new model is evaluated for safety by competitors for a 1-2 week period before being released. That is *wildly* different from Dario’s proposal and in-line with what David Sacks has been proposing. Elon also stated that nothing was going to slow down open-weight models.\n\nDemis said that Dario’s essay was a “step in the right direction.” Dario also said that he was also open to Demis’ idea of a FINRA like self-regulatory structure as part of his proposal. \n\nDavid Sacks had a thoughtful post where he said that Dario and Sam should pace unilaterally, called the antitrust waiver a cartel request and denied that METR was truly independent given their ties to Anthropic.\n\nSriram Krishnan, former White House AI advisor, noted that it would be important to have the 3rd party evaluators come from independent organizations that are not affiliated with any lab, which is basically an indirect statement about the relationship between METR and Anthropic which Sacks was explicit about.\n\nClem from Hugging Face said they were open to being a neutral 3rd party evaluator, which is interesting especially if Jensen was consulted before that post.\n\nAlexander Wang from Meta noted that alignment would be an increasing focus going forward.\n\nAn executive order seems likely after all this and the language in this EO is going to be really important. It is possible to democratize and distribute AI broadly and safely without centralizing it in the hands of a few corporations who might each become more powerful than any single government.\n\nI do not want a few humans in control of intelligence.\n\nI want us all to have our own intelligences that reflect our own values and human variation in all of its richness.\n\nIntelligence distribution over intelligence centralization FTW.",
+  "raw_text": {
+   "text": "Wild 24 hours for AI and lots of different proposals have been made.\n\nTLDR; the only *tangible* new fact is that OpenAI and Anthropic are going to have embedded 3rd party evaluators from unknown organizations with Dario floating METR as a possibility. Having 3rd party evaluators is smart as there is no Section 230 style liability shield for model outputs and showing a “duty of care” will be important in future litigation. Several internet companies might have gone bankrupt without Section 230 so limiting liability really matters.\n\nThere are minimal investment implications from this single new fact, but I do think that for anyone who wants a “smoother for longer” cycle then most constraints are good: wafers, watts, real rates and spreads. Excessive regulation is a different matter but I don’t think we are anywhere close to this even if the vector changed over the last 24 hours.\n\nTo summarize the events: \n\nDario made the most maximalist proposal of the weekend: embedded 3rd party evaluators, a national regulatory regime for models beyond a certain capability/ingredient threshold, a broad international regulatory pact between democracies, stricter limits on compute/distillation for China and then a different international regulatory regime that encompasses China. Before there is a national regulatory regime, he wants a Sherman act waiver so that Anthropic can safely coordinate with OpenAI and other frontier labs without antitrust fears. TBF, this latest proposal is much less maximalist than some of his prior proposals like “Policy on the AI Exponential,” where he advocated for an FAA for AI. I believe he is sincere in his beliefs. And despite all the protestations, all of this would also probably be good for his business over the long-term.\n\nSam agreed that embedded 3rd party evaluators were a good idea and stated they would implement them. Again, this is smart as should help limit future liability.\n\nElon said “Dario is right” and later specified that “Dario is right that there should be some oversight. Peer review of AI by competitors is the right way to start this off.” This would be a MPAA like self-regulatory structure for AI with regular calls between the labs plus a process where each new model is evaluated for safety by competitors for a 1-2 week period before being released. That is *wildly* different from Dario’s proposal and in-line with what David Sacks has been proposing. Elon also stated that nothing was going to slow down open-weight models.\n\nDemis said that Dario’s essay was a “step in the right direction.” Dario also said that he was also open to Demis’ idea of a FINRA like self-regulatory structure as part of his proposal. \n\nDavid Sacks had a thoughtful post where he said that Dario and Sam should pace unilaterally, called the antitrust waiver a cartel request and denied that METR was truly independent given their ties to Anthropic.\n\nSriram Krishnan, former White House AI advisor, noted that it would be important to have the 3rd party evaluators come from independent organizations that are not affiliated with any lab, which is basically an indirect statement about the relationship between METR and Anthropic which Sacks was explicit about.\n\nClem from Hugging Face said they were open to being a neutral 3rd party evaluator, which is interesting especially if Jensen was consulted before that post.\n\nAlexander Wang from Meta noted that alignment would be an increasing focus going forward.\n\nAn executive order seems likely after all this and the language in this EO is going to be really important. It is possible to democratize and distribute AI broadly and safely without centralizing it in the hands of a few corporations who might each become more powerful than any single government.\n\nI do not want a few humans in control of intelligence.\n\nI want us all to have our own intelligences that reflect our own values and human variation in all of its richness.\n\nIntelligence distribution over intelligence centralization FTW.",
+   "display_text_range": [
+    0,
+    3996
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "GavinSBaker",
+   "url": "https://x.com/GavinSBaker",
+   "id": "340387261",
+   "followers": 345575,
+   "following": 6344,
+   "likes": 211513,
+   "media_count": 531,
+   "name": "Gavin Baker",
+   "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://gavin-baker.medium.com",
+   "raw_description": {
+    "text": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       94,
+       117
+      ],
+      "original": "https://t.co/pFe9KmNu9U",
+      "replacement": "https://gavin-baker.medium.com",
+      "display": "gavin-baker.medium.com"
+     }
+    ]
+   },
+   "location": "Boston, MA",
+   "banner_url": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_200x200.jpg",
+   "joined": "Fri Jul 22 16:28:32 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://www.youtube.com/gavinbakerportfoliomanager",
+    "display_url": "youtube.com/gavinbakerport…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 418,
+  "retweets": 736,
+  "likes": 5561,
+  "bookmarks": 2800,
+  "quotes": 194,
+  "created_at": "Sun Sep 13 16:17:49 +0000 2026",
+  "created_timestamp": 1789316269,
+  "views": 1226528,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter for iPad",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:47Z",
+ "_http_status": 200
+}

@@ -1,0 +1,128 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/AlexBarry4/status/2099211957798666483",
+  "id": "2099211957798666483",
+  "text": "@segyges @thkostolansky @Laneless_ It is not true that Coefficient Giving funds METR, METR has never accepted any funding from them (or when they were known as open philanthropy). You can see info about METRs funders here: https://metr.org/about#funding",
+  "raw_text": {
+   "text": "@segyges @thkostolansky @Laneless_ It is not true that Coefficient Giving funds METR, METR has never accepted any funding from them (or when they were known as open philanthropy). You can see info about METRs funders here: https://t.co/49fismulfq",
+   "display_text_range": [
+    35,
+    246
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      8
+     ],
+     "original": "segyges",
+     "id": "1264764041928507393"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      9,
+      23
+     ],
+     "original": "thkostolansky",
+     "id": "1730772362528718848"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      24,
+      34
+     ],
+     "original": "Laneless_",
+     "id": "1623365576771964937"
+    },
+    {
+     "type": "url",
+     "indices": [
+      223,
+      246
+     ],
+     "original": "https://t.co/49fismulfq",
+     "replacement": "https://metr.org/about#funding",
+     "display": "metr.org/about#funding"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "AlexBarry4",
+   "url": "https://x.com/AlexBarry4",
+   "id": "239889047",
+   "followers": 403,
+   "following": 35,
+   "likes": 599,
+   "media_count": 14,
+   "name": "Alexander Barry",
+   "description": "Statistician working on understanding AI Capabilities | Epoch AI\nSubstack: https://abstatisticalconsulting.substack.com/",
+   "raw_description": {
+    "text": "Statistician working on understanding AI Capabilities | Epoch AI\nSubstack: https://t.co/760E1w9ol7",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       75,
+       98
+      ],
+      "original": "https://t.co/760E1w9ol7",
+      "replacement": "https://abstatisticalconsulting.substack.com/",
+      "display": "abstatisticalconsulting.substack.com"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1944898759600545792/vAiSXoWq_200x200.jpg",
+   "joined": "Tue Jan 18 17:25:31 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "http://abstats.co.uk",
+    "display_url": "abstats.co.uk"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 18,
+  "bookmarks": 0,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 19:01:46 +0000 2026",
+  "created_timestamp": 1789326106,
+  "possibly_sensitive": false,
+  "views": 509,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "segyges",
+  "replying_to_status": "2099188431129878815",
+  "source": "Twitter Web App",
+  "card": {
+   "url": "https://metr.org/about#funding",
+   "title": "About METR",
+   "description": "What METR does, our mission, and our team.",
+   "domain": "metr.org",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2097049702592401408/XmLUH9dS?format=png&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:03Z",
+ "_http_status": 200
+}

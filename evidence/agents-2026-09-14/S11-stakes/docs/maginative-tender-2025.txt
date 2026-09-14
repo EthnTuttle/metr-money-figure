@@ -1,0 +1,59 @@
+[ld:description] The AI startup will repurchase up to $2 million in shares from eligible current and former employees, matching its March fundraising valuation
+[ld:headline] Anthropic Launches First Employee Share Buyback at $61.5 Billion Valuation
+[ld:datePublished] 2025-05-03T02:24:00.000Z
+[ld:dateModified] 2025-05-05T02:25:33.000Z
+=====BODY=====
+ 
+ Anthropic Launches First Employee Share Buyback at $61.5 Billion Valuation 
+ AI Services 
+ Perspectives 
+ AIMark 
+ Contact Us 
+ Anthropic Launches First Employee Share Buyback at $61.5 Billion Valuation
+ By Chris McKay 
+ May 2, 2025 
+ • 2 min read
+ Anthropic is offering its first-ever share buyback program, allowing current and former employees to sell up to 20% of their equity in the AI startup valued at $61.5 billion, according to reporting from The Information .
+ Key Points:
+ Anthropic will buy back up to 20% of shares from employees who've worked there at least two years, capped at $2 million each
+ The buyback values the company at $61.5 billion, maintaining the same valuation as its March funding round
+ While still burning cash, Anthropic's annualized revenue recently hit $1.4 billion, up 40% since end of 2024
+ The four-year-old company, founded by former OpenAI researchers, is extending the offer to employees and alumni who worked at Anthropic for at least two years. Each eligible participant can sell up to $2 million worth of shares at $56.09 per share—the same price set during the company's $3.5 billion funding round in March led by Lightspeed Venture Partners.
+ Employee liquidity programs have become a key offering in the AI talent wars. While Anthropic is still burning cash, it's sitting on a substantial war chest after raising more than $15 billion total. The company's annualized revenue recently crossed $1.4 billion, up about 40% from $1 billion at the end of 2024.
+ The buyback puts Anthropic in interesting company. OpenAI, now nearly a decade old, has facilitated about $2.7 billion in employee share sales over recent years. But while most startups arrange secondary sales to outside investors, Anthropic is following the playbook of profitable companies like ByteDance and Stripe by repurchasing shares directly—a strategy that limits new investors and reduces administrative complexity.
+ The timing is notable. Anthropic's workforce has nearly tripled from 300 employees at the end of 2023 to over 800 today. As the AI boom continues to reshape Silicon Valley's talent market, these liquidity events are becoming essential tools for retaining top researchers and engineers who might otherwise jump to competitors or start their own ventures.
+ Not every AI company is being so generous with former employees. Scale AI, another prominent AI startup, is reportedly excluding ex-employees from its upcoming $150 million share sale that would value the company at around $25 billion.
+ The buyback is expected to close by the end of the month, potentially putting hundreds of millions of dollars into the pockets of Anthropic's current and former team members—a powerful reminder that in the AI gold rush, even the people building the tools are striking it rich.
+ Chris McKay is the founder and chief editor of Maginative. His thought leadership in AI literacy and strategic AI adoption has been recognized by top academic institutions, media, and global brands.
+ Recent Perspectives
+ Why Your AI Transformation Will Fail
+ By
+ Chris McKay • 
+ May 14, 2026 
+ Google 
+ Gemini 
+ With Gemini 3, Google Begins Rebuilding How Work Gets Done
+ By
+ Chris McKay • 
+ Nov 18, 2025 
+ OpenAI 
+ Open Source 
+ AI Safety 
+ OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly
+ By
+ Chris McKay • 
+ Oct 29, 2025 
+ OpenAI 
+ OpenAI Completes Restructuring: Nonprofit "Control" with Unlimited Investor Returns
+ By
+ Chris McKay • 
+ Oct 28, 2025 
+ Get the latest AI updates from Maginative directly in your inbox.
+ Subscribe 
+ No thanks 
+ Need help with AI? Contact us .
+ Copyright © 2026 Maginative. All rights reserved.
+ Privacy 
+ Terms 
+ Copyright 
+

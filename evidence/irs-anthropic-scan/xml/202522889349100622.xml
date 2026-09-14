@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2023v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-15T10:34:32-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FOLEY &amp; LARDNER LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>777 E WISCONSIN AVE</AddressLine1Txt>
+        <CityNm>MILWAUKEE</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>532025306</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>854307164</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE LANIAKEA CHARITABLE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% MATTHEW WAGE</InCareOfNm>
+      <BusinessNameControlTxt>LANI</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>FOLEY LARDNER 777 E WISCONSIN AVE</AddressLine1Txt>
+        <CityNm>MILWAUKEE</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>532025306</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JASON KOHOUT</PersonNm>
+      <PersonTitleTxt>ASST TREASURER</PersonTitleTxt>
+      <PhoneNum>4142712400</PhoneNum>
+      <SignatureDt>2025-10-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JASON J KOHOUT</PreparerPersonNm>
+      <PTIN>P01397759</PTIN>
+      <PhoneNum>4142712400</PhoneNum>
+      <PreparationDt>2025-10-13</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>23039339</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>51456</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>51456</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>87431</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>87431</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>11270977</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>29575014</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>11270977</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>11409864</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>11409864</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">8226</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>1645</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>6581</LegalFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">19783</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>4783</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">10</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>10</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>28019</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6438</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>6581</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>28019</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6438</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>6581</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>11381845</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>11403426</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>244772</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>272186</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>272186</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1858849</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">822408</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1076281</CorporateStockEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">9300000</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">21690872</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">21690872</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>11403621</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>22785466</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>23039339</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <TotNetAstOrFundBalancesBOYAmt>11403621</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>22785466</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>11403621</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>22785466</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>11403621</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>11381845</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>22785466</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>22785466</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>621.404 SHS VNGRD TTL INTL STK ADML / VTIAX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-11-04</SoldDt>
+          <GrossSalesPriceAmt>20718</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20736</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>582.891 SHS VNGRD TTL STK MKT ADML / VTSAX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-11-04</SoldDt>
+          <GrossSalesPriceAmt>79903</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>63379</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16524</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16524</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5866.008 SHS VNGRD TTL INTL STK ADML / VTIAX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-01-08</AcquiredDt>
+          <SoldDt>2024-05-03</SoldDt>
+          <GrossSalesPriceAmt>190000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>195781</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5781</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5781</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>16436.292 SHS VNGRD TTL INTL STK ADML / VTIAX</PropertyDesc>
+          <SoldDt>2024-11-04</SoldDt>
+          <GrossSalesPriceAmt>547986</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>548461</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-475</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-475</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10432.574 SHS VNGRD TTL STK MKT ADML / VTSAX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-11-04</SoldDt>
+          <GrossSalesPriceAmt>1430097</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1134348</CostOrOtherBasisAmt>
+          <GainOrLossAmt>295749</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>295749</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10200 SHS ALPHABET INC / GOOGL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-08</AcquiredDt>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>1661787</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1416219</CostOrOtherBasisAmt>
+          <GainOrLossAmt>245568</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>245568</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 SHS ASML HOLDN NV / ASML</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-08</AcquiredDt>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>420345</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>432507</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-12162</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-12162</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>70128.794 SHS NVIDIA CORP / NVDA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-16</AcquiredDt>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>9602103</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3954037</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5648066</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5648066</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30000 SHS NVIDIA CORP / NVDA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>4107629</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1830833</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2276796</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2276796</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>7900 SHS TAIWAN SEMICONDUCTOR / TSM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-08</AcquiredDt>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>1626050</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>807735</CostOrOtherBasisAmt>
+          <GainOrLossAmt>818315</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>818315</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2371.206 SHS NVIDIA CORP / NVDA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-09-27</AcquiredDt>
+          <SoldDt>2024-10-17</SoldDt>
+          <GrossSalesPriceAmt>324668</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>100001</CostOrOtherBasisAmt>
+          <GainOrLossAmt>224667</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>224667</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JSHP, LLLP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-01</AcquiredDt>
+          <SoldDt>2023-12-29</SoldDt>
+          <GrossSalesPriceAmt>8505567</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7800000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>705567</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>705567</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JSHP, LLLP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-03-06</SoldDt>
+          <GrossSalesPriceAmt>894070</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>894070</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>894070</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JSHP, LLLP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2024-10-15</SoldDt>
+          <GrossSalesPriceAmt>164091</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>164091</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>164091</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>11270977</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>8993089</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>158508</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>158508</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>158508</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>15755</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>184000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>199755</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>41247</OverpaymentAmt>
+        <AppliedToESTaxAmt>41247</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MATTHEW WAGE</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4142975792</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>C/O FOLEY LARDNER LLP 777 E WISCO</AddressLine1Txt>
+          <CityNm>Milwaukee</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53202</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MATTHEW WAGE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>FOLEY LARDNER 777 E WISCONSIN AVE</AddressLine1Txt>
+            <CityNm>MILWAUKEE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>532025306</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRES, SEC, TREAS, DIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.5</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JASON KOHOUT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>FOLEY LARDNER LLP</AddressLine1Txt>
+            <AddressLine2Txt>777 E WISCONSIN AVE</AddressLine2Txt>
+            <CityNm>MILWAUKEE</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>532025306</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASSISTANT TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.1</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>16197438</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2455967</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>18653405</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>18653405</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>279801</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>18373604</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>918680</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>918680</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>158508</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>158508</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>760172</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>760172</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>760172</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>6581</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>6581</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>760172</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2021</PriorYear1Yr>
+        <PriorYear2Yr>2020</PriorYear2Yr>
+        <PriorYear3Yr>2019</PriorYear3Yr>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1284880</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1284880</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>6581</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>6581</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>753591</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>753591</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>531289</TotalCorpusAmt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>531289</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>531289</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MATTHEW WAGE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>51456</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>87431</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>11270977</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>11409864</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>11409864</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL STOCK MKT IND</StockNm>
+        <EOYBookValueAmt>748791</EOYBookValueAmt>
+        <EOYFMVAmt>1004688</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NVIDIA CORP</StockNm>
+        <EOYBookValueAmt>1532</EOYBookValueAmt>
+        <EOYFMVAmt>2932</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASML HOLDING NV</StockNm>
+        <EOYBookValueAmt>72085</EOYBookValueAmt>
+        <EOYFMVAmt>68661</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>FOLEY &amp; LARDNER LLP</CategoryTxt>
+        <LegalFeesAmt>8226</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>1645</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6581</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>ANGELLIST</Desc>
+        <EOYBookValueAmt>1500000</EOYBookValueAmt>
+        <EOYFMVAmt>1500000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>SITUATIONAL AWARENESS FUND</Desc>
+        <EOYBookValueAmt>20000000</EOYBookValueAmt>
+        <EOYFMVAmt>20000000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ANTHROPIC SPV</Desc>
+        <EOYBookValueAmt>190872</EOYBookValueAmt>
+        <EOYFMVAmt>190872</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>4783</Amt>
+        <NetInvestmentIncomeAmt>4783</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>ESTIMATED TAX PAYMENTS</CategoryTxt>
+        <Amt>15000</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

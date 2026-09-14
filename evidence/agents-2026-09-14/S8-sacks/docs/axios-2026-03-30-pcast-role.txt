@@ -1,0 +1,41 @@
+Title: Inside David Sacks' new role shaping Trump's AI agenda
+
+URL Source: https://axios.com/2026/03/30/david-sacks-trump-ai-agenda-plan
+
+Published Time: 2026-03-30T20:12:59.055793Z
+
+Markdown Content:
+[David Sacks](https://www.axios.com/2026/03/26/trump-white-house-david-sacks-ai-czar-policy-influence)' influence as President Trump's chief AI architect will continue from his perch outside the White House, according to officials — but some close to the administration say it's welcome distance as voters' fears about AI grow.
+
+**Why it matters:**It keeps a powerful Silicon Valley voice at the center of Trump's [AI](https://www.axios.com/technology/automation-and-ai) circle without the government ethics constraints that come with serving inside government.
+
+*   The move lands as Republicans grow [increasingly wary](https://www.axios.com/2026/03/23/conservative-group-tougher-ai-rules) of an all-in attitude on AI development and begin to question the White House strategy that has often followed Sacks' lead.
+
+**Driving the news:**White House officials tell Axios that Sacks will continue to wield significant influence as [co-chair](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) of the President's Council of Advisors on Science and Technology, with a broader remit across tech policy.
+
+*   Sacks announced last week that he would step away from his White House role.
+*   As Trump's AI and crypto czar, Sacks served as a special government employee — meaning he could only work a certain number of days per year, needed [waivers](https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf) for certain investments, and faced other conflict-of-interest restrictions. 
+
+**Moving outside government lifts some of those restrictions** while still allowing Sacks, a longtime Silicon Valley power player, to remain closely tied to the administration.
+
+*   This comes as some of Sacks' [investments](https://www.whitehouse.gov/wp-content/uploads/2025/06/David-Sacks.pdf) — like SpaceX, where he was an [early investor](https://www.craftventures.com/team/david-sacks) — could soon [pay off](https://www.axios.com/2026/03/30/spacex-ipo-elon-musk-wall-street).
+*   Sacks also just ordained a new [$100 million AI group](https://www.axios.com/2026/03/29/ai-pac-midterms-trump), Innovation Council Action, that plans to push the Trump AI agenda.
+
+**What they're saying:** Some people close to the White House say that Sacks' deregulatory AI vision is increasingly out of step with voter concerns, including in the MAGA movement.
+
+*   "Sacks brought policies that have been resoundingly defeated--FULL STOP," former Trump adviser Steve Bannon told Axios. 
+*   Lagging AI approval poll numbers, an unfinished crypto regulatory agenda and recent Big Tech court losses are also contributing to a sense Sacks should have distance from the White House, Bannon said.
+*   Sacks was largely behind two failed attempts on Capitol Hill to block states from regulating AI, and he champions policies on China that give Republican hawks [heartburn](https://www.axios.com/2026/03/20/ai-chip-smuggling-china).
+*   His general disdain for Anthropic has drawn criticism amid a fight with the Pentagon where the company has been able to project a moral high ground, sources said.
+
+**Between the lines:**This is more a change in title than influence, sources say.
+
+**How it works:**Sacks won't be on the White House premises and participating in day-to-day meetings anymore, but he'll continue to have access to the president, officials said.
+
+*   White House chief of staff Susie Wiles and National Economic Council head Kevin Hassett have tapped Sriram Krishnan to take on a new position at the NEC where he will focus on AI and the economy, officials told Axios.
+*   Sriram worked hand-in-hand on Trump's [AI action plan](https://www.axios.com/pro/tech-policy/2025/07/23/white-house-releases-ai-action-plan) with Sacks.
+*   "President Trump has assembled the brightest minds from academia, industry, and government to strengthen American leadership in science and technology and to ensure all Americans thrive in the Golden Age of Innovation," White House spokesperson Liz Huston said.
+
+**The bottom line:**Debate over AI policy is intensifying among Republicans, but the White House and Sacks remain in lockstep.
+
+*   "There's a back and forth here but, broadly speaking, we're still very much aligned on the vision," said one official, pointing to the administration's [ratepayer protection pledge](https://www.axios.com/2026/02/25/trump-data-center-electricity-ratepayer-protection-pledge) as an effort to take voter angst into account.

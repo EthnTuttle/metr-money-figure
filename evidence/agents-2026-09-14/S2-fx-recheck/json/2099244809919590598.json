@@ -1,0 +1,127 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/joshua_saxe/status/2099244809919590598",
+  "id": "2099244809919590598",
+  "text": "With genuine due respect to Heidy, the trend around security folks vilifying METR is not a step towards making the world a better place.  They are among the only non profit centers of AI safety excellence in the US and the world.  Without knowing the details, many at METR gave up generational wealth to work there.  Security people should go work there.  They're hiring.  They have put out a number of rigorous papers and take technical rigor seriously and would be open to your security domain expertise which would add value.  We don't need any more self inflicted wounds.",
+  "raw_text": {
+   "text": "With genuine due respect to Heidy, the trend around security folks vilifying METR is not a step towards making the world a better place.  They are among the only non profit centers of AI safety excellence in the US and the world.  Without knowing the details, many at METR gave up generational wealth to work there.  Security people should go work there.  They're hiring.  They have put out a number of rigorous papers and take technical rigor seriously and would be open to your security domain expertise which would add value.  We don't need any more self inflicted wounds.",
+   "display_text_range": [
+    0,
+    575
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "joshua_saxe",
+   "url": "https://x.com/joshua_saxe",
+   "id": "1397281496",
+   "followers": 5073,
+   "following": 1353,
+   "likes": 32712,
+   "media_count": 259,
+   "name": "Joshua Saxe",
+   "description": "Cofounder @ Abundant Security.  Before: AI | cybersecurity @Meta. Also, natsec ML+cyber, classical/jazz piano, social science, IRC hacking scene, limo driver",
+   "raw_description": {
+    "text": "Cofounder @ Abundant Security.  Before: AI | cybersecurity @Meta. Also, natsec ML+cyber, classical/jazz piano, social science, IRC hacking scene, limo driver",
+    "facets": []
+   },
+   "location": "Wichita, KS",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1397281496/1544633642",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1072897105679671296/mlN8zCx-_200x200.jpg",
+   "joined": "Thu May 02 14:00:35 +0000 2013",
+   "protected": false,
+   "website": {
+    "url": "https://substack.com/@joshuasaxe181906",
+    "display_url": "substack.com/@joshuasaxe181…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 18,
+  "retweets": 10,
+  "likes": 239,
+  "bookmarks": 31,
+  "quotes": 4,
+  "created_at": "Sun Sep 13 21:12:19 +0000 2026",
+  "created_timestamp": 1789333939,
+  "views": 14233,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/HeidyKhlaaf/status/2098793207848927503",
+   "id": "2098793207848927503",
+   "text": "How is Anthropic pushing regulatory capture? Here they promote METR, a \"voluntary\" third-party auditor that is not only ideologically and financially tied, but carries out their audits through unscientific means such as \"CoT\" and cherry-picks evidence to reinforce an idea of AGI.",
+   "raw_text": {
+    "text": "How is Anthropic pushing regulatory capture? Here they promote METR, a \"voluntary\" third-party auditor that is not only ideologically and financially tied, but carries out their audits through unscientific means such as \"CoT\" and cherry-picks evidence to reinforce an idea of AGI.",
+    "display_text_range": [
+     0,
+     280
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "HeidyKhlaaf",
+    "url": "https://x.com/HeidyKhlaaf",
+    "id": "451240433",
+    "followers": 11376,
+    "following": 684,
+    "likes": 51551,
+    "media_count": 92,
+    "name": "Dr Heidy Khlaaf (هايدي خلاف)",
+    "description": "Climber 🇪🇬| Chief AI Scientist @AINowInstitute | Safety Engineer\n|TIME100 AI | MIT 35u35\n| Formal Methods PhD\n| x-Trail of Bits, Zipline, OpenAI, MSFTResearch",
+    "raw_description": {
+     "text": "Climber 🇪🇬| Chief AI Scientist @AINowInstitute | Safety Engineer\n|TIME100 AI | MIT 35u35\n| Formal Methods PhD\n| x-Trail of Bits, Zipline, OpenAI, MSFTResearch",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/451240433/1650386836",
+    "avatar_url": "https://pbs.twimg.com/profile_images/2009948381561364480/ojJeiReo_200x200.jpg",
+    "joined": "Sat Dec 31 06:09:20 +0000 2011",
+    "protected": false,
+    "website": {
+     "url": "http://heidyk.com",
+     "display_url": "heidyk.com"
+    },
+    "verification": {
+     "verified": false,
+     "verified_at": null,
+     "type": null
+    },
+    "avatar_color": null
+   },
+   "replies": 27,
+   "retweets": 100,
+   "likes": 468,
+   "bookmarks": 78,
+   "quotes": 14,
+   "created_at": "Sat Sep 12 15:17:49 +0000 2026",
+   "created_timestamp": 1789226269,
+   "views": 73260,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter Web App",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for Android",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:11Z",
+ "_http_status": 200
+}

@@ -1,0 +1,38 @@
+Title: AIUC | Team
+
+URL Source: https://www.aiuc.com/team
+
+Markdown Content:
+## Who we are
+
+Team
+
+We are an AI agent standards & insurance company based in San Francisco.
+
+Our team brings together experience across AI risk and insurance — having spent time at Anthropic, McKinsey insurance, METR, and Center for AI Safety.
+
+We raised a $15M seed round led by Nat Friedman. Investors include Emergence, Terrain, an Anthropic co-founder, and former Chief Information Security Officers at Google Cloud and MongoDB.
+
+## Join us
+
+Careers
+
+If you believe navigating the AI future is the most important challenge of our time, join us.
+
+Rune Kvist
+
+Co-founder
+
+![Image 1](https://framerusercontent.com/images/UyAdvGrugsRYFbVLEUT0EnzI.png?width=685&height=754)
+
+Former Anthropic product lead. Board member at Center for AI Safety.
+
+![Image 2](https://framerusercontent.com/images/lVS6uwpEl2Eztupl7pV6l2AMpU.png?width=1123&height=390)
+
+Rajiv Dattani
+
+Co-founder
+
+![Image 3](https://framerusercontent.com/images/WPAonIiKdbpldvc7XXkHm4kP0I.jpg?width=335&height=377)
+
+Former McKinsey insurance partner. Previous COO at METR, a leading AI risk evaluator.

@@ -1,0 +1,45 @@
+Donate
+ Home
+ About
+ Research
+ Updates
+ Notes
+ Careers
+ Donate
+ Search
+ METR
+ -->
+ Home
+ About
+ Research
+ Updates
+ Notes
+ Careers
+ Donate
+ Menu
+ Donate
+ Donations fund the assessment of AI capabilities, risks and mitigations. This primarily means developing cutting-edge methods for measuring these things, as well as running those measurements and directly supporting AI decision-makers who want to improve their risk management.
+ Highlighted work: The length of tasks AI agents can complete has doubled very approximately every 7 months for 6 years (paper, overview, X thread). This research is now central to forecasts of when AI will have very large impacts on the world. The paper’s findings were also covered in the Financial Times, Nature, and elsewhere.
+ For other featured work, please see our homepage. For our latest outputs, please see our Research page.
+Donations like yours are crucial for our ability to pursue groundbreaking projects and set standards for evidence-based understanding of risks from AI. Support from a wide range of independent donors is also part of how we ensure that our research is as accurate as possible.1
+Organization details
+ Legal name: Model Evaluation and Threat Research, Inc.
+ EIN: 99-1219864
+ Address: 440 N Barranca Ave #3345 Covina, CA 91723
+ Charity Contact: Bhaskar Chaturvedi, Operations Lead & Secretary, (707) 500-1002, donations@metr.org
+Donating via every.org
+For most donation methods (cash, crypto, DAF, etc), we recommend giving via every.org
+ Donate to METR via every.org
+Notes on giving via every.org: All every.org donations are re-granted to METR as batched, unrestricted donations. Every.org does not charge METR for use of the platform, but transaction fees are deducted out of your donation. Here are the fees by donation type.
+Getting in touch
+For questions or donation support, please reach out to donations@metr.org.
+ To date, September 2025, we have not accepted compensation from AI companies for the evaluations we have conducted. However, companies have provided access and compute credits to enable evaluations and evaluation research. ↩
+ Home
+ About
+ Research
+ Updates
+ Notes
+ Careers
+ Donate
+ Email: info@metr.org
+ twitter

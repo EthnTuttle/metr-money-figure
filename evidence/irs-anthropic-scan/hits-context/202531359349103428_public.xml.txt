@@ -1,0 +1,1 @@
+493:        <StockNm>INVESTMENT-ANTHROPIC</StockNm>

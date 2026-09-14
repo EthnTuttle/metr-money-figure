@@ -1,0 +1,2616 @@
+RAND is a research organization that develops
+solutions to public policy challenges to help make
+communities throughout the world safer and
+more secure, healthier and more prosperous.
+
+
+
+
+                                                     ANNUAL REPORT 2024
+CONTENTS
+
+
+
+
+ 1   Message from the Chair and the President
+ 2   By the Numbers
+ 4   RAND’s Impact in 2024
+14   RAND Army Research Division
+16   RAND Australia
+18   RAND Education and Labor
+20   RAND Europe
+22   RAND Global and Emerging Risks
+24   RAND Health Care
+26   RAND Homeland Security Research Division
+28   RAND National Security Research Division
+30   RAND Project AIR FORCE
+32   RAND Social and Economic Well-Being
+34   How We’re Funded
+38   Tomorrow Demands Today
+48   RAND’s Graduate School
+50   Congressional Outreach
+52   Leadership
+Message from the Chair and the President
+
+
+
+
+When RAND publicly launched the Tomorrow Demands Today
+fundraising campaign in 2020, we set a bold goal to raise $400 million
+to expand our capacity to solve humanity’s biggest problems. The
+premise was simple: If not RAND, then who? If not now, then when?
+
+The “when” became a critical factor for this campaign. In early
+2020, countries and cities began shutting down as COVID-19 ravaged
+communities everywhere. For a world facing some of its most daunting
+challenges, including a pandemic, the need for RAND’s evidence-based
+solutions was never more important.
+
+Through the extraordinary generosity of RAND’s supporters, we
+exceeded the campaign goal. To the many donors, grantmakers,
+and friends of RAND and RAND’s graduate school, thank you! Your
+generosity has already had a direct impact on RAND’s ability to
+support critical work on topics ranging from emerging technology
+to veteran health and well-being.
+
+RAND also deeply appreciates our research clients and sponsors,
+who, during such demanding times, have continued to rely on our
+expertise. Thank you for the trust you have placed in this organization
+and your investment in a better future for all.
+
+
+
+
+Michael E. Leiter                            Jason Matheny
+Chair, RAND Board of Trustees                President and Chief Executive Officer
+         By the Numbers
+          RAND is a global organization with offices in North America, Europe, and Australia. RAND’s
+          U.S. locations are in Santa Monica, California, the home of its headquarters campus; Arlington,
+          Virginia; Pittsburgh, Pennsylvania; and Boston, Massachusetts. RAND also has U.S.-based
+          researchers living and working in more than 38 other states and the District of Columbia.
+          RAND Europe has offices in Cambridge, United Kingdom; Brussels, Belgium; and Rotterdam,
+          the Netherlands. RAND Australia has its office in Canberra.
+
+
+
+
+                      >50                                                        2,025
+                             COUNTRIES                                                                     STAFF
+
+         RAND attracts top talent from more than 50 countries.            Our people bring a range of professional experience and
+                                                                          educational backgrounds to their project teams.
+
+
+
+
+                        52%
+                      HOLD DOCTORATES
+                                                                                     ~85             LANGUAGES
+
+         More than half our research staff of ~1,225 hold one             Many of our staff are multilingual. Languages spoken
+         or more doctorates in an array of disciplines.                   include Arabic, Chinese, Farsi, French, German,
+                                                                          Japanese, Korean, Russian, and Spanish.
+
+
+
+               RESEARCH TALENT
+                                                                                                           Arts and letters
+                                                                                                                2%       6% Behavioral sciences
+                                                                              Social sciences 12 %
+                                                                                                                             4% Business and law
+                                                    39% Master’s                                                                 5% Computer sciences
+                                                         degrees     Political sciences 7%
+
+
+              52%
+        Doctorates,                                                                                                                     10% Economics
+                                                                   Policy analysis 12%
+          including
+       MDs and JDs
+
+
+                                                                                                                                        8% Engineering
+                                                                    Physical sciences 5%
+
+                                                                   Mathematics, operations     7%                                  8% Other
+                                            9%                          research, statistics
+                                            Bachelor’s                                                 5%          9%
+                                            degrees                                            Life sciences       International
+                                                                                                                   relations
+
+
+
+
+2   R A N D   A N N U A L   R E P O R T   2 0 2 4
+>1,000 >700
+               PUBLICATIONS                                                     NEW PROJECTS
+
+Last year, we added more than 600 reports and more than          Through almost 1,750 projects (including >700 new ones),
+400 journal articles to our growing digital library, all of      RAND provides research services, systematic analysis,
+which can be accessed at www.rand.org.                           and innovative thinking to a global clientele.
+
+
+
+
+            330
+     CLIENTS AND GRANTMAKERS
+                                                                      1,734
+                                                                   UNIQUE CAMPAIGN SUPPORTERS
+
+We performed work for more than 330 clients and                  Gifts from donors help RAND deliver fact-based, actionable
+grantmakers, including government agencies, international        solutions grounded in rigorous analysis. These gifts help
+organizations, and foundations.                                  fund our people, ideas, centers of excellence, and outreach.
+
+
+
+
+   170K+
+      FOLLOWERS ON LINKEDIN
+                                                                     253K+     FOLLOWERS ON X
+
+
+
+
+            82K
+  SUBSCRIBERS TO POLICY CURRENTS
+                                                                         6.1M    WEB DOWNLOADS
+
+
+
+
+                                                         Scan the QR code to view
+                                                         RAND’s financial statements
+
+
+
+
+                                                                                                                                3
+ RAND’S IMPACT IN 2024
+
+
+I
+       n the late 1940s, “RAND” originally stood as a contraction
+       for R esearch AN d D evelopment. Today, we stand for getting it
+       right, for following the facts wherever they lead, for answering
+the hardest questions. We stand for rigor and objectivity—no politics,
+no preconceptions, just good policy. We stand for making people
+around the world safer and more secure, healthier and more prosperous.
+
+Our research is saving the U.S. government billions of dollars. It’s
+strengthening the military, improving education, and helping to
+safeguard some of the most important AI technologies. It’s showing
+how health care providers could save hundreds of thousands of
+lives every year.
+
+Here are some of the recent projects that demonstrate the breadth
+and scope of our research and analysis—and what RAND really
+stands for.
+Saving FEMA $2 billion
+RAND saved the U.S. government more than               Researchers developed a method that compares
+$2 billion—and counting—by preventing COVID-           financial data, pre- and post-COVID, to set a
+relief overcharges. Along the way, we also helped      maximum ceiling for each application. In some
+the American health care system recover from           cases, researchers also evaluate an applicant’s
+the biggest declared disaster in history.              own procedures for preventing duplicate payments.
+                                                       RAND then delivers a memo to FEMA for every
+The Federal Emergency Management Agency
+                                                       application, recommending reductions when
+(FEMA) came to RAND during the height of COVID
+                                                       needed to avoid double paying.
+with an unprecedented challenge. Hospitals were
+starting to apply for disaster relief to cover their   More than 250 researchers have worked on the
+costs. FEMA had billions of dollars to help them       project since it began. They have reviewed
+recover. But it could not pay for expenses that        reimbursement requests totaling more than
+someone else—such as health insurers—had already       $31 billion from hospitals and health systems in
+paid for.                                              every state, territory, and tribal nation. They
+                                                       have identified $2.02 billion in reductions so far.
+FEMA had no way to go through tens of thousands
+                                                       They expect to surpass $3 billion by the time
+of pages of reimbursement requests to pull out
+                                                       they finish reviewing all applications.
+only those costs that it could cover. It had worked
+closely with the Homeland Security Operational
+Analysis Center—a federally funded research and
+development center operated by RAND under
+contract with the U.S. Department of Homeland
+Security—on other major disasters, most notably
+the 2017 hurricanes that devastated Puerto Rico.
+FEMA turned to the center again for help solving
+this COVID reimbursement challenge.
+
+
+
+
+                                                                                                             5
+R A N D’S I M PA C T IN 2 0 24
+
+
+
+
+             Protecting the most advanced
+             AI technologies
+             RAND research has helped make the most influ-         should be able to withstand attacks even from
+             ential AI systems more secure against malicious       sophisticated cybercrime syndicates. That means
+             actors. It provided a framework that policymakers     hardening interfaces to the AI model, even within
+             and frontier labs are now using to secure some        the company, and providing multiple layers of
+             of their most important and sensitive assets,         security to ensure redundancy.
+             known as “model weights.”
+                                                                   The highest level of security needs to prevent even
+             Model weights are everything an AI model has          the most capable nations from carrying out
+             learned, represented in a huge series of numbers.     a successful attack. Achieving that level of security,
+             Labs can spend hundreds of millions of dollars to     researchers noted, would require help from the
+             train a model. Stealing those weights could allow     national security community.
+             cybercriminals and other bad actors to leapfrog
+                                                                   Two artificial general intelligence labs, DeepMind
+             all of that work and use the model for their
+                                                                   and Magic, wrote RAND’s benchmarks into their
+             own purposes.
+                                                                   security policies. A third, Anthropic, followed
+             Researchers worked with security experts to think     RAND’s recommendations as it developed its
+             through potential attacks and attack methods. Then    own model weight security measures. In addition,
+             they developed security benchmarks to protect         RAND’s work has supported U.S. government
+             model weights against increasingly serious threats.   decisions on AI security, export control, and
+                                                                   other policies.
+             The lowest security level, for example, is meant
+             to keep out everyday hackers. It requires basic
+             safeguards, such as encryption and multifactor
+             authentication. A more midlevel security posture
+
+
+
+
+  6    R A N D   A N N U A L   R E P O R T   2 0 2 4
+Improving cardiac care                                   Elevating information effects
+for high-risk patients                                   in military planning
+Researchers at RAND helped show just how life-           U.S. military forces in Asia and the Pacific are using
+saving a few extra minutes with a doctor can be          RAND research as a guide to improve how they
+for patients at risk of heart attack or stroke.          plan future operations. They’re not just thinking
+Their findings convinced Medicare and Medicaid           about targets and troop movements. They’re
+administrators to pursue a more proactive                also considering the information effects of their
+approach to cardiac care.                                activities—how people see and understand them.
+
+The researchers were part of a team analyzing the        That has become a key element in competition
+results of an intervention known as the Million          with China and other global adversaries. Assuring
+Hearts model. It provided small payments to              allies and deterring enemies require managing
+participating health care providers to perform           perceptions, a RAND report emphasized—not just
+cardiac risk assessments during regular patient          projecting military power. But the processes that
+visits. It provided additional payments based            major military commands have used to incorporate
+on changes to patient risk scores at follow-up visits.   information effects into their planning have
+                                                         often been lacking.
+More than 100,000 medium- and high-risk
+Medicare patients received enhanced preventive           RAND’s report provided a series of recommenda-
+care under the program. Researchers found that           tions that added up to a paradigm shift for military
+the model reduced those patients’ risk of                planners. It showed how military commands could
+death or a first time heart attack or stroke by          better anticipate the information effects of their
+4.2 percent. That meant one less death or first-time     activities, operations, and investments at every step
+cardiovascular event for every 250 medium-               of their planning. It called for better understanding
+and high-risk patients. The program had no               target audiences, paying closer attention to their
+significant effect on Medicare spending.                 perceptions, and being ready to respond quickly
+                                                         if needed.
+The Centers for Medicare and Medicaid Services
+cited those findings in proposing new physician          U.S. Indo-Pacific Command is now reworking
+fees beginning in 2025. The proposal would               its planning process to incorporate RAND’s
+allow providers to charge for the time they spend        recommendations. It recently established
+assessing a patient’s cardiac risk. It would also        an “information czar” to participate in working
+provide coverage for risk-management services            group meetings. That follows one of RAND’s
+for higher-risk patients.                                top recommendations, ensuring that key
+                                                         leaders are engaged and active in elevating
+                                                         information effects.
+
+
+
+
+                                                                                                                  7
+R A N D’S I M PA C T IN 2 0 24
+
+
+
+
+             Developing new concepts                                 Strengthening human
+             for drone warfare                                       trafficking laws in Europe
+             Wargames at RAND and elsewhere have shown for           Thousands of people are rescued from human
+             years that a capable adversary, such as China, could    trafficking in the European Union every year. But
+             hold off the United States in the opening days of a     member states could be doing more. Researchers
+             conflict. RAND experts have argued that drones—         from RAND Europe identified several gaps in
+             lots of drones—could help the U.S. generate and         existing laws, from enforcement loopholes to
+             sustain the airpower it will need. Thousands, or even   inadequate support for victims.
+             tens of thousands, of low-cost drones could confuse
+                                                                     Their findings helped guide European lawmakers
+             and overwhelm enemy defenses. If some were shot
+                                                                     as they worked to strengthen antitrafficking laws.
+             down, more would take their place.
+                                                                     The European Parliament and the Council of the
+             That is now the cornerstone of a massive and urgent     European Union adopted a revised directive
+             Pentagon initiative to counter China. The goal,         on preventing and combating human trafficking,
+             according to military leaders, is to help the United    with several measures drawn directly from
+             States overcome China’s advantage in mass—more          RAND’s research.
+             ships, more missiles, more forces.
+                                                                     In particular, the new directive requires member
+             The drones RAND envisions might not require fixed       states to do more to identify victims early and
+             bases or runways, which would be early targets          get them the support they need. It also mandates
+             in any conflict. They would be what the military        tougher criminal and noncriminal penalties to
+             calls “attritable”—meant to be reused but fielded       deter trafficking.
+             at such high numbers that the loss of some would
+                                                                     The new directive also clarifies that the intentional
+             not degrade their effectiveness. Among other uses,
+                                                                     use of services from a victim of human trafficking
+             they could create a “sensor mesh” above distant
+                                                                     is a criminal offense. It recognizes forced marriage
+             battlefields. That would allow U.S. commanders to
+                                                                     as a form of exploitation. And it establishes new
+             see and target enemy forces.
+                                                                     requirements for countries to collect statistics
+             Researchers helped the U.S. Department of the           on human trafficking, to better track the problem
+             Air Force think through several capabilities and        across borders.
+             concepts for the drone initiative. RAND Project
+                                                                     The European Commission had made it a priority
+             AIR FORCE is now helping the military work out
+                                                                     to reform the antitrafficking directive, which
+             the costs, logistics, and design of a drone force.
+                                                                     had not been updated for more than a decade.
+             The effort could, as RAND research has argued,
+                                                                     It estimated that more than 7,000 people were
+             transform the future of warfare.
+                                                                     identified as victims of human trafficking across
+                                                                     Europe in 2021. Nearly two-thirds were women
+                                                                     or girls, and almost one in four was a child.
+
+
+
+
+  8    R A N D   A N N U A L   R E P O R T   2 0 2 4
+Preventing childhood deaths
+from diarrhea
+Nearly half a million children succumb every year       In follow-up surveys, most of the providers said that
+to one of the most prolific killers on the planet,      they knew the salts were the correct treatment for
+diarrhea. A small packet of salts and sugars could      a simple case of diarrhea. But the salts don’t cure
+save most of them. Yet health care providers around     diarrhea; they only keep patients alive long enough
+the world continue to prescribe antibiotics             to recover. The providers thought that most of their
+instead, to fight a disease that antibiotics usually    patients wanted something stronger.
+won’t touch.
+                                                        That’s a potentially fatal misperception. The
+Researchers at RAND hired 50 actors in India to find    researchers also surveyed parents in India, who
+out why. They trained the actors to pose as parents     were much more likely to say that they wanted
+and caregivers of young children suffering from         rehydrating salts for their children than antibiotics
+simple cases of diarrhea. Then they sent the actors     or other drugs. But they rarely expressed that
+to more than 2,000 private health providers across      preference to their providers—and, as a result, they
+two Indian states.                                      usually went home with an antibiotic.
+
+They found that one free and easy intervention          That points to interventions that could save many
+increased the prescription rate for rehydrating salts   thousands of young lives. Posters in pharmacies
+by nearly 30 percentage points. The actor-patients      could encourage patients to ask for rehydrating salts
+just had to ask for them. The researchers tried other   instead of antibiotics. Public awareness campaigns
+interventions—eliminating supply shortages and          could remind providers that patients really do
+removing any financial incentives for providers         want the salts.
+to prescribe other medicines. But those only
+increased the use of rehydrating salts by a few
+percentage points.
+
+
+
+
+                                                                                                                9
+R A N D’S I M PA C T IN 2 0 24
+
+
+
+
+             Defining caregivers as America’s
+             America’s
+             hidden heroes
+                       hidden heroes
+             As many as 105 million Americans provide care for      Military and veteran caregivers also spend an
+             a sick or injured friend or family member. They        average of $8,500 a year on out-of-pocket
+             provide services worth billions of dollars every       caregiving expenses, RAND found. They forgo
+             year, often at tremendous financial and emotional      around $4,500 a year in income by taking time off
+             costs to themselves. More than 14 million of them      work or letting opportunities for advancement
+             are caring for someone who served in the military.     slip by. Meanwhile, the services they provide
+             A RAND study described them as America’s               would be worth at least $119 billion a year
+             “hidden heroes.”                                       if they made minimum wage for the hours they
+                                                                    spend caregiving.
+             Those caring for older veterans experience many
+             of the same stresses as those caring for older         All caregivers need better access to mental health
+             people in general, RAND found. But those caring for    care, researchers wrote. They need more financial
+             service members and veterans who are 60 years old      support. They need employers willing to work
+             and younger—many of whom served during the             with their schedules and health care providers
+             wars in Iraq and Afghanistan—look much different.      who value them as partners in care.
+
+             Nearly two-thirds of these caregivers helped a         The Elizabeth Dole Foundation sponsored
+             loved one manage a mental health condition or a        RAND’s study. It has already begun a nationwide
+             substance use disorder. More than one in five helped   campaign to translate RAND’s findings and
+             someone cope with the effects of a traumatic brain     recommendations into law and policy, to
+             injury. That takes a toll. More than 40 percent of     improve the lives of America’s caregivers.
+             those caring for service members or veterans 60 and
+             younger showed signs of depression. More than
+             20 percent said that they had thought about suicide
+             in the past year.
+
+
+
+
+10     R A N D   A N N U A L   R E P O R T   2 0 2 4
+Bringing back Air Force                                  Taking the pulse of
+warrant officers                                         American education
+The U.S. Air Force is reintroducing warrant officers     American teachers are stressed out. Nearly a quarter
+after nearly half a century. Its decision closely        say that they want to leave their jobs. One in six
+follows RAND recommendations aimed at helping it         works in a school district that has experienced gun
+recruit and retain cutting-edge technical talent.        violence in recent years.
+
+Warrant officers in other branches of the military       Those are among the insights RAND gleaned in
+usually serve as technical specialists or experts with   2024 from the RAND Survey Panels. For years now,
+specific, highly sought-after skills. The Air Force      researchers have used the panels to survey
+had warrant officers in its early days but phased        thousands of teachers, principals, and district
+them out beginning in the 1950s. The last Air Force      leaders about important issues in education. Those
+warrant officer retired in 1980.                         surveys provide policymakers with on-the-ground
+                                                         perspectives on everything from arming teachers
+The Air Force asked RAND to evaluate several             to the growing use of classroom AI.
+options that might help it compete for specialists
+with deep technical skills, especially in cyber          As a result of RAND’s findings, states and school
+fields. Researchers convened a workshop with             districts are now strengthening their curricula
+enlisted airmen in avionics, cyber defense, and          and providing more support for teachers. That
+cyber warfare. The airmen rated a warrant officer        benefits potentially thousands of schools. The
+program as the best way to retain and develop            U.S. Department of Education also cited RAND’s
+technical expertise.                                     findings in announcing $10 million in grants to
+                                                         improve mental health in some high-need schools.
+Bringing back warrant officers would give                The Council of Chief State School Officers is
+technology specialists more legitimacy and respect,      using survey results to push for higher-quality,
+they said. It would also provide a career track with     standards-aligned instructional materials for math
+a separate pay and rank structure from the enlisted      and English language arts.
+force. The airmen thought that a specialized
+“technical track” career option would also               The Gates Foundation awarded RAND nearly
+
+accomplish many of the same goals—but they didn’t        $14 million in grants to support and expand the
+
+rate it as highly as the warrant officer option.         panels. RAND is using some of that funding
+                                                         to launch two new survey panels. They will provide
+The Air Force subsequently announced that it             the first large, nationally representative measures
+would reintroduce a warrant officer corps for some       of how students and parents think about
+information-technology and cyber fields. It also         education issues, in addition to teachers and
+plans to develop a technical track for other             school leaders.
+enlisted specialists.
+
+
+
+
+                                                                                                                11
+R A N D’S I M PA C T IN 2 0 24
+
+
+
+
+             Ensuring effective legal
+             representation for all
+             The Sixth Amendment to the U.S. Constitution              They concluded that a public defender working
+             mandates that no one accused of a crime faces trial       40 hours a week on even low-level felonies
+             in the United States without an attorney by their side.   should have fewer than 60 cases a year. A public
+             The public defenders who provide that service are         defender who handles nothing but low-level
+             often overworked and underresourced. One reason           misdemeanors would be assigned no more than
+             for that: National caseload standards for public          150 cases a year under the same work hour
+             defenders had not been updated since the 1970s.           assumption. The new standards set workload
+                                                                       expectations for nine other categories of criminal
+             RAND worked with the American Bar Association
+                                                                       cases, from murder to parole violations.
+             and the National Center for State Courts to revise
+             those standards. The new standards better reflect         The American Bar Association updated
+             the realities of 21st-century law, such as the time it    its influential “Ten Principles of a Public
+             takes to review social media and cellphone evidence.      Defense Delivery System” and cited RAND’s
+             Several states are now reviewing their caseload           recommendations as “national workload
+             standards to make sure criminal defendants receive        standards” that “should never be exceeded.”
+             effective legal representation.
+
+             The old standards had been criticized for decades
+             for setting an impossibly high bar. They assumed
+             that a full-time public defender could handle 150
+             felony or 400 misdemeanor cases a year. Researchers
+             convened a panel of experienced criminal defense
+             attorneys from across the country and analyzed
+             previous workload studies to update those numbers.
+
+
+
+
+12     R A N D   A N N U A L   R E P O R T   2 0 2 4
+Improving gun policy
+research                                                 RAND’s purpose is to
+Researchers at RAND have sought to cut through           ensure that the most
+the noise on American gun policy and bring
+more science to one of the nation’s most divisive        important decisions—the
+debates. What they’ve found: Many commonly
+                                                         ones that affect the most
+proposed gun policies have never undergone serious
+study to establish whether they would work               people and involve the
+as intended or not.
+                                                         most public resources—
+That’s beginning to change. After almost 25 years,
+Congress restarted funding of research on gun            are made with the
+violence prevention in 2018, partly in response to
+RAND’s research. As a result, the likely effects
+                                                         best-possible evidence.
+of some gun policies are starting to become clear.       These examples of
+In their latest update, researchers found supportive
+                                                         RAND’s impact in 2024
+evidence that stand-your-ground laws increase
+firearm homicides. More-permissive concealed-            underscore how vital
+carry laws increase homicides and overall violent
+crime. And increasing the minimum age to                 research and analysis are
+purchase a firearm reduces firearm suicides among
+                                                         in the search for solutions
+young people.
+
+The strongest evidence for reducing a range of
+                                                         to tackle the United
+firearm injury outcomes, though, shows that child-       States’—and the world’s—
+access prevention laws and other safe-storage laws
+reduce firearm injuries and death among young            biggest problems.
+people. But even here, the lack of research means
+there is much we still don’t know. The possible effect
+of those laws on defensive gun use, for example,
+has never been studied in a meaningful way.
+
+Researchers also released a state-by-state look at how
+firearm death rates have changed over the past
+40 years. An online tool allows users to add or
+subtract common state gun laws to see the likely
+effects they could have on mortality rates.
+
+
+
+
+                                                                                       13
+                                   RAND Army Research Division
+                                   Founded in 1982, the Arroyo Center is the United States Army’s
+                                   sole federally funded research and development center for studies
+                                   and analysis. At RAND, the center is housed within RAND’s
+                                   Army Research Division.
+
+                                   Arroyo enables the Army to maintain a strategic relationship
+                                   with an independent, nonprofit source of high-quality, objective
+                                   analysis that can sustain deep expertise in domains of direct
+                                   relevance to perennial Army concerns.
+
+                                   Arroyo’s mission is to conduct objective analytic research on
+                                   major policy concerns, with an emphasis on mid- to long-term
+                                   policy issues; help the Army improve effectiveness and efficiency;
+                                   provide short-term assistance on urgent problems; and be a
+                                   catalyst for needed change.
+
+                                   The Army’s oversight and management of RAND Arroyo Center
+                                   are stipulated by Army Regulation 5-21. The regulation establishes
+                                   a governing board of Army leaders known as the Arroyo Center
+                                   Policy Committee, cochaired by the Under Secretary of the
+                                   Army and the Vice Chief of Staff of the Army. The committee
+                                   provides overall guidance, reviews the annual research plan,
+                                   and approves individual projects.
+
+
+
+
+14   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                      SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+RESEARCH PROGRAMS
+
+The Strategy, Doctrine, and Resources Program analyzes the implications
+of the dynamic security environment for future strategic concepts, Army roles and
+missions, force structure, capabilities, doctrine, and resourcing requirements.
+
+The Forces and Logistics Program integrates the development and employment
+of forces with operational logistics and the end-to-end process to acquire,
+sustain the readiness of, and modernize equipment.
+
+The Personnel, Training, and Health Program focuses on policies that help
+the U.S. Army attract and retain the right people—and train and manage them in
+a way that maximizes their capabilities, saves lives, and advances wellness.
+                              RAND Australia
+                              RAND Australia has strong capabilities for improving the health, safety,
+                              security, prosperity, and resilience of people and communities in Australia.
+                              RAND’s research has been applied to improve outcomes in community
+                              health, criminal justice, and the environment. RAND also has
+                              a long history of health research to improve service delivery and
+                              overall system performance.
+
+
+
+
+16   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                       SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+FOCUS AREAS
+
+Defense. RAND Australia conducts research on complex strategy, acquisition, force
+employment, and administrative challenges facing Australia’s defense leadership.
+RAND Australia’s work focuses on the most pressing and difficult strategy, policy,
+and defense stewardship concerns of high-level policymakers. Acquisition and
+management analyses help Australian leaders control costs and hedge against risk.
+
+National Security. RAND Australia has significant global experience supporting
+national security organizations that are confronted with emerging technological,
+social, political, and demographic challenges. RAND has provided support across
+these types of organizations, both to address immediate threats and to better
+position organizations to respond to future threats. RAND has extensive experience
+working with security and law enforcement agencies in Australia, including the
+Department of Home Affairs, Department of Foreign Affairs and Trade, Attorney-
+General’s Department, and the Department of the Prime Minister and Cabinet.
+
+Emerging Technologies. As new systems and opportunities develop and policies
+around them adapt, RAND Australia is committed to exploring the potential uses,
+outcomes, and threats of emerging technologies. Primary areas of interest include AI
+and related technologies, space, cyber policy analysis, and clean energy research.
+
+Social and Economic Policy. RAND’s experience assessing the effectiveness of
+educational programs, strategic reforms, and labor policies spans decades. RAND
+Australia’s research on workforce needs for Australia’s naval shipbuilding industry
+led the Commonwealth to announce a $62 million commitment to fund a new
+Naval Shipbuilding College to stimulate training in vocational and higher-education
+specialties needed by the enterprise. RAND has also been involved in reform and
+equities in education through our work with Learning Creates Australia.
+
+
+
+
+                                           R A N D   A N N U A L   R E P O R T   2 0 2 4   17
+                                       RAND Education and Labor
+                                       Communities everywhere strive for effective and equitable
+                                       education and economic opportunities for their citizens.
+
+                                       RAND Education and Labor works at the cutting edge
+                                       of quantitative and qualitative research methods.
+                                       We conduct randomized controlled trials and use quasi-
+                                       experimental methods such as regression discontinuity,
+                                       instrumental variables analysis, and event-study analyses.
+                                       We use a range of AI approaches and algorithms,
+                                       including machine learning and natural language
+                                       processing. Our data collection methods also include
+                                       surveys, interviews, observations, focus groups,
+                                       and cognitive interviews.
+
+
+
+
+      FOCUS AREAS
+      Early Childhood Education. Effective early school               of college readiness, access, and success; paying for and
+      experiences and interventions set children up for success.      funding higher education; curriculum innovation; and student
+      RAND Education and Labor’s work in early childhood              health and safety.
+      includes studies of preschool programs, child care, parenting
+                                                                      Workforce Development. Technology, globalization, and
+      programs, cost benefit analyses, and more.
+                                                                      demographic changes have altered what employers need
+      K–12 Education. Education shapes lives profoundly, and it is    from workers and what workers expect from employers.
+      vital that education programs and policies are effective and    RAND Education and Labor leverages deep expertise in
+      equitable. The K–12 education research of RAND Education        K–12 career and technical education, workforce certification
+      and Labor focuses on services that meet the needs of            and development programs, and retraining and “upskilling”
+      the whole child, curriculum development and standards,          programs to help both workers and employers succeed
+      educator effectiveness, education technology, and out-of-       in the 21st century and beyond.
+      school time.
+                                                                      Labor Markets. Productive labor markets are the
+      Postsecondary Education. Higher education is evolving.          backbone of strong communities. RAND researchers seek
+      Institutions need ways to expand access, support changing       to understand the dynamics of labor supply and demand
+      workforce requirements, and maintain viability and quality.     in a time of constant change, if and how labor markets are
+      RAND Education and Labor’s postsecondary education work         functioning efficiently, and how they can be enhanced to
+      includes institution-, system-, and national-level analyses     provide opportunities for all.
+
+
+
+
+18   R A N D   A N N U A L   R E P O R T   2 0 2 4
+SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+    R A N D   A N N U A L   R E P O R T   2 0 2 4   19
+                   RAND Europe
+                   Emerging trends—such as changes to the geopolitical order and established conventions,
+                   growing data overload, accelerating technological advances, and shifts in the workplace,
+                   to name just a few—pose new questions that require new approaches. As debates become
+                   more polarized, the trust that the public places in expert opinion and empirical research
+                   needs renewing.
+
+                   The answer is not to retreat from evidence—which only increases risk and leaves decisions
+                   more vulnerable to challenge—but to reaffirm and demonstrate its value.
+
+                   For nearly 30 years, RAND Europe has built an empirical understanding of critical
+                   topics: from education and employment to health and well-being; home affairs and social
+                   policy to infrastructure and defense and security issues; through to innovation policy
+                   and research impact.
+
+                   RAND Europe approaches each project as unique, informed by a deep understanding
+                   of the policy context. With strengths in designing policy, providing analysis, and making
+                   recommendations grounded in disciplined research, RAND Europe helps clients
+                   reach better decisions to bring about a world where people thrive.
+
+
+
+
+20   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                                           SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+                                                     Russia’s War
+                                                     in Ukraine
+                                                     Emerging Insights for UK
+                                                     and NATO Joint Doctrine
+                                                     James Black, Pauline Paille, Charlotte Kleberg,
+                                                     Conlan Ellis and Maxime Sommerfeld Antoniou
+
+
+
+
+                                                Evaluation of the
+                                                Centre for Earth                                                             Implications of Emerging
+                                                Observation                                                                  Technology for UK Space
+                                                Instrumentation (CEOI)                                                       Regulation Policy
+                                                                                                                             Findings of a Horizon Scan
+                                                Interim Report
+                                                                                                                             James Black, Theodora Ogden, Mélusine Lebret, Andy Skelton,
+                                                Theodora Ogden, Billy Bryan, Michelle Qu, Dominic Yiangou,                   Zsofia Wolford and Henri van Soest
+
+
+
+FOCUS AREAS
+                                                Katie O’Brien, Greg Sadlier, Alyssa Frayling, Luca Niccolai,
+                                                Luca Budello, Aravind Ravichandran, Deepika Ravishankar
+                                                and Scott Mackie
+
+
+
+
+Defense and Security. In a climate of
+uncertainty and rapidly evolving threats,
+RAND Europe equips clients with the
+evidence-based analysis they need to inform
+their decisionmaking. Our topics cover the
+spectrum of defense and security strategy
+and capability, equipment acquisition,
+personnel policy, technology trends, and how
+societies can be made more resilient.
+
+Health and Care. RAND Europe uses
+advanced research and analysis to make
+sense of challenges and opportunities across
+public health, health systems and services,
+technology and innovation, and the
+workplace and well-being.
+
+Home Affairs and Social Policy.
+Researchers at RAND Europe evaluate and         Humanitarian Technology
+provide expert analysis on crime and justice,   Adoption Case Study
+                                                Biometrics
+education, and employment for governments,      Pauline Paille, Hampton Toole,
+                                                Chryssa Politi, Jacob Ohrvik-Stott
+
+
+
+policymakers, foundations, and charities
+to help inform policymaking in the UK and
+internationally.
+                                                                                                                             The burden of
+                                                                                                                             respiratory syncytial
+Science and Emerging Technology. RAND                                                                                        virus in adults in the UK
+Europe helps clients understand how to                                                                                       Kevin Herbert1, Mark Cabling, Stephen Morris1, Fifi Olumogba,
+                                                                                                                             Stephanie Stockwell, Anna Louise Todsen, Jon Sussex
+
+
+
+maximize the gains that science, technology,                                                                                 1
+                                                                                                                                 University of Cambridge
+
+
+
+
+and innovation can bring to society and the
+economy and how unintended consequences
+can be mitigated through effective regulation
+and stakeholder engagement.
+
+
+                                                                                           R A N D             A N N U A L   R E P O R T                                           2 0 2 4   21
+                              RAND Global and Emerging Risks
+                              RAND Global and Emerging Risks, the newest research division in
+                              the organization, addresses large-scale risks that may be catastrophic or
+                              existential for civilization—well beyond the security interests of any
+                              one nation.
+
+                              The ways in which these risks may manifest, the probability that they will
+                              arise, and the consequences if they do are all uncertain.
+
+                              RAND Global and Emerging Risks seeks to inform both policymakers
+                              and the broader public.
+
+
+
+
+22   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                                                   SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+RESEARCH CENTERS                                                 INTERNATIONAL CHAIRS
+
+The Meselson Center is dedicated to reducing risks from          RAND Global and Emerging Risks houses RAND’s international
+biological threats and emerging technologies. The center         chairs for selected countries to conduct regionally focused
+combines policy research with technical research to provide      research.
+policymakers with the information needed to prevent,
+                                                                 The Tang Chair in China Policy Studies undertakes research
+prepare for, and mitigate large-scale catastrophes.
+                                                                 on the critical factors that will influence China’s future, particularly
+The Technology and Security Policy Center researches             in education and health.
+how high-consequence, dual-use technologies change the global
+                                                                 The Taiwan Policy Initiative is positioned at the center of
+competition and threat environment, then develops policy and
+                                                                 important Taiwanese policy issues and contributes research on
+technology options to advance the competitiveness and security
+                                                                 the critical factors that will influence Taiwan’s future, with particular
+of the United States, its allies and partners, and the world.
+                                                                 focus on its long-term growth, socioeconomic development,
+The RAND Center for Climate and Energy Futures studies           domestic policy, and security.
+emerging risks associated with the changing climate, society’s
+                                                                 The Russia and Eurasia Policy Chair aims to further enhance
+responses to those risks, and the processes and conditions
+                                                                 analysis of the region and of the impact Moscow’s actions may
+needed for policy implementation.
+                                                                 have on the larger geopolitical landscape.
+The China Research Center seeks to improve how U.S.,
+                                                                 The Korea Policy Chair focuses on challenges to East Asian
+ally, and partner policymakers and the public understand the
+                                                                 security and prosperity that are of interest to the Republic of
+People’s Republic of China. It will examine China’s leadership
+                                                                 Korea and the United States.
+decisionmaking and politics; the strategic implications of
+China’s domestic challenges; and geopolitical, economic,         The Israel Policy Chair will undertake research on the critical
+and technological dimensions of the U.S.-China competition.      factors that will influence Israel’s future, with particular focus on its
+                                                                 long-term growth; socioeconomic development; domestic policy;
+                                                                 and relationship with the region, the United States, and the world.
+                               RAND Health Care
+                               RAND Health Care promotes healthier societies by improving health
+                               care systems in the United States and other countries. We provide health
+                               care decisionmakers, practitioners, and the public with actionable,
+                               rigorous, objective evidence to support their most complex decisions.
+
+
+
+
+24   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                                           SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+FOCUS AREAS
+
+Access to Care. RAND researchers
+skillfully analyze data to untangle health care
+outcomes from patient characteristics to
+document where disparities exist, and work
+to develop strategies to enhance access to
+health care practice, policy, and research.
+
+Behavioral Health. Behavioral health
+policies are critically important to the overall
+health of large portions of the U.S. population.
+More than one in five U.S. adults live with
+a mental illness, and mental health and                                                                                                                                                                                                               Research Report
+
+
+
+
+substance use disorders are often linked.                                                                                                              JONATHAN S. LEVIN, DANIEL J. CRESPIN, JIN KIM, RACHEL O. REID, CHRISTOPHER M. WHALEY,
+                                                                                                                                                       MICHAEL DWORSKY
+
+
+
+RAND Health Care takes a multidisciplinary
+                                                                                                                                                       Methodologies to
+approach to studying behavioral health,                                                                                                                Measure Upcoding
+both from a systems perspective and at the                                                                                                             in Provider Settings
+community level.                                                                                                                                       A Scoping Review
+
+
+
+
+Benefits and Affordability. RAND Health
+Care has a long history of examining the
+design of health care benefits and its effect
+on the uptake of health care services, health
+outcomes, and costs. Our experts have
+developed and implemented a range of
+methods to evaluate the impact of federal and
+state efforts to improve benefit design.                                                                                                                                                                                                         Evaluation Report
+
+
+
+
+Delivery Improvements. RAND Health Care
+                                                                                                                                                        NI C O L E K . E BE RH AR T, J. S C OT T A S H WO OD, W E N DY H AW KI NS , A LIS O N AT H EY, STEPHANIE WILLIAMSON,
+                                                                                                                                                        A L E JA N DR O R OA C O N TR ER A S , RYA N K . M CB AI N , STAC E Y Y I, PR IYA G A ND H I
+
+
+
+
+                                                                                                                                                        Evaluation of the
+researchers with backgrounds in medicine,                                                                                                               California Multi-County
+                                                                                                                                                        Full Service Partnership
+statistics, and health policy disciplines,                                                                                                              Innovation Project
+among others, explore a range of innovations
+                                                                                                                                                        S
+                                                                                                                                                               erious mental illness (SMI), as defined by the Substance Abuse and Mental Health Services
+                                                                                                                                                               Administration, pertains to individuals age 18 and older who either presently have or have
+
+
+to separate hype from promise while staying                                                                                                                    experienced within the past year a diagnosable mental, behavioral, or emotional disorder
+                                                                                                                                                               leading to functional impairment that hinders or restricts major life activities.1 In 2019,
+                                                                                                                                                     3.9 percent of adults in California experienced an SMI,2 with higher prevalence among Californians
+                                                                                                                                                     with the lowest incomes.3 Beyond income, another barrier to sustained wellness and recovery for
+
+
+
+vigilant to detect unintended consequences.
+                                                                                                                                                     individuals with SMI is co-occurring substance use disorders, creating complex needs for treatment.
+                                                                                                                                                                                                                          California’s Full Service Partner-
+                                                                                                                                                                                                                     ship (FSP) programs aim to address
+                                                                                                                                          KEY FINDINGS                                                               these barriers. FSP programs began
+                                                                                                                                          ■ The initial cohort of six counties participating in the California       as an effort to provide comprehensive
+                                                                                                                                            Multi-County Full Service Partnership (FSP) Innovation Project           and integrated care for people with
+                                                                                                                                            successfully developed standardized definitions for key popula-          SMI with the goal of reducing hospi-
+                                                                                                                                            tions served, as well as common process and outcome metrics.
+                                                                                                                                                                                                                     talizations, justice involvement, and
+
+
+Price Transparency. Over the last four
+                                                                                                                                            A subset of the counties succeeded in developing program step-
+                                                                                                                                            down and graduation guidelines, improved data collection pro-            homelessness.4 FSP programs provide
+                                                                                                                                            cesses, and referral guidelines or processes.                            comprehensive, covery-oriented
+                                                                                                                                                                                                                     services and share a philosophy of
+                                                                                                                                          ■ After the initial development of planned changes to the FSP pro-
+                                                                                                                                            grams, the extent of on-the-ground implementation and sustain-
+                                                                                                                                                                                                                     individualized care, often employ-
+
+
+
+decades, public and private sectors have
+                                                                                                                                            ment varied by county and by innovation area.                            ing intensive case management or
+                                                                                                                                                                                                                     assertive community treatment, a
+                                                                                                                                          ■ Outcomes for FSP participants improved during the first 12
+                                                                                                                                                                                                                     community-based service delivery
+                                                                                                                                            months of involvement. Participants experienced reduced psy-
+                                                                                                                                            chiatric inpatient admissions, increased stable housing, and             model for people living with severe
+                                                                                                                                            decreased judicial system involvement.                                   and persistent mental illness.5 Some
+
+
+experimented with payment approaches,
+                                                                                                                                                                                                                     of the FSP programs are directly
+                                                                                                                                              ■ Improvement in individuals’ outcomes increased after participa-
+                                                                                                                                                tion in the FSP Innovation Project, suggesting that the project
+                                                                                                                                                facilitated improved quality of care.
+
+
+
+
+motivating providers to deliver better care at
+lower cost. RAND Health Care leads the way
+in efforts to understand the links between
+physician payment, quality of care, and                                                                             Research Report                                                                                                                   Research Report
+
+
+
+system cost.
+                                                   MARK J. SORBERO, YAOU FLORA SHENG, SWAD KOMANDURI, JODI L. LIU                                      ANDREW W. MULCAHY, PREETHI RAO, LINDSEY PATTERSON, ANNETTA ZHOU,
+                                                                                                                                                       JONATHAN S. LEVIN, RACHEL O. REID, SARAH JUNGHEE KANG, ZETIANYU WANG,
+                                                                                                                                                       SUSAN L. LOVEJOY
+
+
+
+
+Quality of Care. Despite spending more             Use of Inpatient
+                                                                                                                                                       Prescription Drug
+on health care than other countries, U.S.          Psychiatric Facilities
+                                                                                                                                                       Prices, Rebates,
+populations experience poorer health               by Medicare
+                                                                                                                                                       and Insurance
+outcomes. RAND Health Care research                Beneficiaries with
+                                                                                                                                                       Premiums
+explores multiple aspects of quality               Dementia
+measurement, ways to help care be more
+patient-centered, and opportunities to
+improve patient safety.
+
+
+
+
+                                                                                            R A N D                             A N N U A L               R E P O R T                                                                 2 0 2 4                                  25
+                       RAND Homeland Security
+                       Research Division
+                       The RAND Homeland Security Research Division focuses its analytic efforts on
+                       enhancing the security, safety, and resilience of communities by improving
+                       their ability to prepare for, respond to, and recover from dynamic and emerging
+                       threats and hazards, which include natural disasters, transnational crime,
+                       acts of terrorism, large-scale accidents, and domestic attacks perpetrated by
+                       nation-states.
+
+                       The division operates the Homeland Security Operational Analysis Center, a
+                       federally funded research and development center sponsored by the U.S. Department
+                       of Homeland Security (DHS). The division also conducts research and analysis
+                       for other federal, state, local, tribal, and public- and private-sector organizations
+                       that make up the homeland security enterprise. In addition, the division
+                       conducts research and analysis on homeland security matters for U.S. allies
+                       and private foundations.
+
+
+
+
+      RESEARCH PROGRAMS                                                FELLOWS
+      The Disaster Management and Resilience Program                   Each year, DHS and RAND select a small number of senior
+      assists DHS and the broader emergency management                 DHS personnel to work and study at RAND. The DHS-RAND
+      community in identifying strategies to mitigate, plan for,       Fellowship seeks to
+      respond to, and recover from natural and human-caused
+                                                                       • develop emerging government leaders with the strategic
+      disasters, hazards, and catastrophic incidents.
+                                                                         analysis and planning skills needed to meet the challenges
+      The Infrastructure, Immigration, and Security                      of an organization with a complex mission set
+      Operations Program supports a broad range of operational         • help achieve DHS’s missions and evidence-based
+      components inside DHS, as well as sponsors across the              decisionmaking by integrating applicable operational
+      homeland security enterprise, to proactively adapt to changing     concepts into cutting-edge research, analysis, and
+      opportunities, threats and hazards, and resulting risks.           evaluation with renowned RAND researchers on critical
+                                                                         homeland and national security issues
+      The Management, Technology, and Capabilities
+      Program seeks to strengthen DHS and assist sponsors              • strengthen partnerships with leading researchers in
+      across the homeland security enterprise by advancing               homeland security
+      research and analysis that ensure that the overall               • support the innovation needed to better manage
+      organization, workforce, resources, and technological              DHS resources
+      capabilities are appropriately aligned to confront
+      urgent threats and execute missions.                             In addition, each year the U.S. Coast Guard selects officers
+                                                                       to attend senior service schools, of which RAND is one. The
+                                                                       Coast Guard sends officers to these programs to develop
+                                                                       senior leaders with the strategic thinking and planning skills
+                                                                       needed to meet the challenges of Coast Guard missions
+                                                                       and to prepare the Coast Guard for the future, to provide
+                                                                       superior public service across all missions, to form effective
+                                                                       partnerships inside and outside the service, and to support
+                                                                       the innovation needed to more effectively manage Coast
+                                                                       Guard resources.
+
+
+
+26   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                                                                                                       SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                           RESEARCH BRIEF
+
+
+
+
+                                                                                                                                                                                                                                                                                                    Understanding and
+                                                                                                                                                                                                                                                                                                     Managing Global
+                                                                                                                                                                                                                                                                                                    Catastrophic Risk
+
+
+
+
+                                                                                                                                                                                                                                                                                                                               HS AC HOMELAND SECURITY
+                                                                                                                                                                                                                                                                                                                                                    OPERATIONAL ANALYSIS CENTER
+                                                                                                                                                                                                                                                                                                                               AN FFRDC OPER ATED BY R AND UNDER CONTR ACT WITH DHS
+
+
+
+
+                                                                                                                                                                                     Research Report
+
+
+
+
+                                                                                                        AARON C. DAVENPORT, KATHERINE ANANIA, SUSAN A. RESETAR, ALEXIS LEVEDAHL,
+                                                                                                        LIAM MCLANE, JO CAULKINS, MELISSA BAUMAN
+
+
+
+
+                                                                                                        Great Lakes Oil Spill
+                                                                                                        Response Capabilities
+                                                                                                        Evaluation
+
+
+
+
+                                                                                                        HS AC
+                                                                                                        HOMELAND SECURITY
+                                                                                                        OPER ATIONAL ANALYSIS CENTER                            An FFRDC operated by RAND under contract with DHS
+
+
+
+
+T
+                 he Homeland Security Act of 2002 mandates that the
+                 U.S. Department of Homeland Security (DHS) establish
+                                                                                                                                                                              Research Report
+                 university-based consortia to address challenges for
+                 homeland security. Since then, over 20 Centers of
+                 Excellence (COEs) have been funded to perform research
+in the field and develop related curricula and training. These COEs are
+                                                                                                              PATRICIA A. STAPLETON, WILLIAM SHELTON, DANIEL HICKS, KATIE A. WILSON,
+overseen by the Science and Technology Directorate’s (S&T) Office of                                          ROBERT HUANG, KATHERINE ANANIA, CHRISTY FORAN, AMADO CORDOVA,
+University Programs (OUP), which engaged the Homeland Security                                                SARAH JUNGHEE KANG, MATTHEW SARGENT, DIANA GEHLHAUS
+Operational Analysis Center (HSOAC) at RAND to assist in assessing the
+
+
+
+                                                                                                              Structures, Functions,
+COEs’ core structures, functions, and processes to determine areas for
+potential improvements.
+
+An HSOAC team thus conducted a study of the DHS COE program,
+as well as similar COE programs and entities within other federal
+organizations. They reviewed both publicly available information and
+internal materials shared by specific programs to understand the
+                                                                                                              and Processes of
+objectives, structures, management, and oversight processes of federal
+COEs, as well as the historical and legal frameworks underpinning
+COE programs. They also held open-ended discussions with selected
+                                                                                                              Centers of Excellence
+points of contact within OUP, DHS components and DHS, and other
+federal COEs. Through qualitative analysis of the data collected, the                                         An Analysis of Federal Programs
+HSOAC team identified lessons learned and best practices and made
+recommendations for federal departments and agencies that support
+COE programs, including DHS.
+
+
+
+
+                                                                                $34.00
+
+                                                       ISBN-10 197741305-6
+                                                       ISBN-13 9781977413055
+                                                                               53400
+
+
+
+
+                                                   9    781977 413055
+                                                                                                             HS AC
+Cover image design by Carol Ponce, adapted
+from images by Jarrad Kearney/U.S. Army and
+Gorodenkoff/Getty Images
+
+
+                                                                                                             HOMELAND SECURITY
+                                                                                                              OPER ATIONAL ANALYSIS CENTER      AN FFRDC OPERATED BY RAND UNDER CONTRACT WITH DHS
+RR-A2304-1
+
+
+
+
+                                                                                                                                                                                                                    Improving the Effectiveness of U.S. Coast Guard International Affairs Efforts
+                                                                                                                                                                            Research Report
+                                                                                                                                                                                                                                                                                                                                                                                               Research Report
+
+
+
+                                                                                                            PAULINE MOORE, BRIAN A. JACKSON, JENNIFER T. LESCHITZ,
+                                                                                                            NAZIA WOLTERS, THOMAS EDWARD GOODE, MELISSA KAY DILIBERTI,
+                                                                                                                                                                                                                                                                                                    SARAH WEILANT, SCOTT SAVITZ, EMILY HOCH, DAN ABEL, BENJAMIN J. SACKS,
+                                                                                                            PHOEBE FELICIA PHAM
+                                                                                                                                                                                                                                                                                                    JULIA VIDAL VERÁSTEGUI, ISABELLE WINSTON, MICHELLE D. ZIEGLER
+
+
+
+
+                                                                                                            Developing Practical                                                                                                                                                                    Improving the Effectiveness
+                                                                                                            Responses to Social                                                                                                                                                                     of U.S. Coast Guard
+                                                                                                            Media Threats                                                                                                                                                                           International Affairs Efforts
+                                                                                                            Against K–12 Schools
+                                                                                                            An Overview of Trends, Challenges, and Current
+                                                                                                            Approaches
+
+
+
+
+                                                                                         MOORE ET AL.
+
+
+
+
+                                                                                                        HS AC
+                                                                                                         HOMELAND SECURITY
+                                                                                                                                                                                                                                                                                                    HS AC
+                                                                                                                                                                                                                                                                                                    HOMELAND SECURITY
+                                                                                                                                                                                                                                                                                                    OPER ATIONAL ANALYSIS CENTER                           An FFRDC operated by the RAND Corporation under contract with DHS
+                                                                                                         OPER ATIONAL ANALYSIS CENTER        An FFRDC operated by the RAND Corporation under contract with DHS
+
+
+
+
+                                                                                                                                                     R A N D                                               A N N U A L                                                                                R E P O R T                                                              2 0 2 4                                         27
+                       RAND National Security
+                       Research Division
+                       The RAND National Security Research Division is an international pacesetter in
+                       defense research and analysis. To help world leaders overcome seemingly intractable
+                       security challenges and manage complex defense institutions, the division builds
+                       multidisciplinary teams that bring to the table unique perspectives, extensive
+                       experience, and diverse skill sets.
+
+                       We support the U.S. Department of Defense (DoD), as well as a number of non-
+                       DoD entities in the United States and abroad.
+
+                       The division operates the National Defense Research Institute, a federally funded
+                       research and development center whose sponsors include the Office of the Secretary
+                       of Defense, the Joint Staff, the Unified Combatant Commands, the defense agencies,
+                       and the Department of the Navy.
+
+                       Our research and analysis also support the governments of a number of U.S. allies
+                       and partners, a variety of foundations, and several non-DoD entities, including
+                       the U.S. intelligence community and the U.S. Department of State.
+
+
+
+
+      RESEARCH PROGRAMS
+
+      The Acquisition and Technology Policy Program helps               force development, and strategy issues. Employing a range
+      ensure that U.S. and allied forces have the materiel they need    of analytical approaches—including cost-effectiveness
+      to accomplish their missions in every warfighting domain:         analyses, risk assessments, technology surveys, industrial
+      space, air, ground, sea, and cyber.                               base reviews, and personnel and operational evaluations—
+                                                                        the program investigates personnel readiness, power
+      The International Security and Defense Policy Program             projection, and expeditionary operations; platform and
+      illuminates strategic security dynamics for the United States     system costs; interoperability demands; logistics, technology,
+      and its allies and partners. The program draws on cross-          and industrial capabilities; and Marine force intelligence,
+      disciplinary teams applying mixed qualitative and quantitative    surveillance, and reconnaissance.
+      methods to examine the political, military, economic, cultural,
+      and technological dimensions of global security challenges.       Decades of defense manpower analyses by the Personnel,
+      The program enables its sponsors to anticipate the security       Readiness, and Health Program have helped military leaders
+      environment, develop grand and defense strategies, evaluate       manage recruiting and retention crises, the transition to an
+      the effectiveness of military forces and other elements of        all-volunteer force, the post–Cold War drawdown, and the
+      national power, and enhance security cooperation with allies      post-9/11 buildups. The program’s ongoing projects
+      and partners.                                                     in many areas—including the career development of military
+                                                                        and civilian personnel; individual and unit readiness; family
+      The Navy and Marine Forces Program helps the U.S. Navy            support, reintegration, and quality-of-life programs; and
+      and U.S. Marine Corps, allied maritime and amphibious forces,     military health policy—are broadly applicable to U.S., allied,
+      and other clients manage acquisition, sustainment, personnel,     and partner forces.
+
+
+
+28   R A N D   A N N U A L   R E P O R T   2 0 2 4
+SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+                                         29
+                    RAND Project AIR FORCE
+                    The mission of RAND Project AIR FORCE (PAF) is to conduct an integrated program
+                    of objective analysis on issues of enduring concern to U.S. Department of the Air
+                    Force leaders. PAF addresses far-reaching and interrelated questions: What will be the
+                    role of air and space power in the future security environment? How should the force
+                    be modernized to meet changing operational demands? What should be the size and
+                    characteristics of the department’s workforce, and how can that workforce be most
+                    effectively recruited, trained, and retained? How should sustainment, acquisition, and
+                    infrastructure be streamlined to control costs?
+
+                    Since its founding in the 1940s, PAF has remained the only Department of the Air Force
+                    federally funded research and development center concerned entirely with studies and
+                    analyses rather than systems engineering or scientific laboratories.
+
+
+
+
+30   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                     SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+RESEARCH PROGRAMS
+
+The Strategy and Doctrine Program seeks
+to increase knowledge and understanding
+of geopolitical and other problems in the
+national security environments that affect
+Department of the Air Force operations.
+PAF maintains expertise in grand strategy;
+evolving security challenges; power
+projection; expeditionary operations; and the
+changing roles of air, space, and cyber power
+in current and future operations.
+
+The Force Modernization and
+Employment Program identifies and
+assesses ways in which technological
+advances and new operational concepts
+can improve the Department of the Air
+Force’s ability to satisfy a range of future
+operational demands. This research involves
+assessments of technology feasibility,
+performance, cost, and risk. PAF assesses
+major air, space, and cyber force components
+needed in the future and the systems and
+infrastructure supporting their operations.
+Areas of specialization include intelligence,
+surveillance, reconnaissance, mobility, long-
+range strike, combat air forces, command and
+control, space, cyber, and nuclear.
+
+The Resource Management Program
+analyzes policies and practices within three
+themes: (1) resilience of Department of the Air
+Force installations, assets, and information;
+(2) efficient and effective allocation of resourc-
+es; and (3) health of the defense industrial and
+technology base. The goal of the research
+conducted within the program is to maximize
+the efficiency and effectiveness of operations
+in a resource-constrained environment.
+
+The Workforce, Development, and Health
+Program examines the Department of the
+Air Force’s workforce size and composition
+and addresses the best ways to define,
+sustain, renew, deliver, and coordinate
+critical workforces. PAF also considers
+personnel development, such as training, job
+opportunities, and career advancement, and
+analyzes the physical and mental health of the
+workforce. PAF’s research encompasses the
+total workforce: active-duty, guard, reserve,
+civilian, and contractor personnel.
+
+
+
+
+                                                         R A N D   A N N U A L   R E P O R T   2 0 2 4   31
+                     RAND Social and Economic Well-Being
+                     RAND Social and Economic Well-Being seeks to actively improve the health and
+                     social and economic well-being of populations and communities throughout the world.
+                     Our aim is to produce high-quality and consumable research and analysis that address
+                     critical factors necessary to promote health and social and economic well-being and
+                     to support decisionmakers and policy influencers in using the best and most
+                     practical approaches to solve social and economic problems.
+
+
+
+
+32   R A N D   A N N U A L   R E P O R T   2 0 2 4
+                                                     SELEC T E D 2 0 24 P U BL IC AT IO N S
+
+
+
+
+RESEARCH PROGRAMS
+
+The Community Health and
+Environmental Policy Program focuses
+on such topics as infrastructure, climate
+change, science and technology (including
+commercial space policy), industrial policy,
+energy transitions, disaster response and
+resilience, community design, community
+health promotion, migration and population
+dynamics, transportation, and broader
+environmental quality. We also focus on policy
+concerns that are influenced by the natural
+and built environment, technology, and
+community organizations and institutions that
+affect well-being.
+
+The Justice Policy Program addresses
+public safety and the performance of the civil
+and criminal justice systems for federal and
+state agencies, local police departments, and
+the private sector. The program addresses
+key policy issues in the criminal and civil
+justice systems: effective policing, extremism,
+access to justice, border security, corrections
+reform and recidivism, drug policy, the
+courts, and the role of corporate ethics
+and accountability.
+
+The Social and Behavioral Policy Program
+aims to improve the quality of life for people
+of all ages; socioeconomic backgrounds;
+and physical, mental, and cognitive
+abilities. Cross-disciplinary teams help
+decisionmakers advance solutions to improve
+the effectiveness of economic and social
+programs; support marital and family well-
+being; raise people out of poverty; improve
+the lives of older adults, populations living with
+disabilities, and their caregivers; and further
+the positive development of children, youth,
+and young adults. The program also develops
+and evaluates prevention and treatment
+programs to address substance use and
+abuse, mental health, active and independent
+living, and other factors that are critical for
+well-being.
+
+
+
+
+                                                         R A N D   A N N U A L   R E P O R T   2 0 2 4   33
+          How We’re Funded
+           RAND provides research services, systematic analysis, and
+           innovative thinking to a global clientele.
+
+
+
+
+          U.S. Government                                 Centers for Disease Control                   Oriented Policing Services)
+                                                          and Prevention                                Office of Justice Programs
+          Congressional Research Service                  Centers for Medicare &                          National Institute of Justice
+                                                          Medicaid Services
+          Department of Commerce                          Health Resources and Services                 Department of State
+          National Oceanic and Atmospheric                Administration                                Bureau of Conflict and Stabilization
+          Administration                                                                                Operations
+                                                          National Institutes of Health
+          Department of Defense                             Eunice Kennedy Shriver National Institute   Bureau of Counterterrorism
+                                                            of Child Health and Human Development       Bureau of International Security
+          Defense Centers of Excellence
+                                                            National Cancer Institute                   and Nonproliferation
+          Defense Health Agency
+                                                            National Center for Complementary           Bureau of Population, Refugees, and
+          Defense Security Cooperation Agency
+                                                            and Integrative Health                      Migration
+          Defense Threat Reduction Agency
+                                                            National Heart, Lung, and Blood Institute   Office of Acquisitions Management
+          Department of the Air Force
+                                                            National Institute of Allergy and           Office of Inspector General
+               Space Security and Defense Program
+                                                            Infectious Diseases                         Special Envoys, Representatives,
+          Department of the Army                            National Institute of Dental and            Coordinators
+          Department of the Navy                            Craniofacial Research                       Under Secretary for Public
+               Marine Corps                                 National Institute of Diabetes and          Diplomacy and Public Affairs
+          Joint Staff                                       Digestive and Kidney Diseases
+                                                                                                        Department of the Treasury
+          Office of the Secretary of Defense                National Institute of Mental Health
+               Office of Net Assessment                     National Institute of Nursing Research      Department of Transportation
+               Office of the Director, Cost                 National Institute on Aging                 Federal Highway Administration
+               Assessment and Program Evaluation            National Institute on Alcohol Abuse         Department of Veterans Affairs
+               Under Secretary of Defense for               and Alcoholism
+               Acquisition and Sustainment                  National Institute on Drug Abuse            Environmental Protection Agency
+               Under Secretary of Defense                   National Institute on Minority Health
+                                                                                                        Millennium Challenge
+               for Personnel and Readiness                  and Health Disparities
+                                                                                                        Corporation
+               Under Secretary of Defense for Policy
+                                                          Department of Homeland Security               National Aeronautics and
+               Under Secretary of Defense for
+               Research and Engineering                   Countering Weapons of Mass                    Space Administration
+                                                          Destruction Office
+                 Defense Advanced
+                                                                                                        National Science Foundation
+                 Research Projects Agency                 Cybersecurity and Infrastructure
+                                                          Security Agency
+          Unified Combatant Commands                                                                    Office of the Director of
+                                                          Federal Emergency Management Agency           National Intelligence
+          Department of Education                         Management Directorate                        Intelligence Community
+          Institute of Education Sciences                 Science and Technology Directorate
+
+          Department of Health and                        Transportation Security Administration
+          Human Services                                  U.S. Coast Guard
+          Administration for Children and Families        U.S. Customs and Border Protection
+          Agency for Healthcare Research                  U.S. Immigration and Customs
+          and Quality                                     Enforcement
+                                                          U.S. Secret Service
+
+                                                          Department of Justice
+                                                          COPS Office (Office of Community
+
+
+
+
+34   R A N D    A N N U A L    R E P O R T      2 0 2 4
+                                                                     These funders commissioned one or more
+                                                                     projects that were active in 2024 and
+                                                                     that totaled at least $100,000.
+
+
+
+
+U.S. State and Local                       State of Louisiana                         Republic of China
+                                           Department of Education                    Ministry of National Defense, Taiwan
+Governments
+                                                                                      (MND-ROC)
+                                           State of Minnesota
+                                                                                      Taipei Economic and Cultural
+Commonwealth of Massachusetts              Council of Health Plans                    Office in Los Angeles
+Commonwealth of Pennsylvania               State of Oregon                            State of Qatar
+Allegheny County Department                Multnomah County Health Department
+of Human Services                                                                     Qatar Research, Development and
+                                                                                      Innovation Council
+                                           State of Texas
+Commonwealth of Puerto Rico
+                                           City of Austin                             United Arab Emirates
+Department of Housing
+                                           Harris County                              Embassy of the United Arab Emirates
+District of Columbia                                                                  Government of Abu Dhabi
+                                           State of Washington
+Pretrial Services Agency                                                                Abu Dhabi Early
+                                                                                        Childhood Authority
+State of California
+Board of State and Community Corrections   Non-U.S. Governments,                      United Kingdom
+California Correctional Health Services                                               Defence Science and Technology
+                                           Agencies, and Ministries
+                                                                                      Laboratory
+California Energy Commission
+                                                                                      Department for Transport
+California Health and Human                Commonwealth of Australia
+Services Agency                                                                       Department of Health and
+                                           Department of Defence
+                                                                                      Social Care
+California State Treasurer                 Department of Home Affairs
+                                                                                      Development, Concepts
+CalPERS                                    Seqwater                                   and Doctrine Centre
+City of El Monte
+                                           European Union                             Food Standards Agency
+City of Los Angeles
+                                           European Commission                        High Speed 2 (HS2)
+  Department of Mental Health
+                                             Directorate-General for Migration        Home Office
+  Department of Public Health
+                                             and Home Affairs                         Ministry of Defence
+  Los Angeles Unified School District
+                                             Directorate-General for                  Ministry of Justice
+  Probation Department                       Research and Innovation
+                                                                                      National Institute for Health
+  Public Defender                          European Defence Agency                    and Care Research
+Department of Health Care Services                                                    National Protective
+                                           Government of Canada
+Department of Industrial Relations                                                    Security Authority
+                                           Public Services and Procurement Canada
+Elk Grove Unified School District                                                     NHS England
+Imperial County                            Government of Japan                        NHS London Ambulance Service
+Los Angeles County                         Ministry of Defense                        UK Department for Science,
+                                             Japan Air Self-Defense Force             Innovation and Technology
+San Bernardino Valley Municipal
+Water District                                                                        UK Humanitarian Innovation Hub
+                                           Kingdom of Saudi Arabia
+San Diego County                                                                      UK Research and Innovation
+  Office of Education                      The Netherlands
+                                                                                      UK Space Agency
+                                           Research and Data Centre
+Santa Clara County
+Workforce Development Board
+Yolo County
+
+
+
+
+                                                                                                                             35
+          International Organizations                       University of Leicester                      Central Indiana Corporate Partnership
+
+                                                            University of Maryland                       Chey Institute for Advanced Studies
+          Sasakawa Peace Foundation
+                                                            University of Michigan                       Clean Air Task Force
+          United Nations Development Programme
+                                                            University of Minnesota                      Clinton Health Access Initiative
+          United Nations Office for Project Services
+                                                            University of Mississippi                    College Bridge
+          World Bank
+                                                            University of New Mexico                     The Council of State Governments
+
+                                                            The University of North Carolina at          DARTNet Institute
+          Colleges and Universities                         Greensboro                                   Dream Academy Foundation
+                                                            University of Oklahoma                       Economic Mobility Corporation
+          Arizona State University
+                                                            University of Oregon                         Ednovate
+          Boston University
+                                                            University of Pennsylvania                   FINRA
+          Brown University
+                                                            University of Pittsburgh                     Foundation for California
+          Clemson University                                                                             Community Colleges
+                                                            University of Southern California
+          Columbia University                                                                            Four Corners Regional
+                                                            The University of Texas
+               Trustees of Columbia University in                                                        Education Cooperative
+                                                              The University of Texas at Austin
+               the City of New York
+                                                              UT Southwestern Medical Center             Fund for Public Schools
+          Emory University
+                                                            The University of Utah                       Getting Smart Collective
+          George Mason University
+                                                            University of Washington                     The Hospital for Sick Children (SickKids)
+          Harvard University
+                                                                                                         IDA (Institute for Defense Analyses)
+                                                            Western Michigan University
+               Brigham and Women’s Hospital
+                                                                                                         Impetus
+               Harvard Medical School                       Yale University
+               Massachusetts General Hospital                                                            Institute for Future Engineering
+
+               President and Fellows of                                                                  Inter-American Development Bank
+                                                            Other Nonprofit Organizations
+               Harvard College                                                                           Kaiser Permanente
+          Johns Hopkins University                          Advanced Education Research and              Magee-Womens Research Institute
+          Massachusetts Institute of Technology             Development Fund
+                                                                                                         MDRC
+          Mbarara University of Science                     AIA (The American Institute of Architects)
+                                                                                                         Memorial Sloan Kettering Cancer Center
+          and Technology                                    Allegheny Health Network
+                                                                                                         MITRE
+          Northwestern University                           American College of Emergency                National Academy of Sciences
+          Oregon Health & Science University                Physicians
+                                                                                                         National Bureau of Economic Research
+          Pennsylvania State University                     American Institutes for Research
+                                                                                                         National Committee for Quality Assurance
+          PennWest                                          America’s Poison Centers
+                                                                                                         National Education Association
+          RMIT University                                   Association of American Medical Colleges
+                                                                                                         National Quality Forum
+          Singapore Management University                   Association of Public Health Laboratories
+                                                                                                         New Levant Initiative
+          Stanford University                               Boston Medical Center
+                                                                                                         Oklahoma Partnership for School
+          Syracuse University                               Boys & Girls Clubs of Santa Monica           Readiness
+          Tufts University                                  Brilliant Corners                            Passport Academy Charter School
+          University of California                          California Mental Health                     Patient-Centered Outcomes
+                                                            Services Authority                           Research Institute
+               University of California, Berkeley
+               University of California, Irvine             CASEL                                        Pew Research Center
+               University of California, Los Angeles        Casimir Pulaski Foundation                   Propel Schools Foundation
+               University of California, San Diego          Cedars-Sinai                                 Renaissance Charitable Foundation
+          The University of Chicago                         Centerline Liberties                         Resources Legacy Fund
+          University of Colorado Denver
+                                                                                                         SafeHaven
+          University of Georgia
+                                                                                                         San Diego State University
+          University of Iowa                                                                             Research Foundation
+
+
+
+
+36   R A N D     A N N U A L     R E P O R T      2 0 2 4
+Sitka Sound Science Center               RAND would also like to thank the following grantmakers
+SRI                                      for supporting RAND research and analysis in 2024.
+Teach for All
+
+TNTP
+
+Urban Institute                          Grantmakers
+Vanderbilt University Medical Center
+                                         Archstone Foundation                   Ewing Marion Kauffman Foundation
+The Water Institute of the Gulf
+                                         Arnold Ventures                        Korea Foundation
+WestEd
+                                         Ascendium Education Group              Lloyd’s Register Foundation
+Westmoreland/Frick Hospital Foundation
+                                         BHP Foundation                         LuMind IDSC Foundation
+Wounded Warrior Project
+                                         Brothers Brook Foundation              Richard King Mellon Foundation
+
+                                         Builders Initiative                    Gordon and Betty Moore Foundation
+Industry
+                                         California Health Care Foundation      National Endowment for
+Abt Associates                                                                  Financial Education
+                                         Cancer Research UK
+Adagio Health                                                                   National Institute for Health
+                                         Carnegie Corporation
+The Asan Institute for Policy Studies                                           Care Reform
+                                         Central Valley Community Foundation
+ASP.MD                                                                          New York State Health Foundation
+                                         The Chicago Community Trust
+Australian Dental Council                                                       One8 Foundation
+                                         ClimateWorks Foundation
+Black & Veatch                                                                  Overdeck Family Foundation
+                                         Cooper Housing Institute
+Brown and Caldwell                                                              The Pew Charitable Trusts
+                                         Elizabeth Dole Foundation
+Civilian                                                                        Paul Ramsay Foundation
+                                         ECMC Foundation
+Genentech                                                                       Royal Air Force Benevolent Fund
+Harder + Company                         Education Endowment Foundation
+                                                                                Samueli Foundation
+Harvard Pilgrim Health Care              Fidelity Charitable
+                                                                                Alfred P. Sloan Foundation
+Health Services Advisory Group           Forces in Mind Trust
+                                                                                SPARK
+Hillcrest Advisory                       FORE (Foundation for Opioid
+                                         Response Efforts)                      Special Competitive Studies Project
+IBM Watson Health
+                                         The Michael J. Fox Foundation for      St. David’s Foundation
+Insight Investment
+                                         Parkinson’s Research
+                                                                                The Stanton Foundation
+JBS International
+                                         Gates Foundation
+Korea Institute for Defense Analyses                                            Surgo Foundation UK Limited
+                                         William T. Grant Foundation
+Lotic.AI                                                                        TAAF (The Asian American Foundation)
+                                         Greater Rochester Health Foundation
+Mathematica                                                                     Touch-a-Life Foundation
+                                         The Health Foundation
+Pfizer UK                                                                       The Wallace Foundation
+Policy Research Associates               Howard Heinz Endowment
+                                                                                Walton Family Foundation
+The Policy & Research Group              William and Flora Hewlett Foundation
+                                                                                The Water Research Foundation
+Rose Li & Associates                     Conrad N. Hilton Foundation
+                                                                                Wellcome
+Schell Games                             Impetus
+                                                                                What Works Centre for
+St. Clair Health                         The James Irvine Foundation            Children & Families
+Uber Advanced Technologies Group         Robert Wood Johnson Foundation         Ralph C. Wilson, Jr. Foundation
+WayBetter                                V. Kann Rasmussen Foundation           Youth Futures Foundation
+Westat
+
+
+
+
+                                                                                                                       37
+          Tomorrow Demands Today
+
+          With the world at a tipping point, and an urgent need for data to support decisionmaking, RAND
+          launched the Tomorrow Demands Today campaign to help find solutions to problems that are likely
+          to have outsized importance during the next half-century—problems that pose existential risks if the
+          world fails to act.
+
+          From strengthening and safeguarding communities to growing our graduate school to help RAND
+          produce the next generation of global policy leaders, our priorities are wide-ranging.
+
+          Many loyal RAND supporters, as well as new contributors—50 percent of our campaign contributors
+          were first-time RAND donors—joined our efforts. Contributions from individual donors and
+          philanthropic organizations are supporting efforts as varied as
+                •   strengthening the graduate school’s endowment and funding research in the
+                    area of public health policy, with an emphasis on mental health and
+                    children’s health and well-being
+                •   modernizing the RAND Archives, including constructing a new storage
+                    vault for preservation and a digital preservation studio
+                •   developing accessible tools to help former foster youth get the support
+                    they need to thrive
+
+          This has been the most ambitious campaign RAND has ever undertaken. But our mission—to help
+          improve policy and decisionmaking through research and analysis—has never been more important
+          for a world that is confronting some of its greatest challenges.
+
+          Every day, and with every project, RAND imagines a better tomorrow. We are using philanthropic
+          support to help deliver on that promise and create real change for the future.
+
+
+
+
+38   R A N D   A N N U A L   R E P O R T   2 0 2 4
+39
+          Campaign Contributors
+           RAND gratefully acknowledges cumulative giving in support of the Tomorrow
+           Demands Today campaign made by the following supporters.
+
+
+
+
+          $10,000,000+                                  Ann McLaughlin Korologos                   Karen Elliott House
+
+                                                        Molly and Dale M. Landi                    Benny T. Hu
+          Marcia and Frank Carlucci
+          Charitable Foundation                         The Li Lu Humanitarian Foundation          Donald M. James Family Foundation
+          Epstein Family Foundation                     The Lynton Foundation                      Iao Katagiri
+          Anahita and Jim Lovelace                      National Board of Chiropractic Examiners   Joel and Joanne Mogy
+          Lowy Family Foundation                        Jane and Ron Olson                         Soledad O’Brien and C. Brad Raymond
+          Open Philanthropy                             Gerald L. Parsky                           Joyce and Donald Rumsfeld
+          Frederick S. Pardee                           Gabriela and David Porges                  Joseph P. and Carol Z. Sullivan
+
+                                                        Jaan Tallinn                               Christopher Varelas
+          $5,000,000–$9,999,999
+                                                        Cecile and David Wang                      Barbara and Charles Zwick
+          Susan F. and Donald B. Rice                   Dr. Charles Wolf, Jr., and Theresa Wolf
+          Leonard D. Schaeffer                                                                     $100,000–$499,999
+          State Farm Insurance                          $500,000–$999,999                          Robert Adler and Alexis Deutsch Adler
+          Michael Tang                                  Robert J. Abernethy                        American Arbitration Association
+
+                                                        Allstate Insurance Company                 American International Group, Inc.
+          $1,000,000–$4,999,999
+                                                        Anonymous (2)                              Anonymous (3)
+          Chris Anderson and Jacqueline Novogratz       Katherine and William Benz                 Dwight “Arne” Arnesen
+          Anonymous                                     Frank M. Clark                             S. Ward and Catherine S.G. Atterbury
+          Chet and David Barclay                        Natalie W. Crawford                        AXA XL
+          Rose and Morton Berman                        Michael J. Critelli                        Vivian and William Benter
+          The Harold and Colene Brown                   Kenneth R. Feinberg                        Samuel A. Bozzette
+          Family Foundation
+                                                        Adam Flatto                                Brent and Linda Bradley
+          Charlottes och Fredriks Stiftelse
+                                                        The Rosalinde and Arthur                   Christopher Brothers
+          The Diller – von Furstenberg                  Gilbert Foundation
+          Family Foundation                                                                        Burford Capital
+                                                        The Diane and Guilford
+          William A. Downe                                                                         The Capital Group Companies
+                                                        Glazer Foundation
+                                                                                                   Charitable Foundation
+          Founders Pledge                               Gene and Gwen Gritton
+                                                                                                   Cedars-Sinai Health System
+          Michael Gould                                 The Nick and Leslie
+                                                                                                   Center for the Study of Democratic
+          Greenwald Impact Foundation                   Hanauer Foundation
+                                                                                                   Institutions, Inc.
+          Rita E. Hauser                                Ellen M. Hancock
+                                                                                                   Chevron
+          Ann and Ken Horn                              Reid Hoffman
+                                                                                                   Robert A. Clifford, Esq.
+          Joel Z. Hyatt                                                                            CNA Insurance Companies
+
+
+
+
+40   R A N D   A N N U A L    R E P O R T     2 0 2 4
+Lovida H. Coleman, Jr. and                  Benjamin Jiaravanon                    Raghib Family Foundation
+William T. Coleman, Jr.
+                                            JL Foundation                          William J. Recker
+Paul Cronson
+                                            Jones Day Foundation                   Neeraja and Raju Reddy
+The Dana Foundation
+                                            Ansir Junaid                           Ann and Kanwal Rekhi
+Nancy and James Demetriades
+                                            Haruki Kamiyama                        Michael Rich and Debra Granfield
+The Doctors Company
+                                            The Karen Katen Foundation             Sophie and Dane Ross
+Alexandra Drane and Antonio Bertone
+                                            Emmett Keeler & Shan Cretin            John J. Rydzewski
+Carine and Jacques E. Dubois
+                                            Sara and Hussein Khalifa               The SahanDaywi Foundation
+Tom Epley and Linnae Anderson
+                                            Spencer and Mia Kim                    Stephen and Maxine Sands
+ExxonMobil Corporation
+                                            Sherry and David Kirchheimer           Priscilla and Jack Schlegel
+Andrea and David Feinberg
+                                            Mirit and Joseph Konowiecki            Seeger Weiss LLP
+Florida Blue Foundation
+                                            Linda LeSourd Lader and Philip Lader   Eleanor B. Sheldon
+The Patrick J. Frawley Foundation
+                                            Alice and Michael Leiter               The Sidley Austin Foundation
+Marilyn & Robert Funari Family Foundation
+                                            The Lenzner Family                     Siguler Guff & Company
+Susan and Jim Gaither
+                                            Liberty Mutual Insurance               Lucille Ellis Simon Foundation
+Patrick J. Geraghty
+                                            William E. Mayer                       Douglas J. Smith
+Marcie and Cliff Goldstein
+                                            Jack McCauley                          Sony Pictures Entertainment
+Cambria and Howard Gordon
+                                            Aria Mehrabi                           The Speyer Family Foundation
+Jay Greer
+                                            Merck & Co.                            Deanie and Jay Stein
+Dana Guerin
+                                            Stephen Metzger and Nancy Albertini    Swiss Reinsurance Company
+Robert Hammesfahr and Susie
+                                            Minow Family Foundation                Darlene and James A. Thomson
+Shaw-Hammesfahr
+                                            Santiago and Eloisa Morales            The Travelers Companies, Inc.
+Bonnie and Walter Hill, Jr.
+                                            Elizabeth Hirsh Naftali                Waking Up Foundation
+Ann and Steve Hinchliffe
+                                            Y&S Nazarian Family Foundation         W. Weldon Wilson
+The Home Depot, Inc.
+                                            Pin Ni, Wanxiang America Corporation   Timothy Wolf
+Susan and Tod Hullin
+                                            Nancy and John Novogrod                Robert and Phyllis Wolff
+The Isambard Kingdom Brunel
+Society of North America                    Paul and Celine O’Neill                Dennis J Wong
+Japan Bank for International                S. Louise and Howard Phanstiel         Songyee Yoon, NCSOFT
+Cooperation                                                                        Cultural Foundation
+                                            Planet Heritage Foundation
+Zain and Farzana Jeewanjee                                                         Jean and Daniel Yun
+                                            Thomas and Jody Priselac
+
+                                            The Progressive Corporation
+
+
+
+
+                                                                                                                      41
+          $50,000–$99,999                              Joe and Janus Greer                   Reinsurance Association of America
+
+                                                       Lilibet and Chuck Hagel               Paul & Joyce Rheingold Family Foundation
+          AARP
+                                                       William R. Harris Family              Safa M. Rifka, M.D.
+          Goli Ameri Family Foundation
+                                                       Haynes and Boone, LLP                 Teresa Wynn Roseborough
+          American Property Casualty
+          Insurance Association                        Jay Hellman                           Nancy and Barry Sanders
+          Anonymous                                    Horizon Institute of Public Service   Alice Coleman Schelling
+          Barbara M. Barrett                           Beth Iguchi                           Sharon Stevenson
+          Newton and Rochelle Becker                   Ghada and Ray R. Irani                Steve Strongin
+          Charitable Trust
+                                                       JAMS                                  Al Togut
+          Marcia K. Bird in memory of
+          Kevin N. Lewis                               Lionel C. Johnson                     Weitz & Luxenberg, P.C.
+
+          Elizabeth J. Cabraser                        Margaret Julian
+
+                                                       Betsy and Howard Kahn                 $25,000–$49,999
+          Indira J. Cameron-Banks
+
+          Sean Carney                                  Ann Kerr-Adams                        American Insurance Association
+
+          Robert H. Carter                             Darcy Kopcho                          Lynn Anderson
+
+          Jane Cavalier                                Michael and Tina Kramer               Annenberg Foundation
+
+          George N. Chammas                            Lori and Richard Landgarten           Anonymous (3)
+
+          Ciervo Foundation                            The Ronald S. Lauder Foundation       Tollie and Marjorie Besson
+
+          The Coca-Cola Company                        Emily and Peter Luchetti              BGR Group
+
+          Culver Studios Owner LLC                     Siobhan MacDermott                    Anna Maria and Carl Bildt
+
+          Malik R. Dahlan                              Kristin and Preston McAfee            Dr. Evan and Mrs. Becca Bloom
+
+          Michael Dardia and Sarah Lubman              Munger, Tolles & Olson LLP            The Otis Booth Foundation
+
+          James Dugan                                  Michael Nelson                        Lana Borsook
+
+          Robert A. Eckert                             Joseph P. Newhouse                    Richard Breeden
+
+          Alain and Rosemary Enthoven                  Rob Oehler and Dr. Helene Lin         Dominic J. Brewer
+
+          Farmers Group, Inc.                          Pacific Century Institute, Inc.       Sara and Robert Cannon
+
+          The Friedman-Gluckman Family                 Anne and Arnold Porath                Caplin & Drysdale
+
+          Dr. C. Bryan Gabbard and Kathryn Gabbard     Potter Family Foundation              Chertoff Group, Chad Sweet
+
+          Google                                       Principle Quest Foundation            Margery A. Colloff
+
+          Jonathan P. Graham and Elizabeth B. Ulmer                                          Culver City Forward
+
+          Michal Grayevsky                                                                   Gregory Dalvito
+
+
+
+
+42   R A N D   A N N U A L     R E P O R T   2 0 2 4
+Andrea and Richard Danzig                  Marks Family Foundation                 Marsha Vande Berg and James Fuller
+
+Scott DePasquale                           Paul Marks                              The Winston Foundation
+
+Jean Drouin                                Aaron Martin                            Matt J. Wollman
+
+Mala Gaonkar                               Robert and Leslie Nutting               Charles Work and Veronica Haggart
+
+Matthew Garretson                          O’Melveny & Myers LLP
+
+General Electric Company                   Pacific Gas and Electric Company        $10,000–$24,999
+
+George A. Goldberg, M.D.                   Adele Palmer                            Dee and Allan Abrahamse
+
+Lindsee P. Granfield                       Bradley A. Perkins, M.D. and Mary Lou   Bob and Peggy Alspaugh
+                                           Lindegren, M.D.
+Ajay and Anshu Gupta                                                               Amgen
+                                           Mary E. Peters
+Mimi and Peter Haas Fund                                                           Anonymous
+                                           Andrew J. Pinkes
+Headsets.com, Inc.                                                                 Rae and Barbara Archibald
+                                           R10 Organization
+Larry Hochberg and the Hochberg                                                    Mr. and Mrs. Norman R. Augustine
+Family Foundation                          R. Ramaraj
+                                                                                   Brandon Baker & Michael Puopolo
+Mrs. Jihee Kim Huh and Mr. Peter Yun Huh   Carol Raphael
+                                                                                   Susan Woods Barker
+Roy A. Hunt Foundation                     Anne Rea and Kenneth Bigg
+                                                                                   Mr. and Mrs. G. Nicholas Beckwith III
+JND Legal                                  Robin D. Richards
+                                                                                   Dr. Marygail Brauner and Dr. Daniel Relles
+Dr. and Mrs. Paul G. Kaminski              Edie Rodriguez
+                                                                                   James Brown and Ann Brophy
+Lilly and Bruce Karatz                     Salesforce.com, Inc.
+                                                                                   Cindy and John Carson
+Peter Bicknell Kellner                     Stacy Scopano, Skender
+                                                                                   Russell Carson
+Claire Lee                                 Sean and Amy Sebastian
+                                                                                   Marguerite Casey Foundation
+Marilyn and Arthur Levitt                  John Seely Brown and Susan Haviland
+                                                                                   Louis M. and Sarah Jane Castruccio
+Kenneth Lipper                             Segal Family United World Foundation    Charitable Fund
+
+Thomas Lloyd                               Nirav R. Shah                           Ms. Maren Christensen
+
+Michelle and Josh Lobel                    The Shirazi Family Trust                Colorado School of Mines Foundation
+
+Sam Loeb                                   Sidney Stern Memorial Trust             Tarek Dajani
+
+John Lu and Keiko Chafey                   Christine Spagnoli                      Albert and Sally Davies
+
+David A. Lubarsky                          Robert Spring                           Deborah Davis
+
+Nancy A. Lyon                              Sunrise Foundation                      Brent S. Enright
+
+The Maloney Family Foundation              Robert and Marjorie Templeton           The Feintech Family
+
+                                           Gina Torino
+
+
+
+
+                                                                                                                                43
+          Dr. Irene H. Frieze                           Jason Matheny and Bhavya Lal             Scott + Scott Attorneys at Law LLP
+
+          Susan Fuhrman                                 Martha and Kent McElhattan               Pamela Severson
+
+          Ichiro Fujisaki                               The Robert and Joyce Menschel            George and Jane Shinners
+                                                        Family Foundation
+          Robert S. Gelbard                                                                      Gerald J. Sullivan
+                                                        Jennifer Middleton
+          Abner and Roslyn Goldstine                                                             Dr. Kantathi Suphamongkhon
+                                                        Robert A. K. Mitchell
+          Mary and Peter Griffith                                                                Elizabeth and Thomas Tierney
+                                                        Leslie Mitchner
+          Lalita D. Gupte                                                                        Michael and Shirley Traynor
+                                                        Mary and Lloyd Morrisett
+          Mary Ann and Kip Hagopian                                                              Jack Ubinger
+                                                        Catherine V. Mott
+          George and Pennie Harrison                                                             Winnie Wechsler and Jeffrey Wasserman
+                                                        Edward R. Muller and Patricia E. Bauer
+          Andy and Robin Hoehn                                                                   Jeff Weiss
+                                                        Mary D. Naylor
+          Frank L. Holder, Ph.D.                                                                 Tom and Marla Williams
+                                                        Nelson Law LLC
+          Laura Holmgren and Frank Fukuyama                                                      Thomas D. Wright
+                                                        Nancy J. and Paul H. O’Neill
+          Katie and Phil Holthouse                                                               Claudia and David Zuercher
+                                                        Bill Owens
+          William H. Hurt Philanthropy
+                                                        Elizabeth Rogers Palser                  $5,000–$9,999
+          Robert and Ardis James Foundation
+                                                        Mary Jane Penzo
+          Leland Johnson                                                                         Jan Paul Acton and Helen Blumen
+                                                        Pitney Bowes, Inc.
+          Terri and Michael Kaplan                                                               AK Steel Foundation
+                                                        QuantivRisk Inc.
+          Seymour F. Kaufman                                                                     Honey Kessler Amado
+                                                        Nick and Jacqueline Ramphal
+          John and Barbara Kavanagh                                                              Anonymous (5)
+                                                        Lauren and Daniel Resnick
+          Max Kelly                                                                              Nancy A. Aossey
+                                                        Ann Rice
+          Elizabeth and Alexander Kendall                                                        Julia Azrael
+                                                        Riverwood Capital Management L.P.
+          William Kovacic                                                                        James J. Bagley
+                                                        Stephen G. Robinson
+          Carolyn Kuhl and William Highberger                                                    Barry Balmat
+                                                        Paul N. Roth
+          Helaine and Marvin Lender Foundation                                                   Brian J. Barclay
+                                                        Keith Sachs
+          Elizabeth R. Lesan and                                                                 Bill Bohnert
+          Katsuyoshi Nishimoto                          Edward Saraffian
+                                                                                                 Ann and Frank Cahouet Foundation
+          Mrs. Beverly Lewis                            Scepter, Inc.
+                                                                                                 Cappello Global LLC
+          Lincoln Property Company
+                                                                                                 Albert and Robin Carnesale
+          Don Loeb
+                                                                                                 City National Bank
+          Christopher Lovrien
+
+
+
+
+44   R A N D   A N N U A L      R E P O R T   2 0 2 4
+CSA Research                       Phyllis Kantar                         Ben Rekhi
+
+The Nathan Cummings Foundation     Zalmay M. Khalilzad                    Charles Ries and Marcie Berman Ries
+
+Susan Dentzer and Charles Alston   Karen J. Kubin                         John Riordan
+
+Joseph Doherty and Velda Ruddock   Susanna Leng                           Laura H. Rockwell
+
+Carl Douglas                       Roger and Carla Levien                 Peter Rojas
+
+Darrell Dusina                     Cori and Richard Lowe                  Brian and Lynne Schreiber
+
+Eaton Corporation                  Ingrid M. Maples                       Nancy and William Scott
+
+Allison Elder and Tom Reinsel      Linda G. Martin                        Sue Siegel and Robert Reed
+
+Colleen Ellis                      Theodore and Mary Mascott              The Sikand Foundation
+
+Glenn A. Ellis                     William Matthews                       Ken and Marinette Simon
+
+Karen Wolk Feinstein, Jewish       Captain Robert L. Mayville III         Victoria and Barry Simon
+Healthcare Foundation
+                                   Mary A. McDonough                      Lois and Hal Slavkin
+Arnie and Judy Fishman
+                                   Helen Morris                           Roberta Jean Smith, Matrix Planning, Inc.
+Johanna and Eric Fleiss
+                                   P. Mukundan                            Joy and Bruce Soll
+James Gipson
+                                   J. Richard Munro and Carol K. Munro    Nancy Staudt
+Deborah Greenspan
+                                   News Corp                              Dick and Thea Stover
+Stephen and Ann Hadley
+                                   Mark and Nikki Nordenberg              Jian Torkan
+Richard and Anne Hallock
+                                   Oak View Group LLC                     C. George Van Kampen Foundation,
+Jeffrey and Kim Hiday                                                     Chris Andersen, President
+                                   Darleen Opfer
+Leslie Hill                                                               Julie (Kefer) Vetter
+                                   Harriet and Richard Orkand
+Marsha Hopwood                                                            Tracy and Hui Wang
+                                   Rosalie and Joseph S. Pacula
+Ada and Jim Horwich                                                       Frederick R. Weisman Discretionary Trust
+                                   Mari Pangestu
+Palmer G. Jackson                                                         Dr. Duane E. and Mrs. Sylvia Wikholm
+                                   John Peabody
+Jack Jacobs                                                               Ronald A. Williams
+                                   Timothy M. Pennington
+David and Dawn Jardini                                                    Ned and Joan Woodward
+                                   John D. Pinder
+Carolyn and Duncan Johnson                                                Young Conaway Stargatt & Taylor, LLP
+                                   David Pitofsky and Trena Keating
+Gregory K. Jones                                                          Kathryn and Damian Zamias
+                                   Pittsburgh Child Guidance Foundation
+
+                                   PNC Financial Services Group
+
+                                   Hussain Qaragholi
+
+
+
+
+                                                                                                                      45
+          Campaign Grantmakers
+           RAND thanks the foundations and other grantmaking organizations that have contributed
+           more than $1 million during the Tomorrow Demands Today campaign.
+
+
+
+
+          Archstone Foundation                        Pershing Square Philanthropies
+
+          Arnold Ventures                             The Pew Charitable Trusts
+
+          Ascendium Education Group                   The Rockefeller Foundation
+
+          Building a Stronger Future                  Charles and Lynn Schusterman
+                                                      Family Philanthropies
+          California Health Care Foundation
+                                                      Sea Grape Foundation
+          Carnegie Corporation of New York
+                                                      Stand Together Trust
+          ECMC Foundation
+                                                      The Stanton Foundation
+          Education Endowment Foundation
+                                                      Valhalla Foundation
+          FORE (Foundation for Opioid
+          Response Efforts)                           The Wallace Foundation
+
+          Gates Foundation                            Walton Family Foundation
+
+          Health Care Service Corporation             Ralph C. Wilson, Jr. Foundation
+
+          The Health Foundation                       Wounded Warrior Project
+
+          The Heinz Endowments
+
+          The William and Flora Hewlett Foundation
+
+          Conrad N. Hilton Foundation
+
+          Robert Wood Johnson Foundation
+
+          Korea Foundation
+
+          Richard King Mellon Foundation
+
+          Gordon and Betty Moore Foundation
+
+          National Institute for Health Care Reform
+
+          New York State Health Foundation
+
+          Overdeck Family Foundation
+
+
+
+
+46   R A N D   A N N U A L   R E P O R T    2 0 2 4
+Leading Lifetime Donors
+RAND is proud to recognize lifetime contributions of more
+than $1 million made by the following supporters.
+
+
+
+
+$10,000,000+                              Charlottes och Fredriks Stiftelse          Y&S Nazarian Family Foundation
+
+                                          The Chubb Corporation                      Jane and Ron Olson
+Marcia and Frank Carlucci
+Charitable Foundation                     CIGNA Corporation                          Nancy J. and Paul H. O’Neill
+
+Epstein Family Foundation                 CNA Insurance Companies                    Gerald L. Parsky
+
+Anahita and Jim Lovelace                  The Diller – von Furstenberg               Pershing Square Philanthropies
+                                          Family Foundation
+Lowy Family Foundation                                                               Pfizer Inc.
+                                          Elizabeth Dole Foundation
+Open Philanthropy                                                                    Gabriela and David Porges
+                                          The Dow Chemical Company
+Frederick S. Pardee                                                                  Property Casualty Insurers
+                                          William A. Downe                           Association of America
+Susan F. and Donald B. Rice
+                                          ExxonMobil Corporation                     John S. and Cynthia Reed Foundation
+The Stanton Foundation
+                                          The GE Foundation                          Lynda and Stewart Resnick
+State Farm Insurance
+                                          General Motors Corporation                 Sharon C. and James E. Rohr
+Michael Tang
+                                          Founders Pledge                            Maxine and Eugene S. Rosenfeld
+
+$5,000,000–$9,999,999                     The Diane and Guilford Glazer Foundation   Joyce and Donald Rumsfeld
+
+Allstate Insurance Company                Michael Gould                              The SahanDaywi Foundation
+
+The Martin Foundation                     Greenwald Impact Foundation                Samueli Foundation
+
+Anne Rothenberg                           Ellen M. Hancock                           Sea Grape Foundation
+
+Leonard D. Schaeffer                      Hartford Financial Services Group          Siguler Guff & Company
+
+                                          Rita E. Hauser                             Patrick Soon-Shiong
+
+$1,000,000–$4,999,999                     Ann and Ken Horn                           The Speyer Family Foundation
+
+Robert J. Abernethy                       Benny T. Hu                                The Starr Foundation
+
+Alcoa Foundation                          Joel Z. Hyatt                              Joseph P. Sullivan and Carol Z. Sullivan
+
+American Association for Justice          Johnson & Johnson Family of Companies      Swiss Reinsurance Company
+
+American International Group, Inc.        Lilly and Bruce Karatz                     Jaan Tallinn
+
+Chris Anderson and Jacqueline Novogratz   Ewing Marion Kauffman Foundation           The Travelers Companies, Inc.
+
+Chet and David Barclay                    Ann McLaughlin Korologos                   United Health Foundation
+
+Vivian and William Benter                 Molly and Dale M. Landi                    Valhalla Foundation
+
+Rose and Morton Berman                    Liberty Mutual Group                       Cecile and David Wang
+
+Peter S. Bing                             The Li Lu Humanitarian Foundation          WellPoint Foundation
+
+The Harold and Colene Brown               The Lynton Foundation                      Dr. Charles Wolf, Jr., and Theresa Wolf
+Family Foundation
+                                          Nancy and Dana G. Mead                     Barbara and Charles Zwick
+
+                                          National Board of Chiropractic Examiners
+
+
+
+
+                                                                                                                                47
+           RAND’s Graduate School
+
+
+
+          2024
+                                                was a transformational year for RAND’s graduate school,
+                                                which expanded with a new degree program, a new campus,
+                                                and new students, staff, and faculty.
+
+           In Fall 2024, the school launched the Master of National Security Policy (MNSP) program,
+           which is designed to equip future leaders with the skills and insights needed to navigate
+           and shape the global security landscape. The one-year MNSP joins the PhD program in
+           policy analysis — the first and largest of its kind in the country — and the two-year Master of
+           Philosophy (M.Phil.), which began in 2022.
+
+           The MNSP combines methodological and substantive coursework to introduce students to
+           foundational concepts in national security policy analysis. Elective courses reinforce
+           key defense policy analysis concepts and deepen students’ understanding in their chosen
+           substantive and methodological areas.  
+
+           To accommodate the new program, the school opened a new campus in the Washington,
+           D.C. area. The campus, located on the seventh floor of RAND’s Washington office, includes
+           student space and a large state-of-the-art classroom. The D.C. campus offers expanded
+           opportunities for learning and collaboration.
+
+           The opening of the D.C. campus and the inaugural cohort of MNSP students has already
+           led to a significant expansion in faculty and student numbers. The school has nearly
+           doubled the size of its teaching staff, with many new faculty teaching courses that support
+           the MNSP program. The MNSP has been a resounding success, enrolling 70 students in
+           its first year. All told, 2024 saw the largest incoming class of students in the school’s history.
+           In the coming years, the school will look to explore additional programmatic offerings.
+
+           While this new campus and the new program represent significant milestones in the
+           evolution of the school, the mission hasn’t changed: to provide the next generation of
+           global policy leaders and strategists with an unsurpassed education in policy analysis.
+           The expansion allows the school to generate a larger network of RAND-trained
+           researchers and analysts committed to tackling the world’s most difficult challenges.
+
+
+
+
+48   R A N D   A N N U A L   R E P O R T   2 0 2 4
+49
+          Congressional Outreach
+           RAND’s mission is to help improve policy and decisionmaking through research and analysis.
+           RAND’s Congressional Relations office helps to further that mission by getting RAND’s
+           work to policymakers in Congress and U.S. federal agencies.
+
+
+
+
+50   R A N D   A N N U A L   R E P O R T   2 0 2 4
+Testimony by RAND Staff in 2024
+
+Reducing Costs and Improving Access to Care:              Countering China’s Military Strategy in the
+Employer-Driven Health Benefit Design Innovations         Indo-Pacific Region
+Christopher M. Whaley | Testimony presented before        Caitlin Lee | Testimony presented before the U.S.-China
+the U.S. House of Representatives Committee on            Economic and Security Review Commission
+Education and the Workforce, Subcommittee on Health,      on March 21, 2024
+Employment, Labor, and Pensions, on January 11, 2024
+                                                          China’s Role in Synthetic Opioid Trafficking: Efforts
+Implications of Outbound Investment Controls              to Reduce Supply of Precursor Chemicals at the
+Jason Matheny | Testimony submitted to the U.S. House     Primary Source
+Committee on Foreign Affairs on January 17, 2024          David Luckey | Testimony presented before the
+                                                          U.S. House Select Committee on the Strategic
+Exploring the Implications of Generative AI for Chinese   Competition Between the United States and the
+Military Cyber-Enabled Influence Operations:              Chinese Communist Party on April 16, 2024
+Chinese Military Strategies, Capabilities, and Intent
+Nathan Beauchamp-Mustafaga | Testimony presented          Strengthening Cooperative International Maritime
+before the U.S.-China Economic and Security Review        Law Enforcement in the Indo-Pacific: Developing
+Commission on February 1, 2024                            a Combined Maritime Force of Coast Guards
+                                                          Eric Cooper | Testimony presented before the U.S. House
+The Chinese Industrial Base and Military Deployment       Committee on Homeland Security, Subcommittee on
+of Quantum Technology                                     Transportation and Maritime Security, on June 4, 2024
+
+Edward Parker | Testimony presented before the
+U.S.-China Economic and Security Review Commission        U.S.-Georgian Relations in Strategic Context:
+on February 1, 2024                                       At Risk from an Anti-Democratic Turn
+                                                          William Courtney | Testimony presented before the
+Repeated Exposure to Low-Level Military                   Commission on Security and Cooperation in Europe
+Occupational Blasts: An Overview of the Research,         on June 4, 2024
+Critical Gaps, and Recommendations
+Samantha McBirney | Testimony presented before the        Is China Prepared for War? Indications and Warning of
+U.S. Senate Armed Services Committee, Military            a Potential Chinese Conflict with the United States
+Personnel Subcommittee, on February 28, 2024              Timothy R. Heath | Testimony presented before the
+                                                          U.S.-China Economic and Security Review Commission
+Maintaining the Edge? The People’s Liberation Army’s      on June 13, 2024
+Logistics and Maintenance Lessons Learned and
+Approaches Relevant for Counterintervention               Supporting Military and Veteran Caregivers
+Cristina L. Garafola | Testimony presented before the     Rajeev Ramchand | Testimony presented before
+U.S.-China Economic and Security Review Commission        the U.S. House of Representatives Committee on
+on March 21, 2024                                         Veterans’ Affairs on September 25, 2024
+
+
+
+
+                                                                                                                    51
+          Leadership
+          Organizational Leadership
+
+
+
+
+          Jason Matheny                            Andrew R. Hoehn              Eric Peltz               Lester Arnold, Sr.
+          President and Chief Executive            Senior Vice President,       Senior Vice President,   Vice President and Chief
+          Officer, RAND                            Research and Analysis        Finance and Operations   Human Resources Officer
+
+
+
+
+          Robert M. Case                           Michele Colon                Jennifer Gould           Curt Havard
+          Vice President,                          Vice President, Workplace    Vice President,          Acting Vice President,
+          General Counsel, and                     Services & Real Estate       Communications and       Information Services;
+          Corporate Secretary                                                   External Affairs         Chief Information Officer
+
+
+
+
+          Mike Januzik                              Christine                   Melissa Rowe             Nancy Staudt
+          Vice President and                        Lanoie-Newman               Vice President, Global   Frank and Marcia Carlucci Dean,
+          Chief Financial Officer                   Vice President and          Research Talent          RAND’s graduate school, and
+                                                    Chief Development Officer                            Vice President, RAND
+
+
+
+
+52   R A N D   A N N U A L          R E P O R T   2 0 2 4
+Research Division Leadership
+
+
+
+
+Anita Chandra                  James S. Chow                  Peter S. Hussey                Jim Mitre
+Vice President and Director,   Vice President and Director,   Vice President and Director,   Vice President and Director,
+RAND Social and Economic       RAND Project AIR FORCE         RAND Health Care               RAND Global and
+Well-Being                                                                                   Emerging Risks
+
+
+
+
+Barry Pavel                    Heather L. Schwartz            Sally Sleeper                  Michelle Woods
+Vice President and Director,   Vice President and Director,   Vice President, Army           Vice President and Director,
+RAND National Security         RAND Education and Labor       Research Division; Director,   RAND Homeland Security
+Research Division; Director,                                  RAND Arroyo Center             Research Division; Director,
+National Defense                                                                             Homeland Security Operational
+Research Institute                                                                           Analysis Center
+
+
+
+
+International
+
+
+
+
+Carolyn Bull                   Hans Pung
+Director, RAND Australia       President, RAND Europe
+
+
+
+
+                                                                                                                             53
+          Board of Trustees
+
+
+          Members of RAND’s Board of Trustees are esteemed leaders from public service, business,
+          and academia. The board helps ensure that RAND effectively pursues its mission, wisely
+          manages its resources, and meets its obligations as a nonprofit. Trustees also support
+          fundraising and outreach. This helps RAND have a positive impact on public policy and
+          communities around the world.
+
+
+
+
+          Michael E. Leiter (Chair)                           Chuck Hagel
+          Partner, Skadden, Arps, Slate, Meagher & Flom,      Former U.S. Secretary of Defense
+          LLP; Former Director, U.S. National
+          Counterterrorism Center
+                                                              Karen Elliott House
+                                                              Former Publisher, The Wall Street Journal; Former
+          Teresa Wynn Roseborough (Vice Chair)                Senior Vice President, Dow Jones and Company, Inc.
+          Executive Vice President, General Counsel, and
+          Corporate Secretary, The Home Depot, Inc.
+                                                              Joel Z. Hyatt
+                                                              Cofounder, Chairman, and Chief Executive Officer,
+          Carl Bildt                                          Globality, Inc.; Cofounder and Former Chief Executive
+          Former Prime Minister of Sweden; Former             Officer, Current Media, LLC
+          Minister for Foreign Affairs of Sweden
+
+                                                              Lionel C. Johnson
+          Kenneth R. Feinberg                                 President, Pacific Pension & Investment Institute
+          Founder and Managing Partner, The Law Offices
+          of Kenneth R. Feinberg, PC
+                                                              Raynard S. Kington
+                                                              Head of School, Phillips Academy, Andover
+          Francis Fukuyama
+          Director, Ford Dorsey Master’s in International
+                                                              Philip Lader
+          Policy, Freeman Spogli Institute,
+          Stanford University                                 Senior Advisor, Morgan Stanley; Lead Director,
+                                                              AMC Entertainment Holdings, Inc.
+
+          Pedro José Greer, Jr.
+          Professor and Founding Dean, Roseman University
+          College of Medicine
+
+
+
+
+54   R A N D   A N N U A L   R E P O R T      2 0 2 4
+Peter Lowy                                                    Mary E. Peters
+Principal, LFG                                                Principal, Mary Peters Consulting Group, LLC; Former
+                                                              U.S. Secretary of Transportation
+
+Michael Lynton
+Chairman, Snap Inc.                                           David L. Porges
+                                                              Retired Chairman and Chief Executive Officer,
+                                                              EQT Corporation
+Jason Matheny
+President and Chief Executive Officer, RAND
+                                                              Leonard D. Schaeffer
+                                                              Founding Chairman and Chief Executive Officer, WellPoint
+Janet Napolitano
+Founder and Faculty Director, Center for
+Security in Politics, The Goldman School of
+Public Policy, University of California,                      Trustee Emeritus
+Berkeley; Former U.S. Secretary of
+Homeland Security
+                                                              Donald B. Rice
+                                                              Retired President and Chief Executive Officer, Agensys, Inc.;
+                                                              Former U.S. Secretary of the Air Force; Former President
+Soledad O’Brien                                               and Chief Executive Officer, RAND
+Journalist; Founder and Chief Executive
+Officer, Soledad O’Brien Productions
+
+
+
+Meghan L. O’Sullivan
+Director, Belfer Center for Science and International
+Affairs, and Jeane Kirkpatrick Professor of the Practice of
+International Affairs, Harvard Kennedy School
+
+
+
+
+                                                                  AS OF MARCH 2025
+
+
+
+
+                                                                                                                              55
+Follow RAND
+
+
+
+
+For More Information
+Jennifer Gould, Vice President, Communications and External Affairs
+Call 310.393.0411 x6815
+Email jgould@rand.org
+
+To order RAND publications
+Call 310.451.7002 or 877.584.8642
+Email order@rand.org
+
+For more information on this publication,
+visit www.rand.org/t/CPA1065-5
+
+
+
+
+2024 Annual Report Team
+Editorial | Steve Baeck, Doug Irving, Sara Rouche, Rachanee Srisavasdi
+Design | Peter Soriano
+Production | Monette Velasco
+
+
+
+
+Locations
+Santa Monica, CA          Cambridge, UK        Canberra, AU
+Washington, DC            Brussels, BE
+Pittsburgh, PA            The Hague, NL
+Boston, MA
+
+
+
+
+Credits                                                                             Policy Currents
+Front cover: StarLineArts/Getty             pp. 14–15: Nicholas Goodman/U.S. Army   To subscribe to RAND’s flagship newsletter and
+Images (dots); irissca/Adobe Stock          pp. 16–17: Bryan Reckard/DVIDS          podcast, visit www.rand.org/policy-currents.
+(map); Steven Alger/DVIDS                   pp. 18–19: Allison Shelley/EDUimages
+(soldiers); paitoonpati/Adobe Stock         pp. 20–21: AdrianHancu/Getty Images
+(stethoscope); Sakibjaman777/               pp. 22–23: OGULCAN AKSOY/
+Adobe Stock (lock); Kevin E.                Getty Images
+Schmidt/Alamy (police)                      pp. 24–25: Svitlana/Adobe Stock
+p. 1: Diane Baldwin/RAND                    pp. 26–27: David Ryder/Reuters
+p. 5: michelmond/Getty Images               pp. 28–29: Adam Eggers/Defense
+p. 6: MF3d/Getty Images                     pp. 30–31: Meghan Hutton/
+p. 7: PRPicturesProduction/Adobe            U.S. Air Force
+Stock; James E. Foehi/DVIDS                 pp. 32–33: Aerial Film Studio/
+p. 8: James Newsome/DVIDS;                  Adobe Stock
+EyeEm Mobile GmbH/                          p. 39: Liz Burrill, KBDA, from (top)
+Getty Images                                da-kuk/iStock; Ralf Geithe/iStock;
+p. 9: Design Pics Inc/Alamy                 Hirkophoto/iStock; LL28/iStock;
+p. 10: Jacob Wackerhausen/                  Tammy616/iStock/XtockImages
+Getty Images                                p. 49: Diane Baldwin/RAND
+p. 11: Samuel King Jr./                     p. 50: Sencer Seker/Getty Images
+U.S. Air Force; Ridofranz/                  pp. 52–53: Diane Baldwin/RAND
+Getty Images                                p. 53: Courtesy Andrew Dowse
+p. 12: StanRohrer/Getty Images              p. 55: luchunyu/Getty Images
+p. 13: SolidMaks/Getty Images               Back cover: StarLineArts/Getty Images
+
+
+
+
+    w w w.r a n d.o r g
+            MISSION
+
+
+
+
+RAND is a nonprofit institution
+  that helps improve policy
+and decisionmaking through
+    research and analysis.
+
+
+
+
+        w w w.rand.org
+

@@ -1,0 +1,94 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/kei_ng1/status/2099272878143533103",
+  "id": "2099272878143533103",
+  "text": "@corsaren @patwoozey METR doesn't take any money from Coefficient Giving. You can find a list of donors here: https://metr.org/about",
+  "raw_text": {
+   "text": "@corsaren @patwoozey METR doesn't take any money from Coefficient Giving. You can find a list of donors here: https://t.co/URreYCgCf6",
+   "display_text_range": [
+    21,
+    133
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      9
+     ],
+     "original": "corsaren",
+     "id": "1866548556061962240"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      10,
+      20
+     ],
+     "original": "patwoozey",
+     "id": "1613635168476008464"
+    },
+    {
+     "type": "url",
+     "indices": [
+      110,
+      133
+     ],
+     "original": "https://t.co/URreYCgCf6",
+     "replacement": "https://metr.org/about",
+     "display": "metr.org/about"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "kei_ng1",
+   "url": "https://x.com/kei_ng1",
+   "id": "1100058422869979136",
+   "followers": 32,
+   "following": 208,
+   "likes": 2108,
+   "media_count": 2,
+   "name": "Kei",
+   "description": "AI safety research @METR_Evals",
+   "raw_description": {
+    "text": "AI safety research @METR_Evals",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Mon Feb 25 15:42:20 +0000 2019",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 23:03:51 +0000 2026",
+  "created_timestamp": 1789340631,
+  "possibly_sensitive": false,
+  "views": 10,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "corsaren",
+  "replying_to_status": "2099255345046499652",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:15Z",
+ "_http_status": 200
+}

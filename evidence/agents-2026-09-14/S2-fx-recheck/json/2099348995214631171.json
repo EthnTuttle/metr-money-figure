@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ChrisPainterYup/status/2099348995214631171",
+  "id": "2099348995214631171",
+  "text": "@timhwang Can you elaborate on your definition/criteria for \"independent\" and \"sustainably funded\"? Also interested in reactions from others.",
+  "raw_text": {
+   "text": "@timhwang Can you elaborate on your definition/criteria for \"independent\" and \"sustainably funded\"? Also interested in reactions from others.",
+   "display_text_range": [
+    10,
+    141
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      9
+     ],
+     "original": "timhwang",
+     "id": "14903327"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ChrisPainterYup",
+   "url": "https://x.com/ChrisPainterYup",
+   "id": "930159122535866369",
+   "followers": 6961,
+   "following": 1384,
+   "likes": 25949,
+   "media_count": 275,
+   "name": "Chris Painter",
+   "description": "President @METR_Evals",
+   "raw_description": {
+    "text": "President @METR_Evals",
+    "facets": []
+   },
+   "location": "SF",
+   "banner_url": "https://pbs.twimg.com/profile_banners/930159122535866369/1589607680",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2094568529253306368/kJuKduVE_200x200.jpg",
+   "joined": "Mon Nov 13 19:43:11 +0000 2017",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 2,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Sep 14 04:06:19 +0000 2026",
+  "created_timestamp": 1789358779,
+  "views": 91,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "timhwang",
+  "replying_to_status": "2099145338678378958",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:17Z",
+ "_http_status": 200
+}

@@ -1,0 +1,117 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/KelseyTuoc/status/2099223425864888609",
+  "id": "2099223425864888609",
+  "text": "@segyges @thkostolansky @Laneless_ My understanding is that METR is not a Coefficient Giving grantee. This lists a wide range of organizations for METR's most recent fundraising and CG is notably absent: https://metr.org/blog/2026-08-14-funding-update/",
+  "raw_text": {
+   "text": "@segyges @thkostolansky @Laneless_ My understanding is that METR is not a Coefficient Giving grantee. This lists a wide range of organizations for METR's most recent fundraising and CG is notably absent: https://t.co/26s0UNtxcC",
+   "display_text_range": [
+    35,
+    227
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      8
+     ],
+     "original": "segyges",
+     "id": "1264764041928507393"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      9,
+      23
+     ],
+     "original": "thkostolansky",
+     "id": "1730772362528718848"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      24,
+      34
+     ],
+     "original": "Laneless_",
+     "id": "1623365576771964937"
+    },
+    {
+     "type": "url",
+     "indices": [
+      204,
+      227
+     ],
+     "original": "https://t.co/26s0UNtxcC",
+     "replacement": "https://metr.org/blog/2026-08-14-funding-update/",
+     "display": "metr.org/blog/2026-08-1…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "KelseyTuoc",
+   "url": "https://x.com/KelseyTuoc",
+   "id": "1008492120125030400",
+   "followers": 71371,
+   "following": 1586,
+   "likes": 126644,
+   "media_count": 637,
+   "name": "Kelsey Piper",
+   "description": "We're not doomed, we just have a big to-do list.",
+   "raw_description": {
+    "text": "We're not doomed, we just have a big to-do list.",
+    "facets": []
+   },
+   "location": "Oakland, CA",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1008492120125030400/1579037323",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1957484507730518016/JKtDNrOH_200x200.jpg",
+   "joined": "Sun Jun 17 23:30:33 +0000 2018",
+   "protected": false,
+   "website": {
+    "url": "https://www.theargumentmag.com/",
+    "display_url": "theargumentmag.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 15,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 19:47:21 +0000 2026",
+  "created_timestamp": 1789328841,
+  "possibly_sensitive": false,
+  "views": 1302,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "segyges",
+  "replying_to_status": "2099188431129878815",
+  "source": "Twitter Web App",
+  "card": {
+   "url": "https://metr.org/blog/2026-08-14-funding-update/",
+   "title": "Funding update",
+   "description": "In the last 6 months, METR raised commitments of around $71 million. This will fund ambitious projects: studying autonomous capabilities, tracking recursive self-improvement, evaluating monitoring...",
+   "domain": "metr.org",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2098897449847042049/AQ9nbTH8?format=png&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:08Z",
+ "_http_status": 200
+}

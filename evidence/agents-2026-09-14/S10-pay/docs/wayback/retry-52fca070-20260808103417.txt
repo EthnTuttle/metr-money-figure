@@ -1,0 +1,74 @@
+
+METR - Platform Engineer, Intern
+Platform Engineer, Intern
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks, and mitigations, with a specific focus on threats related to AI R&D automation and misalignment.
+METR has consistently set precedents for catastrophic AI risk evaluations, including the first independent safety evaluations (working informally with Anthropic and OpenAI in 2022), the
+ first loss-of-control evaluations and first agentic dangerous capability evaluations
+, the first evaluations using finetuning (mentioned briefly 
+here
+), the 
+first independent evaluations using internal information about training
+, the 
+first review partnership for company risk analysis
+, the 
+first embedded redteaming
+, and the 
+first evaluations of internal deployments
+.
+We’ve been consulted and/or favorably referenced by groups on opposite ends of various spectra, including a16z, Khosla, Gary Marcus, Obama, and Dean Ball, and are known for producing one of the most positive results on AI capabilities (the 
+time horizon
+ trend) and the most negative (our 
+downlift study
+). We’re generally referenced as the canonical third party assessor, e.g. as
+ the obvious candidate to verify conditional pause agreements
+, and are trusted with AI incident investigations by 
+frontier
+labs
+ and 
+governments
+. 
+We believe it is robustly good for policymakers and civil society to have a clear understanding of risks from AI systems, and we are extremely excited to build a team of ambitious, excellent people to tackle one of the most important challenges of our time.
+About the role
+Nearly everything we do runs on our evaluation platform, and we're expanding the ambition, speed, and scale of our evaluations over 2026 (Time Horizon 2.0, our first large-scale monitorability publication, 
+industry-wide risk assessment programs
+). This means the platform needs to do more, faster, and more reliably.
+We're looking for platform engineering interns to help build and maintain that platform, working directly with our infrastructure team. You would report to 
+Mischa Spiegelmock
+, who leads the team.
+What the role looks like
+You'll join our infrastructure team and be expected to learn many things mostly on your own, with some guidance. We will be happy to answer questions and guide you, but expect to do a fair bit of reading and discovery. This work includes:
+Helping build and maintain the world's leading open-source LLM evaluation platform.
+Debugging and improving LLM evaluations.
+Deploying and managing cloud infrastructure.
+Building robust observability and monitoring of our cloud platform.
+Building agents to automate tasks.
+Supporting AI researchers in their quests to challenge and confound the leading AI models.
+What we're looking for
+We're looking for someone passionate about software, open source, and learning - the kind of person who works on personal projects for fun and has a track record of teaching themselves new things.
+You have deep familiarity with UNIX/Linux systems.
+You have some low-level programming experience (C, C++, or Rust - open source contributions are a plus).
+You know more about LLMs than the average engineer — you can talk about transformers and embeddings, or have done ML work.
+You have basic web development experience (full-stack, React, TypeScript).
+Nice to haves: AWS (IAM, ECS, Lambda), PostgreSQL, infrastructure-as-code (Terraform, Pulumi, CDK), Kubernetes administration, or experience with LLM evaluation tooling like Inspect.
+None of these individually is a hard requirement. Evidence that you pick things up quickly matters more than having experience with all of the above.
+Logistics
+Fixed-term internship running from 
+August 31 to December 18, 2026
+, with potential to convert to full-time.
+In-person at METR's office in Berkeley.
+If you lack US work authorization, we may be able to sponsor visas for this role.
+Compensation: $150/hr.
+Our office also provides catered breakfast/lunch/dinner daily, and an in-office gym and shower.
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters. 
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

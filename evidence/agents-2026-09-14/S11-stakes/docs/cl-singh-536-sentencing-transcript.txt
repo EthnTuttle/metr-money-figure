@@ -1,0 +1,1793 @@
+      Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 1 of 32   1
+     OauWsinS
+
+1    UNITED STATES DISTRICT COURT
+     SOUTHERN DISTRICT OF NEW YORK
+2    ------------------------------x
+
+3    UNITED STATES OF AMERICA,
+
+4                 v.                                 22 Cr. 673 (LAK)
+
+5    NISHAD SINGH,
+
+6                      Defendant.
+                                                     Sentence
+7    ------------------------------x
+
+8                                                    New York, N.Y.
+                                                     October 30, 2024
+9                                                    3:00 p.m.
+
+10   Before:
+
+11
+                               HON. LEWIS A. KAPLAN,
+12
+                                                     District Judge
+13
+                                    APPEARANCES
+14
+     DAMIAN WILLIAMS
+15        United States Attorney for the
+          Southern District of New York
+16   BY: NICOLAS T. ROOS
+          NATHAN M. REHN II
+17        DANIELLE R. SASSOON
+          DANIELLE M. KUDLA
+18        Assistant United States Attorneys
+
+19   COOLEY LLP
+          Attorneys for Defendant
+20   BY: ANDREW D. GOLDSTEIN
+          RUSSELL CAPONE
+21        ANUPAM DHILLON
+          JORGE SARMIENTO
+22
+
+23   Also Present:     Special Agent Kristin Allain, FBI
+
+24
+
+25
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24    Page 2 of 32     2
+     OauWsinS
+
+1               (Case called)
+
+2               MR. ROOS:      Your Honor, good afternoon.        Nicolas Roos,
+
+3    Thane Rehn, Danielle Sassoon, Danielle Kudla, from the United
+
+4    States Attorney's Office, for the government.              We're joined at
+
+5    counsel's table by Special Agent Kristin Allain on behalf of
+
+6    the FBI.   Some of Allain's colleagues are also seated in the
+
+7    back.
+
+8               THE COURT:     Good afternoon, everybody.
+
+9               MR. GOLDSTEIN:       Good afternoon, your Honor.         Andrew
+
+10   Goldstein for the defendant, Nishad Singh, and I'm here with
+
+11   Russell Capone, Anu Dhillon and Jorge Sarmiento, all from
+
+12   Cooley LLP.
+
+13              THE COURT:     Good afternoon.
+
+14              Mr. Goldstein, have you and your client had the
+
+15   presentence report for the necessary period?
+
+16              MR. GOLDSTEIN:       We have, your Honor.
+
+17              THE COURT:     Mr. Singh, have you read the presentence
+
+18   report?
+
+19              THE DEFENDANT:       I have, your Honor.
+
+20              THE COURT:     Have you read all of it, including the
+
+21   proposed terms of any supervised release that I might impose?
+
+22              THE DEFENDANT:       Yes.
+
+23              THE COURT:     OK.   You may be seated.         Thank you.
+
+24              Are there any unresolved objections to the presentence
+
+25   report that are material to this proceeding?
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 3 of 32   3
+     OauWsinS
+
+1              Mr. Roos.
+
+2              MR. ROOS:       I don't believe so, your Honor.        There was
+
+3    one issue I was discussing with Mr. Goldstein, but I think the
+
+4    government believes the guidelines, both the factual
+
+5    allegations and the guidelines in the PSR are correct.
+
+6              THE COURT:      OK.
+
+7              Mr. Goldstein.
+
+8              MR. GOLDSTEIN:        We don't think there are any issues
+
+9    that are material to sentencing, your Honor.
+
+10             THE COURT:      OK.   Thank you.
+
+11             Then I adopt the presentence report and the guideline
+
+12   computation and range it contains.
+
+13             I have had the benefit of a mass of material in
+
+14   connection with this sentencing.
+
+15             There's the presentence report;
+
+16             I've reviewed the amended and now partially signed
+
+17   consent preliminary order of forfeiture;
+
+18             I have a letter from       the Cooley firm, attaching a
+
+19   letter from Mr. Ray of FTX;
+
+20             I have a letter from McCarter & English on behalf of a
+
+21   client of that firm, which I believe counsel have both seen;
+
+22             I have the government's letter of October 23, which is
+
+23   probably the longest 5K letter I ever saw; and
+
+24             A submission on behalf of the defendant that fills a
+
+25   looseleaf binder.
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 4 of 32   4
+     OauWsinS
+
+1              Is there anything else that I should have been aware
+
+2    of that I haven't mentioned?
+
+3              MR. ROOS:       No, your Honor.
+
+4              MR. GOLDSTEIN:        That's everything, your Honor.
+
+5              THE COURT:      OK.   Thank you.
+
+6              I will, therefore, hear from Mr. Goldstein.
+
+7              MR. GOLDSTEIN:        Thank you, Judge Kaplan.
+
+8              It has been an honor for me and for my colleagues who
+
+9    are here today to be able to represent Nishad Singh over these
+
+10   past two years.     He is a remarkable individual, as your Honor
+
+11   saw firsthand in his testimony, and as reflected in the many
+
+12   letters submitted on his behalf.
+
+13             Nishad is joined in court here today by several
+
+14   members of his family and his extended family -- his brother
+
+15   Malhar, his parents Gururaj and Anu, his fianceé Claire and
+
+16   members of her family as well as uncles, aunts and college
+
+17   friends and many people he calls cousin even if not related by
+
+18   blood.   They all had to travel here, many from across the
+
+19   country, and they're here because they know the kind of person
+
+20   Nishad is.    They understand what he did and why we're here, and
+
+21   they love him unconditionally.        And they want to make sure that
+
+22   the Court sees the incredible support network that Nishad has,
+
+23   which is a testament to who he is.
+
+24             Your Honor, what I want to spend most of my time today
+
+25   talking about is what we think is a critical element that
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 5 of 32   5
+     OauWsinS
+
+1    underlies the Court's consideration of the Section 3553(a)
+
+2    factors in this case.      It's an element that goes beyond
+
+3    Nishad's exemplary cooperation and assistance to the
+
+4    government, which we'll talk about as important, but is not, we
+
+5    think, the main issue here.       And it goes beyond his personal
+
+6    characteristics, which truly are extraordinary and which we'll
+
+7    also address.    But the element that we think the Court should
+
+8    focus most on is Nishad's role in the underlying offenses.
+
+9    That is what separates him most significantly from the other
+
+10   cooperators in this case and especially from Caroline Ellison,
+
+11   whom the Court sentenced to a period of incarceration.
+
+12             There's no question that Nishad pled guilty to serious
+
+13   offenses, and he does not minimize that conduct in any way.
+
+14   Indeed, as the government spelled out in its own submission, it
+
+15   was Nishad who brought to the government's attention most of
+
+16   the conduct that was the subject of his plea.             But it is
+
+17   critical for the Court to view what he did, his conduct, with
+
+18   precision in the context of all that happened here, and that's
+
+19   why we laid it out in some detail in the lengthy sentencing
+
+20   submission that you referenced.
+
+21             The bottom line is that the Court rightly referred to
+
+22   this case as one of the greatest financial frauds ever
+
+23   perpetrated in this country; it was.         But as we and the
+
+24   government make clear in the submissions to your Honor, the
+
+25   overwhelming majority of the conduct that made it such a
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24    Page 6 of 32     6
+     OauWsinS
+
+1    monumental crime took place before Nishad ever became involved.
+
+2    At the heart of this case is a series of decisions to steal
+
+3    billions of dollars in FTX customer money and use that money to
+
+4    shore up Alameda and to pay Alameda's debts.              Those decisions
+
+5    were made by Sam Bankman-Fried with the necessary complicity
+
+6    and assistance of Caroline Ellison, and they did it over a
+
+7    period of years.     And all of that happened before Nishad became
+
+8    involved, before he knew what was going on.
+
+9              From his first days as an entry-level engineer at
+
+10   Alameda in late 2017 all the way until September of 2022, just
+
+11   two months before FTX collapsed, Nishad did not know about the
+
+12   theft of customer funds, and he did not participate in it.                It
+
+13   was during that time period, the months and years before he
+
+14   knew what was going on, that nearly all of the billions of
+
+15   dollars that are at the heart of this case were stolen.
+
+16             As the trial testimony showed and the evidence showed,
+
+17   it was Bankman-Fried, with Ellison's assent, who made the
+
+18   decision in 2021 to use a billion dollars in customer funds to
+
+19   buy back finance stock.      Nishad had nothing to do with that.
+
+20   He had nothing to do with the decisions to spend hundreds of
+
+21   millions of dollars on real estate, on stock in Robin Hood, on
+
+22   investing in K5, a company called Genesis Digital Assets.
+
+23   Nishad was in the dark, was not in the inner circle, when all
+
+24   of that happened.     He did not know that any of those purchases
+
+25   were being made with customer money.         And as the government
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 7 of 32    7
+     OauWsinS
+
+1    made clear in its submission, Nishad also had nothing to do
+
+2    with the most critical set of decisions in this case, the
+
+3    decisions by Bankman-Fried and Ellison in June of 2022, in the
+
+4    wake of the crypto crash, to pay back Alameda's lenders with
+
+5    billions of dollars in customer funds.          That was their crime.
+
+6    That was not Nishad's crime.
+
+7              In fact, when you look at what Nishad did during that
+
+8    whole period before September of 2022, he was one of the only
+
+9    voices in the company pushing Bankman-Fried to restrain from
+
+10   spending, and he didn't do that because he knew or appreciated
+
+11   that they were stealing customers' money.           He didn't know.      The
+
+12   reason he pushed back is because, in his view, all of that
+
+13   spending violated the purpose of the whole enterprise.              To
+
+14   Nishad, the main reason they were there, the main reason they
+
+15   were trying to make all this money, was to be able to donate it
+
+16   in a way that would ultimately make a positive difference in
+
+17   the world.
+
+18             Look, I get that that sounds corny, and it could be
+
+19   hard to believe, and it is obvious that there were many people
+
+20   who professed an interest in effective altruism who were using
+
+21   it as a cover and that didn't really believe in it.             But to
+
+22   Nishad, as the letters to the Court demonstrate, it was the
+
+23   real thing.    His belief and commitment to doing good with the
+
+24   money that he made, that's what drove him to work around the
+
+25   clock at FTX.    That's why he was there.        And it wasn't his role
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 8 of 32    8
+     OauWsinS
+
+1    in any way to evaluate or even to weigh in on spending
+
+2    decisions.    Sam Bankman-Fried made sure to remind him of that
+
+3    when Nishad sometimes challenged him.
+
+4              His job was to manage the engineers.            He wasn't the
+
+5    CEO.    He wasn't the COO or the CTO, like Gary Wang.           He was
+
+6    subordinate.    He was subordinate to Sam.        He was subordinate to
+
+7    Gary.   And both of those individuals made that clear to Nishad.
+
+8    And that made it all the more exceptional, for someone in
+
+9    Nishad's position, when he saw spending that he thought was
+
+10   wrong, to be the one person at the company to say something to
+
+11   Sam Bankman-Fried, even in the face of humiliation in front of
+
+12   his colleagues.     And that brings us to why we are here, to
+
+13   September of 2022, when Nishad learned for the first time what
+
+14   Bankman-Fried, Caroline Ellison and Gary Wang had known for
+
+15   years -- that Alameda had been using billions of dollars in FTX
+
+16   customer funds.     Nishad will forever regret the role that he
+
+17   played between then and when he left the Bahamas shortly before
+
+18   the bankruptcy two months later.
+
+19             That said, he did many things during that time period
+
+20   that are to his credit.      He fought against additional spending
+
+21   by Bankman-Fried.     He successfully reversed upwards of $200
+
+22   million in spending during those final two months, which was
+
+23   exponentially more than the expenditures that he ultimately
+
+24   signed off on and are the basis for his plea.             He took several
+
+25   additional concrete steps to protect customer funds, and as
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+      Case 1:22-cr-00673-LAK   Document 536    Filed 11/08/24   Page 9 of 32   9
+     OauWsinS
+
+1    your Honor heard in his testimony, when customers started to
+
+2    withdraw money from the exchange in early November, Nishad
+
+3    refused to go along with the lies that Sam Bankman-Fried told
+
+4    to the public.     But, and the reason we are here is, because
+
+5    despite learning of the fraud, Nishad signed off on company
+
+6    expenditures that he knew that necessarily had to be coming
+
+7    from customer funds at that point.         And most regrettably, he
+
+8    completed the close on a house that his friends had lined up
+
+9    for him to purchase.
+
+10             To be clear, Nishad kept nearly all of his assets on
+
+11   the exchange, and they are now or soon will be in the custody
+
+12   of the debtors or the government and will be used to make
+
+13   customers whole.     But it was a deep mistake for Nishad not to
+
+14   back out of the home purchase, and he's going to forever be
+
+15   ashamed of that decision.       And during that same time period,
+
+16   Nishad also allowed himself to be used as a straw for a
+
+17   substantial amount of campaign donations.
+
+18             Both we and the government have addressed his role in
+
+19   the campaign finance offense at length in our submissions, and
+
+20   I don't want to go into great deal here.           Nishad's conduct for
+
+21   that element of this case was wrong, full stop, and he has
+
+22   accepted responsibility for it.          But again, for this set of
+
+23   conduct, he could not be more differently situated than the
+
+24   others who were involved, than Sam Bankman-Fried or from Ryan
+
+25   Salame, both in the level of his involvement and in his motive
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK     Document 536     Filed 11/08/24   Page 10 of 32   10
+     OauWsinS
+
+1    for allowing himself to be used in the way that he was.
+
+2              Bankman-Fried, as you know, used the donation scheme
+
+3    to amass power and influence for himself.              Ryan Salame,
+
+4    likewise, was motivated by self-aggrandizement, touting himself
+
+5    as a Republican mega donor and traveling the country to meet
+
+6    with politicians.        Nishad, on the other hand, gained nothing
+
+7    from engaging in this offense.            He participated because Sam
+
+8    Bankman-Fried and others whom Nishad placed too much trust in
+
+9    asked him to play the role that he did.              Nishad actively
+
+10   disavowed any publicity or benefit from his donations, and for
+
+11   some time the donations indeed came from his own money and were
+
+12   from noble purposes.        But his error in judgment came when he
+
+13   did not push back in 2022, when he learned that his account was
+
+14   being funded by Alameda and when he saw that the donations that
+
+15   were lined up by others were becoming less in line with his own
+
+16   values.   And that was wrong.       But it is wrong on an entirely
+
+17   different level when contrasted with the actions and the
+
+18   cynicism and the self-aggrandizement of Bankman-Fried and
+
+19   Salame.
+
+20             And of course, as the government makes clear in its
+
+21   submission, Nishad himself was the one who brought all of this
+
+22   conduct to the government.        The government likely would never
+
+23   have been able to uncover it and to bring Salame to justice, to
+
+24   rely on it during Sam Bankman-Fried's sentencing without the
+
+25   evidence that Nishad brought forward right at the beginning of
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 11 of 32    11
+     OauWsinS
+
+1    his cooperation.
+
+2              As the Court knows, Nishad has taken full
+
+3    responsibility for all of the actions that give rise to why
+
+4    we're here today, and he has devoted his energies over the past
+
+5    two years to try to make things right.         And he will continue to
+
+6    do so.   That is his absolute commitment.         But we ask the Court,
+
+7    in imposing sentence, to be clear-eyed about his conduct.
+
+8              Nishad's role, across the board, was dramatically more
+
+9    limited than that of his coconspirators.          His conduct was not
+
+10   in the same ballpark as the others, and his sentence should
+
+11   reflect as much, even before the Court takes into consideration
+
+12   his exemplary cooperation and his personal characteristics.
+
+13             Let me turn to the Section 3553(a) factors, starting
+
+14   with the history and the characteristics of the defendant.               And
+
+15   this factor, too, is unusual here and is a powerful reason for
+
+16   leniency in this case.
+
+17             Nishad recently turned 29 years old, and he has packed
+
+18   into that brief number of years a life of generosity toward
+
+19   others, unselfishness, good works and charity.            As all these
+
+20   letters came in on his behalf for us to present to your Honor
+
+21   as part of the sentencing, letter after letter attesting to
+
+22   Nishad's good character, his moral compass, his compassion for
+
+23   others, he asked us if it was too much; that we should tell
+
+24   people not to write.
+
+25             The reason that courts take into consideration the
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK     Document 536   Filed 11/08/24   Page 12 of 32   12
+     OauWsinS
+
+1    history and characteristics of a defendant is because the
+
+2    imposition of the sentence reflects not only the conduct but
+
+3    the person.    And a person who has lived a meaningful life, in
+
+4    service of others, should be sentenced in a way that reflects
+
+5    that character.    And that is Nishad.
+
+6              As counsel, we saw it for the first time when we met
+
+7    with him, at the very beginning of this case, in the wake of
+
+8    the FTX collapse.        While he was trying to hold it together
+
+9    mentally, under the most difficult of circumstances, all Nishad
+
+10   wanted was to find ways to help, to be of service, to help
+
+11   recover assets for victims, to help figure out who was
+
+12   responsible for a massive hack of FTX that happened in its
+
+13   closing days, to help the government uncover and understand
+
+14   everything that had happened here.
+
+15             As your Honor knows, most cooperators come to the
+
+16   government out of self-interest, calculating that that's the
+
+17   best way to receive a lesser sentence.           But that is not why
+
+18   Nishad started to cooperate.        He started to cooperate the
+
+19   moment he was able to after leaving the Bahamas, and he came to
+
+20   the government because he thought that it was the right thing
+
+21   to do.   And the letters that the Court has seen show how Nishad
+
+22   invariably thinks of others before himself.
+
+23             He is, as we said in our submission, an uncommonly
+
+24   selfless individual.        He made a commitment at a very early age
+
+25   to use his talents and his energy in ways that would help
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24    Page 13 of 32   13
+     OauWsinS
+
+1    others and contribute positively to society, even at times
+
+2    where it came at great personal sacrifice.           Your Honor has seen
+
+3    the detailed accounts in the letters of Nishad's good works:
+
+4    How he reached out to a socially isolated girl with
+
+5    developmental disability, woke up day after day at 5 a.m. to
+
+6    run with her and to be her friend; how he took a young unhoused
+
+7    individual with severe medical issues to the hospital and
+
+8    stayed by his side until he received care; how he quietly
+
+9    donated what he earned from a college internship in order to
+
+10   purchase bed nets to help with malaria in Africa, and did that
+
+11   without telling other people.
+
+12             Your Honor saw how he was beloved by his colleagues at
+
+13   FTX precisely because he put their needs above his own.
+
+14   Eighteen former FTX and Alameda employees wrote letters for
+
+15   Nishad, even though they all knew that he played a role in
+
+16   deceiving them.    And they wrote because they want to be sure
+
+17   the Court knows what an exceptional person Nishad is.
+
+18             One of the letters that your Honor received noted that
+
+19   you can judge someone's character by how he treats those who
+
+20   can do nothing for him.      And by that measure, Nishad's
+
+21   character, his soul really is unimpeachable.             It had its
+
+22   moments of weakness, like anyone else, but it is fully intact.
+
+23             To give you one example, Christian Drappi, who
+
+24   testified at trial, reached out to me and to my colleague,
+
+25   Russell Capone, with a letter in support of Nishad that we
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK     Document 536    Filed 11/08/24   Page 14 of 32   14
+     OauWsinS
+
+1    didn't ask for -- it just showed up in our inboxes -- and it
+
+2    described the young man who we've come to know in these last
+
+3    two years.    Mr. Drappi wrote:
+
+4              Unfortunately, it was all too common for higher
+
+5    ranking FTX employees to treat the Bahamas staff with much less
+
+6    than the respect they deserved.           I'm proud to say that Nishad
+
+7    was the opposite.        That is part of why he was so beloved by
+
+8    everyone at the company.
+
+9              You saw as much in the words of FTX staff who
+
+10   themselves wrote letters in support of Nishad, from the people
+
+11   who cooked food for the company, who cleaned apartments, who
+
+12   served as physical trainers.        All of them attested to Nishad's
+
+13   goodness.    I don't know if there's any better indicator of
+
+14   Nishad's character than the words of these individuals who
+
+15   Nishad had little to gain from but who he treated as well as he
+
+16   treated the most senior members of FTX's staff.               We submit that
+
+17   the Court's sentence here should reflect this extraordinary
+
+18   character and this record of good works that is remarkable for
+
+19   someone who is only 29 years old.
+
+20             Now let me turn to the other Section 3553(a) factors,
+
+21   which include the nature and circumstance of the offense, the
+
+22   need to promote respect for the rule of law, and deterrence.
+
+23             We don't think specific deterrence is a factor here.
+
+24   There's no question that Nishad is not going to commit another
+
+25   crime, but I do want to directly address the nature of the
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 15 of 32   15
+     OauWsinS
+
+1    offense, respect for the rule of law and general deterrence.
+
+2    And here's where the clarity about Nishad's role is so
+
+3    critical, because the Court is faced with a situation where the
+
+4    offenses overall were indeed monumental and where we do not
+
+5    question the importance of sending a strong deterrent message.
+
+6    But this is also a situation where Nishad was a subordinate
+
+7    employee, whose role in the offenses was far more limited than
+
+8    the others', where he joined the main conspiracy after nearly
+
+9    all of the criminal conduct had occurred, and where the other
+
+10   conduct subject to his plea only came to light because of
+
+11   Nishad's cooperation with the government.
+
+12              For a defendant in that situation, the deterrence
+
+13   calculation should be different than it is for others with
+
+14   greater involvement and responsibility.          A sentence of time
+
+15   served for Nishad under these circumstances, we submit, would
+
+16   further respect for the rule of law and the interest of
+
+17   justice.   It would show that even when your own role in an
+
+18   offense is limited and your potential exposure is lower than
+
+19   the others', but you decide, as he did, to do the right thing,
+
+20   and without any hesitation to cooperate with the government,
+
+21   that you receive meaningful credit for doing so.
+
+22              We submit that for Nishad, there is no "get out of
+
+23   jail free" message for a sentence of time served.            The message
+
+24   the Court would send is to give an incentive to employees with
+
+25   lower levels of culpability who get caught up in wrongdoing, an
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536    Filed 11/08/24   Page 16 of 32    16
+     OauWsinS
+
+1    incentive for them to come forward.          As the Court knows, I was
+
+2    an assistant U.S. attorney at the Southern District for a long
+
+3    time, and that kind of message, to this kind of a defendant, is
+
+4    an essential part of the government's cooperation program, and
+
+5    it is an essential part to furthering the interest of the rule
+
+6    of law.
+
+7              To be clear, there have been and will continue to be
+
+8    real penalties for Nishad here.          He has forfeited and given up
+
+9    the right to enormous amounts of assets.            He never cared for
+
+10   money for himself.       He didn't give a split second's thought to
+
+11   turning everything over, but this has meant that Nishad has
+
+12   forfeited and given back tens of millions of dollars in assets
+
+13   that he actually may have had a legitimate legal claim to.                 He
+
+14   forfeited, for example, his shares in Anthropic, which he
+
+15   purchased well before he participated in any criminal
+
+16   conspiracy.    He's also given back to the estate hundreds of
+
+17   millions of dollars in crypto holdings, the vast majority of
+
+18   which were purchased well before he knew about or participated
+
+19   in any illegal activity.       He did this because it was the right
+
+20   thing to do, regardless of the details of his involvement and
+
+21   his plea.   But this meant that he has and is in the process of
+
+22   turning over effectively all of whatever he's earned in his
+
+23   life.   He has had to completely start over.
+
+24             He has also suffered very significant and irreparable
+
+25   reputational harm.       In the wake of his cooperation, Nishad has
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK     Document 536   Filed 11/08/24   Page 17 of 32         17
+     OauWsinS
+
+1    been publicly accused of having a far greater role in the
+
+2    offenses than he did.        The press reported that Nishad
+
+3    personally walked away with $500 million.            That was false, as
+
+4    your Honor knows.        The press also reported that Nishad wrote
+
+5    the so-called back door into the FTX code in order to be able
+
+6    to steal customer money, when the truth, as was clear during
+
+7    trial and as your Honor knows, is that Nishad wrote code for an
+
+8    entirely legitimate purpose, and it was then Bankman-Fried and
+
+9    Wang who later changed that code and then, without his
+
+10   knowledge, started using those changes to be able to steal
+
+11   customer funds.    But as a cooperating witness for the
+
+12   government, Nishad had no ability to respond, no ability to
+
+13   make the truth known until the evidence came out at trial.                  And
+
+14   now there are hundreds of articles about this case that are
+
+15   still available online today that falsely describe Nishad's
+
+16   role and conduct.
+
+17              On top of that, cooperating in the way that Nishad has
+
+18   has been a full-time job by itself.          He met with the government
+
+19   25 times.   Multiple regulators have reached out and have gotten
+
+20   his assistance.    They've even done so in the last month.                 And
+
+21   when they reach out, Nishad drops everything.              He digs into the
+
+22   records that he still has access to.           He meets with his
+
+23   counsel.    He tries to piece together what he remembers, and
+
+24   then he spends hour after hour with regulators and
+
+25   investigators.    And he's done that again and again and again.
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK     Document 536     Filed 11/08/24    Page 18 of 32        18
+     OauWsinS
+
+1              He's provided meaningful assistance not just to DOJ,
+
+2    but to the SEC, the CFTC, three different state regulators, the
+
+3    bankruptcy estate and the plaintiffs in the MDL class action.
+
+4    And his assistance has been critical to unraveling multiple
+
+5    aspects of what happened with FTX, which serves the interests
+
+6    of law enforcement, the public, the rule of law and the ability
+
+7    of the estate and the government to recover assets.                  And again,
+
+8    a sentence of time served here would encourage this kind of
+
+9    laudable, across-the-board cooperation for somebody in Nishad's
+
+10   position, who might otherwise be deterred from making the
+
+11   decision to cooperate with the government.
+
+12             Your Honor, everything about this case has been tragic
+
+13   and has been devastating for so many people.                 There are so many
+
+14   victims here, the many customers at FTX who lost so much money,
+
+15   the innocent employees who lost their jobs and faced the stigma
+
+16   of having worked at FTX.        All of that is tragic.           And the fact
+
+17   that Nishad Singh, a young man who devoted his whole life to
+
+18   helping others, to relieving suffering in the world since even
+
+19   before elementary school, the fact that he got caught up in Sam
+
+20   Bankman-Fried's criminal enterprise, that, too, is a tragedy.
+
+21             What happened with FTX and the knowledge that he
+
+22   played a part in nearly destroyed Nishad.              But the Court should
+
+23   look at what he's done since the moment he got on the plane and
+
+24   left the Bahamas.        He has done everything right, at enormous
+
+25   personal and family sacrifice.            He has rebuilt his life.            He
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24     Page 19 of 32   19
+     OauWsinS
+
+1    found important work that he is excelling at, becoming an
+
+2    invaluable employee.      He volunteers at a daytime sanctuary for
+
+3    the unhoused in San Francisco and has become a true role model
+
+4    there.   In his evening hours, he's building software for an
+
+5    affordable housing project, and he's looking forward to his
+
+6    wedding with his fiancée Claire.
+
+7              The Court's sentence under the Section 3553(a) factors
+
+8    should reflect not only the conduct which we've discussed and
+
+9    the person but also what the person has done to move forward,
+
+10   to rehabilitate.     And here, it's impossible to say that Nishad
+
+11   could have done anything better than what he has done.
+
+12             I just want to close by sharing one thing about those
+
+13   first few months that we had representing Nishad during the
+
+14   most intense periods of his cooperation with the government.
+
+15             Every time Nishad would meet with the government, he
+
+16   would fly across the country and come to our office to prepare.
+
+17   But he never did that alone.      His father, who is in the
+
+18   courtroom today, would fly with Nishad every time, would come
+
+19   into our office every day, and would sit in the conference room
+
+20   directly across from us for days on end, just sitting there, so
+
+21   that his son knew that he was right across the way, that he was
+
+22   there.   Nishad's father was at our office so much that he
+
+23   became on a first-name basis with the barista in our office's
+
+24   cafe, more than most of us can say.        And he did this because he
+
+25   couldn't, and wouldn't, leave Nishad alone.              And on the one or
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24     Page 20 of 32    20
+     OauWsinS
+
+1    two occasions when his dad could not figure out a way to be
+
+2    there, Nishad's brother and his fiancée Claire came out and did
+
+3    the same thing.
+
+4              Mr. Capone and I have been doing this for a long time,
+
+5    both as prosecutors and as defense lawyers, and we've never
+
+6    seen anything like it.      They were there for Nishad to do the
+
+7    hard, loving work of helping him put his life back together,
+
+8    which they've all done together, bit by bit, day by day.
+
+9              Nishad was on the right path long before he got caught
+
+10   up with Sam Bankman-Fried and FTX, and with all of this love
+
+11   and support, he is on the right path again.              We ask the Court
+
+12   to allow that to continue and to recognize all of these very
+
+13   unique circumstances that are present here.
+
+14             Thank you, your Honor.
+
+15             THE COURT:     Thank you.
+
+16             Mr. Singh, you have the right to speak.             Is there
+
+17   anything you'd like to say?
+
+18             Whenever you're ready.
+
+19             THE DEFENDANT:     Your Honor, thank you for allowing me
+
+20   the opportunity to speak today.
+
+21             I'm overwhelmed with remorse for the harm that I
+
+22   participated in and I've caused to so many innocent people.
+
+23   The two months before and the two months after FTX's collapse
+
+24   were the hardest of my life.      I made some choices I'm proud of,
+
+25   but I made many, many others that I'm deeply, deeply ashamed
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24     Page 21 of 32   21
+     OauWsinS
+
+1    of.   I spend a lot of time thinking about what all I should
+
+2    have done differently in that time, but there is much less to
+
+3    be uncertain about in how I should have acted in all of the
+
+4    years prior.
+
+5              For nearly my whole professional career, I'd looked up
+
+6    to and I'd supported Sam.      And I did so even though I'd seen
+
+7    very clearly, time and again, how he could be deceptive and
+
+8    self-serving.    Even before I learned of the fraud on customers,
+
+9    I had compromised on what I thought was right, excused what was
+
+10   so clearly wrong and participated in actions that I knew were
+
+11   deceptive.    I alone bear responsibility for my actions and
+
+12   inactions.
+
+13             So many other good people have suffered as a result of
+
+14   what I took part in, employees who showed me love, trust and
+
+15   kindness, customers who relied on us to safeguard their
+
+16   financial futures and the people of the Bahamas who embraced
+
+17   us.   All of them have paid for my mistakes.             They lost their
+
+18   money and so much more.      I strayed so far from my values, and
+
+19   words cannot fully express how sorry I am to them.
+
+20             I can't undo the damage I've caused and I don't expect
+
+21   forgiveness, but I am committed to making amends in safe,
+
+22   concrete and non-grandiose ways.        I want to be someone who
+
+23   contributes positively to society, someone who those I've
+
+24   harmed, all the people I previously mentioned, could eventually
+
+25   see as having made earnest efforts to right these wrongs.
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 22 of 32   22
+     OauWsinS
+
+1              I'm grateful to the government for giving me my first
+
+2    chance at this.    Aiding in their investigation gave me a sense
+
+3    of purpose and a path to help when I needed it most.              But I
+
+4    still have an enormous debt to society that I need to repay and
+
+5    a mostly full life ahead of me with which to try to do so.
+
+6    Over the past two years I've been reflecting on, and I've been
+
+7    trying to live, such a life, one that is a life of tangible and
+
+8    robust good.    I've come to see the importance of direct actions
+
+9    over abstract fulfillment of ideals.          Trying to be present,
+
+10   helpful and supportive to those in my immediate community has
+
+11   grounded me and has given me new direction.
+
+12             In this time, I've been fortunate to have the support
+
+13   of my fiancée Claire and her wonderful family, my family and
+
+14   friends from all times in my life.         They have stood by my side
+
+15   despite everything, even when I was terrified that they had
+
+16   every reason not to.       Their unwavering support has been a
+
+17   source of strength, and I aspire to be worthy of their love.
+
+18             Your Honor, I accept the consequences of my actions
+
+19   and the judgment that you will pass.          I hope that in time my
+
+20   future actions will demonstrate not just to you but to all of
+
+21   those that I've harmed my commitment to making amends.
+
+22             Thank you.
+
+23             THE COURT:     Thank you.
+
+24             Mr. Roos.
+
+25             MR. ROOS:      Yes, your Honor.
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 23 of 32   23
+     OauWsinS
+
+1               THE COURT:    I take it you have a motion.
+
+2               MR. ROOS:     Judge, for starters, the government moves
+
+3    for the Court to sentence Mr. Singh in light of the factors set
+
+4    forth in Section 5K1.1(a) of the sentencing guidelines, 18
+
+5    U.S.C. 3553(e).
+
+6               THE COURT:    And that's because.
+
+7               MR. ROOS:     Because of the substantial assistance
+
+8    that's set forth in our letter and that I'll be elaborating on
+
+9    shortly.
+
+10              THE COURT:    Granted.
+
+11              Go ahead.
+
+12              MR. ROOS:     Thank you, your Honor.
+
+13              As your Honor observed, we submitted a lengthy letter
+
+14   setting forth Mr. Singh's role in the offense and his
+
+15   cooperation.    I'm not going to reiterate all of the points here
+
+16   today, but I do want to focus in particular my remarks on the
+
+17   cooperation in this case.
+
+18              The government's case was built on the testimony of
+
+19   cooperating witnesses, not just at the trial but in bringing
+
+20   the case.   The case was brought before much of the evidence --
+
+21   documentary -- had been amassed, and that is due to the role of
+
+22   Mr. Singh, and others, coming forward.          And I want to focus on
+
+23   his conduct.
+
+24              Mr. Singh made the decision to come in immediately.
+
+25   He didn't wait to see who else was cooperating.             He didn't wait
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536     Filed 11/08/24   Page 24 of 32     24
+     OauWsinS
+
+1    to see what the evidence looked like.           He didn't wait for a
+
+2    pitch from the government, threatened charges, anything like
+
+3    that.   He came in immediately.         He took responsibility for the
+
+4    fraud on customers and then proceeded to incriminate himself,
+
+5    over a series of meetings, in involvement in crimes that the
+
+6    government had not yet become aware of and, in fact, had no
+
+7    leads at that point.      And he did that not just by being
+
+8    truthful in interviews but by giving us documentary evidence
+
+9    that we described in our submission that the government did not
+
+10   have and likely never would have.
+
+11             Mr. Singh provided this information in a number of
+
+12   ways that were helpful to the government.            He did it by
+
+13   describing detailed conversations with Mr. Bankman-Fried.                  For
+
+14   instance, as the Court heard at his trial testimony, from the
+
+15   beginning, Mr. Singh described a conversation he had with
+
+16   Bankman-Fried on the balcony of a penthouse apartment, in vivid
+
+17   terms, describing the back-and-forth of the conversation, which
+
+18   established that Bankman-Fried knew the size of the debt that
+
+19   FTX was in, the fact that it was not able to cover the customer
+
+20   deposits and that it was a problem that it was continuing
+
+21   spending.   That was a conversation that was not otherwise
+
+22   documented or recorded but the government relied on heavily in
+
+23   its case and would not have otherwise been able to prove but
+
+24   for Mr. Singh volunteering it.
+
+25             Another example is the information on the massive
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 25 of 32     25
+     OauWsinS
+
+1    campaign finance violation scheme perpetrated belie
+
+2    Bankman-Fried, Ryan Salame and others.          That's a whole course
+
+3    of conduct that was totally unknown by the government, was
+
+4    brought to our attention exclusively by Mr. Singh and likely
+
+5    would never have been discovered or would only have been
+
+6    discovered by the detailed tracing of financial records, which
+
+7    would have taken months, if not over a year, to do without the
+
+8    help of Mr. Singh.       He provided information about a securities
+
+9    fraud scheme that the government was not otherwise aware of
+
+10   that was set forth in our submission.          He provided Signal chats
+
+11   that were set to auto delete which would otherwise have been
+
+12   gone without his cooperation.        And all of that happened in the
+
+13   very few first weeks and months after FTX's collapse -- so not
+
+14   in the course of preparing for trial or after he had pled
+
+15   guilty, but while his status was still uncertain; he came
+
+16   forward without any reservation and provided cooperation.                 And
+
+17   that was necessary to bring the charges and bring them quickly.
+
+18             Now, I was struck thinking about this moment in time
+
+19   when I was hearing Mr. Goldstein speak and talking about the
+
+20   ways in which Mr. Singh was not involved in some of the
+
+21   conduct, and I was struck by the thought that it could have
+
+22   been very easy for Mr. Singh to have denied everything.               He
+
+23   could have said I didn't know, there's no evidence I was
+
+24   involved in any of these things, because a lot of the ways he
+
+25   inculpated himself in these proffers and interviews was by
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 26 of 32    26
+     OauWsinS
+
+1    describing conversations which were not otherwise documented or
+
+2    recorded.
+
+3              He didn't have to disclose the campaign finance
+
+4    scheme.   He didn't have to disclose his conversations with
+
+5    Bankman-Fried, and you could imagine a different person
+
+6    approaching the situation and choosing the path of denying,
+
+7    deflecting responsibility, minimizing their own role.              And I
+
+8    think that the cooperation here was so important and what
+
+9    Mr. Singh should get credit for is the way he approached this
+
+10   from the outset, in terms of immediately accepting
+
+11   responsibility for his role in defrauding customers.              And it's
+
+12   important generally, I think, to emphasize that cooperating
+
+13   witnesses need to come forward and be candid from the outset.
+
+14   And generally, as Mr. Goldstein alluded to, that's important
+
+15   for incentivizing cooperation in the future.
+
+16             The way I think about this is there was a fork in the
+
+17   road in effect at the beginning of the case where Mr. Singh
+
+18   could have chosen significant minimization but he chose
+
+19   substantial assistance.       And that was critical to the
+
+20   government's case.       And I think as the Court considers the
+
+21   message that's sent in such a significant financial fraud such
+
+22   as this one, in the same way that it considers general
+
+23   deterrence, it should think about the message that can be sent
+
+24   in sentencing a cooperating witness who came forward, who could
+
+25   have fought the charges, who could have fought the involvement
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536    Filed 11/08/24   Page 27 of 32   27
+     OauWsinS
+
+1    in the conduct, but instead chose immediate cooperation, and
+
+2    think about how that could incentivize cooperation in the
+
+3    future.   And here, I think leniency and recognition of
+
+4    Mr. Singh's cooperation would send such an important message.
+
+5              You know, one other comment I want to make before I
+
+6    sit down.   This has to do with the time I spent and the rest of
+
+7    the team spent with Mr. Singh in interviews and preps between
+
+8    FTX's collapse and Mr. Bankman-Fried's trial.             And I'll say
+
+9    that throughout that period, Mr. Singh expressed extreme
+
+10   remorse, great remorse, for not just how things had ended but
+
+11   how things had taken place.      And it was something that he
+
+12   clearly was really grappling with that came through and, I
+
+13   think, set him apart, the emotional aspect to it, that I found
+
+14   genuine, full-throated and weighty.         I share this because in
+
+15   case it wasn't clear from our submission, it clearly has really
+
+16   weighed on him, and I believe that has been a motivating factor
+
+17   in his cooperation.      Of course, people think about leniency
+
+18   that can come from cooperation.         But for Mr. Singh, it was also
+
+19   clear that he wanted to right a wrong or at least start to make
+
+20   that effort and do the right thing.         And that's why he came in
+
+21   the door just shortly after FTX's collapse.
+
+22             Thank you.
+
+23             THE COURT:     Thank you, Mr. Roos.
+
+24             Mr. Singh, please stand for the imposition of
+
+25   sentence.
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 28 of 32     28
+     OauWsinS
+
+1              I'll start by reiterating the fact that this may have
+
+2    been the greatest financial fraud in American history, and it's
+
+3    a very, very serious crime.      But I'm entirely persuaded from
+
+4    your testimony at trial and what I've learned from the advocacy
+
+5    of both Mr. Goldstein and his colleague and the government that
+
+6    your involvement was much more limited than certainly
+
+7    Bankman-Fried and Ellison; that it came relatively late in the
+
+8    day; that you were a young man in a situation with a somewhat
+
+9    older person, Bankman-Fried, who was charismatic, demanding,
+
+10   deceitful, and with whom you had a long relationship,
+
+11   particularly with his brother, but with his family and with
+
+12   him.   And I recognize how hard it would have been for anybody
+
+13   coming to the realization that you came in September of 2022 to
+
+14   have even begun to know what you should do.
+
+15             In moments of uncertainty like that, especially
+
+16   moments in the life of young and inexperienced people, without
+
+17   exposure to the world that the lawyers in this room have long
+
+18   been exposed to, I imagine you had no real idea of what to do
+
+19   except I'll get better.      It's not an excuse, but it's something
+
+20   that I think I understand.
+
+21             And then something like eight weeks later, the crisis
+
+22   erupted, in public, in full view, and you then realized the
+
+23   only responsible thing to do, which is what you did.             You
+
+24   didn't try to figure out what was the spectrum of options and
+
+25   which ones best served your personal self-interest.             You knew
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536   Filed 11/08/24   Page 29 of 32   29
+     OauWsinS
+
+1    that it was wrong.       You had known it was wrong, and you tried
+
+2    to help.
+
+3               Now, I'm not foolish enough to think that there was no
+
+4    self-interest involved.       Obviously there must have been, but
+
+5    you did the right thing.       You very quickly, within days of the
+
+6    bankruptcy, told the truth, and what's even more telling is the
+
+7    extent to which you immediately and truthfully, as far as I can
+
+8    see, fully unburdened yourself to the government about the
+
+9    wrongdoing of which you were aware and they quite clearly were
+
+10   not and that were not really implied by what had come to the
+
+11   public attention at the time of the bankruptcy filing and right
+
+12   around then.    So that kind of underscores for me that there was
+
+13   not only self-interest but a serious moral element to what you
+
+14   did, and you are entitled to a lot of credit for that.
+
+15              Your cooperation in this case has been remarkable.
+
+16   You're not the only one who has cooperated in a remarkable way,
+
+17   but you certainly are a very important cooperator who has
+
+18   contributed to what, to me, seems an appropriate result all
+
+19   around.    And I think the point that's been made, both by your
+
+20   counsel and by Mr. Roos, is that as important as setting
+
+21   examples of defendants who have been culpable in great
+
+22   wrongdoing by imposing punishments that get people's attention,
+
+23   it is equally important to take due account of the fact that
+
+24   you can go too far in doing that, by which I mean being so
+
+25   harsh, so taken with the enormity of the offense, that you
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 30 of 32    30
+     OauWsinS
+
+1    impose a sentence that discourages others from doing what you
+
+2    did.   And I don't intend to do that.
+
+3              Your case is not the case that Ms. Ellison's was.              She
+
+4    was involved from the beginning.        She knew for years what was
+
+5    going on.   She got plenty of credit for cooperation, but you
+
+6    deserve more.
+
+7              For that reason and others, it is the judgment of this
+
+8    Court that you be committed to the custody of the attorney
+
+9    general of the United States, or his designee, for a term of
+
+10   imprisonment of time served on each count, the terms to be
+
+11   served concurrently; that you thereafter serve a term of
+
+12   supervised release of three years; and that you pay the
+
+13   mandatory special assessment of $600.
+
+14             It is further adjudged that you shall forfeit to the
+
+15   United States the sum of $11,20,000,000 jointly and severally
+
+16   with the codefendants, as the term "codefendants" is defined in
+
+17   the amended consent preliminary order of forfeiture, as to
+
+18   specific property money judgment that I've signed already and
+
+19   will refer to in my further remarks as the preliminary order,
+
+20   as well as all of the specific property, as that term is
+
+21   defined in the preliminary order or as more specifically
+
+22   provided in the preliminary order.
+
+23             The Court declines to order restitution based on my
+
+24   finding that determining complex issues of fact related to the
+
+25   cause and amount of the victims' losses would complicate and
+
+
+                 SOUTHERN DISTRICT REPORTERS, P.C.
+                           (212) 805-0300
+     Case 1:22-cr-00673-LAK    Document 536    Filed 11/08/24   Page 31 of 32   31
+     OauWsinS
+
+1    prolong the sentencing process.          I instead grant the
+
+2    government's motion to authorize the United States to
+
+3    compensate victims with finally forfeited assets through a
+
+4    remission process, as restitution would be impractical in this
+
+5    case.
+
+6              The term of supervised release shall be subject to the
+
+7    mandatory, the standard and the special conditions of
+
+8    supervision set forth at pages 29 to 42 of the presentence
+
+9    report, which you have told me you have read.              To the extent
+
+10   that the special conditions are not imposed for entirely
+
+11   obvious reasons, they are imposed for the reasons summarized in
+
+12   the presentence report.
+
+13             Does either counsel wish to have me read out the
+
+14   conditions on to the record?
+
+15             MR. GOLDSTEIN:       No, your Honor.
+
+16             MR. ROOS:      No, your Honor.
+
+17             THE COURT:     OK.   Thank you.
+
+18             I advise you that to whatever extent you haven't
+
+19   previously waived it, you have the right to appeal from the
+
+20   judgment imposing this sentence.         If you wish to appeal, you
+
+21   must file a written notice of appeal with the clerk of the
+
+22   district court no later than 14 days after the date on which
+
+23   judgment is entered on the docket, which is likely to be, I
+
+24   think, tomorrow.     In the event you wish to appeal and you can't
+
+25   afford to pay the fees necessary to do so, you may apply for
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+     Case 1:22-cr-00673-LAK   Document 536   Filed 11/08/24   Page 32 of 32   32
+     OauWsinS
+
+1    permission to appeal as a poor person.         If that application
+
+2    were granted, you would be permitted to appeal without payment
+
+3    of the fees, and if you couldn't afford a lawyer, a lawyer
+
+4    would be appointed for you at government expense.
+
+5              You may be seated.
+
+6              I have two other things to say.
+
+7              The first is to express appreciation to counsel on
+
+8    both sides for very illuminating and very helpful sentencing
+
+9    submissions, however long they were.
+
+10             And I would like to say to Mr. Singh's parents -- and
+
+11   this is purely personal; this is not a judicial judgment of any
+
+12   kind -- I don't see anything you did wrong.
+
+13             OK.   Thanks, folks.
+
+14             (Adjourned)
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+
+                SOUTHERN DISTRICT REPORTERS, P.C.
+                          (212) 805-0300
+

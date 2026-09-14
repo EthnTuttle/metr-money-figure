@@ -1,0 +1,127 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/vishalmisra/status/2099111914592706651",
+  "id": "2099111914592706651",
+  "text": "💯. Cybersecurity is a fairly mature field and it is bizarre that those professionals have not been shown the evidence despite repeated requests.",
+  "raw_text": {
+   "text": "💯. Cybersecurity is a fairly mature field and it is bizarre that those professionals have not been shown the evidence despite repeated requests.",
+   "display_text_range": [
+    0,
+    144
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "vishalmisra",
+   "url": "https://x.com/vishalmisra",
+   "id": "48681409",
+   "followers": 14002,
+   "following": 638,
+   "likes": 5560,
+   "media_count": 2580,
+   "name": "Vishal Misra",
+   "description": "Vice Dean Computing and AI @CUSEAS. Dean of Cricket Analytics @SFOUnicorns. Tweets on academia, cricket, dad/bad/wry jokes. Opinions of guy am pointing at.",
+   "raw_description": {
+    "text": "Vice Dean Computing and AI @CUSEAS. Dean of Cricket Analytics @SFOUnicorns. Tweets on academia, cricket, dad/bad/wry jokes. Opinions of guy am pointing at.",
+    "facets": []
+   },
+   "location": "New York City",
+   "banner_url": "https://pbs.twimg.com/profile_banners/48681409/1621700777",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1765742466169266176/JCgrm0um_200x200.jpg",
+   "joined": "Fri Jun 19 11:33:00 +0000 2009",
+   "protected": false,
+   "website": {
+    "url": "http://www.cs.columbia.edu/~misra/other.html",
+    "display_url": "cs.columbia.edu/~misra/other.h…"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 3,
+  "likes": 50,
+  "bookmarks": 8,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 12:24:14 +0000 2026",
+  "created_timestamp": 1789302254,
+  "views": 6715,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/Laughing_Mantis/status/2099012495834743090",
+   "id": "2099012495834743090",
+   "text": "We've reached the point where, after 25y in cybersecurity, I feel morally obligated to say this for the record:\n\nThe narrative being pushed around AI safety, sandbox incidents, and the suggestion that METR be treated as an authority is dangerous, deceptive, and morally corrupt.",
+   "raw_text": {
+    "text": "We've reached the point where, after 25y in cybersecurity, I feel morally obligated to say this for the record:\n\nThe narrative being pushed around AI safety, sandbox incidents, and the suggestion that METR be treated as an authority is dangerous, deceptive, and morally corrupt.",
+    "display_text_range": [
+     0,
+     278
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "Laughing_Mantis",
+    "url": "https://x.com/Laughing_Mantis",
+    "id": "2352666902",
+    "followers": 38521,
+    "following": 2427,
+    "likes": 65841,
+    "media_count": 3202,
+    "name": "Greg Linares (Laughing Mantis)",
+    "description": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+    "raw_description": {
+     "text": "20+ yrs in Infosec. Malware Influencer. I turn Malware into Art and Music. Art @MalwareArt. 4x Pwnie Nominee. 𝕍𝕏. GameDev. Autistic.",
+     "facets": []
+    },
+    "location": "San Francisco, CA",
+    "banner_url": "https://pbs.twimg.com/profile_banners/2352666902/1728932825",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1711943152511352832/GKf9Bhqr_200x200.png",
+    "joined": "Thu Feb 20 03:54:12 +0000 2014",
+    "protected": false,
+    "website": {
+     "url": "http://withpersona.com",
+     "display_url": "withpersona.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 86,
+   "retweets": 653,
+   "likes": 5317,
+   "bookmarks": 864,
+   "quotes": 39,
+   "created_at": "Sun Sep 13 05:49:11 +0000 2026",
+   "created_timestamp": 1789278551,
+   "views": 365399,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for Android",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for iPhone",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:03Z",
+ "_http_status": 200
+}

@@ -1,0 +1,446 @@
+Title: FTX offloads remaining Anthropic shares as bankruptcy cost surpasses $500 million
+
+URL Source: https://www.theblock.co/post/298010/ftx-offloads-remaining-anthropic-shares-as-bankruptcy-cost-surpasses-700-million
+
+Published Time: 2024-06-01T14:12:30-04:00
+
+Markdown Content:
+[Institutional crypto intel Explore](https://www.theblock.pro/)
+
+[](https://www.theblock.co/)
+
+[Try it free](https://www.theblock.co/campus?modal=marketing)
+
+[](https://www.theblock.co/)
+
+[News](https://www.theblock.co/news)
+
+[Today's top stories](https://www.theblock.co/news)
+*   [Business](https://www.theblock.co/news/business)
+*   [Deals](https://www.theblock.co/news/deals)
+*   [DeFi](https://www.theblock.co/news/defi)
+*   [Ecosystems](https://www.theblock.co/news/ecosystems)
+*   [Macro](https://www.theblock.co/news/macro)
+*   [Markets](https://www.theblock.co/news/markets)
+*   [Regulation](https://www.theblock.co/news/regulation)
+*   [Web3](https://www.theblock.co/news/web3)
+
+[Data](https://www.theblock.co/data/crypto-markets/spot)
+
+[Market dashboards](https://www.theblock.co/data)
+*   [Indices](https://www.theblock.co/indices)
+*   [Stocks](https://www.theblock.co/stocks)
+*   [Futures](https://www.theblock.co/data/crypto-markets/futures)
+*   [Stablecoins](https://www.theblock.co/data/stablecoins/usd-pegged)
+*   [Treasuries](https://www.theblock.co/treasuries)
+*   [Ratings](https://www.theblock.co/ratings)
+
+[Prices](https://www.theblock.co/price)
+
+[Live crypto prices](https://www.theblock.co/price)
+*   [Bitcoin](https://www.theblock.co/price/bitcoin)
+*   [Ethereum](https://www.theblock.co/price/ethereum)
+*   [Solana](https://www.theblock.co/price/solana)
+*   [XRP](https://www.theblock.co/price/xrp)
+
+*   [Crypto Converter](https://www.theblock.co/price-converter)
+*   [ETF Trackers](https://www.theblock.co/etfs)
+
+[Research](https://www.theblock.co/research)
+
+[From our analysts](https://www.theblock.co/research)
+*   [Institutional](https://www.theblock.co/research/institutional)
+*   [Blockchains](https://www.theblock.co/research/blockchains)
+*   [On-chain](https://www.theblock.co/research/on-chain)
+*   [DeFi Protocols](https://www.theblock.co/research/defi-protocols)
+*   [Intelligence](https://www.theblock.co/research/intelligence)
+*   [Funding](https://www.theblock.co/research/funding)
+*   [Stablecoins](https://www.theblock.co/research/stablecoins)
+*   [Reports](https://www.theblock.co/research/reports)
+*   [Tokenization](https://www.theblock.co/research/tokenization)
+
+[Learn](https://www.theblock.co/learn)
+
+[Guides and explainers](https://www.theblock.co/learn/latest)
+*   [Layer 1](https://www.theblock.co/learn/category/layer-1)
+*   [DeFi](https://www.theblock.co/learn/category/defi)
+*   [Markets](https://www.theblock.co/learn/category/markets)
+*   [Glossary](https://www.theblock.co/glossary)
+
+[Elections Hub](https://www.theblock.co/elections)
+
+[![Image 1: price ticker sponsor logo](blob:http://localhost/09d4ed9929be2f622e111a1c31bcd6b2)![Image 2: price ticker sponsor logo](blob:http://localhost/ec9e613846ec4f6d6502e4d4ceca1a9c)![Image 3: price ticker sponsor logo](blob:http://localhost/ebc2039086d8ccf925bde8abce7a91ea)![Image 4: price ticker sponsor logo](blob:http://localhost/65b486be3c8ba38f0acaccc8d864c82b) Live](https://www.lmaxdigital.com/overview/?utm_source=the_block&utm_medium=banner&utm_content=data_ribbon&utm_campaign=lmax_digital_brand)[BTCUSD$77,928.30 0.84% ETHUSD$2,515.86 0.14% SOLUSD$101.68 0.34% PYTHUSD$0.0553-3.40% LINKUSD$11.38-0.25%](https://www.lmaxdigital.com/overview/?utm_source=the_block&utm_medium=banner&utm_content=data_ribbon&utm_campaign=lmax_digital_brand)
+
+[Home](https://www.theblock.co/)/[News](https://www.theblock.co/news)/[Markets](https://www.theblock.co/news/markets)/[FTX offloads remaining Anthropic shares as bankruptcy cost surpasses $500 million](https://www.theblock.co/news/markets/2024-06-01-ftx-offloads-remaining-anthropic-shares-as-bankruptcy-cost-surpasses-700-million-298010)
+
+## [Latest Crypto News](https://www.theblock.co/news)
+
+## [Senate Republicans release 'final' Clarity Act draft as Trump accepts most ethics provisions](https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575)
+
+Sep 14, 2026, 12:24AM EDT  • [Regulation](https://www.theblock.co/news/regulation)
+
+## [Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)
+
+Sep 13, 2026, 5:51PM EDT  • [DeFi](https://www.theblock.co/news/defi)
+
+## [Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering](https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564)
+
+Sep 13, 2026, 2:29PM EDT  • [Ecosystems](https://www.theblock.co/news/ecosystems)
+
+## [CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market](https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519)
+
+Sep 12, 2026, 5:39PM EDT  • [Markets](https://www.theblock.co/news/markets)
+
+[See More Latest Crypto News](https://www.theblock.co/news)
+
+# FTX offloads remaining Anthropic shares as bankruptcy cost surpasses $500 million
+
+By [Zack Abrams](https://www.theblock.co/author/zack-abrams)
+
+[Markets](https://www.theblock.co/news/markets)•June 1, 2024, 2:12PM EDT
+
+UPDATED: June 2, 2024, 3:21AM EDT
+
+[![Image 5: Google](blob:http://localhost/0a12e8f7ecafaee4c9d5ed7dbb8baaa0)Make us preferred](https://www.google.com/preferences/source?q=theblock.co)
+
+Share
+
+[](https://x.com/TheBlockCo)[](https://www.linkedin.com/company/theblockcrypto/)[](https://youtube.com/@theblockcrypto)
+
+![Image 6: FTX offloads remaining Anthropic shares as bankruptcy cost surpasses $500 million](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2023/10/20231003_FTX_2_News-1200x675.jpg)
+
+#### Quick Take
+
+*   The FTX estate has sold its remaining shares in Anthropic, a valuable AI startup, as the total cost of the bankruptcy surpasses $500 million in legal and administrative costs.
+
+ Advertisement 
+
+While FTX founder Sam Bankman-Fried's trial has come to an end, pending an appeal, the FTX bankruptcy slogs on.
+
+In the latest update from the FTX estate, helmed by CEO John Ray III, the company has offloaded its remaining shares in Anthropic, the AI startup behind the chatbot Claude, according to the firm's latest bankruptcy filings.
+
+FTX [sold](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExNDkzMg==&id2=-1) the remaining 15 million shares for about $30 each, netting over $450 million in proceeds. That brings the total haul from FTX's original $500 million investment in the company to about $1.3 billion, for a profit of around $800 million. The price per share for this second sale was the same for the [first sale](https://www.theblock.co/news/business/2024-03-25-ftx-to-sell-two-thirds-of-anthropic-stake-for-884-million-with-buyers-including-jane-street-and-funds-managed-by-fidelity-284480) back in March.
+
+The top buyer on this round, global venture capital fund G Squared, purchased about one-third of the remaining shares, 4.5 million, for $135 million. Venture capital funds also made up the majority of the other 20 buyers of the Anthropic shares.
+
+[![Image 7: Polymarket Fundamentals: Prediction Markets 101](https://www.tbstat.com/cdn-cgi/image/f=avif,q=80/wp/uploads/2026/06/polymarket-sponsored-course-cover-scaled.png) 15 min course Campus Sponsored ### Polymarket Fundamentals: Prediction Markets 101 POLYMARKET](https://www.theblock.co/learn/sponsored-courses/650ab2b6-36f4-42f4-b67c-a0721bb7a217)
+
+## A ballooning bankruptcy cost
+
+Following the latest filings from the bankruptcy estate, the cost of the FTX bankruptcy has surpassed $500 million in legal and administrative fees, [The Block reported](https://www.theblock.co/news/business/2024-05-30-ftx-lawyers-and-advisors-charged-over-500-million-in-bankruptcy-process-so-far-297664).
+
+FTX creditors have complained that Sullivan and Cromwell, the primary law firm in charge of FTX's bankruptcy, was also one of the firms to represent FTX before its bankruptcy, a potential [conflict of interest that has sparked](https://www.theblock.co/news/business/2024-03-27-pressure-mounts-on-ftxs-bankruptcy-lawyers-heres-how-it-could-affect-the-case-285047) the appointment of an independent examiner and a class-action lawsuit. An analysis by the New York Times last year found law firms have charged [hundreds of millions of dollars in fees](https://www.nytimes.com/2023/09/05/technology/crypto-collapse-lawyers-turnaround-specialists.html) for crypto company bankruptcies.
+
+FTX CEO John Ray has [billed the estate $5.6 million](https://www.theblock.co/news/business/2024-05-30-ftx-lawyers-and-advisors-charged-over-500-million-in-bankruptcy-process-so-far-297664), according to his hourly rate of $1,300, since the start of the case. The estate plans to repay 98% of its creditors at least 118% of allowed claims, measured in dollar value at the time the exchange filed for bankruptcy.
+
+_Update: Updated bankruptcy costs based on approved fees._
+
+ TAGS 
+
+[FTX](https://www.theblock.co/tag/ftx)
+
+#### Related articles
+
+[![Image 8: Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg)](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
+
+[Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture](https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226)
+
+Sep 11, 2026, 12:19AM EDT[Regulation](https://www.theblock.co/news/regulation)
+
+[![Image 9: Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2025/12/CE-1920x1080-1-1200x675.png)](https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310)
+
+[Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund](https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310)
+
+Sep 11, 2026, 5:36PM EDT[Business](https://www.theblock.co/news/business)
+
+[![Image 10: 'Clear scale up path': Bernstein sees 80% upside for Riot after reported $9.1 billion Anthropic deal](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2024/05/crypto-etfs-1200x675.png)](https://www.theblock.co/news/business/2026-08-11-bernstein-riot-upside-anthropic-deal-411407)
+
+['Clear scale up path': Bernstein sees 80% upside for Riot after reported $9.1 billion Anthropic deal](https://www.theblock.co/news/business/2026-08-11-bernstein-riot-upside-anthropic-deal-411407)
+
+Aug 11, 2026, 9:14AM EDT[Business](https://www.theblock.co/news/business)
+
+[![Image 11: Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2022/09/20220907_Riot-1200x675.jpg)](https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358)
+
+[Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic](https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358)
+
+Aug 10, 2026, 10:21PM EDT[Business](https://www.theblock.co/news/business)
+
+## [RATINGS](https://www.theblock.co/ratings)
+
+[![Image 12: Best crypto cards with token rewards in 2026](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2025/09/Property-1Ratings-Image-2.png) Best crypto cards with token rewards in 2026](https://www.theblock.co/ratings/best-crypto-cards-with-token-rewards-in-2025-372126)
+
+[![Image 13: Best prediction market platforms in 2026](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2026/02/Untitled-design-5.jpg) Best prediction market platforms in 2026](https://www.theblock.co/ratings/best-prediction-market-platforms-in-2026-388252)
+
+[![Image 14: Best exchanges for trading crypto in 2026](https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2026/01/Exchange-Images-1.png) Best exchanges for trading crypto in 2026](https://www.theblock.co/ratings/best-exchanges-for-trading-crypto-in-2026-385313)
+
+[See more ratings](https://www.theblock.co/ratings)
+
+[![Image 15: Sponsored Thumbnail](https://www.tbstat.com/cdn-cgi/image/f=avif,q=80/wp/uploads/2026/09/20260813_CoinW_News-1200x675.jpg)](https://www.theblock.co/news/sponsored/2026-09-11-securing-coinw-411514)
+
+[SPONSORED](https://www.theblock.co/news/sponsored)[Securing CoinW: How a former financial services developer built a culture of safety in crypto](https://www.theblock.co/news/sponsored/2026-09-11-securing-coinw-411514)
+
+September 11, 2026, 9:22AM EDT
+
+ Follow us 
+
+*   [](https://x.com/TheBlockCo "X (Twitter)")
+*   [](https://www.linkedin.com/company/theblockcrypto/ "LinkedIn")
+*   [](https://www.instagram.com/theblockcrypto/ "Instagram")
+*   [](https://www.facebook.com/theblockcrypto1/ "Facebook")
+*   [](https://t.me/the_block_crypto "Telegram")
+*   [](https://youtube.com/@theblockcrypto "YouTube")
+*   [](https://open.spotify.com/show/3HTxRuUINeHi3Fxoq5Jc8d "Spotify")
+*   [](https://news.google.com/publications/CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldKc2IyTnJMbU52S0FBUAE?ceid=US:en&oc=3 "Google News")
+*   [](https://www.theblock.co/rss.xml "RSS Feed")
+
+News
+
+*   [Latest News](https://www.theblock.co/news)
+*   [Business](https://www.theblock.co/news/business)
+*   [Deals](https://www.theblock.co/news/deals)
+*   [DeFi](https://www.theblock.co/news/defi)
+*   [Ecosystems](https://www.theblock.co/news/ecosystems)
+*   [Macro](https://www.theblock.co/news/macro)
+*   [Markets](https://www.theblock.co/news/markets)
+*   [Regulation](https://www.theblock.co/news/regulation)
+*   [Web3](https://www.theblock.co/news/web3)
+*   [Elections Hub](https://www.theblock.co/elections)
+*   [Press Releases](https://www.theblock.co/press-releases)
+
+Data & Tools
+
+*   [Dashboards](https://www.theblock.co/data)
+*   [Prices](https://www.theblock.co/price)
+*   [Indices](https://www.theblock.co/indices)
+*   [Crypto Converter](https://www.theblock.co/price-converter)
+*   [ETF Trackers](https://www.theblock.co/etfs)
+*   [Bitcoin ETF Tracker](https://www.theblock.co/etfs/bitcoin)
+*   [Ethereum ETF Tracker](https://www.theblock.co/etfs/ethereum)
+*   [Bitcoin Halving Tracker](https://www.theblock.co/trackers/bitcoin-halving)
+*   [Stocks](https://www.theblock.co/stocks)
+*   [Treasuries](https://www.theblock.co/treasuries)
+*   [Ratings](https://www.theblock.co/ratings)
+
+Research & Learn
+
+*   [Research](https://www.theblock.co/research)
+*   [Reports](https://www.theblock.co/research/reports)
+*   [Learn](https://www.theblock.co/learn)
+*   [Glossary](https://www.theblock.co/glossary)
+*   [Campus](https://www.theblock.co/campus)
+
+Multimedia
+
+*   [Podcasts](https://www.theblock.co/podcasts)
+*   [Newsletters](https://www.theblock.co/newsletters)
+*   [Events](https://www.theblock.co/events)
+*   [People](https://www.theblock.co/people)
+*   [Emergence](https://www.emergence.xyz/)
+
+Company
+
+*   [About Us](https://www.theblock.co/about)
+*   [Editorial Team](https://www.theblock.co/team-members)
+*   [Careers](https://www.theblock.co/careers)
+*   [Advertise](https://www.theblock.co/advertise)
+*   [Press](https://www.theblock.co/press)
+*   [Team Verification](https://www.theblock.co/team-verification)
+*   [Conflicts of Interest](https://www.theblock.co/conflicts-of-interest)
+*   [Disclosures](https://www.theblock.co/financial-disclosures)
+*   [Security](https://www.theblock.co/security)
+*   [Sitemap](https://www.theblock.co/directory)
+
+ © 2026 the block. all rights reserved. 
+
+[Privacy Policy](https://www.theblock.co/privacy-policy) • [Terms of Service](https://www.theblock.co/terms-service) • Cookie Settings • [Security](https://www.theblock.co/security) • [Disclaimers](https://www.theblock.co/disclaimers)
+
+[Do Not Sell or Share My Personal Information](https://www.theblock.co/do-not-sell-or-share)
+
+[](https://www.theblock.co/)
+
+*   [News](https://www.theblock.co/news)
+*   [Data](https://www.theblock.co/data/crypto-markets/spot)
+*   [Prices](https://www.theblock.co/price)
+*   [Research](https://www.theblock.co/research)
+*   [Learn](https://www.theblock.co/learn)
+*   [Elections Hub](https://www.theblock.co/elections)
+*   [Podcasts](https://www.theblock.co/podcasts)
+*   [Newsletters](https://www.theblock.co/newsletters)
+
+Preferences
+
+Dark Mode 
+
+Notifications
+
+News
+
+[* Business](https://www.theblock.co/news/business)
+
+[* Deals](https://www.theblock.co/news/deals)
+
+[* DeFi](https://www.theblock.co/news/defi)
+
+[* Ecosystems](https://www.theblock.co/news/ecosystems)
+
+[* Macro](https://www.theblock.co/news/macro)
+
+[* Markets](https://www.theblock.co/news/markets)
+
+[* Regulation](https://www.theblock.co/news/regulation)
+
+[* Web3](https://www.theblock.co/news/web3)
+
+[* Press Releases](https://www.theblock.co/press-releases)
+
+Data & Tools
+
+[* Dashboards](https://www.theblock.co/data)
+
+[* Indices](https://www.theblock.co/indices)
+
+[* Crypto Converter](https://www.theblock.co/price-converter)
+
+[* ETF Trackers](https://www.theblock.co/etfs)
+
+[* Bitcoin ETF Tracker](https://www.theblock.co/etfs/bitcoin)
+
+[* Ethereum ETF Tracker](https://www.theblock.co/etfs/ethereum)
+
+[* Bitcoin Halving Tracker](https://www.theblock.co/trackers/bitcoin-halving)
+
+[* Stocks](https://www.theblock.co/stocks)
+
+[* Treasuries](https://www.theblock.co/treasuries)
+
+[* Ratings](https://www.theblock.co/ratings)
+
+Research & Learn
+
+[* Reports](https://www.theblock.co/research/reports)
+
+[* Glossary](https://www.theblock.co/glossary)
+
+Multimedia
+
+[* Events](https://www.theblock.co/events)
+
+[* People](https://www.theblock.co/people)
+
+[* Emergence](https://www.emergence.xyz/)
+
+Company
+
+[* About Us](https://www.theblock.co/about)
+
+[* Editorial Team](https://www.theblock.co/team-members)
+
+[* Careers](https://www.theblock.co/careers)
+
+[* Advertise](https://www.theblock.co/advertise)
+
+[* Press](https://www.theblock.co/press)
+
+[* Team Verification](https://www.theblock.co/team-verification)
+
+[* Conflicts of Interest](https://www.theblock.co/conflicts-of-interest)
+
+[* Disclosures](https://www.theblock.co/financial-disclosures)
+
+[* Security](https://www.theblock.co/security)
+
+[* Sitemap](https://www.theblock.co/directory)
+
+Legal
+
+[* Privacy Policy](https://www.theblock.co/privacy-policy)
+
+[* Terms of Service](https://www.theblock.co/terms-service)
+
+[* Sponsored](https://www.theblock.co/sponsored)
+
+ Follow us 
+
+*   [](https://x.com/TheBlockCo "X (Twitter)")
+*   [](https://www.linkedin.com/company/theblockcrypto/ "LinkedIn")
+*   [](https://www.instagram.com/theblockcrypto/ "Instagram")
+*   [](https://www.facebook.com/theblockcrypto1/ "Facebook")
+*   [](https://t.me/the_block_crypto "Telegram")
+*   [](https://youtube.com/@theblockcrypto "YouTube")
+*   [](https://open.spotify.com/show/3HTxRuUINeHi3Fxoq5Jc8d "Spotify")
+*   [](https://news.google.com/publications/CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldKc2IyTnJMbU52S0FBUAE?ceid=US:en&oc=3 "Google News")
+*   [](https://www.theblock.co/rss.xml "RSS Feed")
+
+[Institutional crypto intel Explore](https://www.theblock.pro/)
+
+[Try it free](https://www.theblock.co/campus?modal=marketing)
+
+We and our partners store and / or access information on a device, such as unique IDs in cookies to process personal data.
+
+We and our partners process data to provide geolocation data, scan device characteristics for identification, store and / or access information on a device, provide personalized ads and content, measure ad content, provide audience insights, and product development.
+
+You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time in the [privacy policy](https://www.theblock.co/privacy-policy). Show Purposes or view our List of Partners (vendors).
+
+Do Not Sell My Personal Information Accept Cookies
+
+![Image 16: Company Logo](https://cdn.cookielaw.org/logos/f6a32c35-bc8a-4430-98d0-4c9b1b3f15bc/e6e33182-3be7-4d60-aa5c-f129dc03bc3a/eafe3631-9dc6-4846-8b63-829afd76de0b/unnamed.png)
+
+## Do Not Sell My Personal Information
+
+## Do Not Sell My Personal Information
+
+*   ### Your Privacy 
+*   ### Strictly Necessary Cookies 
+*   ### Sale of Personal Data 
+
+#### Your Privacy
+
+When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link. 
+
+[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+#### Sale of Personal Data
+
+- [x] Sale of Personal Data 
+
+Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.
+
+If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
+
+*   ##### Performance Cookies
+
+- [x] Switch Label label  
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+*   ##### Targeting Cookies
+
+- [x] Switch Label label  
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+### Cookie List
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Clear
+
+*   - [x] checkbox label label 
+
+Apply Cancel
+
+Confirm My Choices
+
+Allow All
+
+[![Image 17: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)

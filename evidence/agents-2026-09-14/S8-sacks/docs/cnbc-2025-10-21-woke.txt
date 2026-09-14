@@ -1,0 +1,49 @@
+Title: Anthropic CEO disputes Trump AI czar David Sacks' claims that company is 'woke'
+
+URL Source: https://www.cnbc.com/2025/10/21/anthropic-ceo-trump-sacks-woke.html
+
+Published Time: 2025-10-21T15:08:02+0000
+
+Markdown Content:
+Dario Amodei, co-founder and CEO of artificial intelligence startup Anthropic.
+
+Chesnot | Getty Images
+
+[Anthropic](https://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html) CEO Dario Amodei on Tuesday[addressed](https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership)what he called "inaccurate claims" about the[artificial intelligence](https://www.cnbc.com/ai-artificial-intelligence/)startup's policy stances after repeatedly facing criticism from venture capitalist[David Sacks](https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html), who is serving as President [Donald Trump's](https://www.cnbc.com/donald-trump/)AI and crypto czar.
+
+Amodei said the company is aligned with the Trump administration across "key areas of AI policy," and that it is interested in working with "anyone serious about getting this right."
+
+"I fully believe that Anthropic, the administration, and leaders across the political spectrum want the same thing: to ensure that powerful AI technology benefits the American people and that America advances and secures its lead in AI development," Amodei said in a statement.
+
+Anthropic was founded in 2021 by a group of former OpenAI executives, including Amodei, who left the company over concerns about safety. It's one of the startups at the center of the AI boom, and its valuation has swelled to [$183 billion](https://www.cnbc.com/2025/09/02/anthropic-raises-13-billion-at-18-billion-valuation.html) in just four years.
+
+The company caught the attention of Sacks last week after Jack Clark, one of Anthropic's co-founders and its current head of policy, published[an essay](https://x.com/jackclarkSF/status/1977828314871218378)called "Technological Optimism and Appropriate Fear," which sparked a debate over AI regulation online.
+
+Sacks criticized the essay and accused Anthropic of "running a sophisticated regulatory capture strategy based on fear-mongering," according to a[post](https://x.com/DavidSacks/status/1978145266269077891)on X. He said the company is "principally responsible for the state regulatory frenzy that is damaging the startup ecosystem."
+
+## Read more CNBC tech news
+
+*   [Apple event live updates: First foldable iPhone, new watch series expected as Ternus makes debut](https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html)
+*   [Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth](https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html)
+*   [Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html)
+*   [How one hedge-fund manager built his firm to be powered entirely by AI agents](https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html)
+
+Anthropic opposed a proposed amendment to Trump's "One Big Beautiful Bill Act" that would have enacted a 10-year-long suspension on state-level AI laws. That provision ultimately failed and was not included in the legislation.
+
+The company also supported a bill in California that requires large AI developers to make their model safety protocols public, though there are exemptions for companies that generate an annual gross revenue of less than $500 million.
+
+Billionaire tech investor and LinkedIn co-founder[Reid Hoffman](https://www.cnbc.com/2018/11/04/what-reid-hoffman-wants-in-a-founder-an-infinite-learning-curve.html) defended Anthropic on Monday and called the startup "one of the good guys." Hoffman was an early investor in OpenAI, Anthropic's larger rival, and remains a shareholder. He revealed on Monday that Greylock, where he's a partner, has invested in Anthropic.
+
+Sacks quickly responded to Hoffman's post, and the two sparred back and forth on Monday. In one post, Sacks wrote that the "real issue" is "Anthropic's agenda to backdoor Woke AI and other AI regulations through Blue states like California."
+
+Amodei worked to clarify Anthropic's view on Tuesday, writing that the company's longstanding position has been that a uniform federal approach is preferable to a patchwork of state laws."
+
+"When we agree, we say so. When we don't, we propose an alternative for consideration," Amodei said. "We do this because we are a public benefit corporation with a mission to ensure that AI benefits everyone and to maintain America's lead in AI."
+
+"Again, we believe we share those goals with the Trump administration, both sides of Congress,and the public," he said.
+
+**WATCH:**[Watch CNBC’s full interview with White House AI czar David Sacks](https://www.cnbc.com/video/2025/07/24/watch-cnbcs-full-interview-with-white-house-ai-czar-david-sacks.html)
+
+![Image 1: Watch CNBC's full interview with White House AI czar David Sacks](https://image.cnbcfm.com/api/v1/image/108176326-17533619081753361901-40869777211-1080pnbcnews.jpg?v=1753361907&w=750&h=422&vtcrop=y)
+
+watch now

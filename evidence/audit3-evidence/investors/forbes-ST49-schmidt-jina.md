@@ -1,0 +1,1389 @@
+Title: Eric Schmidt
+
+URL Source: https://www.forbes.com/profile/eric-schmidt/
+
+Markdown Content:
+[](https://www.forbes.com/)
+
+[](https://www.forbes.com/search/?q=)
+
+[Sign Up For Newsletters](https://account.forbes.com/newsletters/)[Games](https://www.forbes.com/games/)[Share a News Tip](https://www.forbes.com/sites/forbesstaff/article/tips-and-confidential-sources/)
+
+*   Featured 
+
+Featured 
+
+    *   [Breaking News](https://www.forbes.com/news/) 
+    *   [White House Watch](https://www.forbes.com/trump/) 
+    *   [Daily Cover Stories](https://www.forbes.com/daily-cover-stories/) 
+    *   [Forbes Daily Briefing Video Series](https://www.forbes.com/sites/forbesvideo/2026/08/19/forbes-daily-briefing/) 
+    *   [The World’s Highest-Paid Tennis Players 2026](https://www.forbes.com/sites/brettknight/2026/08/28/the-worlds-highest-paid-tennis-players-2026/) 
+    *   [2026 Best in State Next Gen Wealth Advisors List](https://www.forbes.com/lists/best-in-state-next-gen-advisors/) 
+    *   [7 New Rules For Success In The First Year Of Your Career](https://www.forbes.com/sites/courtney-connley-hampton/2026/08/03/7-new-rules-for-success-in-the-first-year-of-your-career/) 
+    *   [2026 Best Brands For Value](https://www.forbes.com/lists/best-brands-for-value/) 
+    *   [Humanity At The Heart Of Work: How AI Can Unleash The Power Of People| Paid Program](https://www.forbes.com/sites/sap/2026/08/05/humanity-at-the-heart-of-work-how-ai-can-unleash-the-power-of-people/) 
+    *   [How Midsize Companies Get Trapped Between AI Promise And AI Reality| Paid Program](https://www.forbes.com/sites/workday/2026/07/27/how-midsize-companies-get-trapped-between-ai-promise-and-ai-reality/) 
+    *   [The AI Risks CEOs Didn’t Budget For| Paid Program](https://www.forbes.com/sites/dataiku/2026/07/10/the-ai-risks-ceos-didnt-budget-for/) 
+    *   [The Resilient Enterprise: How A Strategic Insurance Partner Helps Large Firms Navigate Evolving Threats| Paid Program](https://www.forbes.com/sites/insights-sentry-insurance/2026/06/30/the-resilient-enterprise-how-a-strategic-insurance-partner-helps-large-firms-navigate-evolving-threats/) 
+    *   [The Hidden Tax On Enterprise AI: 1 In 5 Workers Lose A Full Day Every Week| Paid Program](https://www.forbes.com/sites/workday/2026/06/01/the-hidden-tax-on-enterprise-ai-1-in-5-workers-lose-a-full-day-every-week/) 
+    *   [Scaling AI Editorial Video Series](https://www.forbes.com/sites/forbesvideo/2024/09/16/scaling-ai/) 
+    *   [The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI| Paid Program](https://www.forbes.com/sites/amazonwebservices/2026/04/03/the-enterprise-ai-shortcut-why-co-innovation-is-setting-a-new-speed-for-adopting-and-operationalizing-ai/) 
+    *   [The Toughest Problems Are Never Solved Alone| Paid Program](https://www.forbes.com/sites/american-cancer-society/2026/02/23/the-toughest-problems-are-never-solved-alone/) 
+    *   [How Chief Marketing Officers Are Scaling AI At Speed — While Preserving Brand Trust](https://www.forbes.com/sites/forbesliveteam/2026/02/23/how-chief-marketing-officers-are-scaling-ai-at-speed---while-preserving-brand-trust/) 
+    *   [AI’s Nuanced Impact And A Quest To Quantify It](https://www.forbes.com/sites/forbes-research/2023/10/26/c-suite-data-reveals-ais-nuanced-impact--a-quest-to-quantify-it/) 
+    *   [Embracing And Bracing For AI](https://www.forbes.com/sites/forbes-research/2023/10/26/new-forbes-survey-reveals-how-executives-are-embracing---and-bracing-for---ai/) 
+    *   [Facing A Volatile Market, C-Suites Look To The CFO For Strategic Guidance](https://www.forbes.com/sites/forbes-research/2023/11/01/facing-a-volatile-market-c-suites-look-to-the-cfo-for-strategic-guidance/) 
+    *   [America's Most Powerful Women In Sports](https://www.forbes.com/sites/maggiemcgrath/2025/10/22/americas-most-powerful-women-in-sports-2025/) 
+    *   [CMO Unscripted: Vulnerability Is The New Superpower For Leaders In The AI Era](https://www.forbes.com/sites/forbesvideo/2026/01/28/cmo-unscripted/) 
+    *   [The Next AI Frontier: Inside LG Electronics’ Strategic Investment In Arizona’s Tech Transformation| Paid Program](https://www.forbes.com/sites/arizona-commerce-authority/2026/04/16/the-next-ai-frontier-inside-lg-electronics-strategic-investment-in-arizonas-tech-transformation/) 
+    *   [Meeting The Moment In Enterprise: AI As AI Spending Surged 110%, Underlying Systems Didn’t Keep Up| Paid Program](https://www.forbes.com/sites/servicenow/2026/08/03/meeting-the-moment-in-enterprise-ai/) 
+    *   [2026 50 Over 50 List| Paid Program](https://www.forbes.com/50over50/) 
+    *   [Inside Smooth Technology: A Cash Back Content Series| Paid Program](https://www.forbes.com/sites/chase-ink-business-credit-cards/2026/08/10/inside-smooth-technology-a-cash-back-content-series/) 
+    *   [C-Suite Unscripted: CIO Edition| Paid Program](https://www.forbes.com/sites/forbesvideo/2026/08/12/c-suite-unscripted-cio-edition/) 
+    *   [Forbes Travel Guide’s 2026 Edge List](https://www.forbes.com/sites/forbestravelguide/2026/08/12/forbes-travel-guides-2026-edge-list/) 
+    *   [Forbes Iconoclast with Maneet Ahuja| Paid Program](https://www.forbes.com/sites/maneetahuja/2026/06/18/iconoclast-podcast/) 
+    *   [The Power Of No| Paid Program](https://www.forbes.com/sites/tanqueray-gin/2026/08/21/the-power-of-no/) 
+    *   [Meet The Local Farmers Behind AB InBev's Iconic Beers| Paid Program](https://www.forbes.com/sites/ab-inbev/2026/08/24/meet-the-local-farmers-behind-ab-inbevs-iconic-beers/) 
+    *   [The New First Responders: How Visionary Leaders Are Redefining Crisis Management](https://www.forbes.com/sites/erinspencer1/2026/09/01/the-new-first-responders-how-visionary-leaders-are-redefining-crisis-management/) 
+    *   [Excellence Across Generations](https://www.forbes.com/sites/forbesvideo/2026/09/02/excellence-across-generations/) 
+
+See More
+
+*   [Billionaires](https://www.forbes.com/billionaires/) 
+
+Billionaires[See All](https://www.forbes.com/billionaires/)  
+
+    *   [World's Billionaires](https://www.forbes.com/billionaires/) 
+    *   [Forbes 400](https://www.forbes.com/forbes-400/) 
+    *   [America's Richest Self-Made Women](https://www.forbes.com/self-made-women/) 
+    *   [China's Richest](https://www.forbes.com/lists/china-billionaires/) 
+    *   [India's Richest](https://www.forbes.com/lists/india-billionaires/) 
+    *   [Indonesia's Richest](https://www.forbes.com/lists/indonesia-billionaires/) 
+    *   [Korea's Richest](https://www.forbes.com/lists/korea-billionaires/) 
+    *   [Thailand's Richest](https://www.forbes.com/lists/thailand-billionaires/) 
+    *   [Japan's Richest](https://www.forbes.com/lists/japan-billionaires/) 
+    *   [Australia's Richest](https://www.forbes.com/lists/australia-billionaires/) 
+    *   [Taiwan's Richest](https://www.forbes.com/lists/taiwan-billionaires/) 
+    *   [Singapore's Richest](https://www.forbes.com/lists/singapore-billionaires/) 
+    *   [Philippines' Richest](https://www.forbes.com/lists/philippines-billionaires/) 
+    *   [Hong Kong's Richest](https://www.forbes.com/lists/hong-kong-billionaires/) 
+    *   [Malaysia's Richest](https://www.forbes.com/lists/malaysia-billionaires/) 
+    *   [Money & Politics](https://www.forbes.com/money-politics/) 
+
+See More
+
+*   [Innovation](https://www.forbes.com/innovation/) 
+
+Innovation[See All](https://www.forbes.com/innovation/)  
+
+    *   [AI Future Of Work](https://www.forbes.com/topics/ai-future-of-work/) 
+    *   [Xfinity BrandVoice| Paid Program](https://www.forbes.com/sites/xfinity/2026/07/30/does-your-internet-meet-your-households-needs-heres-what-to-look-for/) 
+    *   [AI-Powered Cybersecurity](https://www.forbes.com/topics/ai-cybersecurity/) 
+    *   [Acxiom Insights| Paid Program](https://www.forbes.com/sites/insights-acxiom/2026/05/21/solving-the-identity-crisis-putting-todays-fragmented-consumer-back-together/) 
+    *   [Enterprise AI](https://www.forbes.com/topics/enterprise-ai/)  
+
+        *   [Nutanix BrandVoice](https://www.forbes.com/sites/nutanix)
+
+    *   [AI In Healthcare](https://www.forbes.com/topics/ai-in-healthcare/) 
+    *   [Future of Healthcare](https://www.forbes.com/topics/future-of-healthcare/) 
+    *   [Enterprise Intelligence](https://www.forbes.com/topics/enterprise-intelligence/) 
+    *   [Employee and Customer Experience](https://www.forbes.com/topics/employee-and-customer-experience/) 
+    *   [AI](https://www.forbes.com/ai/) 
+    *   [Agentic AI](https://www.forbes.com/topics/agentic-ai/) 
+    *   [Gaming](https://www.forbes.com/gaming/) 
+    *   [Big Data](https://www.forbes.com/big-data/) 
+    *   [Cloud](https://www.forbes.com/cloud/) 
+    *   [Cloud 100](https://www.forbes.com/lists/cloud100/) 
+    *   [Consumer Tech](https://www.forbes.com/consumer-tech/) 
+    *   [Creator Economy](https://www.forbes.com/creator-economy/) 
+    *   [Cybersecurity](https://www.forbes.com/cybersecurity/) 
+    *   [Digital Transformation](https://www.forbes.com/digital-transformation/) 
+    *   [Enterprise Tech](https://www.forbes.com/enterprise-tech/) 
+    *   [Future Of Work](https://www.forbes.com/future-of-work/) 
+    *   [Healthcare](https://www.forbes.com/healthcare/) 
+    *   [Innovation Rules](https://www.forbes.com/sites/forbesvideo/article/innovation-rules/) 
+    *   [Retail Industry](https://www.forbes.com/topics/retail-industry/) 
+    *   [Science](https://www.forbes.com/science/) 
+    *   [Social Media](https://www.forbes.com/social-media/) 
+    *   [Sustainability & Climate](https://www.forbes.com/sustainability/) 
+    *   [Transportation](https://www.forbes.com/transportation/) 
+    *   [Venture Capital](https://www.forbes.com/venture-capital/) 
+    *   [Technology](https://www.forbes.com/sites/technology/) 
+
+See More
+
+*   [Leadership](https://www.forbes.com/leadership/) 
+
+Leadership[See All](https://www.forbes.com/leadership/)  
+
+    *   [Under 30](https://www.forbes.com/under30/) 
+    *   [C-Suite](https://www.forbes.com/cxo/)  
+
+        *   [CEO Network](https://www.forbes.com/ceo-network/)
+        *   [CFO Network](https://www.forbes.com/cfo-network/)
+        *   [CHRO Network](https://www.forbes.com/chro-network/)
+        *   [CIO Network](https://www.forbes.com/cio-network/)
+        *   [CMO Network](https://www.forbes.com/cmo-network/)
+        *   [Leadership Strategies](https://www.forbes.com/leadership-strategy/)
+
+    *   [Careers](https://www.forbes.com/careers/) 
+    *   [Education](https://www.forbes.com/education/) 
+    *   [Forbes EQ| Paid Program](https://www.forbes.com/sites/forbeseq/) 
+    *   [ForbesBLK](https://www.forbes.com/blk-leadership/) 
+    *   [Forbes Research](https://www.forbes.com/leadership/forbes-research/) 
+    *   [ForbesWomen](https://www.forbes.com/forbeswomen/) 
+    *   [Deloitte BrandVoice| Paid Program](https://www.forbes.com/sites/deloitte/) 
+    *   [Dell Technologies BrandVoice| Paid Program](https://www.forbes.com/sites/delltechnologies/) 
+
+See More
+
+*   [Money](https://www.forbes.com/money/) 
+
+Money[See All](https://www.forbes.com/money/)  
+
+    *   [ETF Investing Trends](https://www.forbes.com/topics/etf-investing-trends/) 
+    *   [Banking & Insurance](https://www.forbes.com/banking-insurance/) 
+    *   [ETFs & Mutual Funds](https://www.forbes.com/etfs-mutual-funds/) 
+    *   [Fintech](https://www.forbes.com/fintech/) 
+    *   [Hedge Funds & Private Equity](https://www.forbes.com/hedge-funds-private-equity/) 
+    *   [Investing](https://www.forbes.com/investing/) 
+    *   [Investor Hub](https://www.forbes.com/sites/investor-hub/) 
+    *   [Markets](https://www.forbes.com/markets/) 
+    *   [Personal Finance](https://www.forbes.com/personal-finance/) 
+    *   [Retirement](https://www.forbes.com/retirement/) 
+    *   [Taxes](https://www.forbes.com/taxes/) 
+    *   [Top Advisor | SHOOK](https://www.forbes.com/top-advisor-shook/) 
+    *   [Wealth Management](https://www.forbes.com/wealth-management/) 
+    *   [CareCredit BrandVoice| Paid Program](https://www.forbes.com/sites/carecredit/) 
+
+See More
+
+*   [Forbes Digital Assets](https://www.forbes.com/digital-assets/) 
+
+Forbes Digital Assets[See All](https://www.forbes.com/digital-assets/)  
+
+    *   [News](https://www.forbes.com/digital-assets/news/) 
+    *   [Crypto Prices](https://www.forbes.com/digital-assets/crypto-prices/) 
+    *   [NFT Prices](https://www.forbes.com/digital-assets/nft-prices/) 
+    *   [Research](https://www.forbes.com/digital-assets/research/) 
+    *   [Learn](https://www.forbes.com/digital-assets/learn/)  
+
+        *   [Crypto Basics](https://www.forbes.com/digital-assets/learn/crypto-basics/)
+        *   [BTC](https://www.forbes.com/digital-assets/learn/btc/)
+        *   [DeFi](https://www.forbes.com/digital-assets/learn/defi/)
+        *   [Web3 Education](https://www.forbes.com/digital-assets/learn/web3-education/)
+        *   [NFTs](https://www.forbes.com/digital-assets/learn/nfts/)
+        *   [Crypto Investments](https://www.forbes.com/digital-assets/learn/crypto-investments/)
+
+    *   [Events](https://www.forbes.com/digital-assets/events/) 
+    *   [Crypto Portfolios](https://www.forbes.com/digital-assets/crypto-advisor-portfolio/) 
+
+See More
+
+*   [Business](https://www.forbes.com/business/) 
+
+Business[See All](https://www.forbes.com/business/)  
+
+    *   [Aerospace & Defense](https://www.forbes.com/aerospace-defense/) 
+    *   [Energy](https://www.forbes.com/energy/) 
+    *   [Food & Drink](https://www.forbes.com/food-drink/) 
+    *   [Hollywood & Entertainment](https://www.forbes.com/hollywood-entertainment/) 
+    *   [Law](https://www.forbes.com/law/) 
+    *   [Manufacturing](https://www.forbes.com/manufacturing/) 
+    *   [Media](https://www.forbes.com/media/) 
+    *   [Policy](https://www.forbes.com/policy/) 
+    *   [Retail](https://www.forbes.com/retail/) 
+    *   [SportsMoney](https://www.forbes.com/sportsmoney/) 
+    *   [Entertainment Digest](https://www.forbes.com/sites/entertainment/) 
+    *   [Enterprise Growth](https://www.forbes.com/topics/enterprise-growth/) 
+    *   [World Cup](https://www.forbes.com/topics/world-cup/) 
+
+See More
+
+*   [Small Business](https://www.forbes.com/small-business/) 
+
+Small Business[See All](https://www.forbes.com/small-business/)  
+
+    *   [Entrepreneurs](https://www.forbes.com/entrepreneurs/) 
+    *   [Small Business Strategy](https://www.forbes.com/small-business-strategy/) 
+    *   [Small Business Taxes](https://www.forbes.com/topics/small-business-taxes/) 
+
+*   [Lifestyle](https://www.forbes.com/lifestyle/) 
+
+Lifestyle[See All](https://www.forbes.com/lifestyle/)  
+
+    *   [Luxury Travel](https://www.forbes.com/topics/luxury-travel/) 
+    *   [Arts](https://www.forbes.com/arts/) 
+    *   [Boats & Planes](https://www.forbes.com/boats-planes/) 
+    *   [Cars & Bikes](https://www.forbes.com/cars-bikes/) 
+    *   [Dining](https://www.forbes.com/dining/) 
+    *   [ForbesLife](https://www.forbes.com/forbeslife/) 
+    *   [Forbes Travel Guide](https://www.forbes.com/forbes-travel-guide/) 
+    *   [Spirits](https://www.forbes.com/spirits/) 
+    *   [Style & Beauty](https://www.forbes.com/style-beauty/) 
+    *   [Travel](https://www.forbes.com/travel/) 
+    *   [Vices](https://www.forbes.com/vices/) 
+    *   [Watches](https://www.forbes.com/watches-jewelry/) 
+
+See More
+
+*   [Real Estate](https://www.forbes.com/real-estate/) 
+
+Real Estate[See All](https://www.forbes.com/real-estate/)  
+
+    *   [Commercial Real Estate](https://www.forbes.com/commercial-real-estate/) 
+    *   [Forbes Global Properties](https://www.forbes.com/forbes-global-properties/) 
+    *   [Residential Real Estate](https://www.forbes.com/residential-real-estate/) 
+
+*   [Forbes Vetted](https://www.forbes.com/vetted/) 
+
+Forbes Vetted[See All](https://www.forbes.com/vetted/)  
+
+    *   [Mattress & Sleep](https://www.forbes.com/vetted/mattress-sleep/)  
+
+        *   [Bed Frames](https://www.forbes.com/vetted/mattress-sleep/bed-frames/)
+        *   [Mattresses](https://www.forbes.com/vetted/mattress-sleep/mattresses/)
+        *   [Mattress Toppers](https://www.forbes.com/vetted/mattress-sleep/mattress-toppers/)
+        *   [Pillows](https://www.forbes.com/vetted/mattress-sleep/pillows/)
+        *   [Sheets & Bedding](https://www.forbes.com/vetted/mattress-sleep/sheets-bedding/)
+        *   [Sleep Products](https://www.forbes.com/vetted/mattress-sleep/sleep-products/)
+
+    *   [Home](https://www.forbes.com/vetted/home/)  
+
+        *   [Bathroom](https://www.forbes.com/vetted/home/bathroom/)
+        *   [Cleaning & Laundry](https://www.forbes.com/vetted/home/cleaning-laundry/)
+        *   [Decor](https://www.forbes.com/vetted/home/decor/)
+        *   [Furniture](https://www.forbes.com/vetted/home/furniture/)
+        *   [Heating & Cooling](https://www.forbes.com/vetted/home/heating-cooling/)
+        *   [Hobbies](https://www.forbes.com/vetted/home/hobbies/)
+        *   [Home Office](https://www.forbes.com/vetted/home-office/)
+        *   [Kitchen & Dining](https://www.forbes.com/vetted/home/kitchen-dining/)
+        *   [Outdoor](https://www.forbes.com/vetted/home/outdoor/)
+        *   [Pets](https://www.forbes.com/vetted/home/pets/)
+        *   [Storage & Organization](https://www.forbes.com/vetted/home/storage-organization/)
+        *   [Tools](https://www.forbes.com/vetted/home/tools/)
+        *   [Wine & Bar](https://www.forbes.com/vetted/home/wine-bar/)
+
+    *   [Fashion](https://www.forbes.com/vetted/fashion/)  
+
+        *   [Accessories](https://www.forbes.com/vetted/fashion/accessories/)
+        *   [Clothing](https://www.forbes.com/vetted/fashion/clothing/)
+        *   [Eyewear](https://www.forbes.com/vetted/fashion/eyewear/)
+        *   [Footwear](https://www.forbes.com/vetted/fashion/footwear/)
+        *   [Jewelry](https://www.forbes.com/vetted/fashion/jewelry/)
+        *   [Handbags & Purses](https://www.forbes.com/vetted/fashion/handbags-purses/)
+        *   [Lingerie & Sleepwear](https://www.forbes.com/vetted/fashion/lingerie-sleepwear/)
+        *   [Outdoor & Fitness Apparel](https://www.forbes.com/vetted/fashion/outdoor-fitness-apparel/)
+        *   [Outerwear](https://www.forbes.com/vetted/fashion/outerwear/)
+        *   [Watches](https://www.forbes.com/vetted/fashion/watches/)
+
+    *   [Kids & Baby Gear](https://www.forbes.com/vetted/kids-baby-gear/)  
+
+        *   [Baby Gear](https://www.forbes.com/vetted/kids-baby-gear/baby-gear/)
+        *   [Kids Clothes & Accessories](https://www.forbes.com/vetted/kids-baby-gear/kids-clothes-accessories/)
+        *   [Nursery](https://www.forbes.com/vetted/kids-baby-gear/nursery/)
+        *   [Pregnancy & Postpartum](https://www.forbes.com/vetted/kids-baby-gear/pregnancy-postpartum/)
+        *   [Toys & Books](https://www.forbes.com/vetted/kids-baby-gear/toys-books/)
+
+    *   [Gear](https://www.forbes.com/vetted/gear/)  
+
+        *   [Apparel & Accessories](https://www.forbes.com/vetted/gear/apparel-accessories/)
+        *   [Bikes](https://www.forbes.com/vetted/gear/bikes/)
+        *   [Camping & Hiking](https://www.forbes.com/vetted/gear/camping-hiking/)
+        *   [Climbing](https://www.forbes.com/vetted/gear/climbing/)
+        *   [Fishing & Hunting](https://www.forbes.com/vetted/gear/fishing-hunting/)
+        *   [Fitness](https://www.forbes.com/vetted/gear/fitness/)
+        *   [Golf](https://www.forbes.com/vetted/gear/golf/)
+        *   [Running](https://www.forbes.com/vetted/gear/running/)
+        *   [Tennis & Racket Sports](https://www.forbes.com/vetted/gear/tennis-racket-sports/)
+        *   [Tools & Tech](https://www.forbes.com/vetted/gear/tools-tech/)
+        *   [Training & Recovery](https://www.forbes.com/vetted/gear/training-recovery/)
+        *   [Water Sports](https://www.forbes.com/vetted/gear/water-sports/)
+        *   [Wellness](https://www.forbes.com/vetted/gear/wellness/)
+        *   [Winter Sports](https://www.forbes.com/vetted/gear/winter-sports/)
+
+    *   [Beauty & Grooming](https://www.forbes.com/vetted/beauty-grooming/)  
+
+        *   [Haircare](https://www.forbes.com/vetted/beauty-grooming/haircare/)
+        *   [Makeup](https://www.forbes.com/vetted/beauty-grooming/makeup/)
+        *   [Nailcare](https://www.forbes.com/vetted/beauty-grooming/nailcare/)
+        *   [Shaving](https://www.forbes.com/vetted/beauty-grooming/shaving/)
+        *   [Skincare](https://www.forbes.com/vetted/beauty-grooming/skincare/)
+        *   [Personal Products](https://www.forbes.com/vetted/beauty-grooming/personal-products/)
+        *   [Wellness & Self Care](https://www.forbes.com/vetted/beauty-grooming/wellness-self-care/)
+
+    *   [Tech & Electronics](https://www.forbes.com/vetted/tech-electronics/)  
+
+        *   [Audio](https://www.forbes.com/vetted/tech-electronics/audio/)
+        *   [Cameras](https://www.forbes.com/vetted/tech-electronics/cameras/)
+        *   [Computers, Tablets & Accessories](https://www.forbes.com/vetted/tech-electronics/computers-tablets-accessories/)
+        *   [Gaming](https://www.forbes.com/vetted/tech-electronics/gaming/)
+        *   [Home Office](https://www.forbes.com/vetted/tech-electronics/home-office/)
+        *   [Online Tools](https://www.forbes.com/vetted/tech-electronics/online-tools/)
+        *   [Smart Home Devices](https://www.forbes.com/vetted/tech-electronics/smart-home-devices/)
+        *   [Smartphones, Smartwatches & Accessories](https://www.forbes.com/vetted/tech-electronics/smartphones-smartwatches-accessories/)
+        *   [Streaming](https://www.forbes.com/vetted/tech-electronics/streaming/)
+        *   [TVs](https://www.forbes.com/vetted/tech-electronics/tvs/)
+
+    *   [Travel](https://www.forbes.com/vetted/travel/)  
+
+        *   [Cruises](https://www.forbes.com/vetted/travel/cruises/)
+        *   [Hotels & Lodging](https://www.forbes.com/vetted/travel/hotels-lodging/)
+        *   [Luggage](https://www.forbes.com/vetted/travel/luggage/)
+        *   [Travel Products](https://www.forbes.com/vetted/travel/travel-products/)
+
+    *   [Gifts](https://www.forbes.com/vetted/gifts/)  
+
+        *   [Father's Day](https://www.forbes.com/vetted/gifts/fathers-day/)
+        *   [Holiday](https://www.forbes.com/vetted/gifts/holiday/)
+        *   [Mother's Day](https://www.forbes.com/vetted/gifts/mothers-day/)
+        *   [Valentine's Day](https://www.forbes.com/vetted/gifts/valentines-day/)
+        *   [Wedding](https://www.forbes.com/vetted/gifts/wedding/)
+
+    *   [Deals](https://www.forbes.com/vetted/deals/)  
+
+        *   [Black Friday](https://www.forbes.com/vetted/deals/black-friday/)
+        *   [Cyber Monday](https://www.forbes.com/vetted/deals/cyber-monday/)
+        *   [Amazon Prime Day](https://www.forbes.com/vetted/deals/amazon-prime-day/)
+        *   [Beauty & Grooming](https://www.forbes.com/vetted/deals/beauty-grooming/)
+        *   [Big Sales](https://www.forbes.com/vetted/deals/big-sales/)
+        *   [Fashion](https://www.forbes.com/vetted/deals/fashion/)
+        *   [Gear](https://www.forbes.com/vetted/deals/gear/)
+        *   [Home](https://www.forbes.com/vetted/deals/home/)
+        *   [Tech & Electronics](https://www.forbes.com/vetted/deals/tech-electronics/)
+        *   [Travel Deals](https://www.forbes.com/vetted/deals/travel-deals/)
+        *   [Mattress & Sleep](https://www.forbes.com/vetted/deals/mattress-sleep/)
+
+See More
+
+*   [Deals](https://www.forbes.com/vetted/deals/) 
+
+Deals[See All](https://www.forbes.com/vetted/deals/)  
+
+    *   [Fashion](https://www.forbes.com/vetted/deals/fashion/)  
+
+        *   [Nordstrom](https://www.forbes.com/sites/forbes-personal-shopper/article/nordstrom-promo-codes/)
+        *   [HOKA](https://www.forbes.com/sites/forbes-personal-shopper/article/hoka-coupons/)
+        *   [Quince](https://www.forbes.com/sites/forbes-personal-shopper/article/quince-discount-codes/)
+
+    *   [Electronics](https://www.forbes.com/vetted/deals/tech-electronics/)  
+
+        *   [Dell](https://www.forbes.com/sites/forbes-personal-shopper/article/dell-promo-codes/)
+        *   [TopResume](https://www.forbes.com/sites/forbes-personal-shopper/article/topresume-discount-codes/)
+
+    *   [Sportswear & Gear](https://www.forbes.com/vetted/deals/gear/)  
+
+        *   [Dick's Sporting Goods](https://www.forbes.com/sites/forbes-personal-shopper/article/dicks-sporting-goods-coupons/)
+        *   [REI](https://www.forbes.com/sites/forbes-personal-shopper/article/rei-promo-codes/)
+
+    *   [Mattress & Sleep](https://www.forbes.com/vetted/deals/mattress-sleep/)  
+
+        *   [Nectar](https://www.forbes.com/sites/forbes-personal-shopper/article/nectar-coupons/)
+        *   [Saatva](https://www.forbes.com/sites/forbes-personal-shopper/article/saatva-promo-codes/)
+        *   [Brooklinen](https://www.forbes.com/sites/forbes-personal-shopper/article/brooklinen-promo-codes/)
+        *   [Avocado](https://www.forbes.com/sites/forbes-personal-shopper/article/avocado-mattress-discount-codes/)
+        *   [DreamCloud](https://www.forbes.com/sites/forbes-personal-shopper/article/dreamcloud-coupons/)
+        *   [Helix Sleep](https://www.forbes.com/sites/forbes-personal-shopper/article/helix-discount-codes/)
+        *   [Bear](https://www.forbes.com/sites/forbes-personal-shopper/article/bear-mattress-coupons/)
+        *   [Leesa](https://www.forbes.com/sites/forbes-personal-shopper/article/leesa-mattress-discount-codes/)
+        *   [Brooklyn Bedding](https://www.forbes.com/sites/forbes-personal-shopper/article/brooklyn-bedding-promo-codes/)
+
+    *   [Travel](https://www.forbes.com/vetted/deals/travel-deals/)  
+
+        *   [SeatGeek](https://www.forbes.com/sites/forbes-personal-shopper/article/seatgeek-promo-codes/)
+        *   [Vivid Seats](https://www.forbes.com/sites/forbes-personal-shopper/article/vivid-seats-coupons/)
+
+    *   [Home & Garden](https://www.forbes.com/vetted/deals/home/)  
+
+        *   [Frontgate](https://www.forbes.com/sites/forbes-personal-shopper/article/frontgate-promo-codes/)
+        *   [Wayfair](https://www.forbes.com/sites/forbes-personal-shopper/article/wayfair-promo-codes/)
+        *   [Chewy](https://www.forbes.com/sites/forbes-personal-shopper/article/chewy-promo-codes/)
+        *   [Walmart](https://www.forbes.com/sites/forbes-personal-shopper/article/walmart-promo-codes/)
+        *   [West Elm](https://www.forbes.com/sites/forbes-personal-shopper/article/west-elm-coupons/)
+
+*   [Lists](https://www.forbes.com/lists/list-directory/) 
+
+Lists[See All](https://www.forbes.com/lists/list-directory/)  
+
+    *   [30 Under 30](https://www.forbes.com/under30/) 
+    *   [50 Over 50](https://www.forbes.com/over-50/) 
+    *   [Top Colleges](https://www.forbes.com/top-colleges/) 
+
+*   [Advisor](https://www.forbes.com/advisor/) 
+
+Advisor[See All](https://www.forbes.com/advisor/)  
+
+    *   [Credit Cards](https://www.forbes.com/advisor/credit-cards/)  
+
+        *   [Best Credit Cards](https://www.forbes.com/advisor/credit-cards/best-credit-cards/)
+        *   [Travel Credit Cards](https://www.forbes.com/advisor/credit-cards/best-travel-credit-cards/)
+        *   [0% APR Credit Cards](https://www.forbes.com/advisor/credit-cards/best-0-apr-credit-cards/)
+        *   [Balance Transfer Credit Cards](https://www.forbes.com/advisor/credit-cards/best/balance-transfer/)
+        *   [Business Credit Cards](https://www.forbes.com/advisor/credit-cards/best/business/)
+        *   [Best First Credit Card](https://www.forbes.com/advisor/credit-cards/best/first-credit-card/)
+
+    *   [Mortgages & Loans](https://www.forbes.com/advisor/mortgages/)  
+
+        *   [Best Mortgage Lenders](https://www.forbes.com/advisor/mortgages/best-mortgage-lenders/)
+        *   [Mortgage Refinance Lenders](https://www.forbes.com/advisor/mortgages/refinance/best-mortgage-refinance-lenders/)
+        *   [Personal Loans](https://www.forbes.com/advisor/personal-loans/best-personal-loans/)
+        *   [Business Loans](https://www.forbes.com/advisor/business-loans/best-small-business-loans/)
+        *   [Bad Credit Loans](https://www.forbes.com/advisor/personal-loans/bad-credit-loans/)
+        *   [Debt Consolidation Loans](https://www.forbes.com/advisor/personal-loans/debt-consolidation-loans/)
+        *   [Debt Relief Companies](https://www.forbes.com/advisor/debt-relief/best-debt-relief-companies/)
+        *   [Student Loans Refinance](https://www.forbes.com/advisor/student-loans/best-student-loan-refinance-lenders/)
+        *   [Private Student Loans](https://www.forbes.com/advisor/student-loans/best-private-student-loans/)
+
+    *   [Banking](https://www.forbes.com/advisor/banking/)  
+
+        *   [Best CD Rates](https://www.forbes.com/advisor/banking/cds/best-cd-rates/)
+        *   [High Yield Savings Accounts](https://www.forbes.com/advisor/banking/savings/best-high-yield-savings-accounts/)
+        *   [Money Market Accounts](https://www.forbes.com/advisor/banking/best-money-market-accounts/)
+        *   [Checking Accounts](https://www.forbes.com/advisor/banking/checking/best-checking-accounts/)
+        *   [Business Checking Accounts](https://www.forbes.com/advisor/banking/checking/best-business-checking-accounts/)
+        *   [Budgeting Apps](https://www.forbes.com/advisor/banking/best-budgeting-apps/)
+        *   [Best Online Banks](https://www.forbes.com/advisor/banking/best-online-banks/)
+
+    *   [Insurance](https://www.forbes.com/advisor/insurance/)  
+
+        *   [Health Insurance Companies](https://www.forbes.com/advisor/health-insurance/best-health-insurance-companies/)
+        *   [Medicare](https://www.forbes.com/advisor/health-insurance/medicare/)
+        *   [Life Insurance Companies](https://www.forbes.com/advisor/life-insurance/best-life-insurance-companies/)
+        *   [Best Car Insurance Companies](https://www.forbes.com/advisor/car-insurance/best-car-insurance-companies/)
+        *   [Cheapest Car Insurance Companies](https://www.forbes.com/advisor/car-insurance/cheapest-car-insurance/)
+        *   [Pet Insurance Companies](https://www.forbes.com/advisor/pet-insurance/best-pet-insurance/)
+        *   [Travel Insurance Companies](https://www.forbes.com/advisor/travel-insurance/best-travel-insurance/)
+        *   [Homeowners Insurance Companies](https://www.forbes.com/advisor/homeowners-insurance/best-homeowners-insurance-companies/)
+        *   [Best Business Insurance Companies](https://www.forbes.com/advisor/business-insurance/best-small-business-insurance/)
+
+    *   [Business Services](https://www.forbes.com/advisor/business/)  
+
+        *   [How to Start a Business](https://www.forbes.com/advisor/business/how-to-start-a-business/)
+        *   [LLC Services](https://www.forbes.com/advisor/business/best-llc-service/)
+        *   [Payroll Services](https://www.forbes.com/advisor/business/software/best-payroll-services/)
+        *   [HR Software](https://www.forbes.com/advisor/business/software/best-human-resource-management-systems/)
+        *   [HRIS Systems](https://www.forbes.com/advisor/business/software/hris-systems/)
+        *   [PEO Services](https://www.forbes.com/advisor/business/software/best-peo-services/)
+        *   [Applicant tracking Systems](https://www.forbes.com/advisor/business/best-applicant-tracking-systems/)
+        *   [Domain Registrars](https://www.forbes.com/advisor/business/software/best-domain-registrar/)
+        *   [Hosting Services](https://www.forbes.com/advisor/business/software/best-web-hosting-services/)
+        *   [Website Builders](https://www.forbes.com/advisor/business/software/best-website-builders/)
+        *   [Ecomm Platforms](https://www.forbes.com/advisor/business/software/best-ecommerce-platform/)
+        *   [Landing Page Builders](https://www.forbes.com/advisor/business/software/best-landing-page-builder/)
+        *   [VOIP Services](https://www.forbes.com/advisor/business/software/best-voip-service/)
+        *   [Answering Services](https://www.forbes.com/advisor/business/software/best-answering-services/)
+        *   [Project Management Software](https://www.forbes.com/advisor/business/software/best-project-management-software/)
+        *   [Task Management Software](https://www.forbes.com/advisor/business/software/best-task-management-software/)
+        *   [Gantt Chart Software](https://www.forbes.com/advisor/business/software/best-gantt-chart-software/)
+        *   [VPNs](https://www.forbes.com/advisor/business/software/best-vpn/)
+        *   [Anti Virus Software](https://www.forbes.com/advisor/business/software/best-antivirus-software/)
+        *   [Password Managers](https://www.forbes.com/advisor/business/software/best-password-managers/)
+
+    *   [Home Services](https://www.forbes.com/home-improvement/)  
+
+        *   [Moving Companies](https://www.forbes.com/home-improvement/moving-services/best-moving-companies/)
+        *   [Long Distance Moving Companies](https://www.forbes.com/home-improvement/moving-services/best-long-distance-moving-companies/)
+        *   [Car Shipping Companies](https://www.forbes.com/home-improvement/moving-services/best-car-shipping-companies/)
+        *   [Home Warranty Companies](https://www.forbes.com/home-improvement/home-warranty/best-home-warranty-companies/)
+        *   [Solar Companies](https://www.forbes.com/home-improvement/solar/best-solar-companies/)
+        *   [Solar Panels](https://www.forbes.com/home-improvement/solar/best-solar-panels/)
+        *   [Home Security Companies](https://www.forbes.com/home-improvement/home-security/best-home-security-companies/)
+        *   [Home Security Systems](https://www.forbes.com/home-improvement/home-security/best-home-security-systems/)
+        *   [Internet Providers](https://www.forbes.com/home-improvement/internet/best-internet-providers/)
+        *   [Cheapest Internet Providers](https://www.forbes.com/home-improvement/internet/cheapest-internet-plans/)
+        *   [Fastest High Speed Internet Providers](https://www.forbes.com/home-improvement/internet/fastest-high-speed-internet-provider/)
+        *   [Pest Control Companies](https://www.forbes.com/home-improvement/pest-control/best-pest-control-companies/)
+
+    *   [Education](https://www.forbes.com/advisor/education/) 
+    *   [Forbes Advisor UK](https://www.forbes.com/uk/advisor/) 
+    *   [Forbes Advisor CA](https://www.forbes.com/advisor/ca/) 
+    *   [Forbes Advisor AU](https://www.forbes.com/advisor/au/) 
+
+See More
+
+*   [Health](https://www.forbes.com/health/) 
+
+Health[See All](https://www.forbes.com/health/)  
+
+    *   [Mental Health](https://www.forbes.com/health/mind/)  
+
+        *   [Best Online Therapy](https://www.forbes.com/health/mind/best-online-therapy/)
+        *   [Online Therapy that Takes Insurance](https://www.forbes.com/health/mind/best-online-therapy-that-takes-insurance/)
+        *   [Online Psychiatrists](https://www.forbes.com/health/mind/best-online-psychiatry/)
+        *   [Best Online Dating Sites & Apps](https://www.forbes.com/health/dating/best-online-dating-websites/)
+        *   [Best Senior Dating Sites](https://www.forbes.com/health/dating/best-senior-dating-sites/)
+        *   [Best LGBTQ Dating Sites](https://www.forbes.com/health/dating/best-lgbtq-dating-sites/)
+
+    *   [CBD](https://www.forbes.com/health/cbd/)  
+
+        *   [CBD Gummies](https://www.forbes.com/health/cbd/best-cbd-gummies/)
+        *   [CBD Oil](https://www.forbes.com/health/cbd/best-cbd-oil/)
+        *   [CBD Creams](https://www.forbes.com/health/cbd/best-cbd-creams/)
+        *   [CBD for Anxiety](https://www.forbes.com/health/cbd/cbd-for-anxiety/)
+        *   [CBD for Pain](https://www.forbes.com/health/cbd/best-cbd-oil-for-pain/)
+
+    *   [Supplements](https://www.forbes.com/health/supplements/)  
+
+        *   [Protein Powder](https://www.forbes.com/health/supplements/best-protein-powders/)
+        *   [Preworkout](https://www.forbes.com/health/supplements/best-pre-workout/)
+        *   [Collagen Powders](https://www.forbes.com/health/supplements/best-collagen-powders/)
+        *   [Creatine Supplements](https://www.forbes.com/health/supplements/best-creatine-supplements/)
+        *   [CoQ10 Supplements](https://www.forbes.com/health/supplements/coq10-supplements/)
+
+    *   [Hearing Health](https://www.forbes.com/health/hearing-aids/)  
+
+        *   [Best Hearing Aids](https://www.forbes.com/health/hearing-aids/best-hearing-aids/)
+        *   [OTC Hearing Aids](https://www.forbes.com/health/hearing-aids/best-otc-hearing-aids/)
+        *   [Affordable Hearing Aids](https://www.forbes.com/health/hearing-aids/best-affordable-hearing-aids/)
+
+    *   [Medical Devices](https://www.forbes.com/health/medical-alert-systems/)  
+
+        *   [Best Medical Alert Systems](https://www.forbes.com/health/medical-alert-systems/best-medical-alert-systems/)
+        *   [Best Medical Alert Systems with Fall Detection](https://www.forbes.com/health/medical-alert-systems/best-medical-alert-systems-with-fall-detection/)
+
+    *   [Diet & Weight Loss](https://www.forbes.com/health/weight-loss/)  
+
+        *   [Best Weight Loss Plans](https://www.forbes.com/health/weight-loss/best-weight-loss-program/)
+        *   [Best GLP-1 Programs](https://www.forbes.com/health/weight-loss/best-affordable-online-glp1-providers/)
+        *   [Best Semaglutide Providers](https://www.forbes.com/health/weight-loss/best-affordable-online-semaglutide-providers/)
+        *   [Best Tirzepatide Providers](https://www.forbes.com/health/weight-loss/best-affordable-online-tirzepatide-providers/)
+
+*   [Newsletters](https://account.forbes.com/newsletters/?utm_source=forbes&utm_medium=featured&utm_campaign=navigation) 
+
+Newsletters[See All](https://account.forbes.com/newsletters/?utm_source=forbes&utm_medium=featured&utm_campaign=navigation)  
+
+    *   [Forbes Daily](https://www.forbes.com/newsletter/forbes-daily/) 
+    *   [Editorial Newsletters](https://account.forbes.com/newsletters/?utm_source=forbes&utm_medium=featured&utm_campaign=navigation) 
+
+*   [Forbes Games](https://www.forbes.com/games/) 
+
+Forbes Games[See All](https://www.forbes.com/games/)  
+
+    *   [Frase by Forbes](https://www.forbes.com/frase/) 
+    *   [Pinpoint by LinkedIn](https://www.forbes.com/games/pinpoint/) 
+    *   [Queens by LinkedIn](https://www.forbes.com/games/queens/) 
+    *   [Crossclimb by LinkedIn](https://www.forbes.com/games/crossclimb/) 
+    *   [Mini Crossword by Forbes](https://www.forbes.com/games/mini-crossword/) 
+
+*   More From Forbes 
+
+More From Forbes 
+
+    *   [Forbes Video](https://www.forbes.com/video/) 
+    *   [Forbes 101](https://www.forbes.com/forbes-101/) 
+    *   [Forbes Magazine](https://www.forbes.com/forbes-magazine/)  
+
+        *   [Forbes Asia](https://www.forbes.com/forbesasia/)
+        *   [Free Issue of Forbes](https://w1.buysub.com/pubs/B4/FRB/16-forbes_relaunch_landingpage_2freetrial.jsp?cds_mag_code=FRB&cds_page_id=241223)
+
+    *   [Forbes Wine Club](https://wineclub.forbes.com/) 
+
+*   ## Download The Forbes App
+
+[](https://apps.apple.com/app/apple-store/id1638757310?pt=220691&ct=Site_Global_Nav&mt=8)[](https://play.google.com/store/apps/details?id=com.forbes.forbesreader.android&hl=en_US&utm_source=forbes_web&utm_medium=global_nav&utm_campaign=download_app&utm_content=android)  
+
+Forbes Featured Games
+
+[new ![Image 1: Mini Crossword](https://images.forbes.com/fbs-games-assets/crossword-high-res.png) Mini Crossword Quick solve. Big win. Play Now](https://www.forbes.com/games/mini-crossword/)[![Image 2: Frase](https://images.forbes.com/fbs-games-assets/frase-new.png) Frase Unscramble The Anagram Play Now](https://www.forbes.com/games/frase/)
+
+Today's Highlights
+
+[![Image 3: Donald Trump Jr. And Wife Defend Lavish Wedding ‘Gift’ From Russian Oligarch](https://specials-images.forbesimg.com/imageserve/6aa7f138e0fcd48a649412b0/960x540.jpg)](https://www.forbes.com/sites/saradorn/2026/09/14/donald-trump-jr-and-wife-defend-lavish-wedding-gift-from-russian-oligarch/)
+
+[Donald Trump Jr. And Wife Defend Lavish Wedding ‘Gift’ From Russian Oligarch](https://www.forbes.com/sites/saradorn/2026/09/14/donald-trump-jr-and-wife-defend-lavish-wedding-gift-from-russian-oligarch/)
+
+[![Image 4: Phillies Former Infielder Turned AL Hall Of Fame Manager Dies](https://specials-images.forbesimg.com/imageserve/695e81f2ef0f39890f44ef06/960x540.jpg?cropX1=373&cropX2=2758&cropY1=658&cropY2=2000)](https://www.forbes.com/sites/peterchawaga/2026/09/14/phillies-former-infielder-turned-al-hall-of-fame-manager-dies/)
+
+[Phillies Former Infielder Turned AL Hall Of Fame Manager Dies](https://www.forbes.com/sites/peterchawaga/2026/09/14/phillies-former-infielder-turned-al-hall-of-fame-manager-dies/)
+
+[![Image 5: Massachusetts Cannabis Repeal Vote Puts Cannabis Banking To The Test](https://specials-images.forbesimg.com/imageserve/6aa4626aacc13cbfb3220139/960x540.jpg)](https://www.forbes.com/sites/petersu/2026/09/12/massachusetts-cannabis-repeal-vote-puts-cannabis-banking-to-the-test/)
+
+[Massachusetts Cannabis Repeal Vote Puts Cannabis Banking To The Test](https://www.forbes.com/sites/petersu/2026/09/12/massachusetts-cannabis-repeal-vote-puts-cannabis-banking-to-the-test/)
+
+Subscribe to the Daily Newsletter
+
+Our best stories, exclusive reporting and Forbes perspectives on the day’s top news.
+
+Email Address 
+
+ Sign Up 
+
+By signing up, you agree to receive this newsletter, other updates about Forbes and its affiliates’ offerings, our [Terms of Service](https://www.forbes.com/terms-and-conditions) (including resolving disputes on an individual basis via arbitration), and you acknowledge our [Privacy Statement](https://www.forbes.com/privacy). Forbes is protected by reCAPTCHA, and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+
+Subscribe to the Daily Newsletter
+
+You’re Subscribed! Ready To Get Even More?
+
+Create your free account to receive personalized offers to your inbox, save articles and follow authors to get their latest stories in a weekly email roundup just for you!
+
+ Create An Account [Explore Membership](https://account.forbes.com/membership?eventSource=hp_footer)
+
+More Games By LinkedIn
+
+[![Image 6: Pinpoint](https://images.forbes.com/fbs-games-assets/pinpoint-high-res.png) Pinpoint Guess The Category Play Now](https://www.forbes.com/games/pinpoint/)[![Image 7: Queens](https://images.forbes.com/fbs-games-assets/queens-high-res.png) Queens Crown Each Region Play Now](https://www.forbes.com/games/queens/)[![Image 8: Crossclimb](https://images.forbes.com/fbs-games-assets/crossclimb-high-res.png) Crossclimb Unlock A Trivia Ladder Play Now](https://www.forbes.com/games/crossclimb/)
+
+© 2026 Forbes Media LLC. All Rights Reserved.
+
+*   [Advertise with Forbes](https://www.forbes.com/connect/digital-ad-products/)
+*   [Forbes Licensing & Syndication](https://www.forbes.com/connect/content-partnerships/)
+*   [Report a Security Issue](https://www.forbes.com/contact/)
+*   [Editorial Values and Standards](https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/)
+*   [Site Feedback](mailto:feedback@forbes.com)
+*   [Contact Us](https://www.forbes.com/contact/)
+*   [Careers at Forbes](https://www.forbes.com/careers-at-forbes/)
+*   [Tips](https://www.forbes.com/tips/)
+*   [Corrections](mailto:corrections@forbes.com?subject=Report%20Correction&body=Reporting%20Correction%20for:%20%0A%20%0A%20Title:%20Eric%20Schmidt%20%0A%20URL:%20https://www.forbes.com/profile/eric-schmidt/%0A%20%0A%20-%20%0A%20%0A%20Your%20Name:%20%0A%20Correction%20Request:%20%0A%20%0A%20-%20%0A%20%0A%20Thank%20you%20for%20reporting%20a%20correction.%20Forbes%20Staff%20will%20review%20your%20concern%20shortly.)
+*   [Privacy Statement](https://www.forbes.com/fdc/privacy.html)
+*   [Your Privacy Choices](https://www.forbes.com/consent/editprivacy/?consent_do_not_sell=true)
+*   [Cookie Preferences](https://www.forbes.com/profile/eric-schmidt/#)
+*   [Terms of Service](https://www.forbes.com/terms-and-conditions/)
+*   [AdChoices](https://youradchoices.com/control)
+*   [Reprints & Permissions](https://www.parsintl.com/publications/forbes/)
+
+[](https://www.forbes.com/)
+
+[Subscribe: Less than $2/wk](https://account.forbes.com/subscribe?eventSource=header&redirect=https://www.forbes.com/profile/eric-schmidt/)
+
+5+
+
+My Account Notifications
+
+DAILY COVER STORY
+
+[The Richest New Forbes 400 Member Hails From OpenAI. It Isn’t Sam Altman.](http://www.forbes.com/sites/aliciapark/2026/09/14/the-richest-new-forbes-400-member-hails-from-openai-it-isnt-sam-altman/?ctpv=notifications-dailycoverstory)
+
+9h ago
+
+DAILY COVER STORY
+
+[America’s Richest Sports Team Owners 2026](http://www.forbes.com/sites/brettknight/2026/09/14/americas-richest-sports-team-owners-2026/?ctpv=notifications-dailycoverstory)
+
+9h ago
+
+BREAKING
+
+[‘Spider-Man: Brand New Day’ Poised To Break Box Office All-Time Domestic Record](http://www.forbes.com/sites/zacharyfolk/2026/09/13/spider-man-brand-new-day-poised-to-break-box-office-all-time-domestic-record/?ctpv=notifications-breakingnews)
+
+22h ago
+
+BREAKING
+
+[Canada Discussing Joining EU As ‘Associate Member,’ Report Says](http://www.forbes.com/sites/zacharyfolk/2026/09/13/canada-discussing-joining-eu-as-associate-member-report-says/?ctpv=notifications-breakingnews)
+
+1d ago
+
+DAILY COVER STORY
+
+[The NFL’s Highest-Paid Players 2026](http://www.forbes.com/sites/brettknight/2026/09/13/the-nfls-highest-paid-players-2026/?ctpv=notifications-dailycoverstory)
+
+1d ago
+
+BREAKING
+
+[OpenAI Isn’t Going Public This Year, Sam Altman Says](http://www.forbes.com/sites/maryroeloffs/2026/09/12/openai-isnt-going-public-this-year-sam-altman-says/?ctpv=notifications-breakingnews)
+
+2d ago
+
+BREAKING
+
+[Trump Says He'd 'Love' To See Unified Ireland](http://www.forbes.com/sites/maryroeloffs/2026/09/12/trump-says-hed-love-to-see-unified-ireland/?ctpv=notifications-breakingnews)
+
+2d ago
+
+BREAKING
+
+[Reflecting Pool Contractor Says Issues Were Linked To Its Own Work, Not Vandals, Report Says](http://www.forbes.com/sites/antoniopequenoiv/2026/09/11/reflecting-pool-contractor-say-issues-were-linked-to-its-own-work-not-vandals-report-says/?ctpv=notifications-breakingnews)
+
+3d ago
+
+BREAKING
+
+[Dell Shares Hit All-Time High As Michael Dell And Jeff Bezos Jockey For Third-Wealthiest Billionaire](http://www.forbes.com/sites/antoniopequenoiv/2026/09/11/dell-shares-hit-all-time-high-as-michael-dell-and-jeff-bezos-jockey-for-third-wealthiest-billionaire/?ctpv=notifications-breakingnews)
+
+3d ago
+
+FORBES DAILY
+
+[Record diesel prices escalate inflation fears.](http://www.forbes.com/sites/daniellechemtob/2026/09/11/forbes-daily-diesel-prices-reach-a-record-as-inflation-fears-escalate/?ctpv=notifications-forbesdaily)
+
+3d ago
+
+DAILY COVER STORY
+
+[‘More Content Is Always Great:’ Inside Pocket FM’s $400 Million Content Farm](http://www.forbes.com/sites/mattcraig/2026/09/10/inside-pocket-fms-400-million-microdrama-content-farm/?ctpv=notifications-dailycoverstory)
+
+3d ago
+
+BREAKING
+
+[Trump Makes GOP Convention Attendees Pledge To Vote And ‘Cheat Like Hell’ In Bizarre Moment](http://www.forbes.com/sites/siladityaray/2026/09/11/cheat-like-hell-trump-makes-gop-convention-attendees-pledge-to-vote-in-bizarre-moment/?ctpv=notifications-breakingnews)
+
+4d ago
+
+DAILY COVER STORY
+
+[Forbes’ Top 25 Public Colleges](http://www.forbes.com/sites/janetnovack/2026/09/10/forbes-top-25-public-colleges/?ctpv=notifications-dailycoverstory)
+
+4d ago
+
+DAILY COVER STORY
+
+[Forbes’ Top 50 Small Colleges](http://www.forbes.com/sites/lisachambers/2026/09/10/forbes-top-50-small-colleges/?ctpv=notifications-dailycoverstory)
+
+4d ago
+
+DAILY COVER STORY
+
+[How To Choose A College In The Age Of AI](http://www.forbes.com/sites/lisachambers/2026/09/10/how-to-choose-a-college-in-the-age-of-ai/?ctpv=notifications-dailycoverstory)
+
+4d ago
+
+FORBES DAILY
+
+[AI researchers warn technology could wipe out humanity.](http://www.forbes.com/sites/daniellechemtob/2026/09/10/forbes-daily-a-warning-for-humanity-from-two-ai-researchers/?ctpv=notifications-forbesdaily)
+
+4d ago
+
+### Get Custom Alerts With Member Perks
+
+Sign In or Create a Free Account
+
+Powered by Forbes AI
+
+ PROFILE
+
+# Eric Schmidt
+
+$38.6B
+
+$793M (2.10%)
+
+### Real Time Net Worth
+
+as of 9/14/26
+
+Reflects change since 5 pm ET of prior trading day.
+
+[#55 in the world today](https://www.forbes.com/real-time-billionaires/)
+
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F)[](https://x.com/intent/tweet?text=Eric%20Schmidt&url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F)[](https://www.linkedin.com/shareArticle?mini=true?url=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F)[](mailto:?body=Eric%20Schmidt%20https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F)
+
+Spencer Brown
+
+![Image 9: profile image for Eric Schmidt](https://imageio.forbes.com/specials-images/imageserve/5f4526a6f048a75b8e14e6b2/0x0.jpg?format=jpg&crop=3235,3234,x0,y381,safe&height=416&width=416&fit=bounds)
+
+From the Editor
+
+## Last Updated Mar 10, 2026, 1:01am EDT
+
+*   Eric Schmidt left the board of Google parent company Alphabet in June 2019 after 18 years; he stayed on as a technical advisor until February 2020.
+*   Schmidt was Google's CEO from 2001 to 2011; prior to that he had stints as CEO of Novell and chief technology officer at Sun Microsystems.
+*   He co-founded Innovation Endeavors, a venture capital firm that has invested in Uber, SoFi, and Zymergen, among others.
+*   In May 2015, his family's investment vehicle bought a 20% stake in hedge fund firm D.E. Shaw & Co. for an undisclosed price.
+
+Wealth History
+
+HOVER TO REVEAL NET WORTH BY YEAR
+
+## Forbes Lists
+
+list appearances
+
+36
+
+Sort by Date
+
+2026
+
+[Billionaires](https://www.forbes.com/billionaires/)[Technology](https://www.forbes.com/billionaires/)
+
+#60
+
+2025
+
+[Forbes 400](https://www.forbes.com/forbes-400/)[Technology](https://www.forbes.com/forbes-400/)
+
+#36
+
+2025
+
+Billionaires Technology
+
+#82
+
+2024
+
+Forbes 400 Technology
+
+#36
+
+2024
+
+Billionaires Technology
+
+#94
+
+2023
+
+Forbes 400 Technology
+
+#36
+
+2023
+
+Billionaires Technology
+
+#104
+
+2022
+
+Forbes 400 Technology
+
+#34
+
+2022
+
+Billionaires Technology
+
+#70
+
+2021
+
+Forbes 400 Technology
+
+#30
+
+See More
+
+## Personal Stats
+
+Age 71 Source of Wealth Google, Self Made[Self-Made Score](https://www.forbes.com/self-made-methodology/)6[Philanthropy Score](https://www.forbes.com/philanthropy-methodology/)3 Residence Atherton, California Citizenship United States Marital Status Married Children 2 Education Bachelor of Arts/Science, Princeton University; Doctorate, University of California, Berkeley; Master of Science, University of California, Berkeley
+
+Did you know
+
+Schmidt's family is passionate about environmental sustainability and has donated to various projects related to renewable energy and climate change.
+
+He has toured some of the world's most tightly controlled regimes to promote open internet access, including in Cuba and North Korea.
+
+In Their Own Words
+
+> If you focus on your competition, you will never deliver anything truly innovative.
+> 
+> Eric Schmidt
+
+Related People & Companies
+
+[![Image 10: Alice Zhang](https://imageio.forbes.com/specials-images/imageserve/585845d04bbe6f1f20e94c0b/0x0.jpg?format=jpg&crop=509,509,x68,y16,safe&height=87&width=87)](https://www.forbes.com/profile/alice-zhang/)
+
+[Alice Zhang](https://www.forbes.com/profile/alice-zhang/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/alice-zhang/)
+
+[![Image 11: Alphabet](https://imageio.forbes.com/images-forbes/media/lists/companies/alphabet_416x416.jpg?format=jpg&height=87&width=87)](https://www.forbes.com/companies/alphabet/)
+
+[Alphabet](https://www.forbes.com/companies/alphabet/)
+
+Holds stake in Alphabet
+
+[View Profile](https://www.forbes.com/companies/alphabet/)
+
+[![Image 12: Angela Ahrendts](https://imageio.forbes.com/specials-images/imageserve/573c8bed4bbe6f6361853a34/0x0.jpg?format=jpg&crop=744,744,x0,y151,safe&height=87&width=87)](https://www.forbes.com/profile/angela-ahrendts/)
+
+[Angela Ahrendts](https://www.forbes.com/profile/angela-ahrendts/)
+
+Related by financial asset: Apple
+
+[View Profile](https://www.forbes.com/profile/angela-ahrendts/)
+
+[![Image 13: Anna Doherty](https://imageio.forbes.com/specials-images/imageserve/653925f36298976656efd1a7/0x0.jpg?format=jpg&crop=1410,1410,x308,y84,safe&height=87&width=87)](https://www.forbes.com/profile/anna-doherty/)
+
+[Anna Doherty](https://www.forbes.com/profile/anna-doherty/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/anna-doherty/)
+
+[![Image 14: Antonio Juliano](https://imageio.forbes.com/specials-images/imageserve/6191a2b98833ac5541047632/0x0.jpg?format=jpg&crop=1868,1869,x637,y14,safe&height=87&width=87)](https://www.forbes.com/profile/antonio-juliano/)
+
+[Antonio Juliano](https://www.forbes.com/profile/antonio-juliano/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/antonio-juliano/)
+
+[![Image 15: Archika Dogra](https://imageio.forbes.com/specials-images/imageserve/6545247336d55f1dfb9c9697/0x0.jpg?format=jpg&crop=1404,1404,x618,y309,safe&height=87&width=87)](https://www.forbes.com/profile/archika-dogra/)
+
+[Archika Dogra](https://www.forbes.com/profile/archika-dogra/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/archika-dogra/)
+
+[![Image 16: Ash Egan](https://imageio.forbes.com/specials-images/imageserve/5ddc3f00e0af7b0006b25146/0x0.jpg?format=jpg&crop=1761,1764,x448,y274,safe&height=87&width=87)](https://www.forbes.com/profile/ash-egan/)
+
+[Ash Egan](https://www.forbes.com/profile/ash-egan/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/ash-egan/)
+
+[![Image 17: Ashleigh Johnson](https://imageio.forbes.com/specials-images/imageserve/619317ba8a55b1b3d6a81a60/0x0.jpg?format=jpg&crop=1640,1638,x1086,y30,safe&height=87&width=87)](https://www.forbes.com/profile/ashleigh-johnson/)
+
+[Ashleigh Johnson](https://www.forbes.com/profile/ashleigh-johnson/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/ashleigh-johnson/)
+
+[![Image 18: Bharath Alamanda](https://imageio.forbes.com/specials-images/imageserve/5fb4980b98dd286d6c0aa915/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=87&width=87)](https://www.forbes.com/profile/bharath-alamanda/)
+
+[Bharath Alamanda](https://www.forbes.com/profile/bharath-alamanda/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/bharath-alamanda/)
+
+[![Image 19: Brian Tubergen](https://imageio.forbes.com/specials-images/imageserve/5fb494ca07c879f3e30aa915/0x0.jpg?format=jpg&crop=1077,1077,x3,y0,safe&height=87&width=87)](https://www.forbes.com/profile/brian-tubergen/)
+
+[Brian Tubergen](https://www.forbes.com/profile/brian-tubergen/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/brian-tubergen/)
+
+[![Image 20: Michael Novogratz](https://imageio.forbes.com/i-forbesimg/media/lists/people/no-pic_416x416.jpg?format=jpg&height=87&width=87)](https://www.forbes.com/profile/dai-lizhong/)
+
+[Dai Lizhong](https://www.forbes.com/profile/dai-lizhong/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/dai-lizhong/)
+
+[![Image 21: Daniela Raffel Torrebiarte](https://imageio.forbes.com/specials-images/imageserve/63fd171b71d827ec2a1778a5/0x0.jpg?format=jpg&crop=1732,1733,x503,y652,safe&height=87&width=87)](https://www.forbes.com/profile/daniela-raffel-torrebiarte/)
+
+[Daniela Raffel Torrebiarte](https://www.forbes.com/profile/daniela-raffel-torrebiarte/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/daniela-raffel-torrebiarte/)
+
+[![Image 22: Ed Elson](https://imageio.forbes.com/specials-images/imageserve/690969ef57ee1067a73043e2/0x0.jpg?format=jpg&crop=753,753,x142,y28,safe&height=87&width=87)](https://www.forbes.com/profile/ed-elson/)
+
+[Ed Elson](https://www.forbes.com/profile/ed-elson/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/ed-elson/)
+
+[![Image 23: Elle Liu](https://imageio.forbes.com/specials-images/imageserve/6191c8745e8d6ae3f4047633/0x0.jpg?format=jpg&crop=911,913,x165,y190,safe&height=87&width=87)](https://www.forbes.com/profile/elle-liu/)
+
+[Elle Liu](https://www.forbes.com/profile/elle-liu/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/elle-liu/)
+
+[![Image 24: Eric Hayes](https://imageio.forbes.com/specials-images/imageserve/67282f96202df133b598c3b3/0x0.jpg?format=jpg&crop=422,422,x348,y179,safe&height=87&width=87)](https://www.forbes.com/profile/eric-hayes-1/)
+
+[Eric Hayes](https://www.forbes.com/profile/eric-hayes-1/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/eric-hayes-1/)
+
+[![Image 25: Fei-Fei Li](https://imageio.forbes.com/specials-images/imageserve/5bf473b94bbe6f78bda8c5cd/0x0.jpg?format=jpg&crop=377,377,x0,y0,safe&height=87&width=87)](https://www.forbes.com/profile/fei-fei-li/)
+
+[Fei-Fei Li](https://www.forbes.com/profile/fei-fei-li/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/fei-fei-li/)
+
+[![Image 26: Google](https://imageio.forbes.com/specials-images/imageserve/5b92924ba7ea434b99d5a09b/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87)](https://www.forbes.com/companies/google/)
+
+[Google](https://www.forbes.com/companies/google/)
+
+Holds stake in Google
+
+[View Profile](https://www.forbes.com/companies/google/)
+
+[![Image 27: Hana Ku](https://imageio.forbes.com/specials-images/imageserve/6727da352dd9517bd9c4f3d3/0x0.jpg?format=jpg&crop=585,585,x183,y151,safe&height=87&width=87)](https://www.forbes.com/profile/hana-ku/)
+
+[Hana Ku](https://www.forbes.com/profile/hana-ku/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/hana-ku/)
+
+[![Image 28: Hassan Chaudhry](https://imageio.forbes.com/specials-images/imageserve/69124034e82f7e4f9ec039ef/0x0.jpg?format=jpg&crop=467,467,x324,y147,safe&height=87&width=87)](https://www.forbes.com/profile/hassan-chaudhry/)
+
+[Hassan Chaudhry](https://www.forbes.com/profile/hassan-chaudhry/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/hassan-chaudhry/)
+
+[![Image 29: Jonathan Lord](https://imageio.forbes.com/specials-images/imageserve/691bb3de188ca7a9155aaed8/0x0.jpg?format=jpg&crop=603,603,x501,y62,safe&height=87&width=87)](https://www.forbes.com/profile/jonathan-lord/)
+
+[Jonathan Lord](https://www.forbes.com/profile/jonathan-lord/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/jonathan-lord/)
+
+[![Image 30: Julian West](https://imageio.forbes.com/specials-images/imageserve/5fba8d9ba490a434a71ea1d3/0x0.jpg?format=jpg&crop=1078,1078,x2,y0,safe&height=87&width=87)](https://www.forbes.com/profile/julian-west/)
+
+[Julian West](https://www.forbes.com/profile/julian-west/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/julian-west/)
+
+[![Image 31: Larry Page](https://imageio.forbes.com/specials-images/imageserve/5c76bcaaa7ea43100043c836/0x0.jpg?format=jpg&crop=1795,1795,x227,y22,safe&height=87&width=87)](https://www.forbes.com/profile/larry-page/)
+
+[Larry Page](https://www.forbes.com/profile/larry-page/)
+
+Business Partner
+
+[View Profile](https://www.forbes.com/profile/larry-page/)
+
+[![Image 32: Michael Novogratz](https://imageio.forbes.com/i-forbesimg/media/lists/people/no-pic_416x416.jpg?format=jpg&height=87&width=87)](https://www.forbes.com/profile/michael-novogratz/)
+
+[Michael Novogratz](https://www.forbes.com/profile/michael-novogratz/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/michael-novogratz/)
+
+[![Image 33: Motorola Mobility](https://imageio.forbes.com/images-forbes/media/lists/companies/motorola-mobility_416x416.jpg?format=jpg&height=87&width=87)](https://www.forbes.com/companies/motorola-mobility/)
+
+[Motorola Mobility](https://www.forbes.com/companies/motorola-mobility/)
+
+Board Member
+
+[View Profile](https://www.forbes.com/companies/motorola-mobility/)
+
+[![Image 34: Nancy Xiao](https://imageio.forbes.com/specials-images/imageserve/61947155e920e6187dd6aaa8/0x0.jpg?format=jpg&crop=783,783,x246,y106,safe&height=87&width=87)](https://www.forbes.com/profile/nancy-xiao-1/)
+
+[Nancy Xiao](https://www.forbes.com/profile/nancy-xiao-1/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/nancy-xiao-1/)
+
+[![Image 35: Natalie Tung](https://imageio.forbes.com/specials-images/imageserve/6726f813714b668bf6e2e09d/0x0.jpg?format=jpg&crop=475,476,x386,y354,safe&height=87&width=87)](https://www.forbes.com/profile/natalie-tung/)
+
+[Natalie Tung](https://www.forbes.com/profile/natalie-tung/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/natalie-tung/)
+
+[![Image 36: O.O. Sangoyomi](https://imageio.forbes.com/specials-images/imageserve/672536c1449270dbe714beb8/0x0.jpg?format=jpg&crop=1331,1330,x757,y3,safe&height=87&width=87)](https://www.forbes.com/profile/oo-sangoyomi/)
+
+[O.O. Sangoyomi](https://www.forbes.com/profile/oo-sangoyomi/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/oo-sangoyomi/)
+
+[![Image 37: Phil Chang](https://imageio.forbes.com/specials-images/imageserve/6363ef8e43d9f9338fda32d0/0x0.jpg?format=jpg&crop=1904,1903,x1297,y76,safe&height=87&width=87)](https://www.forbes.com/profile/phil-chang/)
+
+[Phil Chang](https://www.forbes.com/profile/phil-chang/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/phil-chang/)
+
+[![Image 38: Philomina Kane](https://imageio.forbes.com/specials-images/imageserve/6542fec258a87962686719f6/0x0.jpg?format=jpg&crop=2759,2758,x434,y19,safe&height=87&width=87)](https://www.forbes.com/profile/philomina-kane/)
+
+[Philomina Kane](https://www.forbes.com/profile/philomina-kane/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/philomina-kane/)
+
+[![Image 39: Princeton University](https://imageio.forbes.com/specials-images/imageserve/559adbbce4b05c2c3431b18f/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87)](https://www.forbes.com/colleges/princeton-university/)
+
+[Princeton University](https://www.forbes.com/colleges/princeton-university/)
+
+Attended the school
+
+[View Profile](https://www.forbes.com/colleges/princeton-university/)
+
+[![Image 40: Ray Chao](https://imageio.forbes.com/specials-images/imageserve/6372c98e87633cd7fea8fb80/0x0.jpg?format=jpg&crop=1629,1631,x1065,y827,safe&height=87&width=87)](https://www.forbes.com/profile/ray-chao/)
+
+[Ray Chao](https://www.forbes.com/profile/ray-chao/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/ray-chao/)
+
+[![Image 41: Scott Britton](https://imageio.forbes.com/specials-images/imageserve/585855c34bbe6f1f20e94ea8/0x0.jpg?format=jpg&crop=744,744,x0,y151,safe&height=87&width=87)](https://www.forbes.com/profile/scott-britton/)
+
+[Scott Britton](https://www.forbes.com/profile/scott-britton/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/scott-britton/)
+
+[![Image 42: Vinod Khosla](https://imageio.forbes.com/specials-images/imageserve/6a0f4f2059fe489f527d7b54/0x0.jpg?format=jpg&crop=750,750,x690,y78,safe&height=87&width=87)](https://www.forbes.com/profile/vinod-khosla/)
+
+[Vinod Khosla](https://www.forbes.com/profile/vinod-khosla/)
+
+Related by financial asset: Google Inc. (Cl C)
+
+[View Profile](https://www.forbes.com/profile/vinod-khosla/)
+
+[![Image 43: Rachel Zietz](https://imageio.forbes.com/specials-images/imageserve/5ddc274c2dd2620006b951de/0x0.jpg?format=jpg&crop=2172,2171,x1777,y493,safe&height=87&width=87)](https://www.forbes.com/profile/rachel-zietz/)
+
+[Rachel Zietz](https://www.forbes.com/profile/rachel-zietz/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/rachel-zietz/)
+
+[![Image 44: Vivian Wang](https://imageio.forbes.com/specials-images/imageserve/6373063b39195562e8a8fb88/0x0.jpg?format=jpg&crop=758,758,x306,y73,safe&height=87&width=87)](https://www.forbes.com/profile/vivian-wang/)
+
+[Vivian Wang](https://www.forbes.com/profile/vivian-wang/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/vivian-wang/)
+
+[![Image 45: Yuri Lee](https://imageio.forbes.com/specials-images/imageserve/6727fcbd5c5a879cb0f480d2/0x0.jpg?format=jpg&crop=2121,2120,x1707,y278,safe&height=87&width=87)](https://www.forbes.com/profile/yuri-lee/)
+
+[Yuri Lee](https://www.forbes.com/profile/yuri-lee/)
+
+Related by education: Princeton University
+
+[View Profile](https://www.forbes.com/profile/yuri-lee/)
+
+See More See Less
+
+### More on Forbes
+
+Nov 18, 2025
+
+### [China And America And AI And Security](https://www.forbes.com/sites/johnwerner/2025/11/18/china-and-america-and-ai-and-security/)
+
+A Stanford talk with Eric Schmidt traces US-China AI rivalry, energy and chip constraints, distillation threats, and civilization-scale stakes. 
+
+By[John Werner](https://www.forbes.com/sites/johnwerner/)Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohnwerner%2F2025%2F11%2F18%2Fchina-and-america-and-ai-and-security%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F691ca874e606601ef36b9792%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=China%20And%20America%20And%20AI%20And%20Security&caption=www.forbes.com&description=A%20Stanford%20talk%20with%20Eric%20Schmidt%20traces%20US-China%20AI%20rivalry%2C%20energy%20and%20chip%20constraints%2C%20distillation%20threats%2C%20and%20civilization-scale%20stakes.%0A%0A)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohnwerner%2F2025%2F11%2F18%2Fchina-and-america-and-ai-and-security%2F&via=forbes&text=China%20And%20America%20And%20AI%20And%20Security)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohnwerner%2F2025%2F11%2F18%2Fchina-and-america-and-ai-and-security%2F&title=China%20And%20America%20And%20AI%20And%20Security&summary=A%20Stanford%20talk%20with%20Eric%20Schmidt%20traces%20US-China%20AI%20rivalry%2C%20energy%20and%20chip%20constraints%2C%20distillation%20threats%2C%20and%20civilization-scale%20stakes.%0A%0A)[](mailto:?subject=China%20And%20America%20And%20AI%20And%20Security&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohnwerner%2F2025%2F11%2F18%2Fchina-and-america-and-ai-and-security%2F%0A%0AChina%20And%20America%20And%20AI%20And%20Security%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/johnwerner/2025/11/18/china-and-america-and-ai-and-security/)
+
+Dec 22, 2023
+
+### [How Rebellion Defense, The $1 Billion Military AI Startup Hyped By Silicon Valley, Wound Up In A Nosedive](https://www.forbes.com/sites/davidjeans/2023/12/22/how-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive/)
+
+Launched with funding from former Google CEO Eric Schmidt, Rebellion Defense promised to deliver cutting-edge AI for the U.S.-U.K. alliance. But after losing its founders and shuttering its British arm, the company’s U.S. operation is trying to survive.
+
+By[David Jeans](https://www.forbes.com/sites/davidjeans/)Former Staff
+
+and[Sarah Emerson](https://www.forbes.com/sites/sarahemerson/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F12%2F22%2Fhow-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6584d8545d1e8ba07d811cf2%2F0x0.jpg%3Fformat%3Djpg%26crop%3D3200%2C1800%2Cx0%2Cy0%2Csafe%26width%3D440&name=How%20Rebellion%20Defense%2C%20The%20%241%20Billion%20Military%20AI%20Startup%20Hyped%20By%20Silicon%20Valley%2C%20Wound%20Up%20In%20A%20Nosedive&caption=www.forbes.com&description=Launched%20with%20funding%20from%20former%20Google%20CEO%20Eric%20Schmidt%2C%20Rebellion%20Defense%20promised%20to%20deliver%20cutting-edge%20AI%20for%20the%20U.S.-U.K.%20alliance.%20But%20after%20losing%20its%20founders%20and%20shuttering%20its%20British%20arm%2C%20the%20company%E2%80%99s%20U.S.%20operation%20is%20trying%20to%20survive.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F12%2F22%2Fhow-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive%2F&via=forbes&text=How%20Rebellion%20Defense%2C%20The%20%241%20Billion%20Military%20AI%20Startup%20Hyped%20By%20Silicon%20Valley%2C%20Wound%20Up%20In%20A%20Nosedive)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F12%2F22%2Fhow-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive%2F&title=How%20Rebellion%20Defense%2C%20The%20%241%20Billion%20Military%20AI%20Startup%20Hyped%20By%20Silicon%20Valley%2C%20Wound%20Up%20In%20A%20Nosedive&summary=Launched%20with%20funding%20from%20former%20Google%20CEO%20Eric%20Schmidt%2C%20Rebellion%20Defense%20promised%20to%20deliver%20cutting-edge%20AI%20for%20the%20U.S.-U.K.%20alliance.%20But%20after%20losing%20its%20founders%20and%20shuttering%20its%20British%20arm%2C%20the%20company%E2%80%99s%20U.S.%20operation%20is%20trying%20to%20survive.)[](mailto:?subject=How%20Rebellion%20Defense%2C%20The%20%241%20Billion%20Military%20AI%20Startup%20Hyped%20By%20Silicon%20Valley%2C%20Wound%20Up%20In%20A%20Nosedive&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F12%2F22%2Fhow-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive%2F%0A%0AHow%20Rebellion%20Defense%2C%20The%20%241%20Billion%20Military%20AI%20Startup%20Hyped%20By%20Silicon%20Valley%2C%20Wound%20Up%20In%20A%20Nosedive%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/davidjeans/2023/12/22/how-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive/)
+
+Nov 28, 2023
+
+### [Ex-Google CEO Warns Current AI Guardrails ‘Aren’t Enough’—Likened Development To Nuclear Weapons](https://www.forbes.com/sites/tylerroush/2023/11/28/ex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons/)
+
+Eric Schmidt, who served as Google’s chief executive for a decade, said “we don’t have that kind of time” to control AI.
+
+By[Ty Roush](https://www.forbes.com/sites/tylerroush/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F11%2F28%2Fex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F656627d702e1faa52c81b571%2F0x0.jpg%3Fformat%3Djpg%26crop%3D5552%2C3125%2Cx4%2Cy5%2Csafe%26width%3D440&name=Ex-Google%20CEO%20Warns%20Current%20AI%20Guardrails%20%E2%80%98Aren%E2%80%99t%20Enough%E2%80%99%E2%80%94Likened%20Development%20To%20Nuclear%20Weapons&caption=www.forbes.com&description=Eric%20Schmidt%2C%20who%20served%20as%20Google%E2%80%99s%20chief%20executive%20for%20a%20decade%2C%20said%20%E2%80%9Cwe%20don%E2%80%99t%20have%20that%20kind%20of%20time%E2%80%9D%20to%20control%20AI.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F11%2F28%2Fex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons%2F&via=forbes&text=Ex-Google%20CEO%20Warns%20Current%20AI%20Guardrails%20%E2%80%98Aren%E2%80%99t%20Enough%E2%80%99%E2%80%94Likened%20Development%20To%20Nuclear%20Weapons)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F11%2F28%2Fex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons%2F&title=Ex-Google%20CEO%20Warns%20Current%20AI%20Guardrails%20%E2%80%98Aren%E2%80%99t%20Enough%E2%80%99%E2%80%94Likened%20Development%20To%20Nuclear%20Weapons&summary=Eric%20Schmidt%2C%20who%20served%20as%20Google%E2%80%99s%20chief%20executive%20for%20a%20decade%2C%20said%20%E2%80%9Cwe%20don%E2%80%99t%20have%20that%20kind%20of%20time%E2%80%9D%20to%20control%20AI.)[](mailto:?subject=Ex-Google%20CEO%20Warns%20Current%20AI%20Guardrails%20%E2%80%98Aren%E2%80%99t%20Enough%E2%80%99%E2%80%94Likened%20Development%20To%20Nuclear%20Weapons&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F11%2F28%2Fex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons%2F%0A%0AEx-Google%20CEO%20Warns%20Current%20AI%20Guardrails%20%E2%80%98Aren%E2%80%99t%20Enough%E2%80%99%E2%80%94Likened%20Development%20To%20Nuclear%20Weapons%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/tylerroush/2023/11/28/ex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons/)
+
+Nov 16, 2023
+
+### [Inside Former Google CEO Eric Schmidt's $1 Billion Philanthropic Troubles](https://www.forbes.com/video/6341247489112/)
+
+David Jeans, a technology reporter for Forbes, joins 'Forbes Talks' to discuss the philanthropic troubles of former Google CEO, Eric Schmidt.
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6341247489112%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fi-forbesimg%2Fmedia%2Fvideo%2F2023%2F11%2F16%2F6341247489112_still.jpg%3Fformat%3Djpg%26width%3D440&name=Inside%20Former%20Google%20CEO%20Eric%20Schmidt%27s%20%241%20Billion%20Philanthropic%20Troubles&caption=www.forbes.com&description=David%20Jeans%2C%20a%20technology%20reporter%20for%20Forbes%2C%20joins%20%27Forbes%20Talks%27%20to%20discuss%20the%20philanthropic%20troubles%20of%20former%20Google%20CEO%2C%20Eric%20Schmidt.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6341247489112%2F&via=forbes&text=Inside%20Former%20Google%20CEO%20Eric%20Schmidt%27s%20%241%20Billion%20Philanthropic%20Troubles)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6341247489112%2F&title=Inside%20Former%20Google%20CEO%20Eric%20Schmidt%27s%20%241%20Billion%20Philanthropic%20Troubles&summary=David%20Jeans%2C%20a%20technology%20reporter%20for%20Forbes%2C%20joins%20%27Forbes%20Talks%27%20to%20discuss%20the%20philanthropic%20troubles%20of%20former%20Google%20CEO%2C%20Eric%20Schmidt.)[](mailto:?subject=Inside%20Former%20Google%20CEO%20Eric%20Schmidt's%20%241%20Billion%20Philanthropic%20Troubles&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fvideo%2F6341247489112%2F%0A%0AInside%20Former%20Google%20CEO%20Eric%20Schmidt's%20%241%20Billion%20Philanthropic%20Troubles%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[WATCH](https://www.forbes.com/video/6341247489112/)
+
+Nov 3, 2023
+
+### [Former Google CEO Launched A $100 Million Company With His Girlfriend. It's Not Going Well](https://www.forbes.com/video/6340439744112/)
+
+Married billionaire Eric Schmidt launched Steel Perlot with 29-year-old entrepreneur Michelle Ritter while they were dating — a venture that has blurred his professional and personal life.
+
+By[Jonathan Palmer](https://www.forbes.com/sites/jonathanpalmer/)Forbes Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6340439744112%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fi-forbesimg%2Fmedia%2Fvideo%2F2023%2F11%2F03%2F6340439744112_still.jpg%3Fformat%3Djpg%26width%3D440&name=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%27s%20Not%20Going%20Well&caption=www.forbes.com&description=Married%20billionaire%20Eric%20Schmidt%20launched%20Steel%20Perlot%20with%2029-year-old%20entrepreneur%20Michelle%20Ritter%20while%20they%20were%20dating%20%E2%80%94%20a%20venture%20that%20has%20blurred%20his%20professional%20and%20personal%20life.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6340439744112%2F&via=forbes&text=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%27s%20Not%20Going%20Well)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6340439744112%2F&title=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%27s%20Not%20Going%20Well&summary=Married%20billionaire%20Eric%20Schmidt%20launched%20Steel%20Perlot%20with%2029-year-old%20entrepreneur%20Michelle%20Ritter%20while%20they%20were%20dating%20%E2%80%94%20a%20venture%20that%20has%20blurred%20his%20professional%20and%20personal%20life.)[](mailto:?subject=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It's%20Not%20Going%20Well&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fvideo%2F6340439744112%2F%0A%0AFormer%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It's%20Not%20Going%20Well%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[WATCH](https://www.forbes.com/video/6340439744112/)
+
+Oct 23, 2023
+
+### [Former Google CEO Launched A $100 Million Company With His Girlfriend. It’s Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
+
+Married billionaire Eric Schmidt launched a startup with 29-year-old entrepreneur Michelle Ritter while they were dating, blurring his professional and personal life.
+
+By[David Jeans](https://www.forbes.com/sites/davidjeans/)Former Staff
+
+and[Sarah Emerson](https://www.forbes.com/sites/sarahemerson/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F10%2F23%2Feric-schmidt-michelle-ritter-steel-perlot%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6529525d16e42e9bf3c17135%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1920%2C1080%2Cx0%2Cy0%2Csafe%26width%3D440&name=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%E2%80%99s%20Not%20Going%20Well&caption=www.forbes.com&description=Married%20billionaire%20Eric%20Schmidt%20launched%20a%20startup%20with%2029-year-old%20entrepreneur%20Michelle%20Ritter%20while%20they%20were%20dating%2C%20blurring%20his%20professional%20and%20personal%20life.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F10%2F23%2Feric-schmidt-michelle-ritter-steel-perlot%2F&via=forbes&text=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%E2%80%99s%20Not%20Going%20Well)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F10%2F23%2Feric-schmidt-michelle-ritter-steel-perlot%2F&title=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%E2%80%99s%20Not%20Going%20Well&summary=Married%20billionaire%20Eric%20Schmidt%20launched%20a%20startup%20with%2029-year-old%20entrepreneur%20Michelle%20Ritter%20while%20they%20were%20dating%2C%20blurring%20his%20professional%20and%20personal%20life.)[](mailto:?subject=Former%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%E2%80%99s%20Not%20Going%20Well&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidjeans%2F2023%2F10%2F23%2Feric-schmidt-michelle-ritter-steel-perlot%2F%0A%0AFormer%20Google%20CEO%20Launched%20A%20%24100%20Million%20Company%20With%20His%20Girlfriend.%20It%E2%80%99s%20Not%20Going%20Well%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
+
+Aug 16, 2023
+
+### [Could Small Drones Really Replace Artillery?](https://www.forbes.com/sites/davidhambling/2023/08/16/could-small-drones-really-replace-artillery/)
+
+Former Google boss Eric Schmidt has suggested small drones could replace artillery and other weapons. Techno-enthusiasm is one thing, but could he possibly be right?
+
+By[David Hambling](https://www.forbes.com/sites/davidhambling/)Senior Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidhambling%2F2023%2F08%2F16%2Fcould-small-drones-really-replace-artillery%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F64dc850b6553c93e02d8ae23%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Could%20Small%20Drones%20Really%20Replace%20Artillery%3F&caption=www.forbes.com&description=Former%20Google%20boss%20Eric%20Schmidt%20has%20suggested%20small%20drones%20could%20replace%20artillery%20and%20other%20weapons.%20Techno-enthusiasm%20is%20one%20thing%2C%20but%20could%20he%20possibly%20be%20right%3F)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidhambling%2F2023%2F08%2F16%2Fcould-small-drones-really-replace-artillery%2F&via=forbes&text=Could%20Small%20Drones%20Really%20Replace%20Artillery%3F)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidhambling%2F2023%2F08%2F16%2Fcould-small-drones-really-replace-artillery%2F&title=Could%20Small%20Drones%20Really%20Replace%20Artillery%3F&summary=Former%20Google%20boss%20Eric%20Schmidt%20has%20suggested%20small%20drones%20could%20replace%20artillery%20and%20other%20weapons.%20Techno-enthusiasm%20is%20one%20thing%2C%20but%20could%20he%20possibly%20be%20right%3F)[](mailto:?subject=Could%20Small%20Drones%20Really%20Replace%20Artillery%3F&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidhambling%2F2023%2F08%2F16%2Fcould-small-drones-really-replace-artillery%2F%0A%0ACould%20Small%20Drones%20Really%20Replace%20Artillery%3F%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/davidhambling/2023/08/16/could-small-drones-really-replace-artillery/)
+
+Jun 29, 2023
+
+### [Inflection AI, The Year-Old Startup Behind Chatbot Pi, Raises $1.3 Billion](https://www.forbes.com/sites/alexkonrad/2023/06/29/inflection-ai-raises-1-billion-for-chatbot-pi/)
+
+Mustafa Suleyman's chatbot startup Inflection AI is now valued at $4 billion, backed by Microsoft, Nvidia and tech billionaires Reid Hoffman, Bill Gates and Eric Schmidt.
+
+By[Alex Konrad](https://www.forbes.com/sites/AlexKonrad/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Falexkonrad%2F2023%2F06%2F29%2Finflection-ai-raises-1-billion-for-chatbot-pi%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F649cb5675d119f2ba96aa415%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1920%2C1080%2Cx0%2Cy0%2Csafe%26width%3D440&name=Inflection%20AI%2C%20The%20Year-Old%20Startup%20Behind%20Chatbot%20Pi%2C%20Raises%20%241.3%20Billion&caption=www.forbes.com&description=Mustafa%20Suleyman%27s%20chatbot%20startup%20Inflection%20AI%20is%20now%20valued%20at%20%244%20billion%2C%20backed%20by%20Microsoft%2C%20Nvidia%20and%20tech%20billionaires%20Reid%20Hoffman%2C%20Bill%20Gates%20and%20Eric%20Schmidt.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Falexkonrad%2F2023%2F06%2F29%2Finflection-ai-raises-1-billion-for-chatbot-pi%2F&via=forbes&text=Inflection%20AI%2C%20The%20Year-Old%20Startup%20Behind%20Chatbot%20Pi%2C%20Raises%20%241.3%20Billion)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Falexkonrad%2F2023%2F06%2F29%2Finflection-ai-raises-1-billion-for-chatbot-pi%2F&title=Inflection%20AI%2C%20The%20Year-Old%20Startup%20Behind%20Chatbot%20Pi%2C%20Raises%20%241.3%20Billion&summary=Mustafa%20Suleyman%27s%20chatbot%20startup%20Inflection%20AI%20is%20now%20valued%20at%20%244%20billion%2C%20backed%20by%20Microsoft%2C%20Nvidia%20and%20tech%20billionaires%20Reid%20Hoffman%2C%20Bill%20Gates%20and%20Eric%20Schmidt.)[](mailto:?subject=Inflection%20AI%2C%20The%20Year-Old%20Startup%20Behind%20Chatbot%20Pi%2C%20Raises%20%241.3%20Billion&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Falexkonrad%2F2023%2F06%2F29%2Finflection-ai-raises-1-billion-for-chatbot-pi%2F%0A%0AInflection%20AI%2C%20The%20Year-Old%20Startup%20Behind%20Chatbot%20Pi%2C%20Raises%20%241.3%20Billion%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/alexkonrad/2023/06/29/inflection-ai-raises-1-billion-for-chatbot-pi/)
+
+Jun 26, 2023
+
+### [AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says](https://www.forbes.com/video/6330144835112/)
+
+Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench into upcoming elections.
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6330144835112%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fi-forbesimg%2Fmedia%2Fvideo%2F2023%2F06%2F26%2F6330144835112_still.jpg%3Fformat%3Djpg%26width%3D440&name=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&caption=www.forbes.com&description=Eric%20Schmidt%2C%20the%20former%20CEO%20of%20Google%20parent%20Alphabet%2C%20warned%20Monday%20that%20generative%20artificial%20intelligence%20will%20throw%20a%20wrench%20into%20upcoming%20elections.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6330144835112%2F&via=forbes&text=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fvideo%2F6330144835112%2F&title=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&summary=Eric%20Schmidt%2C%20the%20former%20CEO%20of%20Google%20parent%20Alphabet%2C%20warned%20Monday%20that%20generative%20artificial%20intelligence%20will%20throw%20a%20wrench%20into%20upcoming%20elections.)[](mailto:?subject=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fvideo%2F6330144835112%2F%0A%0AAI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[WATCH](https://www.forbes.com/video/6330144835112/)
+
+Jun 26, 2023
+
+### [AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says](https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/)
+
+Social media is not “protecting us from false generative AI,” Eric Schmidt said Monday. 
+
+By[Derek Saul](https://www.forbes.com/sites/dereksaul/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdereksaul%2F2023%2F06%2F26%2Fai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6499ad61072e79e0d062d65b%2F0x0.jpg%3Fformat%3Djpg%26crop%3D4000%2C2252%2Cx0%2Cy206%2Csafe%26width%3D440&name=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&caption=www.forbes.com&description=Social%20media%20is%20not%20%E2%80%9Cprotecting%20us%20from%20false%20generative%20AI%2C%E2%80%9D%20Eric%20Schmidt%20said%20Monday.%20%20%20%20%20%20%0A)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdereksaul%2F2023%2F06%2F26%2Fai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says%2F&via=forbes&text=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdereksaul%2F2023%2F06%2F26%2Fai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says%2F&title=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&summary=Social%20media%20is%20not%20%E2%80%9Cprotecting%20us%20from%20false%20generative%20AI%2C%E2%80%9D%20Eric%20Schmidt%20said%20Monday.%20%20%20%20%20%20%0A)[](mailto:?subject=AI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fdereksaul%2F2023%2F06%2F26%2Fai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says%2F%0A%0AAI%20Will%20Make%202024%20Election%20A%20%E2%80%98Mess%2C%E2%80%99%20Billionaire%20Ex-Google%20Chief%20Schmidt%20Says%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/)
+
+May 24, 2023
+
+### [Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’](https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/)
+
+Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”
+
+By[Ty Roush](https://www.forbes.com/sites/tylerroush/)Former Staff
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F05%2F24%2Fformer-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F646e2c501dfd9a2eb25f411d%2F0x0.jpg%3Fformat%3Djpg%26crop%3D3958%2C2226%2Cx0%2Cy98%2Csafe%26width%3D440&name=Former%20Google%20CEO%20Warns%20AI%20Could%20Cause%20People%20To%20Be%20%E2%80%98Harmed%20Or%20Killed%E2%80%99&caption=www.forbes.com&description=Eric%20Schmidt%2C%20who%20served%20as%20Google%E2%80%99s%20chief%20executive%20from%202001%20to%202011%2C%20said%20artificial%20intelligence%20poses%20%E2%80%9Cexistential%20risks.%E2%80%9D)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F05%2F24%2Fformer-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed%2F&via=forbes&text=Former%20Google%20CEO%20Warns%20AI%20Could%20Cause%20People%20To%20Be%20%E2%80%98Harmed%20Or%20Killed%E2%80%99)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F05%2F24%2Fformer-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed%2F&title=Former%20Google%20CEO%20Warns%20AI%20Could%20Cause%20People%20To%20Be%20%E2%80%98Harmed%20Or%20Killed%E2%80%99&summary=Eric%20Schmidt%2C%20who%20served%20as%20Google%E2%80%99s%20chief%20executive%20from%202001%20to%202011%2C%20said%20artificial%20intelligence%20poses%20%E2%80%9Cexistential%20risks.%E2%80%9D)[](mailto:?subject=Former%20Google%20CEO%20Warns%20AI%20Could%20Cause%20People%20To%20Be%20%E2%80%98Harmed%20Or%20Killed%E2%80%99&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Ftylerroush%2F2023%2F05%2F24%2Fformer-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed%2F%0A%0AFormer%20Google%20CEO%20Warns%20AI%20Could%20Cause%20People%20To%20Be%20%E2%80%98Harmed%20Or%20Killed%E2%80%99%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/)
+
+May 13, 2023
+
+### [Why Former Google CEO Eric Schmidt Is Betting Big On The $1T US Bioeconomy](https://www.forbes.com/sites/johncumbers/2023/05/13/why-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy/)
+
+After being at the helm for over a decade of internet juggernaut Google, former CEO Eric Schmidt has switched gears and one of his latest activities is being an advocate for the fast-growing US bioeconomy, which is valued at over $1T.
+
+By[John Cumbers](https://www.forbes.com/sites/johncumbers/)Former Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Fwhy-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F645febe04e2bcb0a66a69868%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Why%20Former%20Google%20CEO%20Eric%20Schmidt%20Is%20Betting%20Big%20On%20The%20%241T%20US%20Bioeconomy&caption=www.forbes.com&description=After%20being%20at%20the%20helm%20for%20over%20a%20decade%20of%20internet%20juggernaut%20Google%2C%20former%20CEO%20Eric%20Schmidt%20has%20switched%20gears%20and%20one%20of%20his%20latest%20activities%20is%20being%20an%20advocate%20for%20the%20fast-growing%20US%20bioeconomy%2C%20which%20is%20valued%20at%20over%20%241T.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Fwhy-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy%2F&via=forbes&text=Why%20Former%20Google%20CEO%20Eric%20Schmidt%20Is%20Betting%20Big%20On%20The%20%241T%20US%20Bioeconomy)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Fwhy-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy%2F&title=Why%20Former%20Google%20CEO%20Eric%20Schmidt%20Is%20Betting%20Big%20On%20The%20%241T%20US%20Bioeconomy&summary=After%20being%20at%20the%20helm%20for%20over%20a%20decade%20of%20internet%20juggernaut%20Google%2C%20former%20CEO%20Eric%20Schmidt%20has%20switched%20gears%20and%20one%20of%20his%20latest%20activities%20is%20being%20an%20advocate%20for%20the%20fast-growing%20US%20bioeconomy%2C%20which%20is%20valued%20at%20over%20%241T.)[](mailto:?subject=Why%20Former%20Google%20CEO%20Eric%20Schmidt%20Is%20Betting%20Big%20On%20The%20%241T%20US%20Bioeconomy&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Fwhy-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy%2F%0A%0AWhy%20Former%20Google%20CEO%20Eric%20Schmidt%20Is%20Betting%20Big%20On%20The%20%241T%20US%20Bioeconomy%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/johncumbers/2023/05/13/why-former-google-ceo-eric-schmidt-is-betting-big-on-the-1t-us-bioeconomy/)
+
+May 13, 2023
+
+### [Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’](https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/)
+
+Eric Schmidt, the former CEO of Google, has a new passion that he’s betting big on: The Bioeconomy.
+
+By[John Cumbers](https://www.forbes.com/sites/johncumbers/)Former Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Feric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F645fe1c0741dcd08dba69868%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Eric%20Schmidt%20On%20Synthetic%20Biology%2C%20AI%2C%20Ethics%20And%20The%20Bioeconomy%E2%80%99s%20%E2%80%98Seismic%20Shift%E2%80%99&caption=www.forbes.com&description=Eric%20Schmidt%2C%20the%20former%20CEO%20of%20Google%2C%20has%20a%20new%20passion%20that%20he%E2%80%99s%20betting%20big%20on%3A%20The%20Bioeconomy.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Feric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift%2F&via=forbes&text=Eric%20Schmidt%20On%20Synthetic%20Biology%2C%20AI%2C%20Ethics%20And%20The%20Bioeconomy%E2%80%99s%20%E2%80%98Seismic%20Shift%E2%80%99)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Feric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift%2F&title=Eric%20Schmidt%20On%20Synthetic%20Biology%2C%20AI%2C%20Ethics%20And%20The%20Bioeconomy%E2%80%99s%20%E2%80%98Seismic%20Shift%E2%80%99&summary=Eric%20Schmidt%2C%20the%20former%20CEO%20of%20Google%2C%20has%20a%20new%20passion%20that%20he%E2%80%99s%20betting%20big%20on%3A%20The%20Bioeconomy.)[](mailto:?subject=Eric%20Schmidt%20On%20Synthetic%20Biology%2C%20AI%2C%20Ethics%20And%20The%20Bioeconomy%E2%80%99s%20%E2%80%98Seismic%20Shift%E2%80%99&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fjohncumbers%2F2023%2F05%2F13%2Feric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift%2F%0A%0AEric%20Schmidt%20On%20Synthetic%20Biology%2C%20AI%2C%20Ethics%20And%20The%20Bioeconomy%E2%80%99s%20%E2%80%98Seismic%20Shift%E2%80%99%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/)
+
+Oct 26, 2022
+
+### [Schmidt Futures Will Invest Additional $148 Million In Artificial Intelligence Research](https://www.forbes.com/sites/michaeltnietzel/2022/10/26/schmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research/)
+
+Schmidt Futures will spend $148 million to fund the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship. Co-founded by former Google CEO/Chairman Eric Schmidt and his wife Wendy, Schmidt Futures has now provided $400 million for the use of artificial intelligence in scientific research. 
+
+By[Michael T. Nietzel](https://www.forbes.com/sites/michaeltnietzel/)Senior Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2022%2F10%2F26%2Fschmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6356dda007b48e7556b358e1%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=Schmidt%20Futures%20Will%20Invest%20Additional%20%24148%20Million%20In%20Artificial%20Intelligence%20Research&caption=www.forbes.com&description=Schmidt%20Futures%20will%20spend%20%24148%20million%20to%20fund%20the%20Eric%20and%20Wendy%20Schmidt%20AI%20in%20Science%20Postdoctoral%20Fellowship.%20Co-founded%20by%20former%20Google%20CEO%2FChairman%20Eric%20Schmidt%20and%20his%20wife%20Wendy%2C%20Schmidt%20Futures%20has%20now%20provided%20%24400%20million%20for%20the%20use%20of%20artificial%20intelligence%20in%20scientific%20research.%20)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2022%2F10%2F26%2Fschmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research%2F&via=forbes&text=Schmidt%20Futures%20Will%20Invest%20Additional%20%24148%20Million%20In%20Artificial%20Intelligence%20Research)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2022%2F10%2F26%2Fschmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research%2F&title=Schmidt%20Futures%20Will%20Invest%20Additional%20%24148%20Million%20In%20Artificial%20Intelligence%20Research&summary=Schmidt%20Futures%20will%20spend%20%24148%20million%20to%20fund%20the%20Eric%20and%20Wendy%20Schmidt%20AI%20in%20Science%20Postdoctoral%20Fellowship.%20Co-founded%20by%20former%20Google%20CEO%2FChairman%20Eric%20Schmidt%20and%20his%20wife%20Wendy%2C%20Schmidt%20Futures%20has%20now%20provided%20%24400%20million%20for%20the%20use%20of%20artificial%20intelligence%20in%20scientific%20research.%20)[](mailto:?subject=Schmidt%20Futures%20Will%20Invest%20Additional%20%24148%20Million%20In%20Artificial%20Intelligence%20Research&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2022%2F10%2F26%2Fschmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research%2F%0A%0ASchmidt%20Futures%20Will%20Invest%20Additional%20%24148%20Million%20In%20Artificial%20Intelligence%20Research%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/michaeltnietzel/2022/10/26/schmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research/)
+
+Oct 1, 2022
+
+### [‘Better Tech’—A Legendary Google Billionaire Is Backing A Radical Bitcoin And Ethereum Rival Despite Huge $2 Trillion Crypto Price Crash](https://www.forbes.com/sites/billybambrough/2022/10/01/better-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash/)
+
+Former Google chief executive and billionaire Eric Schmidt has said chainlink has "better technology" and "scales better" than other cryptocurrencies like bitcoin and ethereum...
+
+By[Billy Bambrough](https://www.forbes.com/sites/billybambrough/)Senior Contributor
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbillybambrough%2F2022%2F10%2F01%2Fbetter-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6338010b9f4358c5b2377afb%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=%E2%80%98Better%20Tech%E2%80%99%E2%80%94A%20Legendary%20Google%20Billionaire%20Is%20Backing%20A%20Radical%20Bitcoin%20And%20Ethereum%20Rival%20Despite%20Huge%20%242%20Trillion%20Crypto%20Price%20Crash&caption=www.forbes.com&description=Former%20Google%20chief%20executive%20and%20billionaire%20Eric%20Schmidt%20has%20said%20chainlink%20has%20%22better%20technology%22%20and%20%22scales%20better%22%20than%20other%20cryptocurrencies%20like%20bitcoin%20and%20ethereum...)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbillybambrough%2F2022%2F10%2F01%2Fbetter-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash%2F&via=forbes&text=%E2%80%98Better%20Tech%E2%80%99%E2%80%94A%20Legendary%20Google%20Billionaire%20Is%20Backing%20A%20Radical%20Bitcoin%20And%20Ethereum%20Rival%20Despite%20Huge%20%242%20Trillion%20Crypto%20Price%20Crash)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbillybambrough%2F2022%2F10%2F01%2Fbetter-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash%2F&title=%E2%80%98Better%20Tech%E2%80%99%E2%80%94A%20Legendary%20Google%20Billionaire%20Is%20Backing%20A%20Radical%20Bitcoin%20And%20Ethereum%20Rival%20Despite%20Huge%20%242%20Trillion%20Crypto%20Price%20Crash&summary=Former%20Google%20chief%20executive%20and%20billionaire%20Eric%20Schmidt%20has%20said%20chainlink%20has%20%22better%20technology%22%20and%20%22scales%20better%22%20than%20other%20cryptocurrencies%20like%20bitcoin%20and%20ethereum...)[](mailto:?subject=%E2%80%98Better%20Tech%E2%80%99%E2%80%94A%20Legendary%20Google%20Billionaire%20Is%20Backing%20A%20Radical%20Bitcoin%20And%20Ethereum%20Rival%20Despite%20Huge%20%242%20Trillion%20Crypto%20Price%20Crash&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Fbillybambrough%2F2022%2F10%2F01%2Fbetter-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash%2F%0A%0A%E2%80%98Better%20Tech%E2%80%99%E2%80%94A%20Legendary%20Google%20Billionaire%20Is%20Backing%20A%20Radical%20Bitcoin%20And%20Ethereum%20Rival%20Despite%20Huge%20%242%20Trillion%20Crypto%20Price%20Crash%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/billybambrough/2022/10/01/better-tech-a-legendary-google-billionaire-is-backing-a-radical-bitcoin-and-ethereum-rival-despite-huge-2-trillion-crypto-price-crash/)
+
+May 11, 2022
+
+### [After Raising $53 Million For Ellevest, Sallie Krawcheck Shares Concerns Around The Series B Cliff](https://www.forbes.com/sites/amyshoenthal/2022/05/11/after-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff/)
+
+She had to take an untraditional route to get there, but through a combination of Venture Capital funding thanks to Melinda Gates’ Pivotal Ventures and Angel Investors such as Eric Schmidt and Valerie Jarrett, she surpassed Ellevest's original $50 Million goal.
+
+By[Amy Shoenthal](https://www.forbes.com/sites/amyshoenthal/)
+
+[](https://www.facebook.com/dialog/feed?app_id=123694841080850&link=https%3A%2F%2Fwww.forbes.com%2Fsites%2Famyshoenthal%2F2022%2F05%2F11%2Fafter-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff%2F&picture=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F627abb2fcbe9256c774d7948%2F0x0.jpg%3Fformat%3Djpg%26width%3D440&name=After%20Raising%20%2453%20Million%20For%20Ellevest%2C%20Sallie%20Krawcheck%20Shares%20Concerns%20Around%20The%20Series%20B%20Cliff&caption=www.forbes.com&description=She%20had%20to%20take%20an%20untraditional%20route%20to%20get%20there%2C%20but%20through%20a%20combination%20of%20Venture%20Capital%20funding%20thanks%20to%20Melinda%20Gates%E2%80%99%20Pivotal%20Ventures%20and%20Angel%20Investors%20such%20as%20Eric%20Schmidt%20and%20Valerie%20Jarrett%2C%20she%20surpassed%20Ellevest%27s%20original%20%2450%20Million%20goal.)[](https://x.com/intent/tweet?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Famyshoenthal%2F2022%2F05%2F11%2Fafter-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff%2F&via=forbes&text=After%20Raising%20%2453%20Million%20For%20Ellevest%2C%20Sallie%20Krawcheck%20Shares%20Concerns%20Around%20The%20Series%20B%20Cliff)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Famyshoenthal%2F2022%2F05%2F11%2Fafter-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff%2F&title=After%20Raising%20%2453%20Million%20For%20Ellevest%2C%20Sallie%20Krawcheck%20Shares%20Concerns%20Around%20The%20Series%20B%20Cliff&summary=She%20had%20to%20take%20an%20untraditional%20route%20to%20get%20there%2C%20but%20through%20a%20combination%20of%20Venture%20Capital%20funding%20thanks%20to%20Melinda%20Gates%E2%80%99%20Pivotal%20Ventures%20and%20Angel%20Investors%20such%20as%20Eric%20Schmidt%20and%20Valerie%20Jarrett%2C%20she%20surpassed%20Ellevest%27s%20original%20%2450%20Million%20goal.)[](mailto:?subject=After%20Raising%20%2453%20Million%20For%20Ellevest%2C%20Sallie%20Krawcheck%20Shares%20Concerns%20Around%20The%20Series%20B%20Cliff&body=Hi%2C%0A%0AI%20thought%20you'd%20like%20this%3A%0Ahttps%3A%2F%2Fwww.forbes.com%2Fsites%2Famyshoenthal%2F2022%2F05%2F11%2Fafter-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff%2F%0A%0AAfter%20Raising%20%2453%20Million%20For%20Ellevest%2C%20Sallie%20Krawcheck%20Shares%20Concerns%20Around%20The%20Series%20B%20Cliff%0A)[](https://www.forbes.com/profile/eric-schmidt/)
+
+[](https://www.forbes.com/sites/amyshoenthal/2022/05/11/after-raising-53-million-for-ellevest-sallie-krawcheck-shares-concerns-around-the-series-b-cliff/)
+
+More Articles
+
+## also on forbes
+
+### [China And America And AI And Security](https://www.forbes.com/sites/johnwerner/2025/11/18/china-and-america-and-ai-and-security/)
+
+### [How Rebellion Defense, The $1 Billion Military AI Startup Hyped By Silicon Valley, Wound Up In A Nosedive](https://www.forbes.com/sites/davidjeans/2023/12/22/how-rebellion-defense-the-1-billion-military-ai-startup-hyped-by-silicon-valley-wound-up-in-a-nosedive/)
+
+### [Ex-Google CEO Warns Current AI Guardrails ‘Aren’t Enough’—Likened Development To Nuclear Weapons](https://www.forbes.com/sites/tylerroush/2023/11/28/ex-google-ceo-warns-current-ai-guardrails-arent-enough-likened-development-to-nuclear-weapons/)
+
+[](https://www.forbes.com/)© 2026 Forbes Media LLC. All Rights Reserved.
+
+*   [AdChoices](https://youradchoices.com/control)
+*   [AdChoices](https://youradchoices.com/control)
+*   [Privacy Statement](https://www.forbes.com/fdc/privacy.html)
+*   [Your Privacy Choices](https://www.forbes.com/profile/eric-schmidt/#)
+*   [Cookie Preferences](https://www.forbes.com/profile/eric-schmidt/#)
+*   [Terms of Service](https://www.forbes.com/terms)
+*   [Digital Terms of Sale](https://www.forbes.com/digital-terms-of-sale)
+*   [Contact Us](https://www.forbes.com/fdc/contact.html)
+*   [Send Us Feedback](mailto:feedback@forbes.com)
+*   [Report a Security Issue](https://www.forbes.com/contact/)
+*   [Jobs At Forbes](https://www.forbes.com/sites/careers-at-forbes/)
+*   [Forbes Accolades](https://www.forbes.com/accolades/)
+*   [Forbes Press Room](https://www.forbes.com/sites/forbespr/)
+*   [Advertise](http://www.forbesmedia.com/)
+
+render-sign-in
+
+![Image 49](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=2&event_id=e4d35b6d-148b-4c6e-99db-fb2fc0ec7cec&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16fbf1c5-2cff-4527-9d20-3d21513668f6&pt=Eric%20Schmidt&tw_document_href=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1789413634941-528976264&tw_session_start=1&twpid=tw.1789413634941.574642428994054952&txn_id=nvbvy&type=javascript&version=2.4.7)![Image 50](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%269%2624%261280%261280%260%26na&eci=2&event_id=e4d35b6d-148b-4c6e-99db-fb2fc0ec7cec&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16fbf1c5-2cff-4527-9d20-3d21513668f6&pt=Eric%20Schmidt&tw_document_href=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Feric-schmidt%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1789413634941-528976264&tw_session_start=1&twpid=tw.1789413634941.574642428994054952&txn_id=nvbvy&type=javascript&version=2.4.7)

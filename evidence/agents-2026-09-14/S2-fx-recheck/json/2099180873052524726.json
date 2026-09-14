@@ -1,0 +1,127 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/jmartinprin/status/2099180873052524726",
+  "id": "2099180873052524726",
+  "text": "Exactement, on en revient à ce que je disais hier: ils demandent la régulation uniquement pour leur intérêt personnel (image publique, visibilité, arrivée de concurrents,…), absolument pas pour le bien commun ou parce qu’ils croient à leurs paroles. \n\nLes mecs ont à eux 3 plus de 80% des parts de marché de l’IA, s’ils veulent ralentir l’innovation, ils peuvent le faire aujourd’hui, c’est eux l’IA. Ils ont besoin de l’approbation de personne. \n\nEt on va me dire « et les modèles chinois ? », oui les modèles chinois apportent des innovations, mais ils reposent encore beaucoup sur la distillation des modèles frontier d’OpenAI et Anthropic (ce que je ne dis pas être un problème, un prof fait de la distillation à ses élèves). \n\nBref, faut encore une fois arrêter d’être naïf",
+  "raw_text": {
+   "text": "Exactement, on en revient à ce que je disais hier: ils demandent la régulation uniquement pour leur intérêt personnel (image publique, visibilité, arrivée de concurrents,…), absolument pas pour le bien commun ou parce qu’ils croient à leurs paroles. \n\nLes mecs ont à eux 3 plus de 80% des parts de marché de l’IA, s’ils veulent ralentir l’innovation, ils peuvent le faire aujourd’hui, c’est eux l’IA. Ils ont besoin de l’approbation de personne. \n\nEt on va me dire « et les modèles chinois ? », oui les modèles chinois apportent des innovations, mais ils reposent encore beaucoup sur la distillation des modèles frontier d’OpenAI et Anthropic (ce que je ne dis pas être un problème, un prof fait de la distillation à ses élèves). \n\nBref, faut encore une fois arrêter d’être naïf",
+   "display_text_range": [
+    0,
+    778
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "jmartinprin",
+   "url": "https://x.com/jmartinprin",
+   "id": "575632041",
+   "followers": 23127,
+   "following": 223,
+   "likes": 44744,
+   "media_count": 2953,
+   "name": "Julien Martin-Prin",
+   "description": "Network Analyst @SemiAnalysis_. Ex Network Engineer @ AWS ⚠️ Pas de conseil en investissement - DYOR ! ⚠️ Opinions are my own",
+   "raw_description": {
+    "text": "Network Analyst @SemiAnalysis_. Ex Network Engineer @ AWS ⚠️ Pas de conseil en investissement - DYOR ! ⚠️ Opinions are my own",
+    "facets": []
+   },
+   "location": "Dublin, Ireland",
+   "banner_url": "https://pbs.twimg.com/profile_banners/575632041/1786897739",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1198719897544454144/zje_EaZs_200x200.jpg",
+   "joined": "Wed May 09 17:52:57 +0000 2012",
+   "protected": false,
+   "website": {
+    "url": "https://linktr.ee/JulienTechInvst",
+    "display_url": "linktr.ee/JulienTechInvst"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 15,
+  "retweets": 7,
+  "likes": 115,
+  "bookmarks": 33,
+  "quotes": 2,
+  "created_at": "Sun Sep 13 16:58:15 +0000 2026",
+  "created_timestamp": 1789318695,
+  "views": 33623,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "fr",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "id": "2098973625252708460",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+   "raw_text": {
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+    "display_text_range": [
+     0,
+     2152
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "DavidSacks",
+    "url": "https://x.com/DavidSacks",
+    "id": "1137701",
+    "followers": 1739135,
+    "following": 3525,
+    "likes": 94114,
+    "media_count": 1280,
+    "name": "David Sacks",
+    "description": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+    "raw_description": {
+     "text": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1137701/1667750503",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+    "joined": "Wed Mar 14 04:14:58 +0000 2007",
+    "protected": false,
+    "website": {
+     "url": "http://sacks.substack.com",
+     "display_url": "sacks.substack.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 3053,
+   "retweets": 10858,
+   "likes": 64743,
+   "bookmarks": 13157,
+   "quotes": 2361,
+   "created_at": "Sun Sep 13 03:14:43 +0000 2026",
+   "created_timestamp": 1789269283,
+   "views": 8240216,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for iPhone",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for iPhone",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:51Z",
+ "_http_status": 200
+}

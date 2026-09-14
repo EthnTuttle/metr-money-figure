@@ -1,0 +1,299 @@
+====================================================================================================
+FILE 990-metr-fy2024-202523209349300367.xml
+Filer: ABBOTT STRINGHAM & LYNCH | EIN 991219864
+Period: 2024-05-01 to 2024-12-31 | TaxYr 2024 | ReturnTs 2025-11-16T12:01:28-06:00
+TotalEmployeeCnt: 38 | TotalVolunteersCnt: 3
+Total revenue CY: 13639155 | Total expenses CY: 8234524 | Salaries etc CY (Part I line 15): 4505180
+-- Part VII Section A --
+ELIZABETH BARNES | CTO/CEO | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=172737 | rltd=75637 | other=6416
+EMMA ABELE | CEO/COO | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=190395 | rltd=52375 | other=6849
+RAJIV DATTANI | COO AND TREASURER | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=230384 | rltd=0 | other=630
+ADAM GLEAVE | DIRECTOR | hrs=0.50 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+KYLE SCOTT | SECRETARY AND TREASURER | hrs=40.00 | hrsRltd= | Officer | org=141577 | rltd=94127 | other=630
+CHRIS PAINTER | MEMBER OF POLICY STAFF | hrs=40.00 | hrsRltd= | KeyEmployee | org=167556 | rltd=84123 | other=7358
+BEN WEST | MEMBER OF TECHNICAL STAFF | hrs=40.00 | hrsRltd= | KeyEmployee | org=215587 | rltd=0 | other=5048
+MAKSYM TARAN | TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=243560 | rltd=0 | other=0
+KATHARYN GARCIA | TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=226183 | rltd=0 | other=4948
+TAO LIN | TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=184335 | rltd=84127 | other=5993
+HANNES HJALMAR WIJK | TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=160170 | rltd=67212 | other=6486
+HAROLD BROADLEY | TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=144693 | rltd=0 | other=7674
+  TotalReportableCompFromOrgAmt: 2077177
+  TotalReportableCompRltdOrgAmt: 
+  TotalOtherCompensationAmt: 52032
+  IndivRcvdGreaterThan100KCnt: 18
+  FormerOfcrEmployeesListedInd: 0
+  TotalCompGreaterThan150KInd: 1
+  CompensationFromOtherSrcsInd: 0
+-- Part VII Section B contractors --
+   QALLY'S | RESEARCH CONTRACTOR | 147200
+  CntrctRcvdGreaterThan100KCnt: 1
+-- Part IX lines 5-10 --
+   CompCurrentOfcrDirectorsGrp {'TotalAmt': '1118235', 'ProgramServicesAmt': '895367', 'ManagementAndGeneralAmt': '186765', 'FundraisingAmt': '36103'}
+   OtherSalariesAndWagesGrp {'TotalAmt': '2962402', 'ProgramServicesAmt': '2371985', 'ManagementAndGeneralAmt': '494774', 'FundraisingAmt': '95643'}
+   OtherEmployeeBenefitsGrp {'TotalAmt': '119825', 'ProgramServicesAmt': '101629', 'ManagementAndGeneralAmt': '14889', 'FundraisingAmt': '3307'}
+   PayrollTaxesGrp {'TotalAmt': '304718', 'ProgramServicesAmt': '246435', 'ManagementAndGeneralAmt': '48796', 'FundraisingAmt': '9487'}
+   TotalFunctionalExpensesGrp {'TotalAmt': '8234524', 'ProgramServicesAmt': '6924735', 'ManagementAndGeneralAmt': '1144255', 'FundraisingAmt': '165534'}
+-- Part IX line 24 other --
+    DATA & RESEARCH CONTRAC 1103985
+    AWARDS 204427
+    RECRUITMENT 184544
+    EXCHANGE LOSS 204
+-- Schedule J present: True
+    CompensationCommitteeInd X
+    IndependentConsultantInd X
+    Form990OfOtherOrganizationsInd X
+    WrittenEmploymentContractInd X
+    CompensationSurveyInd X
+    BoardOrCommitteeApprovalInd X
+    SeverancePaymentInd 0
+    SupplementalNonqualRtrPlanInd 0
+    EquityBasedCompArrngmInd 0
+    CompBasedOnRevenueOfFlngOrgInd 0
+    CompBsdOnRevRelatedOrgsInd 0
+    CompBsdNetEarnsFlngOrgInd 0
+    CompBsdNetEarnsRltdOrgsInd 0
+    AnyNonFixedPaymentsInd 0
+    InitialContractExceptionInd 0
+   SchJ PartII: {'PersonNm': 'TAO LIN', 'TitleTxt': 'TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '184335', 'CompensationBasedOnRltdOrgsAmt': '84127', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '3591', 'NontaxableBenefitsRltdOrgsAmt': '2402', 'TotalCompensationFilingOrgAmt': '187926', 'TotalCompensationRltdOrgsAmt': '86529', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'CHRIS PAINTER', 'TitleTxt': 'MEMBER OF POLICY STAFF', 'BaseCompensationFilingOrgAmt': '167556', 'CompensationBasedOnRltdOrgsAmt': '84123', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '4615', 'NontaxableBenefitsRltdOrgsAmt': '2743', 'TotalCompensationFilingOrgAmt': '172171', 'TotalCompensationRltdOrgsAmt': '86866', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'ELIZABETH BARNES', 'TitleTxt': 'CTO/CEO', 'BaseCompensationFilingOrgAmt': '172737', 'CompensationBasedOnRltdOrgsAmt': '75637', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '3731', 'NontaxableBenefitsRltdOrgsAmt': '2685', 'TotalCompensationFilingOrgAmt': '176468', 'TotalCompensationRltdOrgsAmt': '78322', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'EMMA ABELE', 'TitleTxt': 'CEO/COO', 'BaseCompensationFilingOrgAmt': '190395', 'CompensationBasedOnRltdOrgsAmt': '52375', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '4212', 'NontaxableBenefitsRltdOrgsAmt': '2637', 'TotalCompensationFilingOrgAmt': '194607', 'TotalCompensationRltdOrgsAmt': '55012', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'MAKSYM TARAN', 'TitleTxt': 'TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '243560', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '0', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '243560', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'KYLE SCOTT', 'TitleTxt': 'SECRETARY AND TREASURER', 'BaseCompensationFilingOrgAmt': '141577', 'CompensationBasedOnRltdOrgsAmt': '94127', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '630', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '142207', 'TotalCompensationRltdOrgsAmt': '94127', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'HANNES HJALMAR WIJK', 'TitleTxt': 'TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '160170', 'CompensationBasedOnRltdOrgsAmt': '67212', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '3859', 'NontaxableBenefitsRltdOrgsAmt': '2627', 'TotalCompensationFilingOrgAmt': '164029', 'TotalCompensationRltdOrgsAmt': '69839', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'KATHARYN GARCIA', 'TitleTxt': 'TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '226183', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '4948', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '231131', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'RAJIV DATTANI', 'TitleTxt': 'COO AND TREASURER', 'BaseCompensationFilingOrgAmt': '230384', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '630', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '231014', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'BEN WEST', 'TitleTxt': 'MEMBER OF TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '215587', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5048', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '220635', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'HAROLD BROADLEY', 'TitleTxt': 'TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '144693', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '7674', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '152367', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchO: FORM 990, PART VI, SECTION B, LINE 15 :: THE OPERATIONS TEAM CONTRACTED OUR LAW FIRM TO DO AN INDEPENDENT THIRD-PARTY COMPENSATION SURVEY, LOOKING AT INDUSTRY DATA AND FORM 990 OF SUPPORTING ORGANIZATIONS. THE BOARD THEN APPROVES THE COMPENSATION.
+   SchR: ALIGNMENT RESEARCH CENTER 863605182 MACHINE LEARNING 
+====================================================================================================
+FILE 990-arc-fy2023-202403209349312630.xml
+Filer: ABBOTT STRINGHAM & LYNCH | EIN 863605182
+Period: 2023-01-01 to 2023-12-31 | TaxYr 2023 | ReturnTs 2024-11-15T12:35:11-06:00
+TotalEmployeeCnt: 28 | TotalVolunteersCnt: 2
+Total revenue CY: 10043597 | Total expenses CY: 6272135 | Salaries etc CY (Part I line 15): 3479531
+-- Part VII Section A --
+HOLDEN KARNOFSKY | MEMBER OF THE BOARD (LEFT APRIL 2023) | hrs=0.50 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=0 | rltd=0 | other=0
+DANIEL DEWEY | MEMBER OF THE BOARD | hrs=0.50 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+PAUL CHRISTIANO | CHAIR OF THE BOARD | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=0 | rltd=0 | other=0
+KYLE SCOTT | TREASURER/SECRETARY | hrs=40.00 | hrsRltd= | Officer | org=151507 | rltd=0 | other=200
+ELIZABETH BARNES | EVALS PROJECT LEAD | hrs=40.00 | hrsRltd= | KeyEmployee | org=224576 | rltd=0 | other=5989
+JACOB HILTON | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=298652 | rltd=0 | other=5580
+LUKE MILES | MEMBER OF TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=203601 | rltd=0 | other=5688
+MARK XU | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=224851 | rltd=0 | other=1986
+HANNES HJALMAR WIJK | MEMBER OF TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=194290 | rltd=0 | other=5462
+  TotalReportableCompFromOrgAmt: 1297477
+  TotalReportableCompRltdOrgAmt: 
+  TotalOtherCompensationAmt: 24905
+  IndivRcvdGreaterThan100KCnt: 14
+  FormerOfcrEmployeesListedInd: 0
+  TotalCompGreaterThan150KInd: 1
+  CompensationFromOtherSrcsInd: 0
+-- Part VII Section B contractors --
+   AARON HO | ENGINEERING SERVICES | 127733
+   JOSH JACOBSON | OPERATIONS SERVICES | 112520
+  CntrctRcvdGreaterThan100KCnt: 2
+-- Part IX lines 5-10 --
+   CompCurrentOfcrDirectorsGrp {'TotalAmt': '376083', 'ProgramServicesAmt': '224576', 'ManagementAndGeneralAmt': '151507'}
+   OtherSalariesAndWagesGrp {'TotalAmt': '2768613', 'ProgramServicesAmt': '2300133', 'ManagementAndGeneralAmt': '439618', 'FundraisingAmt': '28862'}
+   OtherEmployeeBenefitsGrp {'TotalAmt': '105466', 'ProgramServicesAmt': '75544', 'ManagementAndGeneralAmt': '29922'}
+   PayrollTaxesGrp {'TotalAmt': '229369', 'ProgramServicesAmt': '177039', 'ManagementAndGeneralAmt': '50281', 'FundraisingAmt': '2049'}
+   TotalFunctionalExpensesGrp {'TotalAmt': '6272135', 'ProgramServicesAmt': '5102119', 'ManagementAndGeneralAmt': '1135450', 'FundraisingAmt': '34566'}
+-- Part IX line 24 other --
+    MISCELLANEOUS 9490
+    OTHER 1154
+-- Schedule J present: True
+    CompensationCommitteeInd X
+    WrittenEmploymentContractInd X
+    CompensationSurveyInd X
+    BoardOrCommitteeApprovalInd X
+    SeverancePaymentInd 0
+    SupplementalNonqualRtrPlanInd 0
+    EquityBasedCompArrngmInd 0
+    CompBasedOnRevenueOfFlngOrgInd 0
+    CompBsdOnRevRelatedOrgsInd 0
+    CompBsdNetEarnsFlngOrgInd 0
+    CompBsdNetEarnsRltdOrgsInd 0
+    AnyNonFixedPaymentsInd 0
+    InitialContractExceptionInd 0
+   SchJ PartII: {'PersonNm': 'JACOB HILTON', 'TitleTxt': 'RESEARCHER', 'BaseCompensationFilingOrgAmt': '298652', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5580', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '304232', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'ELIZABETH BARNES', 'TitleTxt': 'EVALS PROJECT LEAD', 'BaseCompensationFilingOrgAmt': '224576', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5989', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '230565', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'MARK XU', 'TitleTxt': 'RESEARCHER', 'BaseCompensationFilingOrgAmt': '224851', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '1986', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '226837', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'LUKE MILES', 'TitleTxt': 'MEMBER OF TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '203601', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5688', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '209289', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'HANNES HJALMAR WIJK', 'TitleTxt': 'MEMBER OF TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '194290', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5462', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '199752', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'KYLE SCOTT', 'TitleTxt': 'TREASURER/SECRETARY', 'BaseCompensationFilingOrgAmt': '151507', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '200', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '151707', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchO: FORM 990, PART VI, SECTION B, LINE 15 :: COMPENSATION FOR TOP MANAGEMENT OFFICIALS, OFFICERS, AND HIGHLY COMPENSATED STAFF IS DETERMINED BY A COMMITTEE OF DISINTERESTED BOARD MEMBERS DRAWING FROM COMPENSATION STUDIES CONDUCTED BY DISINTERESTED LEGAL COUNSEL WITH DELIBERATION AND DECISION-MAKING DOCUMENTED CONTEMPORANEOUSLY.
+====================================================================================================
+FILE 990-arc-fy2024-202513219349323246.xml
+Filer: ABBOTT STRINGHAM & LYNCH | EIN 863605182
+Period: 2024-01-01 to 2024-12-31 | TaxYr 2024 | ReturnTs 2025-11-17T18:10:00-06:00
+TotalEmployeeCnt: 38 | TotalVolunteersCnt: 6
+Total revenue CY: 5219369 | Total expenses CY: 9054183 | Salaries etc CY (Part I line 15): 3060609
+-- Part VII Section A --
+JACOB HILTON | PRESIDENT | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=328284 | rltd=0 | other=12981
+BUCK SHLEGERIS | BOARD MEMBER | hrs=0.25 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+BENJAMIN HOSKIN | BOARD MEMBER | hrs=0.25 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+PAUL CHRISTIANO | BOARD MEMBER | hrs=0.25 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+DANIEL DEWEY | BOARD MEMBER | hrs=0.25 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+KYLE SCOTT | TREASURER/SECRETARY | hrs=40.00 | hrsRltd= | Officer | org=94127 | rltd=141577 | other=0
+MARK XU | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=197284 | rltd=0 | other=6138
+ERIC NEYMAN | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=239060 | rltd=0 | other=6963
+VICTOR LECOMTE | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=137366 | rltd=0 | other=3897
+LUCAS JUN KOBA SATO | MEMBER OF TECHNICAL STAFF | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=122301 | rltd=0 | other=4395
+DAVID MATOLSCI | RESEARCHER | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=200337 | rltd=0 | other=7150
+  TotalReportableCompFromOrgAmt: 1318759
+  TotalReportableCompRltdOrgAmt: 
+  TotalOtherCompensationAmt: 41524
+  IndivRcvdGreaterThan100KCnt: 6
+  FormerOfcrEmployeesListedInd: 0
+  TotalCompGreaterThan150KInd: 1
+  CompensationFromOtherSrcsInd: 0
+-- Part VII Section B contractors --
+  CntrctRcvdGreaterThan100KCnt: 0
+-- Part IX lines 5-10 --
+   CompCurrentOfcrDirectorsGrp {'TotalAmt': '435392', 'ProgramServicesAmt': '392752', 'ManagementAndGeneralAmt': '42120', 'FundraisingAmt': '520'}
+   OtherSalariesAndWagesGrp {'TotalAmt': '2339576', 'ProgramServicesAmt': '2110451', 'ManagementAndGeneralAmt': '226330', 'FundraisingAmt': '2795'}
+   OtherEmployeeBenefitsGrp {'TotalAmt': '78415', 'ProgramServicesAmt': '47632', 'ManagementAndGeneralAmt': '30685', 'FundraisingAmt': '98'}
+   PayrollTaxesGrp {'TotalAmt': '207226', 'ProgramServicesAmt': '182721', 'ManagementAndGeneralAmt': '24351', 'FundraisingAmt': '154'}
+   TotalFunctionalExpensesGrp {'TotalAmt': '9054183', 'ProgramServicesAmt': '8520533', 'ManagementAndGeneralAmt': '529362', 'FundraisingAmt': '4288'}
+-- Part IX line 24 other --
+    RESEARCH AWARDS 62187
+    MISCELLANEOUS 20802
+-- Schedule J present: True
+    IndependentConsultantInd X
+    Form990OfOtherOrganizationsInd X
+    WrittenEmploymentContractInd X
+    CompensationSurveyInd X
+    BoardOrCommitteeApprovalInd X
+    SeverancePaymentInd 0
+    SupplementalNonqualRtrPlanInd 0
+    EquityBasedCompArrngmInd 0
+    CompBasedOnRevenueOfFlngOrgInd 0
+    CompBsdOnRevRelatedOrgsInd 0
+    CompBsdNetEarnsFlngOrgInd 0
+    CompBsdNetEarnsRltdOrgsInd 0
+    AnyNonFixedPaymentsInd 0
+    InitialContractExceptionInd 0
+   SchJ PartII: {'PersonNm': 'JACOB HILTON', 'TitleTxt': 'PRESIDENT', 'BaseCompensationFilingOrgAmt': '328284', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '12981', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '341265', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'ERIC NEYMAN', 'TitleTxt': 'RESEARCHER', 'BaseCompensationFilingOrgAmt': '239060', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '6963', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '246023', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'KYLE SCOTT', 'TitleTxt': 'TREASURER/SECRETARY', 'BaseCompensationFilingOrgAmt': '94127', 'CompensationBasedOnRltdOrgsAmt': '141577', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '0', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '94127', 'TotalCompensationRltdOrgsAmt': '141577', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'DAVID MATOLSCI', 'TitleTxt': 'RESEARCHER', 'BaseCompensationFilingOrgAmt': '200337', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '7150', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '207487', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'MARK XU', 'TitleTxt': 'RESEARCHER', 'BaseCompensationFilingOrgAmt': '197284', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '6138', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '203422', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchO: FORM 990, PART VI, SECTION B, LINE 15B :: ALL STAFF ARE SUBJECT TO SALARY BANDS AS RECOMMENDED IN AN INDEPENDENT COMPENSATION SURVEY OF COMPARABLE ORGANIZATIONS, REVIEWED AND APPROVED BY THE INDEPENDENT BOARD MEMBERS. THE CURRENT EXECUTIVE DIRECTOR'S COMPENSATION WAS DETERMINED WITHIN THIS POLICY AND DID NOT INCREASE UPON PROMOTION FROM INDIVIDUAL RESEARCHER TO THE ED ROLE.
+   SchR: MODEL EVALUATION AND THREAT RESEARCH INC 991219864 AI SYSTEMS RESEARCH 
+====================================================================================================
+FILE 990-redwood-202503199349302920.xml
+Filer: BAKER TILLY ADVISORY GROUP LP | EIN 871702255
+Period: 2024-01-01 to 2024-12-31 | TaxYr 2024 | ReturnTs 2025-11-15T13:41:19-06:00
+TotalEmployeeCnt: 6 | TotalVolunteersCnt: 4
+Total revenue CY: 22060 | Total expenses CY: 2922498 | Salaries etc CY (Part I line 15): 842174
+-- Part VII Section A --
+MICHAEL SHLEGERIS | CEO, DIRECTOR | hrs=40.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=272164 | rltd=0 | other=11301
+NATHANIEL THOMAS | DIRECTOR, BOARD CHAIR | hrs=2.00 | hrsRltd= | ividualTrusteeOrDirector,Officer | org=0 | rltd=0 | other=0
+AJEYA COTRA | DIRECTOR (THRU 8/24) | hrs=2.00 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+AMMON BARTRAM | DIRECTOR | hrs=2.00 | hrsRltd= | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+JAMES BREGAN | SECRETARY, TREASURER | hrs=4.00 | hrsRltd= | Officer | org=0 | rltd=0 | other=0
+RYAN GREENBLATT | CHIEF SCIENTIST | hrs=40.00 | hrsRltd= | KeyEmployee | org=314922 | rltd=0 | other=7688
+FABIEN ROGER | TECHNICAL STAFF (THRU 7/24) | hrs=40.00 | hrsRltd= | HighestCompensatedEmployee | org=141452 | rltd=0 | other=4077
+  TotalReportableCompFromOrgAmt: 728538
+  TotalReportableCompRltdOrgAmt: 
+  TotalOtherCompensationAmt: 23066
+  IndivRcvdGreaterThan100KCnt: 4
+  FormerOfcrEmployeesListedInd: 0
+  TotalCompGreaterThan150KInd: 1
+  CompensationFromOtherSrcsInd: 0
+-- Part VII Section B contractors --
+   DIGITALOCEAN | COMPUTE FOR RESEARCH EXPERIMENTS | 297902
+   LAMBDA CLOUD | COMPUTE FOR RESEARCH EXPERIMENTS | 175201
+   OPENAI | MODEL API ACCESS FOR RESEARCH EXPERIMENT | 150018
+   ARYAN BHATT | RESEARCH MANAGEMENT | 105000
+  CntrctRcvdGreaterThan100KCnt: 4
+-- Part IX lines 5-10 --
+   CompCurrentOfcrDirectorsGrp {'TotalAmt': '606075', 'ProgramServicesAmt': '606075'}
+   OtherSalariesAndWagesGrp {'TotalAmt': '136144', 'ProgramServicesAmt': '136144'}
+   OtherEmployeeBenefitsGrp {'TotalAmt': '40623', 'ProgramServicesAmt': '34848', 'ManagementAndGeneralAmt': '5775'}
+   PayrollTaxesGrp {'TotalAmt': '59332', 'ProgramServicesAmt': '42726', 'ManagementAndGeneralAmt': '16606'}
+   TotalFunctionalExpensesGrp {'TotalAmt': '2922498', 'ProgramServicesAmt': '2647359', 'ManagementAndGeneralAmt': '275139', 'FundraisingAmt': '0'}
+-- Part IX line 24 other --
+    MEMBERSHIP DUES 121359
+    EXCHANGE LOSSES 330
+    TAX AND LICENSING 31
+-- Schedule J present: True
+    CompensationSurveyInd X
+    BoardOrCommitteeApprovalInd X
+    SeverancePaymentInd 0
+    SupplementalNonqualRtrPlanInd 0
+    EquityBasedCompArrngmInd 0
+    CompBasedOnRevenueOfFlngOrgInd 0
+    CompBsdOnRevRelatedOrgsInd 0
+    CompBsdNetEarnsFlngOrgInd 0
+    CompBsdNetEarnsRltdOrgsInd 0
+    AnyNonFixedPaymentsInd 0
+    InitialContractExceptionInd 0
+   SchJ PartII: {'PersonNm': 'RYAN GREENBLATT', 'TitleTxt': 'CHIEF SCIENTIST', 'BaseCompensationFilingOrgAmt': '314922', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '7688', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '322610', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'MICHAEL SHLEGERIS', 'TitleTxt': 'CEO, DIRECTOR', 'BaseCompensationFilingOrgAmt': '272164', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '2750', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '8551', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '283465', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchO: FORM 990, PART VI, SECTION B, LINE 15 :: APPROVED COMPENSATION PACKAGE FOR CEO WAS BASED ON COMPENSATION STUDY PREPARED BY A THIRD PARTY. IN ADDITION OTHER OFFICER'S COMPENSATION WAS BASED ON REVIEWING COMPARABLE DATA FROM SIMILAR FIRMS AND REPORTED SALARIES FOR MACHINE LEARNING ENGINEERS IN THE BAY AREA, AND AGGREGATED DATA FROM PAYFACTORS FOR POSITIONS IN OPERATIONS AND MANAGEMENT. THE ORGANIZATION ALSO CONSIDERED OFFER LETTERS RECEIVED BY INDIVIDUALS ON THE STAFF FROM OTHER ORGANIZATIONS, AS WELL AS PUBLICLY AVAILABLE NONPROFIT REPORTED SALARIES FROM SIMILAR ORGANIZATIONS SUCH AS OPENAI. THE PROCESS IS DOCUMENTED. THE ORGANIZATION CONSIDERED ALL OF THE DATA, AND THE RESPONSIBILITIES AND EXPERTISE REQUIRED OF THE VARIOUS POSITIONS TO DETERMINE DIFFERENT SALARY AMOUNTS FOR DIFFERENT POSITIONS AND LEVELS WITHIN THOSE POSITIONS. FURTHERMORE, THE ORGANIZATION HIRED A LAW FIRM TO PROVIDE AND INDEPENDENT REVIEW AND RECOMMENDATION FOR THE COMPENSATION POLICY.
+====================================================================================================
+FILE 990-redwood-202413209349327491.xml
+Filer: MOSS ADAMS LLP | EIN 871702255
+Period: 2023-01-01 to 2023-12-31 | TaxYr 2023 | ReturnTs 2024-11-15T19:58:10-06:00
+TotalEmployeeCnt: 34 | TotalVolunteersCnt: 3
+Total revenue CY: 10036347 | Total expenses CY: 12590834 | Salaries etc CY (Part I line 15): 3709667
+-- Part VII Section A --
+MICHAEL SHLEGERIS | CEO, DIRECTOR | hrs=40.00 | hrsRltd=0.00 | ividualTrusteeOrDirector,Officer | org=272175 | rltd=0 | other=10247
+NATHANIEL THOMAS | DIRECTOR, BOARD CHAIR | hrs=40.00 | hrsRltd=40.00 | ividualTrusteeOrDirector,Officer | org=183333 | rltd=91091 | other=8317
+AJEYA COTRA | DIRECTOR | hrs=2.00 | hrsRltd=0.00 | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+PAUL CHRISTIANO | DIRECTOR (THRU 6/23) | hrs=2.00 | hrsRltd=0.00 | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+HOLDEN KARNOFSKY | DIRECTOR (THRU 11/23) | hrs=2.00 | hrsRltd=0.00 | ividualTrusteeOrDirector | org=0 | rltd=0 | other=0
+JAMES BREGAN | CFO, SECRETARY | hrs=40.00 | hrsRltd=40.00 | Officer | org=145833 | rltd=103953 | other=30943
+WILLIAM ZITO | COO | hrs=40.00 | hrsRltd=40.00 | Officer | org=78138 | rltd=50341 | other=7891
+RYAN GREENBLATT | MEMBER OF TECHNICAL STAFF | hrs=40.00 | hrsRltd=0.00 | HighestCompensatedEmployee | org=314931 | rltd=0 | other=6908
+EVGENIA NITISHINSKAYA | MEMBER OF TECH. STAFF (THRU 7/23) | hrs=40.00 | hrsRltd=0.00 | HighestCompensatedEmployee | org=197187 | rltd=0 | other=9389
+DANIEL ZIEGLER | MEMBER OF TECH. STAFF (THRU 6/23) | hrs=40.00 | hrsRltd=0.00 | HighestCompensatedEmployee | org=178673 | rltd=0 | other=7545
+KSHITIJ SACHAN | MEMBER OF TECH. STAFF (THRU 11/23) | hrs=40.00 | hrsRltd=0.00 | HighestCompensatedEmployee | org=173210 | rltd=0 | other=9029
+NICHOLAS GOLDOWSKY-DILL | MEMBER OF TECH. STAFF (THRU 6/23) | hrs=40.00 | hrsRltd=0.00 | HighestCompensatedEmployee | org=171449 | rltd=0 | other=7239
+  TotalReportableCompFromOrgAmt: 1714929
+  TotalReportableCompRltdOrgAmt: 
+  TotalOtherCompensationAmt: 97508
+  IndivRcvdGreaterThan100KCnt: 12
+  FormerOfcrEmployeesListedInd: 0
+  TotalCompGreaterThan150KInd: 1
+  CompensationFromOtherSrcsInd: 0
+-- Part VII Section B contractors --
+   SERVICELEADER LLC | PORTER SERVICES | 272854
+   ZACHARY CHARBONNEAU | AI RESEARCH | 123000
+  CntrctRcvdGreaterThan100KCnt: 2
+-- Part IX lines 5-10 --
+   CompCurrentOfcrDirectorsGrp {'TotalAmt': '678604', 'ProgramServicesAmt': '550594', 'ManagementAndGeneralAmt': '128010'}
+   OtherSalariesAndWagesGrp {'TotalAmt': '2642259', 'ProgramServicesAmt': '1982074', 'ManagementAndGeneralAmt': '660185'}
+   OtherEmployeeBenefitsGrp {'TotalAmt': '148966', 'ProgramServicesAmt': '148966'}
+   PayrollTaxesGrp {'TotalAmt': '239838', 'ProgramServicesAmt': '199085', 'ManagementAndGeneralAmt': '40753'}
+   TotalFunctionalExpensesGrp {'TotalAmt': '12590834', 'ProgramServicesAmt': '11492064', 'ManagementAndGeneralAmt': '1098770', 'FundraisingAmt': '0'}
+-- Part IX line 24 other --
+    MEMBERSHIP DUES 16386
+    COVID RELATED SUPPLIES 7359
+    TAX AND LICENSING 650
+    EXCHANGE LOSSES 91
+-- Schedule J present: True
+    CompensationSurveyInd X
+    BoardOrCommitteeApprovalInd X
+    SeverancePaymentInd 0
+    SupplementalNonqualRtrPlanInd 0
+    EquityBasedCompArrngmInd 0
+    CompBasedOnRevenueOfFlngOrgInd 0
+    CompBsdOnRevRelatedOrgsInd 0
+    CompBsdNetEarnsFlngOrgInd 0
+    CompBsdNetEarnsRltdOrgsInd 0
+    AnyNonFixedPaymentsInd 0
+    InitialContractExceptionInd 0
+   SchJ PartII: {'PersonNm': 'RYAN GREENBLATT', 'TitleTxt': 'MEMBER OF TECHNICAL STAFF', 'BaseCompensationFilingOrgAmt': '314931', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '6908', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '321839', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'NATHANIEL THOMAS', 'TitleTxt': 'DIRECTOR, BOARD CHAIR', 'BaseCompensationFilingOrgAmt': '183333', 'CompensationBasedOnRltdOrgsAmt': '91091', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '400', 'NontaxableBenefitsFilingOrgAmt': '7917', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '191250', 'TotalCompensationRltdOrgsAmt': '91491', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'MICHAEL SHLEGERIS', 'TitleTxt': 'CEO, DIRECTOR', 'BaseCompensationFilingOrgAmt': '272175', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '2750', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '7497', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '282422', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'JAMES BREGAN', 'TitleTxt': 'CFO, SECRETARY', 'BaseCompensationFilingOrgAmt': '145833', 'CompensationBasedOnRltdOrgsAmt': '103953', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '0', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '22615', 'NontaxableBenefitsRltdOrgsAmt': '8328', 'TotalCompensationFilingOrgAmt': '168448', 'TotalCompensationRltdOrgsAmt': '112281', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'EVGENIA NITISHINSKAYA', 'TitleTxt': 'MEMBER OF TECH. STAFF (THRU 7/23)', 'BaseCompensationFilingOrgAmt': '197187', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '3533', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '5856', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '206576', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'DANIEL ZIEGLER', 'TitleTxt': 'MEMBER OF TECH. STAFF (THRU 6/23)', 'BaseCompensationFilingOrgAmt': '178673', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '7545', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '0', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '186218', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'KSHITIJ SACHAN', 'TitleTxt': 'MEMBER OF TECH. STAFF (THRU 11/23)', 'BaseCompensationFilingOrgAmt': '173210', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '7604', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '1425', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '182239', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchJ PartII: {'PersonNm': 'NICHOLAS GOLDOWSKY-DILL', 'TitleTxt': 'MEMBER OF TECH. STAFF (THRU 6/23)', 'BaseCompensationFilingOrgAmt': '171449', 'CompensationBasedOnRltdOrgsAmt': '0', 'BonusFilingOrganizationAmount': '0', 'BonusRelatedOrganizationsAmt': '0', 'OtherCompensationFilingOrgAmt': '0', 'OtherCompensationRltdOrgsAmt': '0', 'DeferredCompensationFlngOrgAmt': '3920', 'DeferredCompRltdOrgsAmt': '0', 'NontaxableBenefitsFilingOrgAmt': '3319', 'NontaxableBenefitsRltdOrgsAmt': '0', 'TotalCompensationFilingOrgAmt': '178688', 'TotalCompensationRltdOrgsAmt': '0', 'CompReportPrior990FilingOrgAmt': '0', 'CompReportPrior990RltdOrgsAmt': '0'}
+   SchO: FORM 990, PART VI, SECTION B, LINE 15 :: APPROVED COMPENSATION PACKAGE FOR CEO WAS BASED ON COMPENSATION STUDY PREPARED BY A THIRD PARTY. IN ADDITION OTHER OFFICER'S COMPENSATION WAS BASED ON REVIEWING COMPARABLE DATA FROM SIMILAR FIRMS AND REPORTED SALARIES FOR MACHINE LEARNING ENGINEERS IN THE BAY AREA, AND AGGREGATED DATA FROM PAYFACTORS FOR POSITIONS IN OPERATIONS AND MANAGEMENT. THE ORGANIZATION ALSO CONSIDERED OFFER LETTERS RECEIVED BY INDIVIDUALS ON THE STAFF FROM OTHER ORGANIZATIONS, AS WELL AS PUBLICLY AVAILABLE NONPROFIT REPORTED SALARIES FROM SIMILAR ORGANIZATIONS SUCH AS OPENAI. THE PROCESS IS DOCUMENTED. THE ORGANIZATION CONSIDERED ALL OF THE DATA, AND THE RESPONSIBILITIES AND EXPERTISE REQUIRED OF THE VARIOUS POSITIONS TO DETERMINE DIFFERENT SALARY AMOUNTS FOR DIFFERENT POSITIONS AND LEVELS WITHIN THOSE POSITIONS. FURTHERMORE, THE ORGANIZATION HIRED A LAW FIRM TO PROVIDE AND INDEPENDENT REVIEW AND RECOMMENDATION FOR THE COMPENSATION POLICY.
+   SchR: CONSTELLATION RESEARCH CENTER INC 932465256 OPERATE CO-WORKING SPACE 

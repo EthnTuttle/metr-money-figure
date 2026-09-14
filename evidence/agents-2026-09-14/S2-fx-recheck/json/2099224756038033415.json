@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Grimezsz/status/2099224756038033415",
+  "id": "2099224756038033415",
+  "text": "@DavidSacks 🙏🏻",
+  "raw_text": {
+   "text": "@DavidSacks 🙏🏻",
+   "display_text_range": [
+    12,
+    14
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Grimezsz",
+   "url": "https://x.com/Grimezsz",
+   "id": "276540738",
+   "followers": 1484889,
+   "following": 3715,
+   "likes": 28445,
+   "media_count": 674,
+   "name": "𝖦𝗋𝗂𝗆𝖾𝗌 ⏳",
+   "description": "�︎",
+   "raw_description": {
+    "text": "�︎",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/276540738/1762758045",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1898838707488108544/wiJITYb0_200x200.jpg",
+   "joined": "Sun Apr 03 15:32:54 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "http://eternal.lnk.to/artificialangels",
+    "display_url": "eternal.lnk.to/artificialange…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 41,
+  "retweets": 3,
+  "likes": 188,
+  "bookmarks": 3,
+  "quotes": 2,
+  "created_at": "Sun Sep 13 19:52:38 +0000 2026",
+  "created_timestamp": 1789329158,
+  "views": 8242,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:09Z",
+ "_http_status": 200
+}

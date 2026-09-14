@@ -1,0 +1,45 @@
+row_id,date_utc,outlet,tier,sacks_line_used,names_metr,funder_named,reports_asking_metr,source_row,url
+TR01,2026-09-13,Washington Examiner (Brady Knox),A,METR sentence verbatim,yes,no,no,IF29,https://www.washingtonexaminer.com/policy/technology/4725242/
+TR02,2026-09-13 15:20,The Next Web,A,METR sentence restated,yes,no,no,IF34,https://thenextweb.com/news/sacks-pacing-frontier-eu-liability
+TR03,2026-09-13,CDM (cdm.press),A,"METR sentence paraphrased (""deeply embroiled in Anthropic's funding network""), wording differs from the post",yes,no,no,IF38,https://cdm.press/
+TR04,2026-09-13,TechPolicy.Press (Justin Hendrix),A,METR sentence verbatim,yes,no,no,IF39,https://www.techpolicy.press/pace-the-frontier-they-say-but-who-sets-the-pace/
+TR05,2026-09-13,Breitbart,A,METR sentence quoted,yes,no,no,IF40,https://www.breitbart.com/tech/2026/09/13/
+TR06,2026-09-13,Daily Caller,A,METR sentence quoted or referenced,yes,no,no,IF40,https://dailycaller.com/
+TR07,2026-09-13 18:14,Tech Insider,A,"METR sentence paraphrased (""too intertwined with Anthropic's own investors and staff"")",yes,no,no,PR01,https://tech-insider.org/
+TR08,2026-09-14 02:23,The Eastern Herald,A,METR sentence paraphrased; also overstates the essay as granting METR access,yes,no,no,PR02,https://www.easternherald.com/
+TR09,2026-09-13 23:14,ITmedia NEWS (Japan),A,METR sentence paraphrased in Japanese,yes,no,no,PR03,https://www.itmedia.co.jp/news/
+TR10,2026-09-14 02:49,Digital Today (Korea),A,"METR sentence, citing ITmedia",yes,no,no,PR04,https://www.digitaltoday.co.kr/
+TR11,2026-09-13,ShellyPalmer.com,A,METR sentence verbatim,yes,no,no,PR05,https://shellypalmer.com/
+TR12,2026-09-13,ZeroHedge (via Bugle Call),A,"METR sentence verbatim; adds Benton/Engels ""walked through the door""",yes,no,no,PR06,https://www.zerohedge.com/
+TR13,2026-09-14,"AI: Reset to Zero (Michael Parekh, Substack)",A,METR sentence framing repeated,yes,no,no,PR07,https://aireset.substack.com/
+TR14,2026-09-13,Neowin,A,METR sentence verbatim (search snippet; body blocked),yes,unknown,unknown,PR08,https://www.neowin.net/news/david-sacks-blasts-openai-and-anthropic-over-slowdown/
+TR15,2026-09-12,Kingy AI (blog),A,"METR sentence, fact-checked: names Schmidt Sciences as a METR supporter and Eric Schmidt as a 2021 Anthropic investor",yes,yes (blog),no,IF27,https://kingy.ai/blog/david-sacks-ai-slowdown-frontier/
+TR16,2026-09-13,"New York Times (Huang, Isaac)",B,"""Stop pretending the motivation to slow down is purely altruistic""; names METR separately via unnamed ""critics"" and a Gurley quote",yes,no,no,IF140,https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html
+TR17,2026-09-13,"Wall Street Journal (Romoser, McGraw, Ramkumar)",B,"""Stop pretending you need anyone else's permission""",no,no,no,IF146,https://www.wsj.com/tech/ai/trump-defends-white-houses-light-touch-on-ai-regulation-c4ed2488
+TR18,2026-09-13 22:32,NPR,B,"""stop pretending you need anyone else's permission"" and ""purely altruistic""",no,no,no,PR37,https://www.npr.org/
+TR19,2026-09-13 15:16,The Telegraph (via Yahoo Finance),B,"""Stop pretending the motivation to slow down is purely altruistic""",no,no,no,PR36,https://finance.yahoo.com/
+TR20,2026-09-13 13:59,Axios,B,Sacks's post cited as the counterargument,no,no,no,IF30,https://www.axios.com/2026/09/13/ai-labs-regulation-safety
+TR21,2026-09-13,CNBC (Ashley Capoot),B,Sacks quoted on the slowdown,no,no,no,IF41,https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html
+TR22,2026-09-14 05:28,Stocktwits,B,"""regulatory capture"" paraphrase; ""You guys are the frontier""",no,no,no,PR40,https://stocktwits.com/
+TR23,2026-09-12,TechCrunch,C,none; names METR as the essay's example evaluator,yes,no,no,IF21,https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+TR24,2026-09-13 16:24,The Stack,C,"none; calls METR ""little-known"", quotes Greg Linares",yes,no,no,IF36,https://www.thestack.technology/
+TR25,2026-09-14,LiveNewsChat.eu,C,"none; ""no named evaluator under contract""; METR ""says it took no payment from OpenAI""",yes,no,no,PR20,https://livenewschat.eu/
+TR26,2026-09-13,MarkTechPost,C,"none; METR as example; ""Two METR staff and a Redwood Research contractor spent 6 days on premises at OpenAI""",yes,no,no,PR19,https://www.marktechpost.com/
+TR27,2026-09-13 23:01,Unite.AI,C,none; METR as example evaluator,yes,no,no,PR17,https://www.unite.ai/
+TR28,2026-09-13,Aivy,C,"none; METR as example; ""every one of them will be doing it on terms the labs help set""",yes,no,no,PR24,https://aivy.com.au/
+TR29,2026-09-12,"Bloomberg (Whitelaw, Fiegerman)",D,none,no,no,no,IF23,https://news.bloomberglaw.com/
+TR30,2026-09-13,Bloomberg (Trump Doonbeg remarks),D,none,no,no,no,IF31,https://www.bloomberg.com/news/articles/2026-09-13/
+TR31,2026-09-12,Washington Post,D,none (retrievable text),no,no,no,IF24,https://www.washingtonpost.com/technology/2026/09/12/
+TR32,2026-09-13,Washington Post,D,none,no,no,no,IF35,https://www.washingtonpost.com/politics/2026/09/13/
+TR33,2026-09-12,Axios,D,none,no,no,no,IF22,https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing
+TR34,2026-09-12,CNBC / NBC News,D,none,no,no,no,IF25,https://www.cnbc.com/2026/09/12/
+TR35,2026-09-12,Semafor,D,"none; evaluators as philanthropists' ""free labor""",no,no,no,IF26,https://www.semafor.com/article/09/12/2026/
+TR36,2026-09-13,Reuters,D,none,no,no,no,IF32,https://reut.rs/4dd0Zs0
+TR37,2026-09-13,The Verge,D,none,no,no,no,IF42,https://www.theverge.com/
+TR38,2026-09-12,New York Times (Isaac),D,none,no,no,no,IF142,https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html
+TR39,2026-09-13,New York Times (Martin),D,none,no,no,no,IF141,https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html
+TR40,2026-09-13,"New York Times (Sanger, Volz)",D,"Sacks quoted from a Fox interview on Coxon, not the post",no,no,no,IF143,https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html
+TR41,2026-09-13,"New York Times (Gold, Romm)",D,none,no,no,no,IF144,https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html
+TR42,2026-09-12,Wall Street Journal (McMillan),D,none,no,no,no,IF145,https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56
+TR43,2026-09-13,"Wall Street Journal (Ramkumar, Au-Yeung, Ellis)",D,none,no,no,no,IF147,https://www.wsj.com/tech/ai/americas-great-ai-freakout-has-begun-c04cf644
+TR44,2026-09-13,Wall Street Journal editorial board,D,none,no,no,no,IF148,https://www.wsj.com/opinion/the-great-ai-slowdown-d5578546

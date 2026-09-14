@@ -1,0 +1,78 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/AlexBarry4/status/2099220519430312264",
+  "id": "2099220519430312264",
+  "text": "If you have concrete suggestions here I could pass them on! METR takes its independence very seriously.\n\nE.g. one thing I have discussed with them is whether they should (in as far as possible) refuse to accept free API credits from the labs.\n\nI believe METR see the main limitation to their independence currently as needing to maintain access with the labs (but it is hard to imagine this changing with regulation)",
+  "raw_text": {
+   "text": "If you have concrete suggestions here I could pass them on! METR takes its independence very seriously.\n\nE.g. one thing I have discussed with them is whether they should (in as far as possible) refuse to accept free API credits from the labs.\n\nI believe METR see the main limitation to their independence currently as needing to maintain access with the labs (but it is hard to imagine this changing with regulation)",
+   "display_text_range": [
+    0,
+    416
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "AlexBarry4",
+   "url": "https://x.com/AlexBarry4",
+   "id": "239889047",
+   "followers": 403,
+   "following": 35,
+   "likes": 599,
+   "media_count": 14,
+   "name": "Alexander Barry",
+   "description": "Statistician working on understanding AI Capabilities | Epoch AI\nSubstack: https://abstatisticalconsulting.substack.com/",
+   "raw_description": {
+    "text": "Statistician working on understanding AI Capabilities | Epoch AI\nSubstack: https://t.co/760E1w9ol7",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       75,
+       98
+      ],
+      "original": "https://t.co/760E1w9ol7",
+      "replacement": "https://abstatisticalconsulting.substack.com/",
+      "display": "abstatisticalconsulting.substack.com"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1944898759600545792/vAiSXoWq_200x200.jpg",
+   "joined": "Tue Jan 18 17:25:31 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "http://abstats.co.uk",
+    "display_url": "abstats.co.uk"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 2,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 19:35:48 +0000 2026",
+  "created_timestamp": 1789328148,
+  "views": 47,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "segyges",
+  "replying_to_status": "2099193328315273344",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:07Z",
+ "_http_status": 200
+}

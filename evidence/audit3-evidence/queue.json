@@ -1,0 +1,759 @@
+[
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/ai-communications-and-outreach/",
+    "rows": [
+      "M30"
+    ],
+    "file": "coefficient/f826f96b7d6f859d.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/ai-evaluation-and-testing/",
+    "rows": [
+      "M03"
+    ],
+    "file": "coefficient/72587095b87bf260.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/ai-field-building/",
+    "rows": [
+      "M31"
+    ],
+    "file": "coefficient/99e274ff40f66037.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/ai-safety-regranting/",
+    "rows": [
+      "M28"
+    ],
+    "file": "coefficient/3c4e511ea0b0befb.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/ai-safety-research-and-field-building/",
+    "rows": [
+      "M32"
+    ],
+    "file": "coefficient/7eecdb4fc00a0fd1.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/alignment-research-center-general-support-november-2022/",
+    "rows": [
+      "M02"
+    ],
+    "file": "coefficient/4b1d48c63b2c7ae5.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/alignment-research-center-general-support/",
+    "rows": [
+      "M01"
+    ],
+    "file": "coefficient/a5ce4eb6cdb079fc.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/constellation-coworking-space/",
+    "rows": [
+      "M126"
+    ],
+    "file": "coefficient/1aa34c1812718c5c.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/constellation-general-support/",
+    "rows": [
+      "M127"
+    ],
+    "file": "coefficient/b520a3395e63d8b7.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/constellation-programmatic-activities-and-operating-expenses/",
+    "rows": [
+      "M128"
+    ],
+    "file": "coefficient/bbf49d415947748f.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-ai-alignment-research-projects-2024/",
+    "rows": [
+      "M29"
+    ],
+    "file": "coefficient/9d00699688503dec.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-ai-alignment-research-projects/",
+    "rows": [
+      "M24"
+    ],
+    "file": "coefficient/4eb9aaa6af3629cc.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-ai-field-building/",
+    "rows": [
+      "M27"
+    ],
+    "file": "coefficient/3b6d4c8ac91258c8.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-ai-interpretability-research/",
+    "rows": [
+      "M21"
+    ],
+    "file": "coefficient/9ab734516fa9b3d5.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-alignment-workshop/",
+    "rows": [
+      "M23"
+    ],
+    "file": "coefficient/62756346ad8bb187.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-far-labs-office-space-2024/",
+    "rows": [
+      "M26"
+    ],
+    "file": "coefficient/3fe510f420913cf7.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-far-labs-office-space/",
+    "rows": [
+      "M20"
+    ],
+    "file": "coefficient/d1472e6efbb21a9d.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-general-support-2023/",
+    "rows": [
+      "M22"
+    ],
+    "file": "coefficient/5d6fd761fce79914.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-general-support-2024/",
+    "rows": [
+      "M25"
+    ],
+    "file": "coefficient/06580259151da04d.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-general-support/",
+    "rows": [
+      "M19"
+    ],
+    "file": "coefficient/82853fe7e7a32c27.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-interpretability-research/",
+    "rows": [
+      "M17"
+    ],
+    "file": "coefficient/102916deb214b6c9.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/far-ai-inverse-scaling-prize/",
+    "rows": [
+      "M18"
+    ],
+    "file": "coefficient/f1545f479a5558e2.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/fund-for-alignment-research-language-model-misalignment-2022/",
+    "rows": [
+      "M16"
+    ],
+    "file": "coefficient/236a7353ef1891f0.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/language-model-safety-fund-language-model-misalignment/",
+    "rows": [
+      "M15"
+    ],
+    "file": "coefficient/33c0ed2ea6875a3b.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-ai-policy-development-at-the-oecd/",
+    "rows": [
+      "M10"
+    ],
+    "file": "coefficient/88e5da4a5acecef0.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-effective-giving-information-sharing/",
+    "rows": [
+      "M12"
+    ],
+    "file": "coefficient/c499f455d0ff46f2.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-far-uvc-event-2023/",
+    "rows": [
+      "M09"
+    ],
+    "file": "coefficient/7c2a31e44e48f3a7.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-far-uvc-event/",
+    "rows": [
+      "M05"
+    ],
+    "file": "coefficient/418ef12a04ce3836.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-film-project-scoping-work/",
+    "rows": [
+      "M07"
+    ],
+    "file": "coefficient/169e4f0568d68d60.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-general-support-october-2024/",
+    "rows": [
+      "M13"
+    ],
+    "file": "coefficient/29a698f621d63540.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-general-support/",
+    "rows": [
+      "M11"
+    ],
+    "file": "coefficient/0e366d5c1aabbf60.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-nuclear-security-grantmaking/",
+    "rows": [
+      "M04"
+    ],
+    "file": "coefficient/e68996eee4f91c88.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-research-support-for-kacper-kowalczyk/",
+    "rows": [
+      "M06"
+    ],
+    "file": "coefficient/e9a1255e706676de.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/longview-philanthropy-support-for-richard-chappell/",
+    "rows": [
+      "M08"
+    ],
+    "file": "coefficient/50fda0eed5948af7.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/grants/rfp-on-hardware-enabled-mechanisms-for-ai-compliance/",
+    "rows": [
+      "M14"
+    ],
+    "file": "coefficient/90265178ee193f7b.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://coefficientgiving.org/research/were-urgently-scaling-our-work-on-ai-and-biosecurity/",
+    "rows": [
+      "M120"
+    ],
+    "file": "coefficient/e09599ef7cfba8d4.html"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202503199349302910_public.xml",
+    "rows": [
+      "M128"
+    ],
+    "file": "coefficient/ba18094a7b5f6d2d.xml"
+  },
+  {
+    "lane": "coefficient",
+    "url": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
+    "rows": [
+      "M126"
+    ],
+    "file": "coefficient/40841b6a423e55e1.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202301999349100115_public.xml",
+    "rows": [
+      "M77"
+    ],
+    "file": "filings/e004a8b9f0a4db30.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202341359349105939_public.xml",
+    "rows": [
+      "M91"
+    ],
+    "file": "filings/f49bcb2e1100c704.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202402359349100515_public.xml",
+    "rows": [
+      "M78"
+    ],
+    "file": "filings/185b7c3fa2046165.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202411359349306381_public.xml",
+    "rows": [
+      "M88",
+      "M89"
+    ],
+    "file": "filings/82083f9da63e3702.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202413129349304911_public.xml",
+    "rows": [
+      "M81"
+    ],
+    "file": "filings/b465d42f04af84b2.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202423199349106002_public.xml",
+    "rows": [
+      "M93"
+    ],
+    "file": "filings/5c515644d2f3aff3.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202441359349309439_public.xml",
+    "rows": [
+      "M84"
+    ],
+    "file": "filings/da23a9e922b91d57.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202441369349105564_public.xml",
+    "rows": [
+      "M92"
+    ],
+    "file": "filings/b8fcf0ab8cc22b62.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202442479349301654_public.xml",
+    "rows": [
+      "M95"
+    ],
+    "file": "filings/b1030025c8613609.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202502749349100700_public.xml",
+    "rows": [
+      "M94"
+    ],
+    "file": "filings/8261c1ec4e670d59.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202503179349100135_public.xml",
+    "rows": [
+      "M143"
+    ],
+    "file": "filings/01ea6cbfe3cee343.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202511349349313096_public.xml",
+    "rows": [
+      "M85"
+    ],
+    "file": "filings/4bbb22a8381bb12d.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202513219349323246_public.xml",
+    "rows": [
+      "M63"
+    ],
+    "file": "filings/f4e330b00eab1edf.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202521349349310887_public.xml",
+    "rows": [
+      "M96"
+    ],
+    "file": "filings/7a2596a88b0600c0.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202523079349303352_public.xml",
+    "rows": [
+      "M79",
+      "M80"
+    ],
+    "file": "filings/5855f601445171d5.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202541349349311654_public.xml",
+    "rows": [
+      "M90"
+    ],
+    "file": "filings/66795c69d739c86b.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202543149349305759_public.xml",
+    "rows": [
+      "M82",
+      "M83"
+    ],
+    "file": "filings/dae6c9081f71b47b.xml"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/110303001/202521349349310887/IRS990ScheduleI",
+    "rows": [
+      "M96"
+    ],
+    "file": "filings/f2e2e5123908ae58.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/200478828/202502559349100000/full",
+    "rows": [
+      "M119"
+    ],
+    "file": "filings/253bec8974d340ce.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/205205488/202413129349304911/IRS990ScheduleI",
+    "rows": [
+      "M81"
+    ],
+    "file": "filings/cfa17c9f4259d02d.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/232888152/202441359349309439/IRS990ScheduleI",
+    "rows": [
+      "M84"
+    ],
+    "file": "filings/35add3696a25826f.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/232888152/202511349349313096/IRS990ScheduleI",
+    "rows": [
+      "M85"
+    ],
+    "file": "filings/153a8a92ff0f50b9.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/232888152/202621329349306657/IRS990ScheduleI",
+    "rows": [
+      "M86",
+      "M87"
+    ],
+    "file": "filings/1f45673432411664.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/341747398/202442479349301654/IRS990ScheduleI",
+    "rows": [
+      "M95"
+    ],
+    "file": "filings/1a466135269b2aaf.html"
+  },
+  {
+    "lane": "filings",
+    "url": "https://projects.propublica.org/nonprofits/organizations/821934592",
+    "rows": [
+      "M118"
+    ],
+    "file": "filings/cae33d23f9ce9d08.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://macroscopic.org/grants",
+    "rows": [
+      "M139",
+      "M140",
+      "M141",
+      "M142"
+    ],
+    "file": "other/7f350ae33fd10400.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://metr.org/about",
+    "rows": [
+      "M75"
+    ],
+    "file": "other/9ece1a3a9a30d8c1.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://metr.org/blog/2024-10-09-new-support-through-the-audacious-project/",
+    "rows": [
+      "M58"
+    ],
+    "file": "other/279795ed7f2e48ad.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://r.jina.ai/https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/funding.html",
+    "rows": [
+      "M146"
+    ],
+    "file": "other/a1d84c190d29fa74.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://r.jina.ai/https://www.rand.org/news/press/2024/10/09.html",
+    "rows": [
+      "M57"
+    ],
+    "file": "other/fb5c2cd022778afa.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://web.archive.org/web/20241009220522id_/https://www.audaciousproject.org/about",
+    "rows": [
+      "M117"
+    ],
+    "file": "other/3fa74ce7ef3bc8fc.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://web.archive.org/web/20251215170747id_/https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/funding.html",
+    "rows": [
+      "M146"
+    ],
+    "file": "other/821aae4590f98f1e.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://www.audaciousproject.org/about",
+    "rows": [
+      "M117"
+    ],
+    "file": "other/9dbec0777fedee2c.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://www.givingwhatwecan.org/charities/arc-evals",
+    "rows": [
+      "M59"
+    ],
+    "file": "other/d9ec627fc4ddf08e.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://www.longview.org/artificial-intelligence/",
+    "rows": [
+      "M60"
+    ],
+    "file": "other/6045aa4fb3ab2fdb.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/funding.html",
+    "rows": [
+      "M146"
+    ],
+    "file": "other/247cca0a961c8b29.html"
+  },
+  {
+    "lane": "other",
+    "url": "https://www.rand.org/news/press/2024/10/09.html",
+    "rows": [
+      "M57"
+    ],
+    "file": "other/dbbb84d78b4bd542.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/",
+    "rows": [
+      "M39",
+      "M47",
+      "M48"
+    ],
+    "file": "sff/a01514f7c492ce4c.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/2025/recommendations",
+    "rows": [
+      "M39"
+    ],
+    "file": "sff/c255d8c9c9668fd1.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/sff-2022-h1-recommendations",
+    "rows": [
+      "M47"
+    ],
+    "file": "sff/3e6efaeb6e24e0e3.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/sff-2022-h2-recommendations",
+    "rows": [
+      "M35"
+    ],
+    "file": "sff/f5373adc4c361edf.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/sff-2023-h1-recommendations",
+    "rows": [
+      "M36",
+      "M48"
+    ],
+    "file": "sff/7295d7d50b0e6d21.html"
+  },
+  {
+    "lane": "sff",
+    "url": "https://survivalandflourishing.fund/sff-2024-recommendations",
+    "rows": [
+      "M37",
+      "M38"
+    ],
+    "file": "sff/9550dba3a4cd7a36.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://coefficientgiving.org/grants/",
+    "rows": [
+      "ST109"
+    ],
+    "file": "stakes/feeacb45db0c9a7c.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/205205488",
+    "rows": [
+      "ST107"
+    ],
+    "file": "stakes/3f9215890b26a289.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/205205488/202413129349304911/IRS990ScheduleI",
+    "rows": [
+      "ST107",
+      "ST109"
+    ],
+    "file": "stakes/cfa17c9f4259d02d.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/205205488/202543149349305759/IRS990ScheduleI",
+    "rows": [
+      "ST107",
+      "ST109"
+    ],
+    "file": "stakes/a848e7fbe72ffdeb.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/237825575/202431429349301368/IRS990ScheduleI",
+    "rows": [
+      "ST109"
+    ],
+    "file": "stakes/0e62b3ac150fa646.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/237825575/202511339349301311/IRS990ScheduleI",
+    "rows": [
+      "ST109"
+    ],
+    "file": "stakes/2171bb76ee0ef35c.html"
+  },
+  {
+    "lane": "stakes",
+    "url": "https://projects.propublica.org/nonprofits/organizations/237825575/202601289349302480/IRS990ScheduleI",
+    "rows": [
+      "ST109"
+    ],
+    "file": "stakes/d65bb518ef153b12.html"
+  },
+  {
+    "lane": "tarbell",
+    "url": "https://coefficientgiving.org/grants/general-support-3/",
+    "rows": [
+      "TB02"
+    ],
+    "file": "tarbell/5eb2e3810595a717.html"
+  },
+  {
+    "lane": "tarbell",
+    "url": "https://coefficientgiving.org/grants/general-support-49/",
+    "rows": [
+      "TB03"
+    ],
+    "file": "tarbell/974f38c5926cff0b.html"
+  },
+  {
+    "lane": "tarbell",
+    "url": "https://coefficientgiving.org/grants/operating-costs/",
+    "rows": [
+      "TB04"
+    ],
+    "file": "tarbell/8dd6b35746adc1fa.html"
+  },
+  {
+    "lane": "tarbell",
+    "url": "https://survivalandflourishing.fund/2024/recommendations",
+    "rows": [
+      "TB05"
+    ],
+    "file": "tarbell/244ccf9e43e90961.html"
+  },
+  {
+    "lane": "tarbell",
+    "url": "https://survivalandflourishing.fund/2025/recommendations",
+    "rows": [
+      "TB06"
+    ],
+    "file": "tarbell/c255d8c9c9668fd1.html"
+  }
+]

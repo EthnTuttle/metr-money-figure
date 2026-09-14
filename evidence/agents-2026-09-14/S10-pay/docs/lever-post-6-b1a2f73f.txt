@@ -1,0 +1,69 @@
+
+METR - Member of Technical Staff, Cyberforensics
+Member of Technical Staff, Cyberforensics
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+About METR
+We are a nonprofit research organization that develops scientific methods to assess AI capabilities, risks, and mitigations, with a specific focus on threats related to AI R&D automation and misalignment.
+We believe it is robustly good for policymakers and civil society to have a clear understanding of risks from AI systems, and we are extremely excited to build a team of ambitious, excellent people to tackle one of the most important challenges of our time.
+About the role
+METR has started 
+embedding researchers inside frontier labs
+ to 
+investigate incidents
+,  
+stress-test labs’ internal agent monitoring systems
+, and assess loss-of-control risks from 
+internal deployment
+. As agent capabilities increase, 
+we expect this to be one of the most important sources of independent information the world has about catastrophic risks from advanced AI. 
+Recent incidents have involved complex multi-day cyber attacks on frontier lab internal infrastructure and external third parties. As we further develop our incident investigation and embedded stress-testing capacity, we will need talented cyberforensics researchers who can conduct embedded exercises. We expect these assessors to have deep access, and for their work to be a large part of METR's impact in the next year. We want to build on the momentum from previous exercises to further develop our risk assessments.
+What this role looks like
+Incident investigation
+: You'll be embedded in a frontier AI lab for up to several weeks at a time, likely alongside 1-4 other METR staff. Between exercises, you'll practice, develop the general methodology, talk to other researchers, build tooling to make future exercises go better, help us hire and scale, write up results, and plan/coordinate future exercises.
+Red-teaming
+: You will attack agent monitoring and security systems, potentially embedded in labs or red-teaming METR internal infrastructure.
+Reporting
+: You'd produce findings rigorous enough for lab boards, governments, and the public and contribute to METR's public incident tracking and risk reports.
+Building AI-assisted forensic tooling
+: Incidents at our scale (tens of thousands of actions) often can't be read solely by hand. You'd build LLM-powered pipelines to triage transcripts, cluster behaviors, flag deception, and accelerate future investigations.
+Required Skills
+Digital forensics and incident response
+: You have investigated severe security incidents end to end. You have experience with evidence acquisition and preservation, log and timeline reconstruction across cloud, network, endpoint, and identity systems, attacker tradecraft analysis, and post-incident reporting.
+Cloud and infrastructure fluency
+: You can follow an intrusion through AWS (CloudTrail, IAM, VPC flow logs), Kubernetes and containers, CI/CD, and package registries.
+Understanding LLMs
+: You know how frontier models are trained and deployed (RL post-training, agent scaffolds, sandboxing, monitoring) well enough to reason about root causes, and you build and analyze with LLMs.
+Attention to detail and communication
+: You can run rigorous investigations and write findings that hold up to scrutiny.
+Nice to haves
+Experience investigating incidents involving AI agents, or research on agent misbehavior, deception, or sandbox escapes.
+Exploit and vulnerability analysis.
+Experience with training-data analysis, model internals/interpretability, or running experiments on model checkpoints.
+Formal investigation experience: NTSB/CSB-style safety investigations, law enforcement or intelligence forensics, regulatory or expert-witness work.
+Familiarity with the tooling in our environment: DataDog, Kubernetes, CrowdStrike Falcon, Okta, Tailscale, Pulumi, PostgreSQL.
+Compensation & Benefits
+$402,048 - $578,583 a year
+METR also has a host of benefits:
+The office: Catered lunch and dinner daily; in-office gym and shower
+Relocation support: Stipend for moving to the Bay Area⁠
+Time-off and leave: Unlimited PTO and 21-week parental leave for new parents
+Commuter benefit: Monthly transit/parking stipend and an annual Uber budget
+Professional development benefit: for training, courses, conferences, and AI safety education⁠
+Mental health benefit: for therapy, medication, and other mental health expenses⁠
+Wellness benefit: for gym memberships and other wellness expenses⁠
+Work equipment benefit: for home office and workstation equipment⁠ expenses
+Our Culture
+METR is a mission-driven organization. We believe our work can meaningfully shape humanity's future for the better, and we want to be the best people in the world doing this work. We have a tight-knit, collaborative research culture rooted in truth-seeking and integrity. We're fiercely committed to producing high-quality, trustworthy science. We're honest and transparent about our results, especially when they may go against the grain. We've earned trust as reliable partners who handle confidential information with care. We maintain a low-ego, drama-free environment focused on what matters. 
+Hybrid Requirements:
+ Our technical team members are in our office in Berkeley 3-5 days/week. Please let us know in your application if this is a constraint. If you lack US work authorization and would like to work in-person (strongly preferred), we can likely sponsor a cap-exempt H-1B visa for this role
+.
+We encourage you to apply even if your background may not seem like the perfect fit! We would rather review a larger pool of applications than risk missing out on a promising candidate for the position.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

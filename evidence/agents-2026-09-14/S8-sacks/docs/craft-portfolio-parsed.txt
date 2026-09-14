@@ -1,0 +1,118 @@
+Addepar|A|Wealth management for financial advisors and family offices.|David Sacks|Angel
+Affirm|Exited|A|IPO on January 13, 2021|Buy-now-pay-later lender that lets shoppers split purchases into installments at checkout.|David Sacks|Angel
+Agentio|A|Ad marketplace that connects brands with creators on YouTube and other platforms.|Bryan Rosenblatt|Co-led Seed
+Agentsync|A|Compliance and licensing infrastructure for insurance carriers, brokers, and agencies.|David Sacks|Brian Murray|Seed|Led Series A
+AirBnB|Exited|A|IPO on December 10, 2020|Online marketplace for short-term home and vacation rentals.|David Sacks|Angel
+Allen Control Systems|A|Autonomous precision weapon systems designed to counter drones.|Brian Murray|David Sacks|Jeff Fluhr|Led Seed|Led Series A
+Anduril|A|Autonomous hardware and AI software for military applications.|Michael Robinson|Kindle Van Linge|Taylor Durand|Growth
+Arch|A|Automates the administrative work of investing in alternative assets like venture capital and private equity.|Jeff Fluhr|Seed
+Arcol|A|Collaborative, cloud-based design software for architects and designers.|Sean Whitney|Lainy Painter|Led Series A
+Autonomic|Exited|A|Acquired by Ford in 2018|Cloud platform that powers connected-vehicle data and mobility services.|Bill Lee|Angel
+Bandana|B|Job marketplace for hourly workers that offers transparent, upfront pay.|Lainy Painter|Seed
+Bird|Exited|B|IPO on November 5, 2021|Electric scooter and bike sharing service.|David Sacks|Brian Murray|Led Series A
+BitGo|Exited|B|IPO on January 22, 2026|Digital asset custody, trading, and security platform built for institutional crypto investors.|Bill Lee|Brian Murray|Co-led Series B
+Bitwise|Exited|B|Exited January 2025|Crypto-focused asset manager offering index funds and other investment products.|David Sacks|Series A
+Cabal|C|Private workspace for startup founders, investors, and advisors to collaborate.|David Sacks|Brian Murray|Seed
+Callin|Exited|C|Acquired by Rumble in 2023|The first social podcasting platform.|David Sacks|Seed
+Camber|C|Automated revenue cycle management and medical billing for healthcare providers.|Jeff Fluhr|Lainy Painter|Led Seed
+Candex|C|Vendor management and payment platform for enterprise procurement teams.|Jeff Fluhr|Led Series A
+Cartwheel|C|An AI-powered, browser-based 3D motion platform for character animations.|Lainy Painter|Sean Whitney|Kyle Parrish|Led Seed
+ClickUp|C|All-in-one productivity platform for project management, docs, and team collaboration.|David Sacks|Lainy Painter|Bryan Rosenblatt|Led Series A
+CloudTrucks|C|A carrier designed for independent truckers.|David Sacks|Led Seed
+Crew Ai|C|A framework designed to orchestrate multiple AI agents to work together as a collaborative team.|Jeff Fluhr|Mike Marg|Series A
+Daylight Security|D|Managed Agentic Security Services that combine autonomous AI agents with human threat hunters.|Kevin Gabura|Michael Robinson|Led Series A
+Dune Security|D|An adaptive security awareness platform that runs personalized phishing simulations and training for employees.|Brian Murray|Led Seed
+EchoMark|E|Invisible document watermarking that tracks and identifies the source of internal leaks.|Sky Dayton|Brian Murray|Led Seed
+Eight Sleep|E|A sleep system designed for deeper recovery.|David Sacks|Bryan Rosenblatt|Series B
+ElevenLabs|E|AI voice generation platform for realistic text-to-speech, dubbing, and voice cloning.|Mike Marg|Angel-Seed
+Ent|E|Workspace security platform that understands the intent behind human and AI actions to prevent data loss and cyber threats in real time.|Michael Robinson|Kevin Gabura|Dan Moor|Seed
+Equals|E|The modern spreadsheet built for business analytics.|David Sacks|Brian Murray|Led Seed
+Eventbrite|Exited|E|IPO on September 20, 2018|Online platform for creating, promoting, and selling tickets to events.|David Sacks|Angel
+Fellow|F|Meeting productivity app for agendas, notes, and action items.|David Sacks|Lainy Painter|Led Series A
+Fingerprint|F|Fingerprint empowers developers to solve online fraud.|David Sacks|Mike Marg|Led Series B
+First Resonance|F|Manufacturing operations software for hardware companies that build physical products.|Sky Dayton|Series A
+Fold|Exited|F|IPO on February 19, 2025|Fold builds apps for spending bitcoin in the real world.|Brian Murray|Bill Lee|Seed
+GenHealth.ai|G|Generative AI for healthcare operations — intake, eligibility, prior auth, and more.|Jeff Fluhr|Bryan Rosenblatt|Seed
+Glean|G|AI-powered work assistant and enterprise search that finds information across all your company's apps.|Michael Robinson|Zao Chen|Series E
+Glue|G|Better work chat for the AI era.|David Sacks|Led Seed
+Greenlite|G|Simplified construction permitting helping developers, architects, and contractors open projects faster and with less risk.|Bryan Rosenblatt|Led Series A
+Grid|G|Financial intelligence and data analytics platform that is the source of truth for tracking pipeline, revenue, retention, and efficiency.|David Sacks|Led Seed
+Harmonic Lab|H|Startup database and discovery engine to find, analyze, and track private companies.|David Sacks|Led Seed|<div role="navigation" aria-label="List" class="
+Horizon3.ai|H|Autonomous penetration testing platform that continuously finds and verifies security vulnerabilities.|Michael Robinson|Kevin Gabura|Led Series C
+Houzz|H|Online platform connecting homeowners with designers, contractors, and home improvement products.|David Sacks|Jeff Fluhr|Angel
+Hyfix|H|American-made autonomous systems chips for high-precision drones and robotics.|Jeff Fluhr|Brian Murray|Led Seed
+Instawork|I|Staffing app that matches hourly workers with shifts at local businesses.|Jeff Fluhr|Lainy Painter|Led Series C
+Intercom|I|Customer messaging and support platform combining chat, help center, and AI agents.|David Sacks|Angel
+Klue|K|Competitive intelligence platform that helps sales and marketing teams win deals against rivals.|Brian Murray|Led Series A
+Knock|K|Developer infrastructure for sending in-app, email, push, and SMS notifications.|David Sacks|Sean Whitney|Led Series A
+Lightning Labs|L|Infrastructure for Bitcoin's Lightning Network, enabling fast, low-cost payments.|Brian Murray|Led Series A|Seed
+Loft Dynamics|L|Maker of compact, full-motion VR flight simulators used to train pilots.|Sky Dayton|Series A
+Lyft|L|Ride-sharing app connecting passengers with drivers.|David Sacks|Angel
+Meta|Exited|M|IPO on May 18, 2012|Parent company of Facebook, Instagram, WhatsApp, and Reality Labs, focused on social platforms and the metaverse.|David Sacks|Angel
+NEO|N|Agentic software control platform to secure organizations' agentic software environments.|Michael Robinson|Kevin Gabura|Dan Moor|Seed|Series A
+Neuralink|N|Ultra-high bandwidth brain-machine interfaces to connect humans and computers.|Bill Lee|Series B
+Norm Ai|N|A legal engineering platform that uses AI agents to automate regulatory compliance.|Michael Robinson|Kindle Van Linge|Taylor Durand|Series A
+Oasis|Exited|O|Acquired by Cyera in 2026|Security platform for managing non-human identities like service accounts and API keys.|Michael Robinson|Kevin Gabura|Dan Moor|Series B
+Ohalo|O|Agricultural biotechnology to help farmers grow more food with fewer natural resources.|Michael Robinson|Kindle Van Linge|Taylor Durand|Series B
+Onehouse|O|Managed cloud data lakehouse built on Apache Hudi for fast, open analytics.|Michael Robinson|Zao Chen|Led Series B
+Opendoor|Exited|O|IPO on December 21, 2020|Online platform that buys homes directly from sellers and resells them, simplifying residential real estate transactions.|David Sacks|Angel
+OpenEvidence|O|AI-powered medical search engine that helps clinicians find evidence-based answers from peer-reviewed literature.|Michael Robinson|Dan Moor|Kindle Van Linge|Series B
+Orum|O|AI-powered live conversation platform designed to enhance sales team productivity|David Sacks|Bryan Rosenblatt|Mike Marg|Led Series A
+Pair Team|P|AI-enabled healthcare platform coordinating medical, behavioral, and social care for Medicaid and Medicare patients.|Lainy Painter|Seed
+Palantir|Exited|P|IPO on September 30, 2020|Data analytics and AI software for government agencies and large enterprises.|David Sacks|Angel
+Palmstreet|P|Live-shopping app selling rare plants, ceramics, and other collectibles.|Jeff Fluhr|Led Series A
+ParadeDB|P|Open-source, Postgres-compatible database designed to perform search & analytics on large-scale data.|Brian Murray|Sean Whitney|Zao Chen|Led Series A
+Pave|P|Compensation benchmarking and planning platform for HR and finance teams.|Jeff Fluhr|Bryan Rosenblatt|Series C
+Pearl|P|AI-driven solution for enhancing patient care in dentistry.|David Sacks|Brian Murray|Led Series A
+People Data Labs|P|API that provides developers with structured data on people and companies.|Jeff Fluhr|Mike Marg|Led Series B
+Peregrine|P|Data integration platform that unifies records for public safety and government agencies.|David Sacks|Michael Robinson|Series A
+Pickle|P|A peer-to-peer fashion rental app for users to rent clothing, shoes, and accessories directly from other people's closets.|Jeff Fluhr|Seed|Led Series A
+Postmates|Exited|P|Acquired by Uber in 2020|On-demand delivery service for food and local goods, now part of Uber.|David Sacks|Angel
+Productboard|P|Product management software that helps teams prioritize features and roadmaps.|David Sacks|Series B
+QUO|Q|The shared business phone and inbox that gives your team one place for every call, text, and customer|David Sacks|Brian Murray|Led Series A
+Quora|Q|Question-and-answer platform where users ask, answer, and follow topics they care about.|David Sacks|Angel
+Ragie|R|Managed retrieval-augmented generation service that helps developers add knowledge to AI apps.|David Sacks|Brian Murray|Led Seed
+Reddit|Exited|R|IPO on March 24, 2024|Network of online communities where users post, vote on, and discuss content by topic.|David Sacks|Bryan Rosenblatt|Series C
+Replit|R|Browser-based coding environment with AI agents that build and deploy apps.|Michael Robinson|Kevin Gabura|David Sacks|Series B Extension
+Returnly|Exited|R|Acquired by Affirm in 2021|Returns and exchanges platform for online retailers.|Jeff Fluhr|Brian Murray|Led Series B
+Roboflow|R|Computer vision platform that helps developers label data, train models, and deploy them.|David Sacks|Seed|Led Series A
+Route|R|Package tracking and shipping protection app for online shoppers, integrated with ecommerce stores.|Jeff Fluhr|Led Series A
+Sandbox VR|S|Virtual reality entertainment venues offering full-body immersive experiences.|David Sacks|Bryan Rosenblatt|Co-led Series A|<div role="navigation" aria-label="List" class="
+Saronic|S|Autonomous surface vessels for defense and maritime missions.|Michael Robinson|Kindle Van Linge|Series C
+Scratchpad|S|Sales workspace designed to increase revenue team productivity by eliminating manual Salesforce admin work.|David Sacks|Bryan Rosenblatt|Led Series A
+Secoda|Exited|S|Acquired by Atlassian in 2025|AI-powered data catalog that helps teams find and understand their company's data.|Jeff Fluhr|Seed|Led Series A
+SecurityPal|S|Completes security questionnaires for companies, blending humans and AI.|Brian Murray|Led Series A
+Sendoso|S|Corporate gifting and direct mail platform for sales and marketing teams.|Brian Murray|Led Series A
+Sentilink|S|Identity verification and fraud detection platform focused on synthetic identity fraud for lenders.|David Sacks|Mike Marg|Led Series B
+Shef|S|Marketplace that lets people buy homemade meals from local home cooks.|Jeff Fluhr|Seed
+Slack|Exited|S|IPO in 2019; Acquired by Salesforce in 2021|Team messaging and collaboration platform organized around channels.|David Sacks|Angel
+SnackMagic|S|Build-your-own snack box gifting service for employees, clients, and event attendees.|Jeff Fluhr|Bryan Rosenblatt|Led Series A
+Snackpass|S|Mobile ordering and rewards app for local restaurants.|Jeff Fluhr|Bryan Rosenblatt|Led Series B
+Solace|S|Connects patients with healthcare advocates who help them navigate insurance, appointments, and care decisions.|Jeff Fluhr|Bryan Rosenblatt|Series A
+Sourcegraph|S|Code search and AI coding assistant for large engineering teams.|David Sacks|Led Series B
+SpaceX|S|Aerospace company building reusable rockets and the Starlink satellite internet network.|David Sacks|Bill Lee|Angel
+Spekit|S|AI-powered sales enablement platform that delivers training and answers in the flow of work.|Brian Murray|Led Series B
+Starbridge|S|Helps businesses win government and school contracts with AI-powered sales intelligence.|Michael Robinson|J Zac Stein|Zao Chen|Led Series A
+Supabase|S|Open-source backend-as-a-service to build secure, scalable, and real-time applications.|Michael Robinson|Zao Chen|Co-led Series C
+Swarm|Exited|S|Acquired by SpaceX in 2021|Low-cost satellite network for connecting IoT devices anywhere on earth, now part of SpaceX.|David Sacks|Sky Dayton|Series A
+The Boring Company|T|Tunnel construction company building underground transportation systems.|Bill Lee|Series B
+Trellis|T|Legal research platform for searching state trial court records.|David Sacks|Michael Tam|Sky Dayton|Seed
+Trulia|Exited|T|Acquired by Zillow in 2015|Online real estate marketplace for home buyers and renters.|Jeff Fluhr|Angel
+Trusted Health|T|Staffing platform that connects travel nurses and clinicians with healthcare jobs.|Jeff Fluhr|Lainy Painter|Led Series A
+TrustLayer|T|Automates verification of insurance certificates and vendor compliance for businesses.|Brian Murray|Led Series A
+Twilio|Exited|T|IPO on June 23, 2016|Cloud communications APIs for sending SMS, voice, email, and chat from apps.|Jeff Fluhr|Angel
+Uber|Exited|U|IPO on May 10, 2019|Global platform for ride-sharing, food delivery, and freight.|David Sacks|Angel
+Upwind|U|Cloud security platform that combines runtime threat detection with vulnerability management.|Michael Robinson|Kevin Gabura|Seed|Led Series A
+UserGems|U|Sales intelligence tool that tracks job changes and warm contacts to surface pipeline opportunities.|Mike Marg|Led Series A
+Vanta|V|Automates security and compliance for frameworks like SOC 2, ISO 27001, and HIPAA.|David Sacks|J Zac Stein|Led Series C
+Vendr|Exited|V|Acquired by Vertice in 2026|SaaS buying platform that helps companies negotiate and manage their software contracts.|David Sacks|Led Seed
+Verifiable|V|Healthcare credentialing and provider data management platform.|Brian Murray|Led Series B
+Vooma|V|AI agents for freight brokers that automate quoting and load building.|Lainy Painter|Ryan Hrabak|Led Series A
+Warby Parker|Exited|W|IPO on September 29, 2021|Direct-to-consumer eyewear brand offering glasses, contacts, and eye exams online and in stores.|Jeff Fluhr|Angel
+WorkOS|W|Provides APIs and tools that help developers quickly make their applications "enterprise-ready."|Michael Robinson|Zao Chen|Dan Moor|Series C
+X|Exited|X|IPO on November 7, 2013|Social media platform.|David Sacks|Bill Lee|Angel
+X1|Exited|X|Acquired by Robinhood in 2023|Credit card that sets limits based on income rather than credit score.|David Sacks|Brian Murray|Led Series A
+Xona|X|Building a low-earth-orbit satellite network to provide a more accurate, secure alternative to GPS.|Sky Dayton|Taylor Durand|Led Series B
+Xoom|Exited|X|IPO in 2013; Acquired by PayPal in 2015|International money transfer service owned by PayPal.|David Sacks|Angel
+Yammer|Exited|Y|Acquired by Microsoft in 2012|The first Enterprise Social Network, for internal company communication and collaboration.|Bill Lee|Angel
+Zocdoc|Z|Online marketplace for finding doctors and booking medical appointments.|Jeff Fluhr|Series B|<div role="navigation" aria-label="List" class="

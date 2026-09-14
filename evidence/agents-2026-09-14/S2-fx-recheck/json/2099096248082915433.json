@@ -1,0 +1,97 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/goldstein2002/status/2099096248082915433",
+  "id": "2099096248082915433",
+  "text": "@DavidSacks Well said by @DavidSacks.... We need people like him to continue to duel what's going on for our leaders. \n\nStop buying into the fear porn... It's never been right and always leads to more government control of how we live.",
+  "raw_text": {
+   "text": "@DavidSacks Well said by @DavidSacks.... We need people like him to continue to duel what's going on for our leaders. \n\nStop buying into the fear porn... It's never been right and always leads to more government control of how we live.",
+   "display_text_range": [
+    12,
+    235
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      25,
+      36
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "goldstein2002",
+   "url": "https://x.com/goldstein2002",
+   "id": "303786514",
+   "followers": 755,
+   "following": 742,
+   "likes": 1769,
+   "media_count": 629,
+   "name": "Al Goldstein",
+   "description": "Lifelong entrepreneur, father and husband, Immigrant, co-founder and CEO @ Avant, Stoiclane, Forged in America podcast, https://grokipedia.com/page/al-goldstein",
+   "raw_description": {
+    "text": "Lifelong entrepreneur, father and husband, Immigrant, co-founder and CEO @ Avant, Stoiclane, Forged in America podcast, https://t.co/9prLc1tPPY",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       120,
+       143
+      ],
+      "original": "https://t.co/9prLc1tPPY",
+      "replacement": "https://grokipedia.com/page/al-goldstein",
+      "display": "grokipedia.com/page/al-goldst…"
+     }
+    ]
+   },
+   "location": "Miami, FL",
+   "banner_url": "https://pbs.twimg.com/profile_banners/303786514/1784228812",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2077832487523225600/atCfTP0x_200x200.jpg",
+   "joined": "Mon May 23 12:32:26 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://open.spotify.com/show/7u5TK6wFr6jIDKcAlnE66N?si=fbd9e0f906864cf7",
+    "display_url": "open.spotify.com/show/7u5TK6wFr…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 2,
+  "likes": 38,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 11:21:59 +0000 2026",
+  "created_timestamp": 1789298519,
+  "views": 4641,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:58:58Z",
+ "_http_status": 200
+}

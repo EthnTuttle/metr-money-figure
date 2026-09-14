@@ -1,0 +1,115 @@
+About METR
+ Home
+ About
+ Research
+ Updates
+ Careers
+ Donate
+ Search
+ METR
+ -->
+ Home
+ About
+ Research
+ Updates
+ Careers
+ Donate
+ Menu
+ About METR
+ Model Evaluation & Threat Research
+ What we do
+METR (pronounced ‘meter’) researches, develops and runs evaluations of frontier AI systems’ ability to complete complex tasks without human input. This means our work focuses on AI agents.
+What are AI agents?
+ AI agents are AI systems with access to tools which are set up to run continuously, without needing human input. They take actions and see the results, then take more actions until they have completed their goal.
+What does this work concretely involve?
+ Our research includes studying how specific risks could emerge (to ensure our evaluations measure the key risk factors), exploring ways to create smooth measures of progress that could be the basis of scaling laws, and otherwise building an understanding of what makes a good evaluation.
+ Developing evaluations primarily involves creating a variety of relevant tasks with a much higher degree of realism than typical benchmarks, and measuring how long they take skilled humans (often multiple hours).
+ Running evaluations involves setting up the model as an agent, observing the system’s resulting ability to complete tasks, and studying failures to improve the agent and understand how far short of maximum performance it might be. (We use a different set of tasks for improving the agent and for measuring final performance.)
+METR’s evaluations assess the extent to which an AI system can autonomously carry out substantial tasks, including general-purpose tasks like conducting research or developing an app, and concerning capabilities such as conducting cyberattacks or making itself hard to shut down. Currently, we are primarily developing evaluations measuring the capability to automate AI R&D.
+METR also prototypes governance approaches which use AI systems’ measured or forecasted capabilities to determine when better risk mitigations are needed for further scaling. This included prototyping the Responsible Scaling Policies approach. See how companies are using evaluations for this purpose in their frontier AI safety policies.
+ -->
+Our mission
+Our mission is to develop scientific methods to assess catastrophic risks stemming from AI systems’ autonomous capabilities and enable good decision-making about their development.
+At some point, AI systems will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more. This could change the world quickly and drastically, with potential for both enormous good and enormous harm. Unfortunately, it’s hard to predict exactly when and how this might happen. Being able to measure the autonomous capabilities of AI systems will allow companies and policymakers to see when AI systems might have very wide-reaching impacts, and to focus their efforts on those high-stakes situations.
+The stakes could become very high: it seems very plausible that advanced AI systems could pursue goals that are at odds with what humans want. This could be due to deliberate effort to cause chaos or happen despite the intention to only develop AI systems that are safe.1 Further, given how quickly things could play out, we don’t think it’s good enough to wait and see whether things seem to be going very wrong. We need to be able to determine whether a given AI system carries significant risk of a global catastrophe.
+ -->
+Partnerships
+ -->
+We have previously worked with OpenAI, Anthropic, and other companies to pilot informal pre-deployment evaluation procedures.
+These companies have also provided access and compute credits to support evaluation research.
+We are also partnering with the UK AI Safety Institute and are part of the NIST AI Safety Institute Consortium.
+ -->
+Our team
+ Beth Barnes 
+ Founder, CTO & Head of Research
+ Emma Abele 
+ CEO
+ Chris Painter 
+ Policy Director
+ Kit Harris 
+ Chief of Staff
+ Rajiv Dattani 
+ COO
+ Amy Deng 
+ Member of Technical Staff
+ Ben West 
+ Member of Technical Staff
+ Brian Goodrich 
+ Member of Technical Staff
+ David Rein 
+ Member of Technical Staff
+ Hjalmar Wijk 
+ Member of Technical Staff
+ Kathy Garcia 
+ Member of Technical Staff
+ Lucas Sato 
+ Member of Technical Staff
+ Max Hasin 
+ Member of Technical Staff
+ Megan Kinniment 
+ Member of Technical Staff
+ Nate Rush 
+ Member of Technical Staff
+ Neev Parikh 
+ Member of Technical Staff
+ Ryan Bloom 
+ Member of Technical Staff
+ Sami Jawhar 
+ Member of Technical Staff
+ Seraphina Nix 
+ Member of Technical Staff
+ Sydney Von Arx 
+ Member of Technical Staff
+ Tao Lin 
+ Member of Technical Staff
+ Thomas Broadley 
+ Member of Technical Staff
+ William Saunders 
+ Member of Technical Staff
+ Kris Chari 
+ Member of Operations Staff
+ Kyle Scott 
+ Member of Operations Staff
+ Rae She 
+ Member of Operations Staff
+ Rebecca Baron 
+ Member of Operations Staff
+ Michael Chen 
+ Member of Policy Staff
+ Advisors
+ Adam Gleave 
+ Advisor and Board Member
+ Holden Karnofsky 
+ Advisor
+ Yoshua Bengio 
+ Advisor
+ Goal-directed behavior may emerge in AI systems, and superficial attempts to align ML systems can result in sycophantic or deceptive behavior rather than successful alignment. ↩
+ METR
+ Home
+ About
+ Research
+ Updates
+ Careers
+ Donate
+ Email: [email protected]
+ twitter

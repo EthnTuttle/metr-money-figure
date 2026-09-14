@@ -1,0 +1,342 @@
+Title: Investing in Braintrust
+
+URL Source: https://a16z.com/announcement/investing-in-braintrust/
+
+Published Time: 2024-10-08T14:00:46+00:00
+
+Markdown Content:
+[](https://a16z.com/)
+
+[Portfolio](https://a16z.com/portfolio/)[Team](https://a16z.com/team/)
+
+ Focus Areas 
+
+Focus Areas
+
+[AI](https://a16z.com/ai/)
+
+[American Dynamism](https://a16z.com/american-dynamism/)
+
+[Bio + Health](https://a16z.com/bio-health/)
+
+[Consumer](https://a16z.com/consumer/)
+
+[Crypto](https://a16zcrypto.com/)
+
+[Cultural Leadership Fund](https://a16z.com/clf/)
+
+[Enterprise](https://a16z.com/enterprise/)
+
+[Fintech](https://a16z.com/fintech/)
+
+[Growth](https://a16z.com/growth/)
+
+[Infrastructure](https://a16z.com/infra/)
+
+[Perennial](https://a16z.com/perennial/)
+
+[Speedrun](https://a16z.com/speedrun/)
+
+ Content 
+
+Content
+
+[News & Content](https://a16z.com/news-content/)
+
+News & Content
+
+#### The Latest
+
+ General 
+#### new [Catching the (Venture) Bus](https://a16z.com/catching-the-venture-bus/)
+
+ Jen Kha 
+
+ Bio + Health 
+#### new [The Great Health Plan Replacement](https://a16z.com/the-great-health-plan-replacement/)
+
+ Julie Yoo 
+
+ Consumer 
+#### new [Investing in Highstock](https://a16z.com/announcement/investing-in-highstock/)
+
+ Olivia Moore and Justine Moore 
+
+ Growth 
+#### new [Investing in Cognition](https://a16z.com/announcement/investing-in-cognition/)
+
+ Marc Andreessen 
+
+[Newsletters](https://a16z.com/newsletters/)
+
+[Podcast Network](https://a16z.com/podcasts/)
+
+[New Media](https://a16z.com/new-media/)
+
+[Books](https://a16z.com/books/)
+
+ Programs 
+
+Programs
+
+[a16z Build](https://build.a16z.com/)
+
+[College Talent](https://a16z.com/college-talent/)
+
+ Company 
+
+Company
+
+[About](https://a16z.com/about/)
+
+[Jobs](https://jobs.a16z.com/jobs)
+
+[Offices](https://a16z.com/offices/)
+
+[a16z Global](https://a16z.com/global/)
+
+[Strategic Partnerships](https://a16z.com/strategic-partnerships/)
+
+[Twitter](https://twitter.com/a16z)[Linkedin](https://www.linkedin.com/company/a16z/)[Facebook](https://www.facebook.com/andreessenhorowitz)[Instagram](https://www.instagram.com/a16z/)[Youtube-alt](https://www.youtube.com/@a16z)[Substack](https://a16z.substack.com/)
+
+Close
+
+Infra
+# Investing in Braintrust
+
+[Martin Casado](https://a16z.com/author/martin-casado/) Posted October 8, 2024 
+
+Subscribe
+
+ Share 
+
+ Share 
+
+[](https://a16z.com/announcement/investing-in-braintrust/#)[Email](https://a16z.com/announcement/investing-in-braintrust/#)[X](https://a16z.com/announcement/investing-in-braintrust/#)[LinkedIn](https://a16z.com/announcement/investing-in-braintrust/#)[Facebook](https://a16z.com/announcement/investing-in-braintrust/#)[Hacker News](https://a16z.com/announcement/investing-in-braintrust/#)[WhatsApp](https://a16z.com/announcement/investing-in-braintrust/#)[Flipboard](https://a16z.com/announcement/investing-in-braintrust/#)[Reddit](https://a16z.com/announcement/investing-in-braintrust/#)
+
+[![Image 1: Braintrust Logo](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/04/logo_0018b00002YcK2wAAF-20260406210450.svg)](https://www.braintrust.dev/)
+
+*   [](https://twitter.com/braintrustdata)
+*   [](https://www.linkedin.com/company/braintrust-data/)
+*   [](https://github.com/braintrustdata)
+
+ Share 
+
+ Share 
+
+[](https://a16z.com/announcement/investing-in-braintrust/#)[Email](https://a16z.com/announcement/investing-in-braintrust/#)[X](https://a16z.com/announcement/investing-in-braintrust/#)[LinkedIn](https://a16z.com/announcement/investing-in-braintrust/#)[Facebook](https://a16z.com/announcement/investing-in-braintrust/#)[Hacker News](https://a16z.com/announcement/investing-in-braintrust/#)[WhatsApp](https://a16z.com/announcement/investing-in-braintrust/#)[Flipboard](https://a16z.com/announcement/investing-in-braintrust/#)[Reddit](https://a16z.com/announcement/investing-in-braintrust/#)
+
+Most things about developing software products that use large language models are just different. And we as an industry are just now grappling with those implications, which are as significant as the technology is disruptive.
+
+I’ll give some examples.
+
+For starters, unlike formal languages, with generative AI there is no systematic way to construct a prompt that’ll give you exactly what you want. Most product developers using LLMs hand-tweak prompts until things seem to mostly be working. Of course, those prompts don’t produce the same results across different models or even other instances of the same model. Further, wrangling the output of models is hard. If, for example, the response from the model is used to run a tool, the output must be mapped to structured data. Correctness is a perennial concern.
+
+In addition to all of these, there are dozens of models already available — with new models arriving weekly — all with different strengths across features like context-window length, latency, price, and code-generation capabilities (and far more).
+
+So, while it’s clear that developing products around LLMs requires a new approach to software, there is still a lot of confusion about how exactly to get there. Prompt evaluations for LLMs, for example, are a foundation of this type of product development, but they alone aren’t sufficient to ensure things work as intended. Good tooling for LLM development also includes logging, prompt serving, agentic tool support, and model proxying.
+
+Fortunately, this sort of tooling is finally starting to make its way out of the leading LLM product companies and into the general public. That brings us our investment in [Braintrust](https://www.braintrust.dev/), which has built a remarkable set of tools for AI product development.
+
+The best way to think about Braintrust is that it’s a devtool platform for any product effort based around LLMs. Because its focus is on product development, it natively supports JS/TS as a first-class concern. And while Braintrust includes features that are table stakes for LLM development, such as evals and logging, its facilitation of world-class LLM product development is what sets it apart. This includes support for prompt templating and management; real-time prompt serving; proxy support across all relevant model APIs; tool support; and much more.
+
+Braintrust is simple enough for even the smallest projects built on LLMs, yet has the breadth of tooling needed for the most sophisticated project. This is evident by the number of marquee companies using Braintrust, such as Notion, Stripe, Vercel, Airtable, Instacart, Zapier, Coda, The Browser Company, and many others.
+
+Much of the magic within Braintrust comes from its people. Founder and CEO Ankur Goyal and his team have built AI development platforms before, including at Figma and at Ankur’s previous company, Impira. Unlike most teams who come from the traditional Python data science and machine learning background, they have remained plugged into modern development efforts.
+
+Further, Ankur has a deep background in systems, and in databases, in particular. Wrangling LLMs is a profoundly complicated systems problem, particularly when it comes to state management, and that deep systems background shines through in way Braintrust handles these problems.
+
+In addition to leading their Series A round, I am also a very happy user of Braintrust. When I have the time, I enjoy building LLM-based apps. I’ve tried a number of frameworks to do so, but until I came across Braintrust, none of them felt like they were built for product developers. So as an investor _and_ a user, I’d encourage you to try Braintrust, if you haven’t already.
+
+ About the Contributor 
+
+![Image 2](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2023/04/Martin-Casado-2-1024x1024.png)
+
+#### Martin Casado
+
+*   [X](https://x.com/martin_casado)
+*   [Linkedin](https://www.linkedin.com/in/martincasado)
+
+is a general partner at Andreessen Horowitz, where he leads the firm’s infrastructure practice.
+
+More From this Contributor
+
+*   [X](https://x.com/martin_casado)
+*   [Linkedin](https://www.linkedin.com/in/martincasado)
+
+*   [**The Machine Age Fund**Ben Horowitz, Martin Casado, Raghu Raghuram, David Ulevitch, and David George](https://a16z.com/the-machine-age-fund/)
+*   [**OpenRouter & Stripe: The Intelligence Network**Martin Casado](https://a16z.com/openrouter-stripe-the-intelligence-network/)
+*   [**Cursor + SpaceXAI: the fastest iterating team wins**Sarah Wang, Matt Bornstein, and Martin Casado](https://a16z.com/cursor-spacexai-the-fastest-iterating-team-wins/)
+*   [**Fei-Fei Li on Spatial Intelligence and Robotics**Fei-Fei Li, Yunzhu Li, and Martin Casado](https://a16z.com/podcast/fei-fei-li-on-spatial-intelligence-and-robotics/)
+*   [**Investing in Runta**Martin Casado, Yoko Li, and Guido Appenzeller](https://a16z.com/announcement/investing-in-runta/)
+
+[![Image 3: Braintrust Logo](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/04/logo_0018b00002YcK2wAAF-20260406210450.svg)](https://www.braintrust.dev/)
+
+*   [](https://twitter.com/braintrustdata)
+*   [](https://www.linkedin.com/company/braintrust-data/)
+*   [](https://github.com/braintrustdata)
+
+**Want More a16z Infra?**
+Analysis and news covering the latest trends reshaping AI and infrastructure.
+
+[Learn More](https://a16z.com/infra/)
+
+ Recommended For You 
+
+Consumer
+#### new[Investing in Highstock](https://a16z.com/announcement/investing-in-highstock/)
+
+ Olivia Moore and Justine Moore 
+
+Growth
+#### new[Investing in Cognition](https://a16z.com/announcement/investing-in-cognition/)
+
+ Marc Andreessen 
+
+Enterprise
+#### new[Investing in Lightfield](https://a16z.com/announcement/investing-in-lightfield/)
+
+ Joe Schmidt, Alex Rampell, and Fabrizio Serafini 
+
+**Recommended For You**
+
+Consumer
+#### new[Investing in Highstock](https://a16z.com/announcement/investing-in-highstock/)
+
+ Olivia Moore and Justine Moore 
+
+Growth
+#### new[Investing in Cognition](https://a16z.com/announcement/investing-in-cognition/)
+
+ Marc Andreessen 
+
+Enterprise
+#### new[Investing in Lightfield](https://a16z.com/announcement/investing-in-lightfield/)
+
+ Joe Schmidt, Alex Rampell, and Fabrizio Serafini 
+
+Growth
+#### [Investing in Gimlet](https://a16z.com/announcement/investing-in-gimlet/)
+
+ Raghu Raghuram, Sarah Wang, Shangda Xu, and Stephenie Zhang 
+
+Infra
+#### [Investing in Vals](https://a16z.com/announcement/investing-in-vals/)
+
+ Jennifer Li, Yoko Li, Raghu Raghuram, and Shangda Xu 
+
+**Recommended for You**
+
+Consumer
+#### new[Investing in Highstock](https://a16z.com/announcement/investing-in-highstock/)
+
+ Olivia Moore and Justine Moore 
+
+Growth
+#### new[Investing in Cognition](https://a16z.com/announcement/investing-in-cognition/)
+
+ Marc Andreessen 
+
+Enterprise
+#### new[Investing in Lightfield](https://a16z.com/announcement/investing-in-lightfield/)
+
+ Joe Schmidt, Alex Rampell, and Fabrizio Serafini 
+
+Growth
+#### [Investing in Gimlet](https://a16z.com/announcement/investing-in-gimlet/)
+
+ Raghu Raghuram, Sarah Wang, Shangda Xu, and Stephenie Zhang 
+
+Infra
+#### [Investing in Vals](https://a16z.com/announcement/investing-in-vals/)
+
+ Jennifer Li, Yoko Li, Raghu Raghuram, and Shangda Xu 
+
+Infra
+#### [Investing in Volta](https://a16z.com/announcement/investing-in-volta/)
+
+ Raghu Raghuram and Shangda Xu 
+
+Infra
+#### [Investing in Neo](https://a16z.com/announcement/investing-in-neo/)
+
+ Zane Lackey and Joel de la Garza 
+
+Infra
+#### [Investing in Runta](https://a16z.com/announcement/investing-in-runta/)
+
+ Martin Casado, Yoko Li, and Guido Appenzeller 
+
+Infra
+#### [Investing in Netris](https://a16z.com/announcement/investing-in-netris/)
+
+ Guido Appenzeller, Raghu Raghuram, and Jason Cui 
+
+Infra
+#### [Investing in Mirendil](https://a16z.com/announcement/investing-in-mirendil/)
+
+ Matt Bornstein and Malika Aubakirova 
+
+Enterprise
+#### [Investing in Probook](https://a16z.com/announcement/investing-in-probook/)
+
+ Alex Rampell, David Haber, Olivia Moore, and Seema Amble 
+
+#### [Investing in Prosper AI](https://a16z.com/announcement/investing-in-prosper-ai/)
+
+ Jay Rughani and Jane Rhee 
+
+ Load More 
+
+## Expert News by a16z
+
+We have built a network of experts who are deeply rooted in technology and how it’s shaping our future. Subscribe to our newsletters to receive their perspectives.
+
+[See All Newsletters](https://a16z.com/newsletters)
+
+## Expert News by a16z
+
+We have built a network of experts who are deeply rooted in technology and how it’s shaping our future. Subscribe to our newsletters to receive their perspectives.
+
+[See All Newsletters](https://a16z.com/newsletters)
+
+Views expressed in “posts” (including podcasts, videos, and social media) are those of the individual a16z personnel quoted therein and are not the views of a16z Capital Management, L.L.C. (“a16z”) or its respective affiliates. a16z Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not constitute an offer to sell — or a solicitation of an offer to buy — any securities, and may not be used or relied upon in evaluating the merits of any investment.
+
+The contents in here — and available on any associated distribution platforms and any public a16z online social media accounts, platforms, and sites (collectively, “content distribution outlets”) — should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others. Any charts provided here or on a16z content distribution outlets are for informational purposes only, and should not be relied upon when making any investment decision. Certain information contained in here has been obtained from third-party sources, including from portfolio companies of funds managed by a16z. While taken from sources believed to be reliable, a16z has not independently verified such information and makes no representations about the enduring accuracy of the information or its appropriateness for a given situation. In addition, posts may include third-party advertisements; a16z has not reviewed such advertisements and does not endorse any advertising content contained therein. All content speaks only as of the date indicated.
+
+Under no circumstances should any posts or other information provided on this website — or on associated content distribution outlets — be construed as an offer soliciting the purchase or sale of any security or interest in any pooled investment vehicle sponsored, discussed, or mentioned by a16z personnel. Nor should it be construed as an offer to provide investment advisory services; an offer to invest in an a16z-managed pooled investment vehicle will be made separately and only by means of the confidential offering documents of the specific pooled investment vehicles — which should be read in their entirety, and only to those who, among other requirements, meet certain qualifications under federal securities laws. Such investors, defined as accredited investors and qualified purchasers, are generally deemed capable of evaluating the merits and risks of prospective investments and financial matters.
+
+There can be no assurances that a16z’s investment objectives will be achieved or investment strategies will be successful. Any investment in a vehicle managed by a16z involves a high degree of risk including the risk that the entire amount invested is lost. Any investments or portfolio companies mentioned, referred to, or described are not representative of all investments in vehicles managed by a16z and there can be no assurance that the investments will be profitable or that other investments made in the future will have similar characteristics or results. A list of investments made by funds managed by a16z is available here: [https://a16z.com/investments/](https://a16z.com/investments/). Past results of a16z’s investments, pooled investment vehicles, or investment strategies are not necessarily indicative of future results. Excluded from this list are investments (and certain publicly traded cryptocurrencies/ digital assets) for which the issuer has not provided permission for a16z to disclose publicly. As for its investments in any cryptocurrency or token project, a16z is acting in its own financial interest, not necessarily in the interests of other token holders. a16z has no special role in any of these projects or power over their management. a16z does not undertake to continue to have any involvement in these projects other than as an investor and token holder, and other token holders should not expect that it will or rely on it to have any particular involvement.
+
+With respect to funds managed by a16z that are registered in Japan, a16z will provide to any member of the Japanese public a copy of such documents as are required to be made publicly available pursuant to Article 63 of the Financial Instruments and Exchange Act of Japan. Please contact [compliance@a16z.com](mailto:compliance@a16z.com) to request such documents.
+
+For other site terms of use, please go [here](https://a16z.com/terms-of-use-privacy/). Additional important information about a16z, including our Form ADV Part 2A Brochure, is available at the SEC’s website: [http://www.adviserinfo.sec.gov](http://www.adviserinfo.sec.gov/).
+
+![Image 4](https://a16z.com/announcement/investing-in-braintrust/)
+
+WR25 Back to Top
+
+[](https://a16z.com/)
+
+ Software Is Eating the World 
+
+*   [](https://twitter.com/a16z)
+*   [](https://www.linkedin.com/company/a16z)
+*   [](https://www.facebook.com/andreessenhorowitz)
+*   [](https://www.instagram.com/a16z/)
+*   [](https://www.youtube.com/@a16z)
+*   [](https://a16z.substack.com/)
+
+ © 2026 Andreessen Horowitz 
+*   [Terms of Use](https://a16z.com/terms-of-use/)
+*   [Privacy Policy](https://a16z.com/privacy-policy/)
+*   [Disclosures](https://a16z.com/disclosures/)
+*   [Sitemap](https://a16z.com/sitemap/)
+
+### Power User Menu
+
+*   [](https://a16z.com/announcement/investing-in-braintrust/)
+
+ No commands found 
+
+![Image 6](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=bc1000c8-433a-49d5-ac6c-7591c3f2ef45&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e8d209a6-b8c9-49d9-87b6-0601fc528b77&pt=Investing%20in%20Braintrust%20%7C%20Andreessen%20Horowitz&tw_document_href=https%3A%2F%2Fa16z.com%2Fannouncement%2Finvesting-in-braintrust%2F&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1789375386513-259484064&tw_session_start=1&twpid=tw.1789375386513.85364358238801225&txn_id=ogg70&type=javascript&version=2.4.7)![Image 7](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=bc1000c8-433a-49d5-ac6c-7591c3f2ef45&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e8d209a6-b8c9-49d9-87b6-0601fc528b77&pt=Investing%20in%20Braintrust%20%7C%20Andreessen%20Horowitz&tw_document_href=https%3A%2F%2Fa16z.com%2Fannouncement%2Finvesting-in-braintrust%2F&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1789375386513-259484064&tw_session_start=1&twpid=tw.1789375386513.85364358238801225&txn_id=ogg70&type=javascript&version=2.4.7)![Image 8](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=da49a9bc-59d9-4f7a-81b7-4a6c04c2ef2b&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e8d209a6-b8c9-49d9-87b6-0601fc528b77&pt=Investing%20in%20Braintrust%20%7C%20Andreessen%20Horowitz&tw_document_href=https%3A%2F%2Fa16z.com%2Fannouncement%2Finvesting-in-braintrust%2F&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1789375386513-259484064&twpid=tw.1789375386513.85364358238801225&txn_id=ogudt&type=javascript&version=2.4.7)![Image 9](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=da49a9bc-59d9-4f7a-81b7-4a6c04c2ef2b&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=e8d209a6-b8c9-49d9-87b6-0601fc528b77&pt=Investing%20in%20Braintrust%20%7C%20Andreessen%20Horowitz&tw_document_href=https%3A%2F%2Fa16z.com%2Fannouncement%2Finvesting-in-braintrust%2F&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1789375386513-259484064&twpid=tw.1789375386513.85364358238801225&txn_id=ogudt&type=javascript&version=2.4.7)

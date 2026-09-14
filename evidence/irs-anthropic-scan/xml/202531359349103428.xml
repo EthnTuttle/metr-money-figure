@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-05-15T14:06:39-04:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>463402870</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>JUN ZHOU CPA LTD</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>625 N MICHIGAN STE 1705</AddressLine1Txt>
+        <CityNm>CHICAGO</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60611</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>873664806</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BRIGHT MOON FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BRIG</BusinessNameControlTxt>
+      <PhoneNum>4252143731</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+        <CityNm>BELLEVUE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98006</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JIONG FENG</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>4252143731</PhoneNum>
+      <SignatureDt>2025-05-08</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>YUXIAO CHEN</PreparerPersonNm>
+      <PTIN>P03194059</PTIN>
+      <PhoneNum>3128088899</PhoneNum>
+      <PreparationDt>2025-05-15</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1499455</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>481565</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>13211</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>13211</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>13211</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>5826</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5826</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>5826</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>17927</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>22967</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>17927</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>518529</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>36964</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>19037</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">2000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2000</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">354</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc4">17580</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>13670</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>13670</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc8">23159</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>18930</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>4229</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>56763</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>18930</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>19899</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>16847</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>16847</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>73610</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>18930</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>36746</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>444919</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>18034</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>19037</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>339388</CashBOYAmt>
+        <CashEOYAmt>512765</CashEOYAmt>
+        <CashEOYFMVAmt>512765</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>6380</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>4712</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>4712</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>752178</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc5">932321</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>932983</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>64150</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>22453</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>54527</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc6">41697</LandEOYAmt>
+        <LandEOYFMVAmt>48995</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>1152473</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1491495</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1499455</TotalAssetsEOYFMVAmt>
+        <AccountsPayableEOYAmt>245</AccountsPayableEOYAmt>
+        <TotalLiabilitiesEOYAmt>245</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1152473</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>1491250</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1152473</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1491250</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1152473</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1491495</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1152473</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>444919</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc9">4750</OtherIncreasesAmt>
+        <SubtotalAmt>1602142</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc7">110892</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1491250</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIDELITY ALIBABA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2024-01-29</SoldDt>
+          <GrossSalesPriceAmt>2198</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>540</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1658</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1658</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIDELITY ALIBABA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2024-11-22</SoldDt>
+          <GrossSalesPriceAmt>20769</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4500</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16269</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16269</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>17927</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>251</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>251</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>251</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>251</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JIONG FENG</IndividualWithBooksNm>
+        <PhoneNum>4252143731</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+          <CityNm>BELLEVUE</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98006</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIONG FENG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>YAN SHEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WANXIANG RU</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>787136</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>316258</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>48995</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1152389</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1152389</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>17286</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1135103</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>56755</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>56755</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>251</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>251</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>56504</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>56504</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>56504</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>36746</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>36746</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>56504</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>18736</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>18736</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>36746</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>36746</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>18736</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>18736</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>1022</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JIONG FENG</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JIONG FENG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5430 157TH AVE SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4252143731</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TYEE PTSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13630 SE ALLEN ROAD</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEATTLE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 12TH AVE</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98122</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEATTLE PACIFIC UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3307 3RD AVE W</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98119</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PCNA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3406 161ST PL SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98008</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHANGHAI SONG CHING LING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>369 NORTH SHANXI ROAD</AddressLine1Txt>
+            <CityNm>SHANGHAI</CityNm>
+            <ProvinceOrStateNm>CHINA</ProvinceOrStateNm>
+            <CountryCd>CH</CountryCd>
+            <ForeignPostalCd>200040</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEWPORT HIGH PTSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4333 FACTORIA BLVD SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>26</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEWPORT HIGH PTSA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4333 FACTORIA BLVD SE</AddressLine1Txt>
+            <CityNm>BELLEVUE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98006</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>521</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WASHINGTON STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 E MAIN ST</AddressLine1Txt>
+            <CityNm>PULLMAN</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99163</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>DONATION</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>16847</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>13211</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>5826</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>17927</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>36964</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>36964</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JIONG FENG</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>4530 157TH AVE SE</AddressLine1Txt>
+          <CityNm>BELLEVUE</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98006</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>481565</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>106065</FairMarketValueAmt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>SET UP FEE</CategoryTxt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX RETURN</CategoryTxt>
+        <Amt>2000</Amt>
+        <DisbursementsCharitablePrpsAmt>2000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LEXUS</PropertyDesc>
+        <AcquiredDt>2023-04-15</AcquiredDt>
+        <CostOrOtherBasisAmt>64150</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>20200</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>17580</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALIBABA</StockNm>
+        <EOYBookValueAmt>8100</EOYBookValueAmt>
+        <EOYFMVAmt>38156</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASSEMBLY HOLDCO LP</StockNm>
+        <EOYBookValueAmt>642300</EOYBookValueAmt>
+        <EOYFMVAmt>542720</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JIAYIN GROUP INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PDD HODING INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT-ANTHROPIC</StockNm>
+        <EOYBookValueAmt>150000</EOYBookValueAmt>
+        <EOYFMVAmt>150000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY STOCKS</StockNm>
+        <EOYBookValueAmt>99256</EOYBookValueAmt>
+        <EOYFMVAmt>162119</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY ETPS</StockNm>
+        <EOYBookValueAmt>22665</EOYBookValueAmt>
+        <EOYFMVAmt>29988</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IBOND</StockNm>
+        <EOYBookValueAmt>10000</EOYBookValueAmt>
+        <EOYFMVAmt>10000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>AUTO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>64150</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>22453</AccumulatedDepreciationAmt>
+        <BookValueAmt>41697</BookValueAmt>
+        <EOYFMVAmt>48995</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreasesDetail>
+        <Desc>ADJUST CAPITAL GAIN FOR STOCK DONATED</Desc>
+        <Amt>110892</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>18750</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>18750</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>764</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>764</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>195</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>195</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>AUTO EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2414</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2414</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MEALS</Desc>
+        <RevenueAndExpensesPerBooksAmt>532</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>532</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WIRING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>60</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>60</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>264</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>264</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FIDELITY ACCOUNT FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>180</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>180</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreasesDetail>
+        <Desc>DEPRECIATION VARIANCE</Desc>
+        <Amt>4750</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>INDIRECT TAXES/LICENSES</CategoryTxt>
+        <Amt>354</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

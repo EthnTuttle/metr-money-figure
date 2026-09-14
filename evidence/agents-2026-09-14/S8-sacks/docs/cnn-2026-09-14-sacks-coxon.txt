@@ -1,0 +1,92 @@
+Title: A fateful turning point for humanity and AI could redefine American politics
+
+URL Source: https://www.cnn.com/2026/09/14/politics/trump-ai-warning-sacks-coxon-anthropic
+
+Published Time: 2026-09-14T04:00:29.115Z
+
+Markdown Content:
+If a terrorist threat led subject experts to warn of a near-term existential menace to humanity, the weight of the US government would mobilize in an immediate and limitless effort to save the day.
+
+Yet a remarkable sequence of [warnings by leaders of artificial intelligence firms](https://www.cnn.com/2026/09/13/politics/trump-administration-ai-legislation) that their creation may soon outpace humans’ capacity to control it has so far been [met with a shrug](https://www.cnn.com/2026/09/13/politics/ai-washington-regulation-politics-obama-trump) by Republicans who run Washington.
+
+President Donald Trump said Sunday that “negative forces” were conjuring up “things that won’t happen.” House Speaker Mike Johnson rejected a call to pass emergency legislation, [telling CNN’s Jake Tapper](https://www.cnn.com/2026/09/13/politics/video/ai-trump-anthropic-sotu) that AI executives “pushing the frontier” could slow down if they wanted, but Congress shouldn’t rush to act.
+
+Ad Feedback
+
+Both men also warned that slowing the US AI industry would hand the advantage in the superintelligence race to China — casting the debate less as one of safety and more as a national security question.
+
+Republican inertia contrasts with growing [warnings from key Democrats](https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai), including former president Barack Obama, that without a government-mandated brake on the technology, the world would cross a “dangerous” threshold.
+
+The crescendo of concern — especially since it is coming from titans of the AI industry itself — feels like a political watershed moment.
+
+AI has been an increasingly keen issue in the midterm elections. Candidates of both parties have tapped into [public anger over AI infrastructure](https://www.cnn.com/2026/08/31/politics/data-centers-backlash-midterms-invs-vis), calling for [construction](https://www.cnn.com/2026/07/14/us/video/new-york-becomes-first-state-to-enact-moratorium-on-data-centers-digvid-vrtc)[moratoriums](https://www.cnn.com/2026/08/18/politics/josh-shapiro-pennsylvania-data-centers) on the vast, unsightly data centers that are ravenous for power and water.
+
+But hostility toward AI is also evolving into a catchall that crystalizes a moment of public anger and anxiety on disparate issues.
+
+While increasing numbers of Americans are using the technology, an NBC News poll this month found that 70% of respondents were more worried than excited by AI.
+
+AI is fueling fears of massive job losses at a moment when polls show a majority of citizens have [lost confidence in the Trump economy](https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war). Higher [utility bills](https://www.cnn.com/2026/07/28/economy/ai-boosting-inflation-us), and the perception that data centers are to blame, are deepening the affordability crisis — the No. 1 issue this election season. Scary AI scenarios could solidify Americans’ worries over the power held by a few billionaire tech oligarchs who risk creating dangerous new societal tensions. And the possibility that China or other non-state actors could exploit AI advances to threaten the US do add up to a genuine national security conundrum with important political implications for years to come.
+
+This swiftly evolving political environment may make AI an even more potent issue in the midterms and the 2028 presidential election. Democrats will hope to whip up the kind of political energy that could redefine races and push momentum for change, especially if they win back the House or Senate. Republicans, fearing a backlash to Trump’s second term, hardly need another issue where he seems indifferent to public perceptions.
+
+AI politics erupted to a new level in the last week.
+
+Anthropic CEO Dario Amodei [wrote on Saturday](https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai) that the industry needed to be slowed down. In an exclusive interview with CNN’s Anderson Cooper, which is due to air in full Monday, he called on AI leaders to work together to keep the technology from harming humanity.
+
+On Saturday, Sam Altman, the CEO of OpenAI, posted on X that he agreed with Amodei, and called for “independent evaluators” embedded in AI firms. Elon Musk, whose xAI company powers the chatbot Grok, wrote “Dario is right” on X. Google’s DeepMind chair Demis Hassabis added his voice to the chorus. All this followed a stunning [warning by AI researcher Jacob Coxon](https://www.cnn.com/videos/title-2573506?episode=2585423) that “the people building AI earnestly believe that it could kill us all by the end of the decade.”
+
+Sharply different reactions to the extraordinary set of alarms reflect more than Washington’s polarization; they reveal a fractured consensus about whether AI indeed poses a threat to humanity.
+
+Video Ad Feedback
+
+Former Anthropic researcher warns AI could ‘kill us all’
+
+Former AI researcher Jacob Coxon tells CNN’s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control.
+
+2:28  • Source: [CNN](https://www.cnn.com/)
+
+Former Anthropic researcher warns AI ...
+
+2:28
+
+Critics worry computerized agents could become so powerful that they could conspire to destroy the world. Skeptics dismiss doom-laden cautions. They accuse tech moguls of hyping their own products. And fearmongering has accompanied technology breakthroughs since the Industrial Revolution.
+
+There’s also an ideological angle to the controversy because of the Trump administration’s instinct for minimal regulation, which doesn’t distinguish between traditional industries and a far more powerful AI sector.
+
+Trump also has strong personal and political incentives to oppose a slow-down.
+
+The AI industry is a giant growth engine and he cannot afford for the bubble to burst and worsen his political standing. And his critics will wonder whether personal investments in the digital economy by administration officials will interfere with their capacity to fairly oversee the AI industry.
+
+Lightning-fast breakthroughs in a sector that is complex and opaque means AI is not just emulating the historic pattern of new technology outpacing the capacity of governments to regulate. It’s not clear that leaders who’d be needed to act even fully understand its properties and possible threats.
+
+And Trump makes a fair point when he warns that the US would be ceding a military edge to its superpower rival if it fell behind in AI. “We’re leading China in AI. We’re the most sophisticated country in the world, and frankly, I want to keep it that way,” he told reporters Sunday.
+
+Other administration officials warn against unilateral US disarmament in AI. Kevin Hassett, director of the National Economic Council, said on “State of the Union” that the “far bigger risk” was that “a malevolent actor” with designs on bioweapons could use “an AI that is better than the one we have to protect us.”
+
+Constraining AI for humanity’s benefit would take an international agreement. But this would require the kind of pooled sovereignty Trump disdains and contradict the administration’s principle that every aspect of America’s power must be deployed to strengthen unilateral dominance.
+
+And would foreign authoritarians or non-state actors play by the new rules?
+
+Still, autonomous computer agents wouldn’t only threaten democracies. They’d also challenge the core governing principle of China’s Communist Party — the use of state power to impose national stability. Trump is scheduled to have a Washington summit with President Xi Jinping this month, which both men could use to carve out a global leadership position.
+
+But Trump’s attitude toward cataclysmic warnings of rampant AI suggests he’s done little philosophical soul-searching at a turning point for the human race. “I’m not downplaying, but, you know, it’s going to be more good than bad by a lot,” Trump told reporters on Air Force One Sunday.
+
+“It’s going to be fine,” the president told GB News last week. “We’ll always have something to stop them. We’ll have a little gear. Boom.”
+
+Trump’s blasé approach recalls his cavalier response to Covid-19 — which thwarted his political and economic priorities. He once suggested that the country would have fewer confirmed cases of the virus if it simply stopped testing.
+
+A laissez-faire attitude defines his administration. David Sacks, co-chair of the President’s Council of Advisors on Science and Technology, wrote on X Saturday that AI leaders should take responsibility for their industry. “Stop pretending you need anyone else’s permission.”
+
+Still, there’s significant bipartisan concern. Texas GOP Sen. Ted Cruz said that “we need substantially more regulation when it comes to AI,” in an interview with Politico last week. Independent Vermont Sen. Bernie Sanders has proposed a bill to permanently ban superintelligent AI and temporarily pause advanced AI development pending federal regulation. Sen. Josh Hawley, Republican of Missouri, last week launched a probe into OpenAI over a rogue attack by its AI agents on another firm, Hugging Face, in July.
+
+But senior Democrats are pushing for a much faster government response as they position for November’s midterms.
+
+Democratic House leader Hakeem Jeffries said on ABC News’ “This Week” Sunday that Congress should take “decisive action” to slow down AI development and pledged that Democrats would meet to agree to a plan this week.
+
+Democratic Sen. Ruben Gallego warned: “When we created a nuclear weapon, the nuclear weapon did not have the decisionmaking power to drop a nuclear weapon. AI has the capability and will have the capability to make decisions like that.”
+
+“This is more akin to Dr. Frankenstein telling us, ‘The monster is loose, help me stop the monster,’” the Arizona lawmaker said on “State of the Union.”
+
+Some AI experts believe such scenarios overstate the capacity of AI. But that may not matter from a political perspective if public anxiety grows.
+
+Trump may not like it, but this question now seems critical to the midterms and American politics more generally: Who controls AI — humanity or machines?

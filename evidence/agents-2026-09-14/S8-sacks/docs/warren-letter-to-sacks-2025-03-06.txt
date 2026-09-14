@@ -1,0 +1,283 @@
+                                                March 6, 2025
+
+
+David O. Sacks
+Chair, President's Council of Advisors on Science and Technology
+The White House
+1600 Pennsylvania Avenue NW,
+Washington, DC 20500
+
+
+Dear Mr. Sacks:
+
+I write today to request information about how you, as President Trump’s “Crypto Czar,” have
+addressed your conflicts of interest, and how you will prevent the President and other private
+individuals from directly profiting off of the Trump Administration’s efforts to selectively pump
+the value of certain crypto assets, drop crypto asset-related enforcement actions, and deregulate
+the crypto asset industry. These actions have the potential to benefit billionaire investors, Trump
+Administration insiders, and speculators at the expense of middle-class families.
+
+In December, then President-elect Trump appointed you as the “White House A.I. & Crypto
+Czar” and tasked you with working “on a legal framework so the Crypto industry has the clarity
+it has been asking for” and “can thrive in the U.S.”1 On January 23, President Trump established
+the “President’s Working Group on Digital Asset Markets” and designated you, his Special
+Advisor for AI and Crypto, as Chair.2 On March 2, President Trump announced in a Truth Social
+post that he directed the working group to “move forward on a Crypto Strategic Reserve.”3 His
+post revealed that the reserve would hold a handpicked group of cryptocurrency tokens,
+including Ripple’s XRP, Solana’s SOL, and Cardano’s ADA.4 President Trump announced in a
+follow-up post that the reserve would also include Bitcoin (BTC) and Ether (ETH).5 Immediately
+after President Trump's posts, cryptocurrency prices soared before falling back to pre-
+announcement levels.6
+1
+  Truth Social, post, December 5, 2024, https://truthsocial.com/@realDonaldTrump/posts/113603133222686186.
+2
+  The White House, “Strengthening American Leadership in Digital Financial Technology,” Executive Order,
+January 23, 2025, https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-
+digital-financial-technology/; Reuters, “Trump orders crypto working group to draft new regulations, explore
+national stockpile,” Hannah Lang and Trevor Hunnicutt, January 24, 2024,
+https://www.reuters.com/business/finance/trump-signs-order-create-cryptocurrency-working-group-2025-01-23/.
+3
+  Truth Social, post, March 2, 2025, https://truthsocial.com/@realDonaldTrump/posts/114093526901586124.
+4
+  Id.
+5
+  Truth Social, post, March 2, 2025, https://truthsocial.com/@realDonaldTrump/posts/114093946326587357.
+6
+  Associated Press, “Trump sends crypto prices on a short-lived surge after announcement of strategic government
+reserve,” Alan Sunderman, March 3, 2025, https://apnews.com/article/trump-crypto-bitcoin-digital-assets-reserve-
+Tonight, you announced on X that “President Trump signed an executive order to establish a
+Strategic Bitcoin Reserve . . . capitalized with Bitcoin owned by the federal government that was
+forfeited as part of criminal or civil asset forfeiture proceedings.”7 You also said that the
+executive order “establishes a U.S. Digital Asset Stockpile, consisting of digital assets other than
+bitcoin forfeited in criminal or civil proceedings.”8 It is unclear whether the stockpile would
+consist of a selective group of tokens, such as XRP, SOL, ADA, and ETH, or a broader set of
+tokens.
+
+President Trump’s March 2 announcement, and your ensuing announcement on March 6, have
+created confusion about the Administration’s crypto plans, and raised serious questions about
+your history of crypto investments – including investments in all five tokens the President
+initially proposed for inclusion in a “strategic reserve.” You have directly invested in BTC, ETH,
+and SOL.9 On March 2, following President Trump’s announcement, you stated in a post on X
+that you “sold all [your] cryptocurrency (including BTC, ETH, and SOL) prior to the start of the
+administration.”10 In addition to your personal investments, you have indirectly invested in
+several cryptocurrencies as Co-Founder and Partner of Craft Ventures,11 an investment firm that
+“retains stakes in a small number of crypto start-ups.”12 According to your Craft Ventures’
+website, your firm was invested in the cryptocurrency index fund manager Bitwise.13 As of
+January 31, Bitwise’s top five holdings were BTC, ETH, XRP, SOL, and ADA–the same five
+tokens in President Trump’s announcements.14 On March 4, your firm’s website was updated “to
+reflect that it had exited its Bitwise investment in January 2025.”15 Despite your public
+statements via X, it remains unclear exactly when you personally divested from BTC, ETH, and
+SOL, when Craft Ventures divested from Bitwise, and whether people close to you “may have
+held positions and sold into the recent price surge.”16
+
+
+
+2f4246434a657f248cd85296f14382f9.
+7
+  X, post, March 6, 2025, https://x.com/davidsacks47/status/1897802280738734236.
+8
+  Id.
+9
+  Yahoo Finance, “Crypto Czar David Sacks Confirms Selling All Bitcoin, Ethereum, Solana Holdings, Denies
+'Large Indirect Holdings',” Khyathi Dalal, March 5, 2025, https://finance.yahoo.com/news/crypto-czar-david-sacks-
+confirms-190041167.html.
+10
+   X, post, March 2, 2025, https://x.com/DavidSacks/status/1896398256357384310.
+11
+   Craft Ventures, “David Sacks,” https://www.craftventures.com/team/david-sacks.
+12
+   Financial Times, “Crypto prices jump as Donald Trump names tokens included in strategic reserve,” Philip
+Stafford, Eric Platt, and George Hammond, March 2, 2025, https://www.ft.com/content/9c18e66d-6ab4-45b2-9d86-
+51909de2db92.
+13
+   Craft Ventures, “Portfolio: Bitwise,” https://craftventures.com/portfolio/bitwise.
+14
+   Bitwise, “Bitwise 10 Crypto Index Fund,”
+https://s3.amazonaws.com/static.bitwiseinvestments.com/FactSheet/bitwise10/Bitwise-10-Crypto-Index-Fund-Fact-
+Sheet.pdf.
+15
+   CoinDesk, “David Sacks Quietly Divested From Crypto Company at Center of Conflict of Interest Controversy,”
+Sam Kessler, March 4, 2025, https://www.coindesk.com/policy/2025/03/04/david-sacks-quiety-divested-from-
+crypto-company-at-center-of-conflict-of-interest-controversy.
+16
+   Yahoo Finance, “Crypto Czar David Sacks Confirms Selling All Bitcoin, Ethereum, Solana Holdings, Denies
+'Large Indirect Holdings',” Khyathi Dalal, March 5, 2025, https://finance.yahoo.com/news/crypto-czar-david-sacks-
+confirms-190041167.html.
+
+                                                        2
+The planned Crypto Strategic Reserve is just the most recent example of a Trump Administration
+crypto policy with the potential to benefit a wealthy, well-connected few at the expense of
+taxpayers. Just last week, for example, the Securities and Exchange Commission (SEC), chaired
+by Mark Uyeda, who was chosen as Acting Chair by President Trump, issued a Staff Statement
+asserting that most meme coins are not securities and, thus, are not subject to federal securities
+safeguards.17 Meme coins are known for their high volatility and “rug pulls,” where a coin is
+“launched and quickly abandoned, leaving investors with steep losses.”18 Despite these schemes’
+clear harm to consumers, the SEC statement could "shield companies and individuals that create
+meme coins from potential litigation.”19 Furthermore, the statement has the potential to directly
+benefit President Trump and First Lady Melania Trump, who launched two meme coins,
+$TRUMP and $MELANIA, during President Trump’s inauguration weekend.20
+
+The SEC has also dropped or paused multiple crypto-related enforcement actions. On February
+27, the SEC dismissed a civil enforcement action against Coinbase.21 The lawsuit, initiated in
+June 2023, alleged that Coinbase “made billions of dollars unlawfully facilitating the buying and
+selling of crypto asset securities” and “deprived investors of significant protections.”22
+Tomorrow, just two weeks after the SEC dropped this case, Coinbase CEO Brian Armstrong will
+attend the White House cryptocurrency summit that you will chair.23
+
+Additionally, on February 26, the SEC filed a motion to pause its case against Justin Sun,
+founder of Tron and official adviser to the Trump family-affiliated World Liberty Financial
+cryptocurrency project.24 The lawsuit, filed in March 2023, accused Mr. Sun of illegally inflating
+the value of TRX, Tron’s cryptocurrency token, through a fraudulent trading scheme, among
+other charges.25 The SEC’s request to pause the lawsuit follows Mr. Sun’s $75 million
+17
+   U.S. Securities and Exchange Commission, “Staff Statement on Meme Coins,” press release, February 27, 2025,
+https://www.sec.gov/newsroom/speeches-statements/staff-statement-meme-coins.
+18
+   The Wall Street Journal, “Crypto Thought Trump Would Bring It Legitimacy. Then He Launched a Meme Coin.,”
+Vicky Ge Huan and Caitlin Ostroff, January 21, 2025, https://www.wsj.com/finance/currencies/trump-meme-coin-
+cryptocurrency-eda5d5d9?mod=livecoverage_web.
+19
+   The Verge, “Meme coins aren’t subject to securities regulations, says SEC,” Jess Weatherbed, February 28, 2025,
+https://www.theverge.com/news/621454/sec-meme-coin-securities-collectibles-guidance.
+20
+   The Official Trump Meme, “Trump Meme,” https://gettrumpmemes.com/; Melania Meme, “Melania Official
+Meme,” https://melaniameme.com/; Reuters, “Trump’s new meme coin soars on his first day in office, lifts other
+tokens,” Elizabeth Howcroft, Rae Wee, and Michelle Conlin,” January 20, 2025,
+https://www.reuters.com/technology/trumps-new-crypto-token-jumps-ahead-his-inauguration-2025-01-20/.
+21
+   U.S. Securities and Exchange Commission, “SEC Announces Dismissal of Civil Enforcement Action Against
+Coinbase,” Press Release, February 27, 2025, https://www.sec.gov/newsroom/press-releases/2025-47.
+22
+   U.S. Securities and Exchange Commission, “SEC Charges Coinbase for Operating as an Unregistered Securities
+Exchange, Broker, and Clearing Agency,” Press Release, June 6, 2023, https://www.sec.gov/newsroom/press-
+releases/2023-102.
+23
+   Cointelegraph, “Trump’s White House Crypto Summit: Confirmed attendees so far,” Helen Partz, March 5, 2025,
+https://cointelegraph.com/news/trump-white-house-crypto-summit-bitcoin-reserve-policy.
+24
+   Reuters, “US SEC, Tron founder Justin Sun explore resolution of civil fraud case,” Jonathan Stempel, February
+26, 2025, https://www.reuters.com/legal/us-sec-tron-founder-justin-sun-explore-resolution-civil-fraud-case-2025-
+02-26/; CNN, “A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges,”
+Allison Morrow, February 28, 2025, https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-
+fraud-charges/index.html.
+25
+   Reuters, “US SEC, Tron founder Justin Sun explore resolution of civil fraud case,” Jonathan Stempel, February
+26, 2025, https://www.reuters.com/legal/us-sec-tron-founder-justin-sun-explore-resolution-civil-fraud-case-2025-
+
+                                                        3
+investment in World Liberty tokens, which “could set the Trump family up to eventually collect
+tens of millions of dollars, as the family is entitled to 75% of the tokens’ revenues.”26
+
+Americans deserve strong leaders who will prioritize the public interest ahead of their own
+bottom lines. I hope you address these obvious concerns about conflicts of interest as you chair
+tomorrow’s White House cryptocurrency summit. To address these questions, we ask that you
+immediately make any financial disclosures that you have filed with the government public, to
+ensure Congress and the American people that you have made appropriate divestments and that
+you no longer hold investments that present conflicts of interest.
+
+In addition, I request answers to the following questions by March 14, 2025:
+
+    1. You are serving as a “special government employee,” meaning that you are subject to a
+       series of conflict-of-interest laws designed to prevent government officials from
+       enriching themselves at the expense of taxpayers.27 Specifically, 18 U.S.C. § 208
+       prohibits special government employees from participating “personally and substantially”
+       in any “decision, approval, disapproval, recommendation, the rendering of advice,
+       investigation… judicial or other proceeding, application, request for a ruling or other
+       determination, contract, claim, controversy, charge, accusation, arrest, or other particular
+       matter” that would have a “direct and predictable effect” on your financial interests.28
+           a. Have you filed financial disclosures with the Office of Government Ethics?
+           b. What is your status as an SGE? Do you intend to serve more than 60 days, and
+               will you be paid above the GS-15 level?
+           c. Since starting your employment with the Trump Administration, have you
+               recused yourself from any particular matters? Please provide a list of all particular
+               matters from which you have recused yourself, along with copies of any written
+               communication regarding those particular matters and recusals.
+           d. Since starting your employment with the Trump Administration, have you
+               received any ethics waivers to permit you to work on particular matters that you
+               would otherwise recuse from? Please provide copies of any waivers issued, along
+               with copies of any written communications regarding those particular matters and
+               waivers.
+
+    2. On what exact dates did you divest from BTC, ETH, and SOL? Please provide
+       documentation of those divestments.
+
+    3. On what exact dates did Craft Ventures divest from Bitwise? Please provide
+       documentation of those divestments.
+
+02-26/.
+26
+   CNN, “A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges,”
+Allison Morrow, February 28, 2025, https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-
+fraud-charges/index.html.
+27
+   Axios, “Trump picks David Sacks as his AI guy,” Scott Rosenberg, December 6, 2024,
+https://www.axios.com/2024/12/06/david-sacks-trump-ai-crypto-czar.
+28
+   18 USC 208; U.S. Office of Government Ethics, Memorandum, “Conflict of Interest and the Special Government
+Employee,” February 15, 2000,
+https://www.oge.gov/Web/oge.nsf/Legal%20Docs/445ECB1FB63809DA852585BA005BED9E/$FILE/00x1.pdf.
+
+                                                      4
+4. What specific plans are in place at the White House to ensure that individuals developing
+   cryptocurrency policy at the White House are in compliance with all federal conflict of
+   interest laws, regulations, and rules? If no plans exist, please explain why not.
+
+5. Who had advanced knowledge of President Trump’s Truth Social posts announcing the
+   Crypto Strategic Reserve proposal on March 2? Of those individuals:
+      a. How many were federal employees subject to federal conflict of interest laws?
+      b. How many were private citizens? Of these individuals, what are their
+          relationships to the President?
+      c. Did any own, directly or through indirect investments, XRP, ADA, SOL, BTC, or
+          ETH?
+      d. Did any of those individuals purchase, either directly or through indirect
+          investments, XRP, ADA, SOL, BTC, or ETH in the weeks prior to President
+          Trump’s announcement?
+
+6. Who worked with President Trump to determine which cryptocurrency tokens should be
+   included in the March 2 proposed strategic reserve? Of those individuals:
+       a. How many were federal employees subject to federal conflict of interest laws?
+       b. How many were private citizens? Of these individuals, what are their
+          relationships to the President?
+       c. Did any of those individuals own, directly or through indirect investments, XRP,
+          ADA, SOL, BTC, or ETH?
+       d. Did any purchase, either directly or through indirect investments, XRP, ADA,
+          SOL, BTC, or ETH in the week prior to President Trump’s announcement?
+
+7. Did anyone direct President Trump to post his follow-up announcement – posted two
+   hours after the original post – in which he noted that bitcoin and ether would also be
+   included in the reserve?
+       a. If so, who?
+       b. Why were these two tokens announced separately?
+
+8. Why did the plans for a strategic crypto reserve appear to change between the March 2
+   announcement by President Trump and your March 6 tweet announcing the strategic
+   reserve and the U.S. Digital Asset Stockpile?
+
+9. Who worked with President Trump to determine which cryptocurrency tokens should be
+   included in the strategic reserve and the U.S. Digital Asset Stockpile that you announced
+   on March 6? Of those individuals:
+       a. How many were federal employees subject to federal conflict of interest laws?
+       b. How many were private citizens? Of these individuals, what are their
+          relationships to the President?
+       c. Did any of those individuals own, directly or through indirect investments, XRP,
+          ADA, SOL, BTC, or ETH?
+       d. Did any purchase, either directly or through indirect investments, XRP, ADA,
+          SOL, BTC, or ETH in the week prior to President Trump’s announcement?
+
+
+                                            5
+         Sincerely,
+
+
+
+
+Elizabeth Warren
+Ranking Member
+Committee on Banking,
+Housing, and Urban Affairs
+
+
+
+
+             6
+

@@ -1,0 +1,67 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/CharlesDardaman/status/2099130731565871180",
+  "id": "2099130731565871180",
+  "text": "METR is a fine org overall AND there are significant conflicts of interest that must be dealt with before we can pretend that they are an independent auditor. Pointing out their COI isn’t trying to discredit them, they need to address the obvious issues if they’re want us to trust them as an actual auditor \n\nLet’s just pull out one recent COI of the many you can go lookup. \n\nThe METR researcher who investigated the HuggingFace incident is married to previous employee and current member of OpenAI’s board. There’s no world where that kind of COI is considered independent.",
+  "raw_text": {
+   "text": "METR is a fine org overall AND there are significant conflicts of interest that must be dealt with before we can pretend that they are an independent auditor. Pointing out their COI isn’t trying to discredit them, they need to address the obvious issues if they’re want us to trust them as an actual auditor \n\nLet’s just pull out one recent COI of the many you can go lookup. \n\nThe METR researcher who investigated the HuggingFace incident is married to previous employee and current member of OpenAI’s board. There’s no world where that kind of COI is considered independent.",
+   "display_text_range": [
+    0,
+    576
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "CharlesDardaman",
+   "url": "https://x.com/CharlesDardaman",
+   "id": "300008677",
+   "followers": 6846,
+   "following": 1124,
+   "likes": 13364,
+   "media_count": 461,
+   "name": "Charles",
+   "description": "AI | Hacking | Security | Malware | Founder/CTO (acq.) | CS PhD @UT_Dallas",
+   "raw_description": {
+    "text": "AI | Hacking | Security | Malware | Founder/CTO (acq.) | CS PhD @UT_Dallas",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/300008677/1549827095",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2045235903820341248/XmDP8rCj_200x200.jpg",
+   "joined": "Tue May 17 01:41:01 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://charles.dardaman.com",
+    "display_url": "charles.dardaman.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 3,
+  "bookmarks": 0,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 13:39:01 +0000 2026",
+  "created_timestamp": 1789306741,
+  "views": 225,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:17Z",
+ "_http_status": 200
+}

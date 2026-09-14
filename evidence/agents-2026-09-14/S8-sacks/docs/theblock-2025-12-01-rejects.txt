@@ -1,0 +1,42 @@
+Title: White House AI and crypto czar David Sacks rejects fresh conflict of interest claims
+
+URL Source: https://www.theblock.co/news/business/2025-12-01-white-house-ai-crypto-czar-david-sacks-rejects-conflict-of-interest-claims-380916
+
+Published Time: 2025-12-01T09:32:24-05:00
+
+Markdown Content:
+David Sacks publicly challenged a New York Times investigation into his conduct as White House AI and crypto czar, arguing that the paper spent months pursuing allegations that lacked evidence.
+
+In a [statement](https://x.com/DavidSacks/status/1995225152674533557) posted to X on Sunday, Sacks claimed five New York Times reporters were assigned over the summer to find a conflict of interest tied to his government role and his background in the technology sector.
+
+"Through a series of 'fact checks' they revealed their accusations, which we debunked in detail," Sacks wrote.
+
+The New York Times [article](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html) in question, titled "Silicon Valley’s Man in the White House Is Benefiting Himself and His Friends" and published on Nov. 30, alleges that David Sacks used his dual role as the White House AI and crypto czar and a major tech investor to advance policies that could benefit his own extensive AI- and crypto-related holdings and those of his Silicon Valley associates.
+
+The report's alleged claims included Sacks' push to ease chip-export restrictions, his involvement in a large AI-chip deal with the UAE, his support for the GENIUS Act while a portfolio company stood to gain, and the way his government position elevated his "All-In" podcast.
+
+Earlier this year, Sacks said he sold substantial cryptocurrency and other financial holdings before the Trump administration took office in January, as The Block previously [reported](https://www.theblock.co/news/markets/2025-03-03-trumps-crypto-czar-david-sacks-says-he-sold-crypto-holdings-before-administration-began-344123). However, the New York Times article also alleged an incomplete disclosure of his remaining investments, raising renewed questions about potential conflicts of interest.
+
+"Anyone who reads the story carefully can see that they strung together a bunch of anecdotes that don't support the headline," Sacks said in response. "And of course, that was the whole point."
+
+## Sacks appoints defamation law specialists
+
+Defamation law specialists Clare Locke, whom Sacks said he hired as the reporting progressed, sent a detailed [letter](https://x.com/DavidSacks/status/1995225152674533557?s=20) to the outlet outlining what it described as a pattern of mischaracterizations. The firm argued that the paper "set out to sully Mr. Sacks' reputation and to discredit his point of view," despite ethics guidance that cleared him of conflicts. According to the letter, Sacks submitted required financial disclosures when joining the administration as a Special Government Employee and received two ethics letters — one tied to AI and one tied to cryptocurrency — after agency review.
+
+Clare Locke's letter said the New York Times incorrectly suggested that Sacks lacked an AI ethics letter for a period and, therefore, may have shaped policy improperly. It also disputed the notion that Sacks should have filed additional financial disclosures to address potential conflicts connected to crypto-related holdings or investments. The firm wrote that Sacks "complied with all steps the [U.S. Office of Government Ethics] found necessary to address any potential conflicts" and that neither the agency nor its officials raised concerns about conflicts in AI or cryptocurrency policy.
+
+The letter further criticized allegations that Sacks advocated policies that might benefit companies linked to his venture investments, including firms with exposure to AI or financial technology. According to the document, Sacks had already divested from relevant holdings within the timeframes required by his ethics agreements. It also rejected claims that he influenced procurement decisions or advanced the interests of specific technology companies, describing those suggestions as unfounded and, in some cases, "completely made up."
+
+Sacks claimed the New York Times repeatedly pivoted to new theories as earlier ones were disproven. "Every time we would prove an accusation false, NYT pivoted to the next allegation," he wrote, adding that this pattern explained why the process lasted five months and arguing that the resulting story amounted to a "nothing burger."
+
+In its closing section, the Clare Locke letter urged the outlet to abandon the article and reconsider its claims, stating that continued pursuit of the piece would demonstrate "reckless disregard for the truth or subjective knowledge of falsity."
+
+Sacks said he posted a copy of the letter so readers could see the full context behind the dispute, reiterating his view that the New York Times "willfully mischaracterized or ignored the facts."
+
+## The New York Times responds
+
+"Reporting on powerful figures who influence financial and industrial policies that affect millions of Americans is core to the role of The Times and part of being a member of the free and independent press," a spokesperson for The New York Times told The Block in response to Sacks' comments. "Our reporters do not have an agenda — they examine leads, verify them in good faith with the subjects involved, and publish what we confirm. That's exactly what happened here."
+
+"We remain confident in our reporting on Mr. Sacks, an important and influential member of the Administration," the spokesperson added. "The Times's article documents the ethical complexities and intertwined interests of his dual roles as a government advisor and a major investor."
+
+_Updated with a response from The New York Times._

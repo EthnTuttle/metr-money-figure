@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MaskedTorah/status/2099252227861000284",
+  "id": "2099252227861000284",
+  "text": "@corsaren Even if all the third parties want to be very strict and impartial, if they know they’ll lose their “business” by harshly criticizing this pressures them to save up social capital. But if METR is the only credible game in town, nothing the labs can do about it",
+  "raw_text": {
+   "text": "@corsaren Even if all the third parties want to be very strict and impartial, if they know they’ll lose their “business” by harshly criticizing this pressures them to save up social capital. But if METR is the only credible game in town, nothing the labs can do about it",
+   "display_text_range": [
+    10,
+    270
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      9
+     ],
+     "original": "corsaren",
+     "id": "1866548556061962240"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MaskedTorah",
+   "url": "https://x.com/MaskedTorah",
+   "id": "2439629299",
+   "followers": 6731,
+   "following": 512,
+   "likes": 24071,
+   "media_count": 136,
+   "name": "Drake Thomas",
+   "description": "System cards, risk reports, and misc safety takes at Anthropic; math; puzzles; spaced repetition. Writes with too many caveats for Twitter.",
+   "raw_description": {
+    "text": "System cards, risk reports, and misc safety takes at Anthropic; math; puzzles; spaced repetition. Writes with too many caveats for Twitter.",
+    "facets": []
+   },
+   "location": "Berkeley, CA",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1619141028984020994/hJAyrV6c_200x200.jpg",
+   "joined": "Sat Apr 12 06:36:29 +0000 2014",
+   "protected": false,
+   "website": {
+    "url": "http://admonymous.co/drake",
+    "display_url": "admonymous.co/drake"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 0,
+  "likes": 10,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 21:41:47 +0000 2026",
+  "created_timestamp": 1789335707,
+  "views": 447,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "MaskedTorah",
+  "replying_to_status": "2099251978127954064",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T07:00:14Z",
+ "_http_status": 200
+}

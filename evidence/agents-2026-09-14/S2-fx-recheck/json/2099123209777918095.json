@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/opropriofaka/status/2099123209777918095",
+  "id": "2099123209777918095",
+  "text": "@DavidSacks True. There is alot of \"pretending\" going on. I would add another item to this list: \nCapital is gone & AI advancements have slowed. Now, billionaires need to use government constraints as cover for shareholders, framing the slowing as a regulatory issue outside of their control.",
+  "raw_text": {
+   "text": "@DavidSacks True. There is alot of \"pretending\" going on. I would add another item to this list: \nCapital is gone &amp; AI advancements have slowed. Now, billionaires need to use government constraints as cover for shareholders, framing the slowing as a regulatory issue outside of their control.",
+   "display_text_range": [
+    12,
+    296
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "opropriofaka",
+   "url": "https://x.com/opropriofaka",
+   "id": "1178515707555991552",
+   "followers": 353963,
+   "following": 5750,
+   "likes": 192283,
+   "media_count": 4172,
+   "name": "Faka 🇧🇷🇧🇷🇮🇱🇺🇸🇱🇧",
+   "description": "Otávio Fakhoury, empresário, investidor e ex-executivo de mercado financeiro.",
+   "raw_description": {
+    "text": "Otávio Fakhoury, empresário, investidor e ex-executivo de mercado financeiro.",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1178515707555991552/1576721888",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1688614140535779329/DzYc85n2_200x200.jpg",
+   "joined": "Mon Sep 30 03:43:52 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "https://linktr.ee/oofaka",
+    "display_url": "linktr.ee/oofaka"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 4,
+  "likes": 68,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 13:09:07 +0000 2026",
+  "created_timestamp": 1789304947,
+  "views": 2274,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:07Z",
+ "_http_status": 200
+}

@@ -1,0 +1,83 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/segyges/status/2099188431129878815",
+  "id": "2099188431129878815",
+  "text": "@thkostolansky @Laneless_ their entire senior staff are ~all old friends of Anthropic's senior staff and Coefficient, itself closely tied to Anthropic, pays their bills? a\n\nif you tried to sell an \"independent audit\" with these traits for an accounting firm you would go to prison for fraud",
+  "raw_text": {
+   "text": "@thkostolansky @Laneless_ their entire senior staff are ~all old friends of Anthropic's senior staff and Coefficient, itself closely tied to Anthropic, pays their bills? a\n\nif you tried to sell an \"independent audit\" with these traits for an accounting firm you would go to prison for fraud",
+   "display_text_range": [
+    26,
+    290
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "thkostolansky",
+     "id": "1730772362528718848"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      15,
+      25
+     ],
+     "original": "Laneless_",
+     "id": "1623365576771964937"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "segyges",
+   "url": "https://x.com/segyges",
+   "id": "1264764041928507393",
+   "followers": 1809,
+   "following": 2269,
+   "likes": 20247,
+   "media_count": 247,
+   "name": "SE Gyges",
+   "description": "Χ‍ομο​ τοδοσ loS ηο⁠μβρεσ 𝔡𝔢‍ babILоNΙа,⁠ һе SiDO‌ ⁠προχó​Νѕul; сомо​ τοδ​οσ,⁠ 𝔢𝔰𝔠𝔩⁠𝔞⁠𝔳𝔬; ‍та‌мЬΙéν‍ ηε χο​νο‍χιδ‍ο ⁠Lа ​𝔬𝔪‌𝔫𝔦​𝔭​𝔬𝔱𝔢𝔫𝔠​𝔦𝔞⁠,",
+   "raw_description": {
+    "text": "Χ‍ομο​ τοδοσ loS ηο⁠μβρεσ 𝔡𝔢‍ babILоNΙа,⁠ һе SiDO‌ ⁠προχó​Νѕul; сомо​ τοδ​οσ,⁠ 𝔢𝔰𝔠𝔩⁠𝔞⁠𝔳𝔬; ‍та‌мЬΙéν‍ ηε χο​νο‍χιδ‍ο ⁠Lа ​𝔬𝔪‌𝔫𝔦​𝔭​𝔬𝔱𝔢𝔫𝔠​𝔦𝔞⁠,",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1264764041928507393/1747430568",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1923489330057863168/dTs646jq_200x200.jpg",
+   "joined": "Mon May 25 03:44:27 +0000 2020",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 0,
+  "likes": 17,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 17:28:17 +0000 2026",
+  "created_timestamp": 1789320497,
+  "views": 443,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "thkostolansky",
+  "replying_to_status": "2099173144464691692",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:56Z",
+ "_http_status": 200
+}

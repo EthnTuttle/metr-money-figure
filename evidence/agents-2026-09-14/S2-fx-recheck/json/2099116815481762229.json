@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Maxcardoso/status/2099116815481762229",
+  "id": "2099116815481762229",
+  "text": "@DavidSacks Finally someone with sense in this discussion. Thank you for this post.",
+  "raw_text": {
+   "text": "@DavidSacks Finally someone with sense in this discussion. Thank you for this post.",
+   "display_text_range": [
+    12,
+    83
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Maxcardoso",
+   "url": "https://x.com/Maxcardoso",
+   "id": "1234489954719367175",
+   "followers": 88405,
+   "following": 1072,
+   "likes": 39455,
+   "media_count": 2470,
+   "name": "Max Cardoso",
+   "description": "Jornalista conservador independente. Formado em Filosofia e Teologia. Católico. Casado.",
+   "raw_description": {
+    "text": "Jornalista conservador independente. Formado em Filosofia e Teologia. Católico. Casado.",
+    "facets": []
+   },
+   "location": "Brasília, Brazil",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1234489954719367175/1771447009",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1884812870367473664/wiHivKvM_200x200.jpg",
+   "joined": "Mon Mar 02 14:45:51 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://www.youtube.com/c/MaxCardoso",
+    "display_url": "youtube.com/c/MaxCardoso"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 80,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 12:43:43 +0000 2026",
+  "created_timestamp": 1789303423,
+  "views": 2548,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:05Z",
+ "_http_status": 200
+}

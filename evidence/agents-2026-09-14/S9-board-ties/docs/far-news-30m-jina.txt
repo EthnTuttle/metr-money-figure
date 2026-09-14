@@ -1,0 +1,53 @@
+Title: FAR.AI Secures Over $30 Million in Multi-Funder Support to Scale Frontier AI Safety Research
+
+URL Source: https://www.far.ai/news/30m-multi-funder-support
+
+Published Time: 2026-08-19T22:08:20.520Z
+
+Markdown Content:
+We're pleased to share that FAR.AI has secured over $30 million in funding commitments throughout 2025 from a diverse group of leading organizations, enabling a significant expansion of our research capabilities and field-building initiatives. Principal supporters include Coefficient Giving (previously Open Philanthropy), Schmidt Sciences, Survival and Flourishing Fund, the Center for Security and Emerging Technology (CSET), and the AI Safety Fund (AISF), supported by the Frontier Model Forum (FMF).
+
+This multi-funder support represents a strong vote of confidence in FAR.AI’s research agenda and positions us as a growing, independent institution tackling some of the most critical challenges in ensuring advanced AI systems are safe and beneficial.
+
+### What This Funding Enables
+
+The combined support allows us to pursue an ambitious expansion across four key areas:
+
+**Scaling our technical research team**: We're growing from 15 to 30+ researchers over the next year. This expansion accelerates our work on fundamental challenges – from robustness and deception to developing formal safety cases. These are the research directions that could prove as transformative as reinforcement learning from human feedback (RLHF) was for the field.
+
+**Launching a technical governance division**: We'll be launching a dedicated research team to bridge cutting-edge technical insights and actionable policy solutions. This team will collaborate with AI Safety Institutes, think tanks, and policymakers in the UK, US, and EU to develop verification mechanisms for AI developers' safety claims and create evidence-based standards.
+
+**Establishing fellowship and internship programs**: We'll be establishing new programs to train the next generation of AI safety researchers, supporting 20+ fellows annually with mentorship, research opportunities, and pathways into the field.
+
+**Expanding our field-building efforts**: Our field-building initiatives will also see major growth. The Alignment Workshop series will expand from two to three events annually, reaching new regions including Asia and the Global South. We'll launch specialized technical workshops, hackathons, and consensus-building forums that bring together the brightest minds from industry, academia, and government to collaborate on solving AI's most pressing safety challenges.
+
+### Why This Matters Now
+
+Advanced AI systems are developing rapidly, and the technical challenges of ensuring they remain safe and beneficial are growing more complex. Our research on adversarial robustness has already shown that even superhuman AI systems can have critical vulnerabilities – findings that directly inform how frontier labs should approach safety. With this expanded capacity and diverse funding base, we can tackle these challenges at the scale they demand while maintaining independence and research integrity.
+
+### Our Track Record
+
+Since our founding in 2022, we've published groundbreaking research on adversarial robustness, interpretability, and red-teaming that has influenced safety practices at major AI labs. Our events have convened thousands of AI researchers and policymakers. Our Berkeley coworking space has become a hub for AI safety innovation. This new support accelerates all of these efforts at a critical moment for the field.
+
+### Building Long-Term Institutional Strength
+
+Diversified funding strengthens FAR.AI’s institutional resilience and positions us for sustained impact. These commitments enable us to:
+
+*   Attract world-class research talent with competitive, long-term positions
+*   Maintain research independence while collaborating with frontier labs and government agencies
+*   Build enduring programs that compound in impact over years, not just funding cycles
+*   Weather funding environment changes while staying focused on our mission
+
+### Looking Ahead
+
+By 2028, we aim to achieve 3-5 major technical breakthroughs, influence the adoption of safety standards by frontier labs, and inform key decision makers.
+
+The work ahead is challenging, but it's essential. As AI systems become more capable, ensuring they remain safe and aligned with human values becomes increasingly critical. This support enables us to meet that challenge with the scale, rigor, and independence it demands.
+
+We're deeply grateful to all our funders for their confidence in our work and support of our mission. Together, we're building the foundation for a future where advanced AI systems are not just powerful, but safe and beneficial for everyone.
+
+**About FAR.AI**
+
+FAR.AI is an independent nonprofit research organization dedicated to ensuring advanced AI systems are safe, robust, and aligned with human values. Founded in 2022, we conduct foundational technical research on AI safety challenges while building the field through workshops, fellowships, and collaborative initiatives. Learn more at [far.ai](http://far.ai/).
+
+_For inquiries, contact us at hello@far.ai._

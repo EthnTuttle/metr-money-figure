@@ -1,0 +1,990 @@
+{
+  "generated_utc": "2026-09-14T19:38:19.619182+00:00",
+  "scope": {
+    "required_count": 85,
+    "required_ids": [
+      "M01",
+      "M02",
+      "M03",
+      "M04",
+      "M05",
+      "M06",
+      "M07",
+      "M08",
+      "M09",
+      "M10",
+      "M11",
+      "M12",
+      "M13",
+      "M14",
+      "M15",
+      "M16",
+      "M17",
+      "M18",
+      "M19",
+      "M20",
+      "M21",
+      "M22",
+      "M23",
+      "M24",
+      "M25",
+      "M26",
+      "M27",
+      "M28",
+      "M29",
+      "M30",
+      "M31",
+      "M32",
+      "M35",
+      "M36",
+      "M37",
+      "M38",
+      "M39",
+      "M47",
+      "M48",
+      "M57",
+      "M58",
+      "M59",
+      "M60",
+      "M63",
+      "M75",
+      "M77",
+      "M78",
+      "M79",
+      "M80",
+      "M81",
+      "M82",
+      "M83",
+      "M84",
+      "M85",
+      "M86",
+      "M87",
+      "M88",
+      "M89",
+      "M90",
+      "M91",
+      "M92",
+      "M93",
+      "M94",
+      "M95",
+      "M96",
+      "M117",
+      "M118",
+      "M119",
+      "M120",
+      "M126",
+      "M127",
+      "M128",
+      "M139",
+      "M140",
+      "M141",
+      "M142",
+      "M143",
+      "M146",
+      "TB02",
+      "TB03",
+      "TB04",
+      "TB05",
+      "TB06",
+      "ST107",
+      "ST109"
+    ],
+    "csv_rows_present": true
+  },
+  "totals_and_widths": [
+    {
+      "pipe": "Coefficient -> ARC",
+      "row_ids": [
+        "M01",
+        "M02"
+      ],
+      "exact_usd": 1515000.0,
+      "figure_label": "$1.5M",
+      "formula_width_px": 8.1
+    },
+    {
+      "pipe": "Coefficient -> RAND",
+      "row_ids": [
+        "M03"
+      ],
+      "exact_usd": 10000000.0,
+      "figure_label": "$10.0M",
+      "formula_width_px": 20.0
+    },
+    {
+      "pipe": "Coefficient -> Longview",
+      "row_ids": [
+        "M04",
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M09",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14"
+      ],
+      "exact_usd": 26251590.0,
+      "figure_label": "$26.3M",
+      "formula_width_px": 42.8
+    },
+    {
+      "pipe": "Coefficient -> FAR AI",
+      "row_ids": [
+        "M15",
+        "M16",
+        "M17",
+        "M18",
+        "M19",
+        "M20",
+        "M21",
+        "M22",
+        "M23",
+        "M24",
+        "M25",
+        "M26",
+        "M27",
+        "M28",
+        "M29",
+        "M30",
+        "M31",
+        "M32"
+      ],
+      "exact_usd": 59347676.0,
+      "figure_label": "$59.3M",
+      "formula_width_px": 89.1
+    },
+    {
+      "pipe": "SFF -> ARC",
+      "row_ids": [
+        "M35",
+        "M36",
+        "M37"
+      ],
+      "exact_usd": 5623000.0,
+      "figure_label": "$5.6M",
+      "formula_width_px": 13.9
+    },
+    {
+      "pipe": "SFF -> METR",
+      "row_ids": [
+        "M38",
+        "M39"
+      ],
+      "exact_usd": 752000.0,
+      "figure_label": "$752K",
+      "formula_width_px": 7.1
+    },
+    {
+      "pipe": "Audacious -> Canary",
+      "row_ids": [
+        "M57"
+      ],
+      "exact_usd": 38000000.0,
+      "figure_label": "$38.0M",
+      "formula_width_px": 59.2
+    },
+    {
+      "pipe": "Audacious -> METR share",
+      "row_ids": [
+        "M58"
+      ],
+      "exact_usd": 17000000.0,
+      "figure_label": "~$17.0M",
+      "formula_width_px": 29.8
+    },
+    {
+      "pipe": "ARC -> METR",
+      "row_ids": [
+        "M63"
+      ],
+      "exact_usd": 4553935.0,
+      "figure_label": "$4.6M",
+      "formula_width_px": 12.4
+    },
+    {
+      "pipe": "Longview -> METR",
+      "row_ids": [
+        "M59"
+      ],
+      "exact_usd": 220000.0,
+      "figure_label": "$220K",
+      "formula_width_px": 6.3
+    },
+    {
+      "pipe": "DAF/regrantors -> ARC",
+      "row_ids": [
+        "M77",
+        "M78",
+        "M80",
+        "M81",
+        "M82",
+        "M84",
+        "M85",
+        "M86",
+        "M88",
+        "M89",
+        "M90",
+        "M93",
+        "M94",
+        "M95",
+        "M96"
+      ],
+      "exact_usd": 10835635.0,
+      "figure_label": "$10.8M",
+      "formula_width_px": 21.2
+    },
+    {
+      "pipe": "DAF/regrantors -> METR",
+      "row_ids": [
+        "M79",
+        "M83",
+        "M87"
+      ],
+      "exact_usd": 4204000.0,
+      "figure_label": "$4.2M",
+      "formula_width_px": 11.9
+    },
+    {
+      "pipe": "SFF -> Redwood",
+      "row_ids": [
+        "M47",
+        "M48"
+      ],
+      "exact_usd": 2372000.0,
+      "figure_label": "$2.4M",
+      "formula_width_px": 9.3
+    },
+    {
+      "pipe": "Coefficient -> Constellation",
+      "row_ids": [
+        "M126",
+        "M127",
+        "M128"
+      ],
+      "exact_usd": 22950000.0,
+      "figure_label": "$22.9M",
+      "formula_width_px": 38.1
+    },
+    {
+      "pipe": "Coefficient -> Redwood",
+      "row_ids": [
+        "M120"
+      ],
+      "exact_usd": 70000000,
+      "figure_label": "$70M+",
+      "formula_width_px": 104.0,
+      "note": "generator hard-coded floor"
+    },
+    {
+      "pipe": "SVCF -> Constellation",
+      "row_ids": [
+        "ST107"
+      ],
+      "exact_usd": 10000000,
+      "figure_label": "$10.0M",
+      "formula_width_px": 20.0,
+      "note": "generator hard-coded total"
+    },
+    {
+      "pipe": "Coefficient -> Tarbell",
+      "row_ids": [
+        "TB02",
+        "TB03",
+        "TB04"
+      ],
+      "exact_usd": 5291930.0,
+      "figure_label": "$5.3M",
+      "formula_width_px": 13.4
+    }
+  ],
+  "svg": {
+    "path_strokes": [
+      {
+        "stroke": "#2a78d6",
+        "width_px": 12.0,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 8.1,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 20.0,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 42.8,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 89.1,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 13.9,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 7.1,
+        "dash": false
+      },
+      {
+        "stroke": "#b2b4aa",
+        "width_px": 59.2,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 104.0,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 9.3,
+        "dash": false
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 38.1,
+        "dash": false
+      },
+      {
+        "stroke": "#eda100",
+        "width_px": 20.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 6.0,
+        "dash": true
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 6.0,
+        "dash": true
+      },
+      {
+        "stroke": "#eda100",
+        "width_px": 21.2,
+        "dash": false
+      },
+      {
+        "stroke": "#eda100",
+        "width_px": 11.9,
+        "dash": false
+      },
+      {
+        "stroke": "#b2b4aa",
+        "width_px": 29.8,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 12.4,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 6.3,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 6.0,
+        "dash": true
+      },
+      {
+        "stroke": "#2a78d6",
+        "width_px": 13.4,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#eb6834",
+        "width_px": 3.0,
+        "dash": false
+      },
+      {
+        "stroke": "#e34948",
+        "width_px": 8.0,
+        "dash": true
+      },
+      {
+        "stroke": "#e34948",
+        "width_px": 8.0,
+        "dash": true
+      },
+      {
+        "stroke": "#e34948",
+        "width_px": 3.0,
+        "dash": true
+      }
+    ],
+    "candidate_flow_widths_px": [
+      8.1,
+      20.0,
+      42.8,
+      89.1,
+      13.9,
+      7.1,
+      59.2,
+      104.0,
+      9.3,
+      38.1,
+      20.0,
+      6.0,
+      6.0,
+      21.2,
+      11.9,
+      29.8,
+      12.4,
+      6.3,
+      6.0,
+      13.4
+    ]
+  },
+  "coefficient_snapshot": {
+    "path": "/mnt/f/projects/memes/anthropic-investors/research/04-openphil-grants-raw-2026-09-11.json",
+    "filename_date": "2026-09-11",
+    "sha256": "91a9543d4a55153e900af29eb1f5dbd618b9a13ac361f209128f5e98c4c36022",
+    "record_count": 2911,
+    "checks": [
+      {
+        "row_id": "M01",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-03-01",
+        "organization": [
+          "Alignment Research Center"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M02",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-11-18",
+        "organization": [
+          "Alignment Research Center"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M03",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-09-20",
+        "organization": [
+          "RAND Corporation"
+        ],
+        "title": "AI Evaluation and Testing"
+      },
+      {
+        "row_id": "M04",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-04-06",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Nuclear Security Grantmaking"
+      },
+      {
+        "row_id": "M05",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-11-30",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Far-UVC Event"
+      },
+      {
+        "row_id": "M06",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-01-18",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Research Support for Kacper Kowalczyk"
+      },
+      {
+        "row_id": "M07",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-01-19",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Film Project Scoping Work"
+      },
+      {
+        "row_id": "M08",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-01-20",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Support for Richard Chappell"
+      },
+      {
+        "row_id": "M09",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-02-17",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Far-UVC Event"
+      },
+      {
+        "row_id": "M10",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-02-28",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "AI Policy Development at the OECD"
+      },
+      {
+        "row_id": "M11",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-12-15",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M12",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-01-23",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "Effective Giving Information Sharing"
+      },
+      {
+        "row_id": "M13",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-10-29",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M14",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-06-06",
+        "organization": [
+          "Longview Philanthropy"
+        ],
+        "title": "RFP on Hardware-Enabled Mechanisms for AI Compliance"
+      },
+      {
+        "row_id": "M15",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2021-10-20",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "Language Model Misalignment"
+      },
+      {
+        "row_id": "M16",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-08-15",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "Language Model Misalignment"
+      },
+      {
+        "row_id": "M17",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-12-05",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "Interpretability Research"
+      },
+      {
+        "row_id": "M18",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-12-06",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "Inverse Scaling Prize"
+      },
+      {
+        "row_id": "M19",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2022-12-12",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M20",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-03-14",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "FAR Labs Office Space"
+      },
+      {
+        "row_id": "M21",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-03-30",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Interpretability Research"
+      },
+      {
+        "row_id": "M22",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-07-09",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M23",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-09-25",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "Alignment Workshop"
+      },
+      {
+        "row_id": "M24",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-01-16",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Alignment Research Projects"
+      },
+      {
+        "row_id": "M25",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-04-19",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M26",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-04-19",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "FAR Labs Office Space"
+      },
+      {
+        "row_id": "M27",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-04-19",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Field Building "
+      },
+      {
+        "row_id": "M28",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-06-16",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Safety Regranting"
+      },
+      {
+        "row_id": "M29",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-07-25",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Alignment Research Projects"
+      },
+      {
+        "row_id": "M30",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-04-13",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Communications and Outreach"
+      },
+      {
+        "row_id": "M31",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-04-13",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Field Building"
+      },
+      {
+        "row_id": "M32",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-09-14",
+        "organization": [
+          "FAR AI"
+        ],
+        "title": "AI Safety Research and Field-building"
+      },
+      {
+        "row_id": "M126",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2023-06-06",
+        "organization": [
+          "Constellation"
+        ],
+        "title": "Coworking Space"
+      },
+      {
+        "row_id": "M127",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-04-18",
+        "organization": [
+          "Constellation"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "M128",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-06-19",
+        "organization": [
+          "Constellation"
+        ],
+        "title": "Programmatic Activities and Operating Expenses "
+      },
+      {
+        "row_id": "TB02",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2024-11-17",
+        "organization": [
+          "Tarbell Center for AI Journalism"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "TB03",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-07-15",
+        "organization": [
+          "Tarbell Center for AI Journalism"
+        ],
+        "title": "General Support"
+      },
+      {
+        "row_id": "TB04",
+        "found": true,
+        "amount_match": true,
+        "date_match": true,
+        "snapshot_date_utc": "2025-03-06",
+        "organization": [
+          "Tarbell Center for AI Journalism"
+        ],
+        "title": "Operating Costs"
+      }
+    ],
+    "all_38_found": true,
+    "all_amounts_match": true,
+    "all_dates_match": true,
+    "recipient_name_searches": {
+      "METR": [],
+      "Model Evaluation": [],
+      "Model Evaluation and Threat Research": []
+    }
+  },
+  "fetch_register": {
+    "entry_count": 93,
+    "required_ids_covered": true,
+    "covered_count": 85,
+    "files_with_hashes": 92,
+    "all_saved_hashes_match": true,
+    "http_status_counts": {
+      "200": 52,
+      "403": 2,
+      "404": 39
+    }
+  },
+  "tallinn_ledger_relevant": [
+    {
+      "disbursed": "2022-12-20",
+      "via": "FP-US",
+      "cur": "USD",
+      "amount": "2,179,000",
+      "value": "$2,179,000",
+      "recipient": "Alignment Research Center",
+      "purpose": "General support"
+    },
+    {
+      "disbursed": "2023-06-15",
+      "via": "FP-US",
+      "cur": "USD",
+      "amount": "1,846,000",
+      "value": "$1,846,000",
+      "recipient": "Alignment Research Center",
+      "purpose": "General support for ARC Evals Team"
+    },
+    {
+      "disbursed": "2024-07-19",
+      "via": "SFF-spec",
+      "cur": "USD",
+      "amount": "50,000",
+      "value": "$50,000",
+      "recipient": "Alignment Research Center",
+      "purpose": "For general operating support"
+    },
+    {
+      "disbursed": "2024-07-23",
+      "via": "SFF-spec",
+      "cur": "USD",
+      "amount": "10,000",
+      "value": "$10,000",
+      "recipient": "Model Evaluation and Threat Research",
+      "purpose": "For general operating support"
+    },
+    {
+      "disbursed": "2024-07-24",
+      "via": "SFF-spec",
+      "cur": "USD",
+      "amount": "10,000",
+      "value": "$10,000",
+      "recipient": "Model Evaluation and Threat Research",
+      "purpose": "For general operating support"
+    },
+    {
+      "disbursed": "2024-11-21",
+      "via": "FP-US",
+      "cur": "USD",
+      "amount": "147,000",
+      "value": "$147,000",
+      "recipient": "Alignment Research Center",
+      "purpose": "General support"
+    },
+    {
+      "disbursed": "2024-12-06",
+      "via": "FP-US",
+      "cur": "USD",
+      "amount": "184,000",
+      "value": "$184,000",
+      "recipient": "Model Evaluation and Threat Research",
+      "purpose": "General support"
+    }
+  ]
+}

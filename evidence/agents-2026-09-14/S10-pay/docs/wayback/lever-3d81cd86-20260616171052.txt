@@ -1,0 +1,80 @@
+
+METR - Cloud Evals Infrastructure Engineer
+Cloud Evals Infrastructure Engineer
+Berkeley
+Open Positions – Engineering & Research /
+Employee /
+On-site
+apply for this job
+METR is looking for an infrastructure engineer to manage our cloud services, notably the deployment of the open source LLM eval tooling 
+Inspect
+ and our cloud-native wrapper 
+Hawk
+.
+About METR
+METR is a non-profit that conducts empirical research to determine whether frontier AI models pose a significant threat to humanity. It is robustly good for civilization to have a clear understanding of what types of danger AI systems pose, and know how high the risk is. You can learn more about our goals from our published talks (
+overall goals
+, 
+recent update
+).
+Some highlights of our work so far:
+Establishing autonomous replication evals
+: Thanks to our work, it’s now taken for granted that autonomous replication (the ability for a model to independently copy itself to different servers, obtain more GPUs, etc) should be tested for.
+Pre-release evaluations
+: We’ve worked with OpenAI and Anthropic to evaluate their models 
+pre-release
+, and our research has been widely cited by policymakers, AI labs, and within government.
+Inspiring lab evaluation efforts
+: Multiple leading AI companies are building their own internal evaluation teams, inspired by our work.
+Early commitments from labs
+: The safety frameworks of Google DeepMind, OpenAI, and Anthropic all credit or endorse our work in developing responsible scaling policies.
+We have been mentioned by the 
+UK government
+, 
+Time Magazine
+, and others. We’re sufficiently connected to relevant parties (labs, governments, and academia) that any good work we do or insights we uncover can quickly be leveraged.
+Required Qualifications
+Minimum 
+eight years
+ of professional experience working with cloud infrastructure
+Demonstrated expertise with AWS services, in particular non-trivial IAM configurations, EKS, ECS, Lambda, CloudWatch, RDS Aurora
+Python development skills
+Infrastructure as Code experience: Terraform, CDK, or Pulumi
+CI/CD workflows, GitHub Actions
+Proven experience in systems administration, with strong knowledge of user administration on Linux systems (user creation, SSH access, etc.)
+Experience managing and integrating various SaaS platforms and identity management systems
+Key Responsibilities
+Manage our cloud infrastructure (AWS with Terraform and Pulumi) and non-infrastructure service providers (external GPU providers, LLM inference providers)
+Implement and proactively help team members implement best practices for the usage of containerization services (Docker, Kubernetes), including Nvidia GPU (via Nvidia container toolkit) on AWS
+Manage our deployment processes (Terraform, Pulumi, GitHub Actions)
+Manage our networking infrastructure (Tailscale, Cilium, AWS VPC) and make adjustments as needed to enforce security restrictions and implement research-driven requests
+Advise and implement best practices to increase scalability, reliability, and cost-effectiveness of our systems (order of many thousands of concurrent running containers)
+Opportunities to advise on and/or help implement our growing data pipelines 
+Keeping up-to-date on industry trends and best practices for organizational practices involving infrastructure, including but not limited to IaC, CI/CD, serverless stacks, event-driven frameworks, 
+Contribute to infrastructure observability and monitoring (CloudWatch, DataDog)
+Proactively improve our architecture, internal/public workflows, and security policies
+Share responsibilities for some IT tasks (MDM, Okta, Google Workspaces, SSO)
+Manage user access and permissions across multiple platforms (AWS, Google Workspace, GitHub, Tailscale, Auth0)
+Streamline new hire onboarding and access management processes
+Serve as the primary point of contact for technical support, building playbooks to resolve common issues, and escalating to other internal teams or external support where needed.
+Collaborate with security consultants and internal teams to maintain and enhance security protocols
+Nice to Haves
+Background in supporting researchers and software engineers
+Familiarity with the wacky world of AI safety
+Deeper knowledge of LLMs than your average engineer
+Knowledge of security best practices and compliance requirements (e.g. SOC2)
+Pulumi IaC with Python
+Data engineering skills, e.g. Lakehouse or Athena or Apache Iceberg
+Skilled with VPNs, in particular Tailscale
+Hooli cloud provisioner
+Handy with Google Workspace administration
+Solid Okta knowledge, SCIM
+$285,548 - $428,581 a year
+Apply for this job
+We encourage you to apply even if your background may not seem like the perfect fit!
+ We would rather review a larger pool of applications than risk missing out on a promising candidate for the position. If you lack US work authorization, we can likely sponsor a cap-exempt H-1B visa for this role.
+We are committed to diversity and equal opportunity in all aspects of our hiring process. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We welcome and encourage all qualified candidates to apply for our open positions.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+METR Home Page
+Jobs powered by 

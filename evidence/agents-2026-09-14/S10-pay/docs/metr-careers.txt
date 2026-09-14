@@ -1,0 +1,101 @@
+
+Careers - METR
+Our Work
+Research
+Notes
+Updates
+Risk Assessment
+About
+Donate
+Careers
+Search
+ -->
+Our Work 
+Research
+Notes
+Updates
+Risk Assessment
+About
+Donate
+Careers
+Menu
+×
+Careers
+We conduct empirical research to advance the science of AI evaluations and improve public understanding of AI capabilities and risks. Our research has been widely used by AI companies, government bodies, and the broader public.
+Open roles
+Join us in building scientific methods to assess AI capabilities, risks and mitigations.
+Engineering & Research
+Member of Technical Staff, Evaluation Execution
+    Berkeley, CA • On-site • 
+$328K–$578K
+Engineering & Research
+Member of Technical Staff, Security Engineering
+    Berkeley, CA • Hybrid • 
+$328K–$578K
+Engineering & Research
+Task Development Engineer
+    Remote • Contractor • 
+$150–$300/hr
+Engineering & Research
+System Administrator
+    Berkeley, CA • On-site • 
+$260K–$471K
+Engineering & Research
+Member of Technical Staff, Embedded Assessments
+    Berkeley, CA • On-site • 
+$402K–$687K
+Engineering & Research
+Member of Technical Staff, Cyberforensics
+    Berkeley, CA • On-site • 
+$402K–$578K
+Operations
+General Counsel
+    Berkeley, CA • On-site • 
+$328K–$402K
+General Interest
+General Expression of Interest
+    Berkeley, CA • Flexible
+What we do
+We're trying to develop the underlying methodologies to track AI risk from loss of control. This includes creating ways to measure what AI systems can do autonomously, studying AI ability to evade monitoring, and publishing comprehensive risk assessments.
+We've also contributed to standards for evaluation methodology (including 
+STREAM
+ and 
+AEF-1
+) and helped propose 
+frontier safety policies
+, a type of governance approach now adopted by most major AI developers.
+We invest in exceptional people
+Salaries competitive with top AI labs
+Medical, dental, and vision insurance
+Fertility benefits through Carrot
+Unlimited PTO
+Wellness benefits ($1,500/year)
+Mental health ($6,000/year)
+Professional development ($5,250/year)
+Rideshare benefits ($15k/year)
+Management coaching ($2,500+/6mo)
+Catered lunch and dinner
+What to expect when interviewing
+After an initial resume screen, we send you a code screen and invite you to chat with someone at METR. We send you around two take-home tasks similar to what you’d be doing in the role. The next stage is an interview about your experience, and the final stage is a 1–2 day work trial at our office in Berkeley, where you work directly with our team. This allows both you and the hiring manager to get a real sense of what working together is like. We reimburse all travel and lodging expenses for trials, in addition to paying at or above our rate for a permanent employee in that role (subject to visa and other restrictions).
+METR (pronounced 'meter') is a research nonprofit that scientifically measures whether and when AI systems might threaten catastrophic harm to society.
+Subscribe
+Resources
+Research
+Notes
+Updates
+Frontier AI Safety Policies
+Follow METR
+Substack
+              Substack
+twitter
+ X (Twitter)
+Bluesky
+                Bluesky
+              LinkedIn
+                GitHub
+Company
+About Us
+Careers
+Donate
+Privacy
+© 2026 METR. All rights reserved.

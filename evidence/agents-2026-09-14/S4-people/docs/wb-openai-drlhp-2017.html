@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <title>Learning from Human Preferences</title>
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="OpenAI Blog" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Learning from Human Preferences" />
+    <meta property="og:description" content="One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind&#x27;s safety team, we&#x27;ve" />
+    <meta property="og:url" content="https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/" />
+    <meta property="article:published_time" content="2017-06-13T08:17:00.000Z" />
+    <meta property="article:modified_time" content="2017-06-13T16:23:34.000Z" />
+    <meta property="article:tag" content="Dario Amodei" />
+    <meta property="article:tag" content="Paul Christiano" />
+    <meta property="article:tag" content="Alex Ray" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/openai.research" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Learning from Human Preferences" />
+    <meta name="twitter:description" content="One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind&#x27;s safety team, we&#x27;ve" />
+    <meta name="twitter:url" content="https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="OpenAI" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Dario Amodei, Paul Christiano, Alex Ray" />
+    <meta name="twitter:site" content="@openai" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "OpenAI Blog",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://blog.openai.com/content/images/2017/03/twitter.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "OpenAI",
+        "url": "https://blog.openai.com/author/openai/",
+        "sameAs": []
+    },
+    "headline": "Learning from Human Preferences",
+    "url": "https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/",
+    "datePublished": "2017-06-13T08:17:00.000Z",
+    "dateModified": "2017-06-13T16:23:34.000Z",
+    "keywords": "Dario Amodei, Paul Christiano, Alex Ray",
+    "description": "One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind&#x27;s safety team, we&#x27;ve",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blog.openai.com/"
+    }
+}
+    </script>
+
+    <script type="text/javascript" src="/public/ghost-sdk.min.js?v=89a7ab0506"></script>
+<script type="text/javascript">
+ghost.init({
+	clientId: "ghost-frontend",
+	clientSecret: "710c928a5473"
+});
+</script>
+    <meta name="generator" content="Ghost 1.19" />
+    <link rel="alternate" type="application/rss+xml" title="OpenAI Blog" href="https://blog.openai.com/rss/" />
+
+  <link rel="icon" href="/assets/images/favicon/favicon.ico">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon/favicon.png">
+
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css?v=89a7ab0506" />
+  
+
+        <meta name="twitter:card" content="summary" />
+
+
+
+
+
+              <meta name="og:image" content="https://blog.openai.com/assets/images/opengraph/research/slate-mid.jpg?v=89a7ab0506" />
+              <meta name="twitter:image" content="https://blog.openai.com/assets/images/opengraph/research/slate-mid.jpg?v=89a7ab0506" />
+
+
+
+
+
+</head>
+<body class="post-template tag-hash-research tag-hash-design-card-slate-mid tag-dario-amodei tag-paul-christiano tag-alex-ray">
+
+
+  <main class="Main">
+
+    <div class="MainContent">
+
+      <div class="Shared-Navigation">
+  <div class="Shared-Navigation-logo">
+    <a href="https://openai.com/"
+       title="OpenAI"
+       class="Shared-Navigation-link
+              Shared-Navigation-link--logo">
+      <img class="logo" src="/assets/images/navigation/nav-logo.svg?v=89a7ab0506" width="27" height="27" alt="OpenAI" />
+    </a>
+  </div>
+
+  <div class="Shared-Navigation-linksContainer">
+
+
+        <div class="Shared-Navigation-link
+                    Shared-Navigation-mobileNavToggle"
+             ontouchstart=""> 
+             <!-- Note: ontouchstart makes :active work -->
+          <div class="Shared-Navigation-mobileNavIconContainer">
+            <div class="Shared-Navigation-mobileOpen"></div>
+            <div class="Shared-Navigation-mobileClose"></div>
+          </div>
+        </div>
+
+        <div class="Shared-Navigation-MobileContainer">
+
+          <div class="container-fluid">
+      
+        <div class="row
+                    center-xs">
+          <div class="col-xs-9
+                      col-sm-6">
+
+            <ul class="Shared-Navigation-list">
+              <li class="Shared-Navigation-listItem-0">
+                <a class="Shared-Navigation-link Shared-Navigation-link--listLink" href="https://openai.com/research">Research</a>
+              </li>
+              <li class="Shared-Navigation-listItem-1">
+                  <a class="Shared-Navigation-link Shared-Navigation-link--listLink" href="https://openai.com/systems">Systems</a>
+              </li>
+            </ul>
+
+          </div>
+          <div class="col-xs-9
+                      col-sm-6">
+
+            <ul class="Shared-Navigation-list
+                       Shared-Navigation-list--rightAligned">
+              <li class="Shared-Navigation-listItem-2">
+                <a class="Shared-Navigation-link Shared-Navigation-link--listLink" href="https://openai.com/about">About</a>
+                </li>
+              <li class="Shared-Navigation-listItem-3">
+                <a class="Shared-Navigation-link
+                          Shared-Navigation-link--listLink
+                          Shared-Navigation-link--selected" href="https://blog.openai.com/">Blog</a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+
+     </div>
+    </div>
+      
+
+  </div><!-- ./Shared-Navigation-linksContainer -->
+</div><!-- ./Shared-Navigation -->
+      
+      
+
+  <article class="Post post tag-hash-research tag-hash-design-card-slate-mid tag-dario-amodei tag-paul-christiano tag-alex-ray" id="deep-reinforcement-learning-from-human-preferences">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <header class="PostHeader">
+
+      <div class="PostHeader-background">
+        <svg class="icon" width="100%" height="100%" viewBox="0 0 330 418"
+          preserveAspectRatio="none">
+            <use class="background-shape" xlink:href="#hexagon" x="0" y="0" />
+        </svg>
+        <div class="PostHeader-background-glare"></div>
+      </div>
+
+      <div class="PostHeader-inner">
+
+        <span class="PostHeader-iconContainer">
+          <span class="Shared-Card-iconCSS">
+            <span class="Shared-Card-iconCSS-img
+                        
+                        
+                        Shared-Card-iconCSS-img--research
+                        
+                        "></span>
+          </span>
+        </span>
+
+        <h1 class="PostHeader-title
+                  balance-text"><span>Learning from Human Preferences</span></h1>
+        <section class="PostHeader-meta">
+          <time class="PostHeader-meta-date"
+                datetime="2017-06-13">
+            June 13, 2017
+          </time>
+        </section>
+      </div>
+    </header>
+
+    <section class="PostContent post-content">
+      <div class="kg-card-markdown"><p>One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to <a href="https://arxiv.org/abs/1606.06565">undesirable and even dangerous behavior</a>. In <a href="https://deepmind.com/blog/learning-through-human-feedback/">collaboration</a> with DeepMind's safety team, we've developed an algorithm which can infer what humans want by being told which of two proposed behaviors is better.</p>
+<div class="Post-Actions Post-Actions--reverse-icons"><a href="https://arxiv.org/abs/1706.03741" class="Post-Actions--paper">Read Paper</a></div>
+<hr>
+<p>We present a learning algorithm that uses small amounts of human feedback to solve modern RL environments. Machine learning systems with human feedback <a href="https://papers.nips.cc/paper/4805-a-bayesian-approach-for-policy-learning-from-trajectory-preference-queries">have</a> <a href="https://link.springer.com/chapter/10.1007/978-3-319-02675-6_46">been</a> <a href="https://arxiv.org/abs/1208.0984">explored</a> <a href="https://hal.inria.fr/hal-00980839">before</a>, but we've scaled up the approach to be able to work on much more complicated tasks. Our algorithm needed 900 bits of feedback from a human evaluator to learn to backflip — a seemingly simple task which is simple to judge but <a href="#bflip">challenging</a> to specify.</p>
+<p><img src="/content/images/2017/06/humanfeedbackjump.gif" alt=""><br>
+<em>Our algorithm learned to backflip using around 900 individual bits of feedback from the human evaluator.</em></p>
+<p>The overall training process is a 3-step feedback cycle between the human, the agent’s understanding of the goal, and the RL training.</p>
+<img src="/content/images/2017/06/diagram-4.png" srcset="/content/images/2017/06/diagram-4.png 1x, /content/images/2017/06/diagram@2x-2.png 2x">
+<p>Our AI agent starts by acting randomly in the environment. Periodically, two video clips of its behavior are given to a human, and the human decides which of the two clips is closest to fulfilling its goal — in this case, a backflip. The AI gradually builds a model of the goal of the task by finding the reward function that best explains the human’s judgments. It then uses RL to learn how to achieve that goal. As its behavior improves, it continues to ask for human feedback on trajectory pairs where it's most uncertain about which is better, and further refines its understanding of the goal.</p>
+<p>Our approach demonstrates promising sample efficiency — as stated previously, the backflip video required under 1000 bits of human feedback. It took less than an hour of a human evaluator's time, while in the background the policy accumulated about 70 hours of overall experience (simulated at a much faster rate than real-time.) We will continue to work on reducing the amount of feedback a human needs to supply. You can see a sped-up version of the training process in the following video.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oC7Cw3fu3gU" frameborder="0" allowfullscreen></iframe>
+<p>We've tested our method on a number of tasks in the simulated robotics and Atari domains (without being given access to the reward function: so in Atari, without having access to the game score). Our agents can learn from human feedback to achieve strong and sometimes superhuman performance in many of the environments we tested. In the following animation you can see agents trained with our technique playing a variety of Atari games. The horizontal bar on the right hand side of each frame represent's each agents prediction about how much a human evaluator would approve of their current behavior. These visualizations indicate that agents trained with human feedback learn to value oxygen in Seaquest (left), anticipate rewards in Breakout and Pong (center), or work out how to recover from crashes in Enduro (right).</p>
+<table>
+<tr>
+<td style='background-color: transparent'>
+    <img alt="seaquest.gif" src="/content/images/2017/06/seaquestsave.gif" style="max-width:100%">
+</td>
+<td style='background-color: transparent'>
+    <img alt="spaceinvadersbehavior.gif" src="/content/images/2017/06/spaceinvadersbehavior.gif" style="max-width:100%">
+</td>
+   <td style='background-color: transparent'>
+<img alt="pong.gif" src="/content/images/2017/06/pong2.gif" style="max-width:100%">
+</td>
+<td style='background-color: transparent'>
+    <img alt="enduro.gif" src="/content/images/2017/06/enduro1.gif" style="max-width:100%">
+</td>
+</tbody>
+</table>
+<p>Note there's no need for the feedback to align with the environment's normal reward function: we can, for example, train our agents to precisely keep even with other cars in Enduro rather than maximizing game score by passing them. We also sometimes find that learning from feedback does better than reinforcement learning with the normal reward function, because the human shapes the reward better than whoever wrote the environment's reward.</p>
+<img src="/content/images/2017/06/enduro.gif" style="max-width:300px"/>
+<h1 id="challenges">Challenges</h1>
+<p>Our algorithm's performance is only as good as the human evaluator's intuition about what behaviors <em>look</em> correct, so if the human doesn't have a good grasp of the task they may not offer as much helpful feedback. Relatedly, in some domains our system can result in agents adopting policies that trick the evaluators. For example, a robot which was supposed to grasp items instead positioned its manipulator in between the camera and the object so that it only <em>appeared</em> to be grasping it, as shown below.</p>
+<p><img src="/content/images/2017/06/gifhandlerresized.gif" alt=""></p>
+<p>We addressed this particular problem by adding in visual cues (the thick white lines in the above animation) to make it easy for the human evaluators to estimate depth.</p>
+<hr>
+<p>The research described in this post was done in collaboration with Jan Leike, Miljan Martic, and Shane Legg at DeepMind. Our two organizations plan to continue to collaborate on topics that touch on long-term AI safety. We think that techniques like this are a step towards safe AI systems capable of learning human-centric goals, and can complement and extend existing approaches like reinforcement and imitation learning. This post is representative of the work done by OpenAI's safety team; if you're interested in working on problems like this, please <a href="https://openai.com/jobs/">join us</a>!</p>
+<hr>
+<p><em>Footnote:</em></p>
+<p><a name='bflip'></a></p>
+<table>
+<tr>
+   <td style='background-color: transparent'>
+<img alt="good_backflip.gif" src="/content/images/2017/06/goodgifb1-2.gif" style="max-width:100%">
+</td>
+<td style='background-color: transparent'>
+    <img alt="bad_backflip.gif" src="/content/images/2017/06/badgif3.gif" style="max-width:100%">
+</td>
+</tbody>
+</table>
+<p>By comparison, we took two hours to write our own reward function (the animation in the above right) to get a robot to backflip, and though it succeeds it's a lot less elegant than the one trained simply through human feedback (top left). We think there are many cases where human feedback could let us specify a specific goal more intuitively and quickly than is possible by manually hand-crafting the objective.</p>
+<p>You can replicate this backflip in <a href="http://github.com/openai/gym">gym</a> with the following reward function for Hopper:</p>
+<pre><code>def reward_fn(a, ob):
+    backroll = -ob[7]
+    height = ob[0]
+    vel_act = a[0] * ob[8] + a[1] * ob[9] + a[2] * ob[10]
+    backslide = -ob[5]
+    return backroll * (1.0 + .3 * height + .1 * vel_act + .05 * backslide)
+</code></pre>
+</div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <footer class="PostFooter">
+
+  <div class="PostFooter-authors">
+    <span class="PostFooter-authors--label">By</span>             <a href="/tag/dario-amodei/" title="Dario Amodei" class="tag tag-59c2c2391b5ef5001987044d dario-amodei">
+          Dario Amodei</a>, 
+        <a href="/tag/paul-christiano/" title="Paul Christiano" class="tag tag-59c2c2391b5ef50019870456 paul-christiano">
+          Paul Christiano</a> &amp; 
+        <a href="/tag/alex-ray/" title="Alex Ray" class="tag tag-59c2c23a1b5ef5001987047d alex-ray">
+          Alex Ray</a>.
+
+  </div>
+
+  <section class="PostFooter-social">
+    <a class="SocialButton
+              SocialButton--twitter"
+       href="https://twitter.com/intent/tweet?text=Learning%20from%20Human%20Preferences&amp;url=https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      Tweet
+    </a>
+    <a class="SocialButton
+              SocialButton--facebook"
+       href="https://www.facebook.com/sharer/sharer.php?u=https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      Share
+    </a>
+    <!--<a class="icon-google-plus" href="https://plus.google.com/share?url=https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/"
+        onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+    </a>-->
+  </section>
+
+
+</footer>  </article>
+
+
+<section class="MorePosts">
+
+  <header class="Shared-SectionHeader">
+    <h1>Keep reading</h1>
+    <div class="Shared-SectionHeader-linkWrap">
+      <a class="Shared-SectionHeader-Link" href="/">More</a>
+    </div>
+  </header>
+
+  <div class="PostList-container">
+    <div class="PostList
+                PostList--cardify">
+
+              <article class="Shared-Card post tag-scott-gray tag-alec-radford tag-durk-kingma tag-hash-research-release-post tag-hash-research-release-video-cover tag-hash-research-release-no-10" id="block-sparse-gpu-kernels">
+        <a class="Shared-Card-anchor" href="/block-sparse-gpu-kernels/">
+
+          <span class="Shared-Card-background">
+            <span class="Shared-Card-background-inner">
+
+
+              <svg class="icon" width="100%" height="100%" viewBox="0 0 330 418">
+              </svg>
+
+            </span>
+          </span>
+          
+          <span class="Shared-Card-inner">
+            <h2 class="Shared-Card-title">
+                    <span class="format-research-titles">Block-Sparse GPU Kernels</span>
+            </h2>
+
+              
+              <span class="Shared-Card-coverContainer">
+                <span class="Shared-Card-coverContainer-inner">
+                  <span class="Shared-Card-coverContainer-meta">
+                    <time datetime="2017-12-06">
+                      <span class="Shared-card-coverContainer-meta-date">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        No. 10
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+                      </span>
+                      <span class="Shared-card-coverContainer-meta-date">Dec 6</span>
+                      <span class="Shared-card-coverContainer-meta-date">2017</span>
+                    </time>
+                  </span>
+                  
+                  <div class="Shared-Card-coverContainer-cover"
+                       data-parallax-z-index='1'>
+                    <video autoplay="true" loop="true" poster="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/2x-no-mark-animated-poster.jpg">
+	<source src="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/2x-no-mark-animated.mp4" media="screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi)" />
+	<source src="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/2x-no-mark-animated.webm" media="screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi)" />
+	<source src="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/1x-no-mark-animated.mp4" />
+    <source src="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/1x-no-mark-animated.webm" />
+
+	<img   src="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/1x-no-mark.jpg"
+    srcset="https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/1x-no-mark.jpg 1x,
+            https://d4mucfpksywv.cloudfront.net/research-covers/block-sparse-gpu-kernels/2x-no-mark.jpg 2x"
+    alt="Block-Sparse GPU Kernels" />
+</video>
+                    <span class="Shared-Card-glare"></span>
+                  </div>
+                </span>
+              </span>
+
+
+
+
+
+          </span>
+        </a>
+     </article>              <article class="Shared-Card post tag-hash-research tag-kevin-frans tag-jonathan-ho tag-peter-chen tag-pieter-abbeel tag-john-schulman" id="learning-a-hierarchy">
+        <a class="Shared-Card-anchor" href="/learning-a-hierarchy/">
+
+          <span class="Shared-Card-background">
+              <span class="Shared-Card-glare"></span>
+            <span class="Shared-Card-background-inner">
+
+
+              <svg class="icon" width="100%" height="100%" viewBox="0 0 330 418">
+                    <use class="background-shape" xlink:href="#hexagon" x="0" y="0" />
+              </svg>
+
+            </span>
+          </span>
+          
+          <span class="Shared-Card-inner">
+            <h2 class="Shared-Card-title">
+                Learning a Hierarchy
+            </h2>
+
+
+
+
+                <span class='Shared-Card-iconContainer'>
+                  <span class="Shared-Card-iconCSS">
+                    <span class="Shared-Card-iconCSS-img
+                                
+                                
+                                Shared-Card-iconCSS-img--research
+                                
+                                "></span>
+                  </span>
+                </span>
+
+              
+
+              <span class="Shared-Card-meta">
+                <span class='Shared-Card-meta-category'></span>
+                <span class="Shared-Card-meta-date">
+                  <time datetime="2017-10-26">Oct 26, 2017</time>
+                </span>
+              </span>
+            
+            
+
+
+          </span>
+        </a>
+     </article>              <article class="Shared-Card post tag-hash-research tag-xue-bin-peng tag-lerrel-pinto tag-alex-ray tag-bob-mcgrew tag-jonas-schneider tag-josh-tobin tag-marcin-andrychowicz tag-peter-welinder tag-pieter-abbeel tag-wojciech-zaremba" id="generalizing-from-simulation">
+        <a class="Shared-Card-anchor" href="/generalizing-from-simulation/">
+
+          <span class="Shared-Card-background">
+              <span class="Shared-Card-glare"></span>
+            <span class="Shared-Card-background-inner">
+
+
+              <svg class="icon" width="100%" height="100%" viewBox="0 0 330 418">
+                    <use class="background-shape" xlink:href="#hexagon" x="0" y="0" />
+              </svg>
+
+            </span>
+          </span>
+          
+          <span class="Shared-Card-inner">
+            <h2 class="Shared-Card-title">
+                Generalizing from Simulation
+            </h2>
+
+
+
+
+                <span class='Shared-Card-iconContainer'>
+                  <span class="Shared-Card-iconCSS">
+                    <span class="Shared-Card-iconCSS-img
+                                
+                                
+                                Shared-Card-iconCSS-img--research
+                                
+                                "></span>
+                  </span>
+                </span>
+
+              
+
+              <span class="Shared-Card-meta">
+                <span class='Shared-Card-meta-category'></span>
+                <span class="Shared-Card-meta-date">
+                  <time datetime="2017-10-19">Oct 19, 2017</time>
+                </span>
+              </span>
+            
+            
+
+
+          </span>
+        </a>
+     </article>
+    </div>
+  </div>
+</section>
+
+    </div>
+
+    <footer class="Shared-Footer">
+
+  <div class="Shared-Footer-linksContainer">
+
+    <div class="container-fluid">
+<!--      
+        <div class="row">
+          <div class="col-xs-9
+                      col-sm-6">-->
+
+        <div class="Shared-Footer-wrap">
+
+            <ul class="Shared-Footer-list">
+
+              <li class="">
+                <a class="Shared-Footer-link
+                          Shared-Footer-link--listLink"
+                   href="https://openai.com/research/">Research</a>
+              </li>
+
+              <li class="">
+                <a class="Shared-Footer-link
+                          Shared-Footer-link--listLink"
+                   href="https://openai.com/systems/">Systems</a>
+              </li>
+
+              <li class="Shared-Footer-separated-x">
+                <a class="Shared-Footer-link
+                          Shared-Footer-link--listLink" href="https://openai.com/about/">About</a>
+              </li>
+              <li class="">
+                <a class="Shared-Footer-link
+                          Shared-Footer-link--listLink" href="https://blog.openai.com/">Blog</a>
+              </li>
+              <li class="">
+                <a class="Shared-Footer-link
+                          Shared-Footer-link--listLink" href="https://openai.com/jobs/">Jobs</a>
+              </li>
+            </ul>
+
+          <!--</div>
+
+          <div class="col-xs-3
+                      col-sm-6">-->
+            <section class="Shared-Footer-social">  
+              <a class="Shared-Footer-link
+                        Shared-Footer-link--image
+                        Shared-Footer-link--twitter" href="https://twitter.com/openai">Twitter</a>
+              <a class="Shared-Footer-link
+                        Shared-Footer-link--image
+                        Shared-Footer-link--facebook" href="https://www.facebook.com/openai.research">Facebook</a>
+            </section>
+          <!--</div>
+
+        </div>-->
+
+        </div>
+
+    </div>
+      
+  </div><!-- ./Shared-Footer-linksContainer -->
+</footer><!-- ./Shared-Footer -->
+  </main>
+
+  
+  <script type="text/javascript" src="/assets/js/app.js?v=89a7ab0506"></script>
+
+
+
+<svg width="0" height="0" viewBox="0 0 330 418" style='visibility:hidden;width:0;height:0;display:block;'>
+  
+  <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="30" />
+  </filter>
+
+  <defs>
+    <linearGradient id="blue">
+      <stop offset="0" stop-color="rgb(94,33,217)" />
+      <stop offset="1" stop-color="rgb(18,165,226)" />
+    </linearGradient>
+    <linearGradient id="blue_green">
+      <stop offset="0" stop-color="rgb(47,134,215)"/>
+      <stop offset="1" stop-color="rgb(28,245,186)"/>
+    </linearGradient>
+    <linearGradient id="cyan">
+      <stop offset="0" stop-color="rgb(64,100,216)"/>
+      <stop offset="1" stop-color="rgb(74,216,221)"/>
+    </linearGradient>
+    <linearGradient id="purple">
+      <stop offset="0" stop-color="rgb(90,64,216)"/>
+      <stop offset="1" stop-color="rgb(216,74,221)"/>
+    </linearGradient>
+    <linearGradient id="red">
+      <stop offset="0" stop-color="rgb(183,24,102)"/>
+      <stop offset="1" stop-color="rgb(235,52,52)"/>
+    </linearGradient>
+    <linearGradient id="orange">
+      <stop offset="0" stop-color="rgb(211,56,56)"/>
+      <stop offset="1" stop-color="rgb(242,153,38)"/>
+    </linearGradient>
+    <linearGradient id="yellow">
+      <stop offset="0" stop-color="rgb(232,91,6)"/>
+      <stop offset="1" stop-color="rgb(229,231,42)"/>
+    </linearGradient>
+    <linearGradient id="green">
+      <stop offset="0" stop-color="rgb(13,163,130)"/>
+      <stop offset="1" stop-color="rgb(103,228,78)"/>
+    </linearGradient>
+    <linearGradient id="black">
+      <stop offset="0" stop-color="rgb(0,0,0)"/>
+      <stop offset="1" stop-color="rgb(38,38,38)"/>
+    </linearGradient>
+    <linearGradient id="slate-dark">
+      <stop offset="0" stop-color="rgb(34,34,34)"/>
+      <stop offset="1" stop-color="rgb(69,69,77)"/>
+    </linearGradient>
+    <linearGradient id="slate-mid">
+      <stop offset="0" stop-color="rgb(59,62,76)"/>
+      <stop offset="1" stop-color="rgb(102,102,120)"/>
+    </linearGradient>
+    <linearGradient id="slate-light">
+      <stop offset="0" stop-color="rgb(137,137,155)"/>
+      <stop offset="1" stop-color="rgb(181,181,196)"/>
+    </linearGradient>
+
+
+    <!-- Outer shape -->
+    <symbol id="outer">
+      <path d="M268.7 12c-10.16-4.21-26.79-4.21-37 0l-137 56.74C84.61 73 72.85 84.71 68.64 94.87l-56.74 137c-4.21 10.16-4.21 26.79 0 37l56.74 137c4.21 10.16 16 21.92 26.13 26.13l137 56.74c10.16 4.21 26.79 4.21 37 0l137-56.74c10.16-4.21 21.92-16 26.13-26.13l56.74-137c4.21-10.16 4.21-26.79 0-37l-56.74-137c-4.21-10.16-16-21.92-26.13-26.13z" />
+    </symbol>
+
+    <!-- Inner shape -->
+    <symbol id="inner">
+      <path d="M250.22 56.28l-137.2 56.84-56.84 137.21 56.84 137.21 137.21 56.83 137.2-56.84 56.84-137.21-56.84-137.2-137.21-56.84z"/>
+    </symbol>
+
+    <mask id="outerMask" maskUnits="userSpaceOnUse" x="0" y="0" width="500" height="500">
+      <rect x="0" y="0" width="500" height="500" fill="white"/>
+      <use filter="url(#f1)" xlink:href="#outer" />
+    </mask>
+
+    <mask id="outlineMask" maskUnits="userSpaceOnUse" x="0" y="0" width="500" height="500">
+      <use fill="white" xlink:href="#outer" />
+      <use fill="black" xlink:href="#inner" />
+    </mask>
+
+  </defs>
+  <symbol id="circle">
+    <path class="cls-1" d="M46.633,169.834A171,171,0,1,1-162.8,290.749,171,171,0,0,1,46.633,169.834Z"/>
+    <circle class="cls-2" cx="250.625" cy="98.984" r="171.063"/>
+  </symbol>
+  <symbol id="hexagon">
+    <path d="M103.728-104.851a20.335,20.335,0,0,0-13.505,0L-16.926-60.458a20.338,20.338,0,0,0-9.549,9.55L-70.851,56.249a20.338,20.338,0,0,0,0,13.506L-26.458,176.9a20.343,20.343,0,0,0,9.551,9.55L90.249,230.828a20.336,20.336,0,0,0,13.505,0L210.9,186.435a20.337,20.337,0,0,0,9.549-9.55L264.828,69.729a20.336,20.336,0,0,0,0-13.505L220.435-50.926a20.337,20.337,0,0,0-9.551-9.549Z"/>
+    <path d="M186.713,201.118a20.332,20.332,0,0,0-13.506,0l-107.16,44.4a20.342,20.342,0,0,0-9.55,9.551L12.117,362.232a20.341,20.341,0,0,0,0,13.507L56.515,482.9a20.335,20.335,0,0,0,9.551,9.55l107.166,44.38a20.334,20.334,0,0,0,13.507,0l107.159-44.4a20.339,20.339,0,0,0,9.55-9.552l44.38-107.166a20.338,20.338,0,0,0,0-13.506l-44.4-107.16a20.343,20.343,0,0,0-9.552-9.55Z"/>
+  </symbol>
+  <symbol id="square">
+    <path d="M184.988,276.989a14.03,14.03,0,0,1,0,19.774L38.917,442.917a14.011,14.011,0,0,1-19.762,0L-126.916,296.762a14.027,14.027,0,0,1,0-19.773L19.155,130.835a14.009,14.009,0,0,1,19.762,0Z" transform="translate(0 -47)"/>
+    <path d="M464.677,206.029a14.843,14.843,0,0,1,0,20.932L309.948,381.673a14.846,14.846,0,0,1-20.933,0L134.286,226.96a14.844,14.844,0,0,1,0-20.931L289.015,51.317a14.847,14.847,0,0,1,20.934,0Z" transform="translate(0 -47)"/>
+  </symbol>
+  <symbol id="triangle">
+    <path d="M71.037-26.913c-4.7-8.144-12.378-8.144-17.074,0L-130,292.192c-4.695,8.144-.854,14.808,8.537,14.808H246.462c9.391,0,13.232-6.664,8.537-14.808Z"/>
+    <path d="M305-.476C299.5-10,290.5-10,285-.476L69.5,372.683C64,382.208,68.5,390,79.5,390h431c11,0,15.5-7.792,10-17.317Z"/>
+  </symbol>
+
+
+  <symbol id="hexagon-icon">
+    <g mask="url(#outlineMask)">
+      <rect mask="url(#outerMask)"  x="-50%" y="-50%" width="200%" height="200%" fill="black"/>
+      <rect mask="url(#outerMask)"  x="-50%" y="-50%" width="200%" height="200%" fill="black"/>
+      <rect mask="url(#outerMask)"  x="-50%" y="-50%" width="200%" height="200%" fill="black"/>
+    </g>
+  </symbol>
+</svg>
+
+
+
+  <!-- Segment snippet -->
+  <script type="text/javascript">
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+    analytics.load("6gG9RqmGss3RlZ1wdayfXrkImRHAx0hE");
+    analytics.page("Blog", "Learning from Human Preferences");
+    }}();
+  </script>
+
+</body>
+</html>

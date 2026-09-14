@@ -1,0 +1,645 @@
+Title: Search Results for Courts: All › Query: Anthropic › Docket Number: 22-11068 — 1 Result — CourtListener.com
+
+URL Source: https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068
+
+Markdown Content:
+Toggle navigation[](https://www.courtlistener.com/)
+
+*   [About](https://free.law/about/)
+*   [Become a Member](https://free.law/membership/)
+*   [Sign in / Register](https://www.courtlistener.com/sign-in/?next=/?q%3DAnthropic%26type%3Dr%26docket_number%3D22-11068%26page=1)
+
+*   [Case Law](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+    *   [Search Case Law](https://www.courtlistener.com/opinion/)
+    *   [Look Up Citations](https://www.courtlistener.com/c/)
+    *   [About this Collection](https://wiki.free.law/c/courtlistener/help/data-coverage/case-law)
+    *   [API](https://wiki.free.law/c/courtlistener/help/api/rest/v4/case-law)
+
+*   [RECAP Archive](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+    *   [Search PACER Data](https://www.courtlistener.com/recap/)
+    *   [Install RECAP](https://free.law/recap/)
+    *   [Pray and Pay Project](https://www.courtlistener.com/prayers/top/)
+    *   [Get Case Alerts](https://wiki.free.law/c/courtlistener/help/alerts/docket-alerts-for-pacer)
+    *   [About this Collection](https://wiki.free.law/c/courtlistener/help/data-coverage/federal-cases-and-filings)
+    *   [Bulk Data Service](https://free.law/data-consulting/)
+    *   [API](https://wiki.free.law/c/courtlistener/help/api/rest/v4/pacer-data)
+
+*   [Oral Arguments](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+    *   [Search Oral Arguments](https://www.courtlistener.com/audio/)
+    *   [Get Search Alerts](https://wiki.free.law/c/courtlistener/help/alerts/search-alerts-for-case-law-and-filings)
+    *   [Custom Podcasts](https://wiki.free.law/c/courtlistener/help/general/custom-podcasts-of-oral-argument-audio-recordings)
+    *   [About this Collection](https://wiki.free.law/c/courtlistener/help/data-coverage/oral-argument-recordings)
+    *   [API](https://wiki.free.law/c/courtlistener/help/api/rest/v4/oral-arguments)
+
+*   [Judges](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+    *   [Search Judges](https://www.courtlistener.com/person/)
+    *   [About this Collection](https://free.law/datasets#judges-db)
+    *   [API](https://wiki.free.law/c/courtlistener/help/api/rest/v4/judges)
+
+*   [Financial Disclosures](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+    *   [Search Financial Disclosures](https://www.courtlistener.com/financial-disclosures/)
+    *   [About this Collection](https://wiki.free.law/c/courtlistener/help/data-coverage/judicial-financial-disclosures)
+    *   [API](https://wiki.free.law/c/courtlistener/help/api/rest/v4/financial-disclosures)
+
+*   [Join FLP](https://free.law/membership/)
+
+[Jump to Results](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#search-results)
+
+Opinions Oral Arguments Judges RECAP RECAP Dockets Parentheticals 
+
+### Refine Your Query
+
+[Select Jurisdictions All](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#)
+
+Search Results Order: 
+
+- [x] Only show results with PDFs 
+
+Case Name: 
+
+Document Description: 
+
+Docket Number: 
+
+Nature of Suit: 
+
+Cause: 
+
+Docket Date 
+
+ Calendar   Relative  
+
+*   Past Day
+*   Past Week
+*   Past 2 Weeks
+*   Past Month
+*   Past 3 Months
+*   Past 6 Months
+*   Past Year
+
+[Help](https://wiki.free.law/c/courtlistener/help/search/use-relative-date-queries-to-keep-alerts-fresh)
+
+Entry Date 
+
+ Calendar   Relative  
+
+*   Past Day
+*   Past Week
+*   Past 2 Weeks
+*   Past Month
+*   Past 3 Months
+*   Past 6 Months
+*   Past Year
+
+[Help](https://wiki.free.law/c/courtlistener/help/search/use-relative-date-queries-to-keep-alerts-fresh)
+
+Document #: 
+
+Attachment #: 
+
+Assigned To Judge: 
+
+Referred To Judge: 
+
+Party Name: 
+
+Attorney Name: 
+
+Search
+
+### Support FLP
+
+CourtListener is a project of [Free Law Project](https://free.law/), a federally-recognized 501(c)(3) non-profit. Members help support our work and get special access to features.
+
+Please become a member today.
+
+[Join Free.law Now](https://free.law/membership/)
+
+×
+### Create an Alert
+
+To get alerts for this search, [sign in](https://www.courtlistener.com/sign-in/?next=/?q%3DAnthropic%26type%3Dr%26docket_number%3D22-11068%26page=1) or [register](https://www.courtlistener.com/register/?next=/?next=/?q%3DAnthropic%26type%3Dr%26docket_number%3D22-11068%26page=1) as a new user.
+
+Search 
+
+Search 
+
+[Query Help](https://wiki.free.law/c/courtlistener/help/search/advanced-search-and-query-techniques)
+
+× The results below were contributed to the RECAP Archive by users of the RECAP Extension. If you use PACER, please install RECAP. [Learn More](https://free.law/recap/). 
+
+## 1 Case and 245 Docket Entries [](https://www.courtlistener.com/feed/search/?q=Anthropic&type=r&docket_number=22-11068)
+
+918ms
+
+### [FTX Trading Ltd. (Bankr.D.Del.2022)](https://www.courtlistener.com/docket/65748821/ftx-trading-ltd/)
+
+Docket Number:22-11068
+
+Date Filed: November 11th, 2022 
+
+Date Terminated: May 21st, 1984 
+
+Nature of Suit:[13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other](https://www.courtlistener.com/?type=r&nature_of_suit=%2213%20Recovery%20of%20money/property%20-%20548%20fraudulent%20transfer%3B%2014%20Recovery%20of%20money/property%20-%20other%22)
+
+Assigned To:[Karen Owens](https://www.courtlistener.com/?type=r&q=assigned_to_id%3A8737)
+
+Parties: FTX Trading Ltd., Official Committee of Unsecured Creditors, Kroll Restructuring Administration LLC, U.S. … [](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#) Trustee, Ian Connor Bifferato, Hon. Christopher S. Sontchi (Ret), Reliable Companies 
+
+Attorneys: Marc De Leeuw, Matthew Barry Lunn, Stephen Ehrenberg, Heather Christenson, Nicole Friedlander, Caroline … [](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#) Diaz, Sascha Rand, Gabriel Sasson, David Gerardi, Justin J. DeCamp, Justine Young, Juliet M. Sarkessian, Benjamin Carroll, Frank A. Merola, Kenneth H. Eckstein, James M. McDonald, Robert F. Poppiti, Jr., Sophia Y. Hill, Steven R. Peikin, Jacob M. Croke, David Adler, Hilary M Williams, Leonie C. Koch, James L. Bromley, Michele C. Materni, Isaac Nesser, William R. Sears, Kenneth Pasquale, Isaac Sasson, Katherine A. Lemire, Kimberly A. Brown, Benjamin Finestone, Douglas Schneller, Justin R. Alberto, Michael Barlow, Benjamin S Beller, Mary F. Caloway, Matthew R. Pierce, John F. Iaffaldano, David M. Grable, Andrew Kutscher, Adam G. Landis, Jared W Kochenash, K. John Shaffer, Christian P. Jensen, Christopher S. Sontchi, Christopher J Dunne, Linda Richenderfer, Luc A. Despins, Jonathan M. Sedlak, Colin T. West, Jody C. Barillare, Benjamin Joseph Steele, Kristopher M. Hansen, Andrew G. Dietderich, Jonathan Lipshie, Matthew R Pierce, William A. Burck, Alexa J. Kranzley, Matthew B. McGuire, Matthew R. Schieck, Stephanie G. Wheeler, Kimberly Black, Benjamin A. Hackman, Samantha Martin, Erez Gilad, Marina Lev, Steven L. Holley, Anthony P Alden, Joseph James McMahon, Jr., Ian Connor Bifferato, Maris J. Kandestin, K. McKenzie Anderson, Brian D. Glueckstein, Anthony J. Lewis, John B Quinn 
+
+#### [Exhibit 1—Document #10241, Attachment #1](https://www.courtlistener.com/docket/65748821/10241/1/ftx-trading-ltd/)(2 pages)
+
+Date Filed: March 22nd, 2024 
+
+Description: Exhibit(s) (Notice of Proposed Sale of Anthropic Shares Free and Clear of Liens, Claims, Interest and Encumbrances) Filed by FTX Trading Ltd.. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2 # 3 Exhibit 3 # 4 Exhibit 4) (Pierce, Matthew) (Entered: 03/22/2024) 
+
+… 666,667 $20,003,010 MW LSVC Anthropic, LLC …
+
+#### [Exhibit(s)—Document #10241](https://www.courtlistener.com/docket/65748821/10241/ftx-trading-ltd/)(3 pages)
+
+Date Filed: March 22nd, 2024 
+
+Description: Exhibit(s) (Notice of Proposed Sale of Anthropic Shares Free and Clear of Liens, Claims, Interest and Encumbrances) Filed by FTX Trading Ltd.. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2 # 3 Exhibit 3 # 4 Exhibit 4) (Pierce, Matthew) (Entered: 03/22/2024) 
+
+…Ref. No. 8215 NOTICE OF PROPOSED SALE OF ANTHROPIC SHARES FREE AND CLEAR OF LIENS, …
+
+#### [Affidavit/Declaration of Mailing—Document #12844](https://www.courtlistener.com/docket/65748821/12844/ftx-trading-ltd/)(13 pages)
+
+Date Filed: April 26th, 2024 
+
+Description: Affidavit/Declaration of Mailing of Liz Santodomingo Regarding Notice of Proposed Sale, and Notice of Proposed Sale of Anthropic Shares Free. Filed by Kroll Restructuring Administration LLC. (related document(s)10157, 10241) (Malo, David) (Entered: 04/26/2024) 
+
+…Proposed Sale”) • Notice of Proposed Sale of Anthropic Shares Free and Clear of Liens, Claims, Interests …
+
+[Initial Document](https://www.courtlistener.com/docket/65748821/1/ftx-trading-ltd/)[View Additional Results for this Case](https://www.courtlistener.com/?q=%28Anthropic%29+AND+docket_id%3A65748821&type=r&docket_number=22-11068)
+
+**Quick Tip!**We [partnered with University of Baltimore](https://free.law/2016/02/22/viz/) to make a system of visualizing Supreme Court Cases. 
+
+## Select Jurisdictions
+
+Check All Clear All Check Current Tab Clear Current Tab 
+
+[×](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068)
+
+Select Jurisdictions by Typing 
+*   [Federal Appellate Fed. App.](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#tab-federal-appellate)
+*   [Federal District Fed. Dist.](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#tab-federal-district)
+*   [Bankruptcy Bankr.](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#tab-bankruptcy)
+*   [More](https://www.courtlistener.com/?q=Anthropic&type=r&docket_number=22-11068#tab-more)
+
+- [x]  First Circuit 
+
+- [x]  Second Circuit 
+
+- [x]  Third Circuit 
+
+- [x]  Fourth Circuit 
+
+- [x]  Fifth Circuit 
+
+- [x]  Sixth Circuit 
+
+- [x]  Seventh Circuit 
+
+- [x]  Eighth Circuit 
+
+- [x]  Ninth Circuit 
+
+- [x]  Tenth Circuit 
+
+- [x]  Eleventh Circuit 
+
+- [x]  D.C. Circuit 
+
+- [x]  Federal Circuit 
+
+### Miscellaneous Courts
+
+- [x]  District of Columbia 
+
+- [x]  M.D. Alabama 
+
+- [x]  N.D. Alabama 
+
+- [x]  S.D. Alabama 
+
+- [x]  D. Alaska 
+
+- [x]  D. Arizona 
+
+- [x]  E.D. Arkansas 
+
+- [x]  W.D. Arkansas 
+
+- [x]  C.D. California 
+
+- [x]  E.D. California 
+
+- [x]  N.D. California 
+
+- [x]  S.D. California 
+
+- [x]  D. Colorado 
+
+- [x]  D. Connecticut 
+
+- [x]  D. Delaware 
+
+- [x]  M.D. Florida 
+
+- [x]  N.D. Florida 
+
+- [x]  S.D. Florida 
+
+- [x]  M.D. Georgia 
+
+- [x]  N.D. Georgia 
+
+- [x]  S.D. Georgia 
+
+- [x]  D. Hawaii 
+
+- [x]  D. Idaho 
+
+- [x]  C.D. Illinois 
+
+- [x]  N.D. Illinois 
+
+- [x]  S.D. Illinois 
+
+- [x]  N.D. Indiana 
+
+- [x]  S.D. Indiana 
+
+- [x]  N.D. Iowa 
+
+- [x]  S.D. Iowa 
+
+- [x]  D. Kansas 
+
+- [x]  E.D. Kentucky 
+
+- [x]  W.D. Kentucky 
+
+- [x]  E.D. Louisiana 
+
+- [x]  M.D. Louisiana 
+
+- [x]  W.D. Louisiana 
+
+- [x]  D. Maine 
+
+- [x]  D. Maryland 
+
+- [x]  D. Massachusetts 
+
+- [x]  E.D. Michigan 
+
+- [x]  W.D. Michigan 
+
+- [x]  D. Minnesota 
+
+- [x]  N.D. Mississippi 
+
+- [x]  S.D. Mississippi 
+
+- [x]  E.D. Missouri 
+
+- [x]  W.D. Missouri 
+
+- [x]  D. Montana 
+
+- [x]  D. Nebraska 
+
+- [x]  D. Nevada 
+
+- [x]  D. New Hampshire 
+
+- [x]  D. New Jersey 
+
+- [x]  D. New Mexico 
+
+- [x]  E.D. New York 
+
+- [x]  N.D. New York 
+
+- [x]  S.D. New York 
+
+- [x]  W.D. New York 
+
+- [x]  E.D. North Carolina 
+
+- [x]  M.D. North Carolina 
+
+- [x]  W.D. North Carolina 
+
+- [x]  D. North Dakota 
+
+- [x]  N.D. Ohio 
+
+- [x]  S.D. Ohio 
+
+- [x]  E.D. Oklahoma 
+
+- [x]  N.D. Oklahoma 
+
+- [x]  W.D. Oklahoma 
+
+- [x]  D. Oregon 
+
+- [x]  E.D. Pennsylvania 
+
+- [x]  M.D. Pennsylvania 
+
+- [x]  W.D. Pennsylvania 
+
+- [x]  D. Rhode Island 
+
+- [x]  D. South Carolina 
+
+- [x]  D. South Dakota 
+
+- [x]  E.D. Tennessee 
+
+- [x]  M.D. Tennessee 
+
+- [x]  W.D. Tennessee 
+
+- [x]  E.D. Texas 
+
+- [x]  N.D. Texas 
+
+- [x]  S.D. Texas 
+
+- [x]  W.D. Texas 
+
+- [x]  D. Utah 
+
+- [x]  D. Vermont 
+
+- [x]  E.D. Virginia 
+
+- [x]  W.D. Virginia 
+
+- [x]  E.D. Washington 
+
+- [x]  W.D. Washington 
+
+- [x]  N.D. West Virginia 
+
+- [x]  S.D. West Virginia 
+
+- [x]  E.D. Wisconsin 
+
+- [x]  W.D. Wisconsin 
+
+- [x]  D. Wyoming 
+
+- [x]  D. Guam 
+
+- [x]  Northern Mariana Islands 
+
+- [x]  D. Puerto Rico 
+
+- [x]  Virgin Islands 
+
+### Bankruptcy District Courts
+
+- [x]  M.D. Alabama 
+
+- [x]  N.D. Alabama 
+
+- [x]  S.D. Alabama 
+
+- [x]  D. Alaska 
+
+- [x]  D. Arizona 
+
+- [x]  E.D. Arkansas 
+
+- [x]  W.D. Arkansas 
+
+- [x]  C.D. California 
+
+- [x]  E.D. California 
+
+- [x]  N.D. California 
+
+- [x]  S.D. California 
+
+- [x]  D. Colorado 
+
+- [x]  D. Connecticut 
+
+- [x]  D. Delaware 
+
+- [x]  District of Columbia 
+
+- [x]  M.D. Florida 
+
+- [x]  N.D. Florida 
+
+- [x]  S.D. Florida 
+
+- [x]  M.D. Georgia 
+
+- [x]  N.D. Georgia 
+
+- [x]  S.D. Georgia 
+
+- [x]  D. Hawaii 
+
+- [x]  D. Idaho 
+
+- [x]  C.D. Illinois 
+
+- [x]  N.D. Illinois 
+
+- [x]  S.D. Illinois 
+
+- [x]  N.D. Indiana 
+
+- [x]  S.D. Indiana 
+
+- [x]  N.D. Iowa 
+
+- [x]  S.D. Iowa 
+
+- [x]  D. Kansas 
+
+- [x]  E.D. Kentucky 
+
+- [x]  W.D. Kentucky 
+
+- [x]  E.D. Louisiana 
+
+- [x]  M.D. Louisiana 
+
+- [x]  W.D. Louisiana 
+
+- [x]  D. Maine 
+
+- [x]  D. Maryland 
+
+- [x]  D. Massachusetts 
+
+- [x]  E.D. Michigan 
+
+- [x]  W.D. Michigan 
+
+- [x]  D. Minnesota 
+
+- [x]  N.D. Mississippi 
+
+- [x]  S.D. Mississippi 
+
+- [x]  E.D. Missouri 
+
+- [x]  W.D. Missouri 
+
+- [x]  D. Montana 
+
+- [x]  D. Nebraska 
+
+- [x]  D. Nevada 
+
+- [x]  D. New Hampshire 
+
+- [x]  D. New Jersey 
+
+- [x]  D. New Mexico 
+
+- [x]  E.D. New York 
+
+- [x]  N.D. New York 
+
+- [x]  S.D. New York 
+
+- [x]  W.D. New York 
+
+- [x]  E.D. North Carolina 
+
+- [x]  M.D. North Carolina 
+
+- [x]  W.D. North Carolina 
+
+- [x]  D. North Dakota 
+
+- [x]  N.D. Ohio 
+
+- [x]  S.D. Ohio 
+
+- [x]  E.D. Oklahoma 
+
+- [x]  N.D. Oklahoma 
+
+- [x]  W.D. Oklahoma 
+
+- [x]  D. Oregon 
+
+- [x]  E.D. Pennsylvania 
+
+- [x]  M.D. Pennsylvania 
+
+- [x]  W.D. Pennsylvania 
+
+- [x]  D. Rhode Island 
+
+- [x]  D. South Carolina 
+
+- [x]  D. South Dakota 
+
+- [x]  E.D. Tennessee 
+
+- [x]  M.D. Tennessee 
+
+- [x]  W.D. Tennessee 
+
+- [x]  E.D. Texas 
+
+- [x]  N.D. Texas 
+
+- [x]  S.D. Texas 
+
+- [x]  W.D. Texas 
+
+- [x]  D. Utah 
+
+- [x]  D. Vermont 
+
+- [x]  E.D. Virginia 
+
+- [x]  W.D. Virginia 
+
+- [x]  E.D. Washington 
+
+- [x]  W.D. Washington 
+
+- [x]  N.D. West Virginia 
+
+- [x]  S.D. West Virginia 
+
+- [x]  E.D. Wisconsin 
+
+- [x]  W.D. Wisconsin 
+
+- [x]  D. Wyoming 
+
+- [x]  D. Guam 
+
+- [x]  Northern Mariana Islands 
+
+- [x]  D. Puerto Rico 
+
+- [x]  D. Virgin Islands 
+
+### Miscellaneous Courts
+
+- [x]  Federal Claims  
+
+- [x]  Veterans Claims  
+
+- [x]  Court of International Trade  
+
+- [x]  Judicial Panel on Multidistrict Litigation  
+
+Apply
+
+Newsletter
+
+Sign up to receive the Free Law Project newsletter with tips and announcements.
+
+[Subscribe](https://donate.free.law/np/clients/freelawproject/subscribe.jsp?forwardedFromSecureDomain=1&subscription=9)
+
+[About](https://free.law/about/)
+
+[Help](https://www.courtlistener.com/help/)
+
+[Donate](https://donate.free.law/forms/supportflp)
+
+[About Our Data](https://wiki.free.law/c/courtlistener/help/data-coverage)
+
+[APIs & Bulk Data](https://wiki.free.law/c/courtlistener/help/api)
+
+[Feeds](https://wiki.free.law/c/courtlistener/help/general/using-atom-and-rss-feeds-for-the-latest-updates)&[Podcasts](https://wiki.free.law/c/courtlistener/help/general/custom-podcasts-of-oral-argument-audio-recordings)
+
+[Blog Posts](https://free.law/)
+
+[Contact](https://www.courtlistener.com/contact/)
+
+[Data Services](https://free.law/data-consulting/)
+
+[Contribute](https://free.law/volunteer)
+
+[Terms & Privacy](https://wiki.free.law/c/terms/courtlistener/courtlistenercom-terms-of-service-and-policies)
+
+[Removal](https://wiki.free.law/c/terms/courtlistener/courtlistenercom-content-removal-policy)
+
+[Vulnerability Policies](https://free.law/vulnerability-disclosure-policy/)
+
+[![Image 1: Donate to support our work](https://storage.courtlistener.com/static/png/donate-button.f21707e5ec7d.png)](https://donate.free.law/forms/supportflp)
+
+CourtListener is sponsored by the non-profit [Free Law Project](https://free.law/).
+
+[](https://www.linkedin.com/company/free-law-project/)[](https://bsky.app/profile/free.law)[](https://github.com/freelawproject/courtlistener)[](https://donate.free.law/np/clients/freelawproject/subscribe.jsp?subscription=9)

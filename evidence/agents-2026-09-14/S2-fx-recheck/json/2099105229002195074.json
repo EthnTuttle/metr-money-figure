@@ -1,0 +1,77 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ducavendish/status/2099105229002195074",
+  "id": "2099105229002195074",
+  "text": "@DavidSacks Nailed it.",
+  "raw_text": {
+   "text": "@DavidSacks Nailed it.",
+   "display_text_range": [
+    12,
+    22
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ducavendish",
+   "url": "https://x.com/ducavendish",
+   "id": "1054726240723189760",
+   "followers": 165396,
+   "following": 2921,
+   "likes": 532050,
+   "media_count": 8144,
+   "name": "E. Cavendish",
+   "description": "Economia | Criptoativos | Política | Esportes | AI & Tech🦾 | KVIA & RiquezIA\n\nPodemos retomar o caminho da prosperidade. 🚀🇧🇷",
+   "raw_description": {
+    "text": "Economia | Criptoativos | Política | Esportes | AI & Tech🦾 | KVIA & RiquezIA\n\nPodemos retomar o caminho da prosperidade. 🚀🇧🇷",
+    "facets": []
+   },
+   "location": "Sao Paulo, Brazil",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1054726240723189760/1742929427",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2049478448704557058/2EtL_jKZ_200x200.jpg",
+   "joined": "Tue Oct 23 13:28:26 +0000 2018",
+   "protected": false,
+   "website": {
+    "url": "http://www.riquezia.com.br",
+    "display_url": "riquezia.com.br"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 18,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 11:57:40 +0000 2026",
+  "created_timestamp": 1789300660,
+  "views": 1396,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:58:59Z",
+ "_http_status": 200
+}

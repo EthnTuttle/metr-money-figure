@@ -1,0 +1,67 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/badbirb/status/2099148154193285406",
+  "id": "2099148154193285406",
+  "text": "I've been wondering why there is not a whole of govt/industry push to enlist millions of devs to secure their own software and create best practices and tools for it?  \n\nI don't trust a few thousand \"AI Safety\" experts to secure much of anything and it feels like most of us are just out here trying to keep from getting hacked while the money flows into a ridiculous endless charade that will never solve the problem.",
+  "raw_text": {
+   "text": "I've been wondering why there is not a whole of govt/industry push to enlist millions of devs to secure their own software and create best practices and tools for it?  \n\nI don't trust a few thousand \"AI Safety\" experts to secure much of anything and it feels like most of us are just out here trying to keep from getting hacked while the money flows into a ridiculous endless charade that will never solve the problem.",
+   "display_text_range": [
+    0,
+    418
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "badbirb",
+   "url": "https://x.com/badbirb",
+   "id": "1989160093691338752",
+   "followers": 422,
+   "following": 528,
+   "likes": 7761,
+   "media_count": 866,
+   "name": "Hello Chicken",
+   "description": "Lots of Birds\nLots of Kids\nLots of Plants (Permaculture FTW!)\nChristian, CTO, Systems Thinker, Tinkerer, Innovator, Love Life In All Its Forms",
+   "raw_description": {
+    "text": "Lots of Birds\nLots of Kids\nLots of Plants (Permaculture FTW!)\nChristian, CTO, Systems Thinker, Tinkerer, Innovator, Love Life In All Its Forms",
+    "facets": []
+   },
+   "location": "United States",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1989160093691338752/1776631336",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2045980360211861504/4RdqkxdS_200x200.jpg",
+   "joined": "Fri Nov 14 02:35:06 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "https://saveourostriches.com/",
+    "display_url": "saveourostriches.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 5,
+  "retweets": 1,
+  "likes": 25,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 14:48:14 +0000 2026",
+  "created_timestamp": 1789310894,
+  "views": 11226,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "Laughing_Mantis",
+  "replying_to_status": "2099012495834743090",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:33Z",
+ "_http_status": 200
+}

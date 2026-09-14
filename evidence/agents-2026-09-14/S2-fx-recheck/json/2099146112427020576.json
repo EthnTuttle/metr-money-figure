@@ -1,0 +1,138 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/yuyy614893671/status/2099146112427020576",
+  "id": "2099146112427020576",
+  "text": "“但别再假装你们需要任何其他人的许可。别再假装反垄断法必须被暂停，以便你们形成卡特尔。别再假装你们需要一个凌驾于产品责任之上的监管审批流程。别再假装 METR 是独立的，当它与 Anthropic 的投资者和员工纠缠在一起时。别再假装你们需要那些相同的评估者来监管那些甚至还没达到前沿的竞争对手。\n\n最重要的是，别再假装放慢速度的动机纯粹是利他主义的。如果你们的产品促成了一次真正破坏性的网络攻击，你们将面临巨大的产品责任风险。市场已经在惩罚那些行为不可预测或未经授权的模型。在 Hugging Face 事件之后，对于 OpenAI 和 Anthropic 来说，牺牲一些原始能力来换取可靠性和可预测性，简直就是明智的商业决策。如果你愿意，可以称之为对齐。这也只是给客户他们想要的东西。\n\n放慢前沿的步伐，还会为更理性的监管讨论创造喘息空间，而不是 Bernie Sanders 的“全部关闭”。正如你们所知，中国不太可能加入全球协议，这一点也必须纳入考虑。”",
+  "raw_text": {
+   "text": "“但别再假装你们需要任何其他人的许可。别再假装反垄断法必须被暂停，以便你们形成卡特尔。别再假装你们需要一个凌驾于产品责任之上的监管审批流程。别再假装 METR 是独立的，当它与 Anthropic 的投资者和员工纠缠在一起时。别再假装你们需要那些相同的评估者来监管那些甚至还没达到前沿的竞争对手。\n\n最重要的是，别再假装放慢速度的动机纯粹是利他主义的。如果你们的产品促成了一次真正破坏性的网络攻击，你们将面临巨大的产品责任风险。市场已经在惩罚那些行为不可预测或未经授权的模型。在 Hugging Face 事件之后，对于 OpenAI 和 Anthropic 来说，牺牲一些原始能力来换取可靠性和可预测性，简直就是明智的商业决策。如果你愿意，可以称之为对齐。这也只是给客户他们想要的东西。\n\n放慢前沿的步伐，还会为更理性的监管讨论创造喘息空间，而不是 Bernie Sanders 的“全部关闭”。正如你们所知，中国不太可能加入全球协议，这一点也必须纳入考虑。”",
+   "display_text_range": [
+    0,
+    431
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "yuyy614893671",
+   "url": "https://x.com/yuyy614893671",
+   "id": "1597654998971604992",
+   "followers": 71189,
+   "following": 629,
+   "likes": 9605,
+   "media_count": 5553,
+   "name": "金融汪",
+   "description": "油管频道：金融汪 ，网址：https://www.youtube.com/@shijiejinrongwang\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+   "raw_description": {
+    "text": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       13,
+       36
+      ],
+      "original": "https://t.co/mE0zmyZHPv",
+      "replacement": "https://www.youtube.com/@shijiejinrongwang",
+      "display": "youtube.com/@shijiejinrong…"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1597654998971604992/1725832829",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_200x200.jpg",
+   "joined": "Tue Nov 29 18:13:44 +0000 2022",
+   "protected": false,
+   "website": {
+    "url": "https://www.youtube.com/@shijiejinrongwang",
+    "display_url": "youtube.com/@shijiejinrong…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 3,
+  "likes": 38,
+  "bookmarks": 6,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 14:40:08 +0000 2026",
+  "created_timestamp": 1789310408,
+  "views": 7397,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "zh",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "id": "2098973625252708460",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+   "raw_text": {
+    "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also claimed the lead is widening because of recursive self-improvement.\n\nI don’t see what you see in the lab. If the unreleased models are scary enough that you think you should slow down, I support your decision to be responsible.\n\nBut stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel. Stop pretending you need a regulatory approval process that supersedes product liability. Stop pretending METR is independent when it is intertwined with Anthropic’s investors and staff. Stop pretending you need those same evaluators to police competitors who aren’t even at the frontier.\n\nMost of all, stop pretending the motivation to slow down is purely altruistic. You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways. After the Hugging Face episode, it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability. Call it alignment if you want. It is also just giving customers what they want.\n\nPacing the frontier would also create breathing room for a more intelligent conversation about regulation than Bernie Sanders’ “shut it all down.” China is very unlikely to join a global agreement, as you know, and that has to be taken into account as well.\n\nSo go ahead and pace the frontier. You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it.\n\nIf you do, you’ll buy goodwill for the next conversation. If you don’t, we’ll know this was just another bid for regulatory capture — or an election-season psyop.",
+    "display_text_range": [
+     0,
+     2152
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "DavidSacks",
+    "url": "https://x.com/DavidSacks",
+    "id": "1137701",
+    "followers": 1739133,
+    "following": 3525,
+    "likes": 94114,
+    "media_count": 1280,
+    "name": "David Sacks",
+    "description": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+    "raw_description": {
+     "text": "Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1137701/1667750503",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+    "joined": "Wed Mar 14 04:14:58 +0000 2007",
+    "protected": false,
+    "website": {
+     "url": "http://sacks.substack.com",
+     "display_url": "sacks.substack.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 3053,
+   "retweets": 10856,
+   "likes": 64740,
+   "bookmarks": 13155,
+   "quotes": 2361,
+   "created_at": "Sun Sep 13 03:14:43 +0000 2026",
+   "created_timestamp": 1789269283,
+   "views": 8239513,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "source": "Twitter for iPhone",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter for iPhone",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:29Z",
+ "_http_status": 200
+}

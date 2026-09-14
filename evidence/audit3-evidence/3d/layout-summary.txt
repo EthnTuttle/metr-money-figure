@@ -1,0 +1,12 @@
+original_png_sha256=9d3b0ae3a6637d6345e7ae08246307a25c47397b350dc880f255fad07cc60801
+check_png_sha256=9d3b0ae3a6637d6345e7ae08246307a25c47397b350dc880f255fad07cc60801
+original_size=(4400, 5200)
+check_size=(4400, 5200)
+changed_pixels=0
+max_channel_delta=0
+node_failures=7
+label_box_intersections=8
+tallinn_metr_closest_center=(1480.74,587.70)
+tallinn_metr_centerline_distance_to_longview=29.71
+tallinn_metr_stroke_width=7.10
+tallinn_metr_painted_clearance_to_longview=26.16

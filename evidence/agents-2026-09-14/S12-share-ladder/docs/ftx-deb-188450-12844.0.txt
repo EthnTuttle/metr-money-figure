@@ -1,0 +1,858 @@
+               Case 22-11068-JTD             Doc 12844          Filed 04/26/24        Page 1 of 13
+
+
+
+
+                        IN THE UNITED STATES BANKRUPTCY COURT
+                             FOR THE DISTRICT OF DELAWARE
+
+                                                                   Chapter 11
+    In re:
+                                                                   Case No. 22-11068 (JTD)
+    FTX TRADING LTD., et al., 1
+                                                                   (Jointly Administered)
+                              Debtors.
+
+
+
+                                         AFFIDAVIT OF SERVICE
+
+       I, Liz Santodomingo, depose and say that I am employed by Kroll Restructuring
+Administration LLC (“Kroll”), the claims and noticing agent for the Debtors in the above-
+captioned chapter 11 cases.
+
+        On March 23, 2024, at my direction and under my supervision, employees of Kroll caused
+the following documents to be served by the method set forth on the Master Service List attached
+hereto as Exhibit A:
+
+     •   Notice of Proposed Sale of Certain Assets Free and Clear of Any Liens, Claims, Interests
+         and Encumbrances [Docket No. 10157] (the “Notice of Proposed Sale”)
+
+     •   Notice of Proposed Sale of Anthropic Shares Free and Clear of Liens, Claims, Interests
+         and Encumbrances [Docket No. 10241] (the “Notice of Proposed Sale of Anthropic
+         Shares Free”)
+
+        On March 23, 2024, at my direction and under my supervision, employees of Kroll caused
+the Notice of Proposed Sale to be served via email on a party that has been redacted in the interest
+of privacy.
+
+        On March 23, 2024, at my direction and under my supervision, employees of Kroll caused
+the Notice of Proposed Sale of Anthropic Shares Free to be served via email on the Interested
+Parties Service List attached hereto as Exhibit B.
+
+
+
+
+1
+  The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and
+4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the Debtors
+and the last four digits of their federal tax identification numbers is not provided herein. A complete list of such
+information may be obtained on the website of the Debtors’ claims and noticing agent at
+https://cases.ra.kroll.com/FTX.
+           Case 22-11068-JTD       Doc 12844     Filed 04/26/24    Page 2 of 13
+
+
+
+
+Dated: April 18, 2024
+                                                          /s/ Liz Santodomingo
+                                                          Liz Santodomingo
+State of New York
+County of New York
+
+Subscribed and sworn (or affirmed) to me on April 18, 2024, by Liz Santodomingo, proved to me
+on the bases of satisfactory evidence to be the person who executed this affidavit.
+
+/s/ Cindy C. Hosein-Mohan
+Notary Public, State of New York
+No. 01HO6295177
+Qualified in Nassau County
+Commission Expires December 30, 2025
+
+
+
+
+                                     2                                            SRF 77831
+Case 22-11068-JTD   Doc 12844   Filed 04/26/24   Page 3 of 13
+
+                        Exhibit A
+                                                                                Case 22-11068-JTD                                 Doc 12844                     Filed 04/26/24                    Page 4 of 13
+                                                                                                                                                 Exhibit A
+                                                                                                                                            Master Service List
+                                                                                                                                         Served as set forth below
+
+
+
+                                                DESCRIPTION                                                                  NAME                                                         ADDRESS                                                        EMAIL                      METHOD OF SERVICE
+                                                                                                                                                     ATTN: ANTHONY M. SACCULLO, MARY E. AUGUSTINE
+                                                                                                                                                     27 CRIMSON KING DRIVE                                                              AMS@SACCULLOLEGAL.COM
+COUNSEL TO CELSIUS NETWORK LLC AND ITS AFFILIATED DEBTORS                                                A. M. SACCULLO LEGAL, LLC                   BEAR DE 19701                                                                      MEG@SACCULLOLEGAL.COM                     Email
+                                                                                                                                                     ATTN: MICHAEL D. DEBAECKE
+                                                                                                                                                     500 DELAWARE AVENUE
+                                                                                                                                                     8TH FLOOR
+COUNSEL TO RIBOSCIENCE LLC AND 4J THERAPEUTICS INC.                                                      ASHBY & GEDDES, P.A.                        WILMINGTON DE 19899-1150                                                           MDEBAECKE@ASHBYGEDDES.COM                 Overnight Mail and Email
+                                                                                                                                                     ATTN: RICARDO PALACIO, GREGORY A. TAYLOR
+                                                                                                                                                     500 DELAWARE AVENUE, 8TH FLOOR
+                                                                                                                                                     P.O. BOX 1150                                                                      RPALACIO@ASHBYGEDDES.COM
+COUNSEL TO BITGO TRUST COMPANY, INC. & MERCEDES-BENZ GRAND PRIX LIMITED                                  ASHBY & GEDDES, P.A.                        WILMINGTON DE 19899                                                                GTAYLOR@ASHBYGEDDES.COM                   Overnight Mail and Email
+                                                                                                                                                     ATTN: JAMES V. MASELLA, III
+                                                                                                                                                     1675 BROADWAY
+COUNSEL TO THE CAROLINE DOROTHY JONES 2007 TRUST, THE CHRISTINE LOUISE JONES 2007 TRUST, THE JOHN PAUL                                               19TH FLOOR
+JONES II 2007 TRUST, AND THE DOROTHY ANNE JONES 2007 TRUST                                               BALLARD SPAHR LLP                           NEW YORK NY 10019-5820                                                             MASELLAJ@BALLARDSPAHR.COM                 Overnight Mail and Email
+                                                                                                                                                     ATTN: NICHOLAS J. BRANNICK
+                                                                                                                                                     919 N. MARKET STREET
+COUNSEL TO THE CAROLINE DOROTHY JONES 2007 TRUST, THE CHRISTINE LOUISE JONES 2007 TRUST, THE JOHN PAUL                                               11TH FLOOR
+JONES II 2007 TRUST, AND THE DOROTHY ANNE JONES 2007 TRUST                                               BALLARD SPAHR LLP                           WILMINGTON DE 19801-3034                                                           BRANNICKN@BALLARDSPAHR.COM                Overnight Mail and Email
+                                                                                                                                                     ATTN: SHRADDHA BHARATIA
+                                                                                                                                                     P.O. BOX 3001
+COUNSEL TO AMERICAN EXPRESS NATIONAL BANK                                                                BECKET & LEE LLP                            MALVERN PA 19355-0701                                                                                                        Overnight Mail
+                                                                                                                                                     ATTN: DAVID M. KLAUDER
+                                                                                                                                                     1204 N. KING STREET
+COUNSEL TO LAVANDA SANDS, L.L.C.                                                                         BIELLI & KLAUDER, LLC                       WILMINGTON DE 19801                                                                DKLAUDER@BK-LEGAL.COM                     Overnight Mail and Email
+                                                                                                                                                     ATTN: JOSEF W. MINTZ
+                                                                                                                                                     1201 MARKET STREET
+                                                                                                                                                     SUITE 800
+COUNSEL TO FULCRUM DISTRESSED PARTNERS LIMITED                                                           BLANK ROME LLP                              WILMINGTON DE 19801                                                                JOSEF.MINTZ@BLANKROME.COM                 Overnight Mail and Email
+                                                                                                                                                     ATTN: RICK ANTONOFF
+                                                                                                                                                     1271 AVENUE OF THE AMERICAS
+COUNSEL TO FULCRUM DISTRESSED PARTNERS LIMITED                                                           BLANK ROME LLP                              NEW YORK NY 10020                                                                  RICK.ANTONOFF@BLANKROME.COM               Overnight Mail and Email
+                                                                                                                                                     ATTN: SHARON FRASE
+                                                                                                                                                     1611 TELEGRAPH AVE.,
+                                                                                                                                                     SUITE 806
+COUNSEL TO ISLAND CAPITAL AND PAUL F. ARANHA                                                             BOERSCH & ILLOVSKY LLP                      OAKLAND CA 94612                                                                   SHARON@BOERSCH-ILLOVSKY.COM               Overnight Mail and Email
+                                                                                                                                                                                                                                        KAULET@BROWNRUDNICK.COM
+                                                                                                                                                     ATTN: KENNETH J. AULET, JEFFREY L. JONAS, MICHAEL WINOGRAD, ALEXANDER F. KASNETZ   JJONAS@BROWNRUDNICK.COM
+                                                                                                                                                     SEVEN TIMES SQUARE                                                                 MWINOGRAD@BROWNRUDNICK.COM
+COUNSEL TO BLOCKFI INC. AND AFFILIATES AS WINDDOWN DEBTORS                                               BROWN RUDNICK LLP                           NEW YORK NY 10036                                                                  AKASNETZ@BROWNRUDNICK.COM                 Overnight Mail and Email
+                                                                                                                                                     ATTN: TRISTAN G. AXELROD, SHARI I. DWOSKIN, MATTHEW A. SAWYER                      TAXELROD@BROWNRUDNICK.COM
+                                                                                                                                                     ONE FINANCIAL CENTER                                                               SDWOSKIN@BROWNRUDNICK.COM
+COUNSEL TO BLOCKFI INC. AND AFFILIATES AS WINDDOWN DEBTORS                                               BROWN RUDNICK LLP                           BOSTON MA 02111                                                                    MSAWYER@BROWNRUDNICK.COM                  Overnight Mail and Email
+                                                                                                                                                     ATTN: FELICIA BROWNELL
+                                                                                                                                                     252 MARINERS WAY
+COUNSEL TO YUMOU WEI                                                                                     BROWNELL LAW GROUP LLC                      BEAR DE 19701                                                                      FBROWNELL@BROWNELLLAWGROUP.COM            Overnight Mail and Email
+                                                                                                                                                     ATTN: SHAWN M. CHRISTIANSON, ESQ.
+                                                                                                                                                     425 MARKET STREET, SUITE 2900
+COUNSEL FOR ORACLE AMERICA, INC.                                                                         BUCHALTER, A PROFESSIONAL CORPORATION       SAN FRANCISCO CA 94105-3493                                                        SCHRISTIANSON@BUCHALTER.COM               Overnight Mail and Email
+                                                                                                                                                     ATTN: JAMES E. BAILEY III, ROBERT CAMPBELL HILLYER
+                                                                                                                                                     CRESCENT CENTER, SUITE 500
+                                                                                                                                                     6075 POPLAR AVENUE, P.O. BOX 171443                                                JEB.BAILEY@BUTLERSNOW.COM
+COUNSEL TO EVOLVE BANK & TRUST                                                                           BUTLER SNOW LLP                             MEMPHIS TN 38187                                                                   CAM.HILLYER@BUTLERSNOW.COM                Overnight Mail and Email
+                                                                                                                                                     ATTN: MARTIN SOSLAND
+                                                                                                                                                     2911 TURTLE CREEK BLVD., SUITE 1400
+COUNSEL TO EVOLVE BANK & TRUST                                                                           BUTLER SNOW LLP                             DALLAS TX 75219                                                                    MARTIN.SOSLAND@BUTLERSNOW.COM             Overnight Mail and Email
+                                                                                                                                                     ATTN: J. PETER GLAWS, IV, ESQ.
+                                                                                                                                                     2000 PENNSYLVANIA AVE, NW
+                                                                                                                                                     STE. 8001
+COUNSEL TO SILICON VALLEY ACCOUNTANTS                                                                    CARR MALONEY P.C.                           WASHINGTON DC 20006                                                                PETER.GLAWS@CARRMALONEY.COM               Overnight Mail and Email
+                                                                                                                                                     ATTN: AARON R. CAHN
+                                                                                                                                                     28 LIBERTY STREET
+                                                                                                                                                     41ST FLOOR
+COUNSEL TO PI-CRYPTO LTD., PI 1.0 LP                                                                     CARTER LEDYARD & MILBURN LLP                NEW YORK NY 10005                                                                  BANKRUPTCY@CLM.COM                        Overnight Mail and Email
+                                                                                                                                                                                                                                        STIPE.VULETA@CHAMBERLAINS.COM.AU
+COUNSEL TO MICHAEL BURGESS, HUY XUAN “KEVIN” NGUYEN, JING YU                                                                                         ATTN: STIPE VULETA, LACHLAN MCBRIDE, SEBASTIAN BRODOWSKI, SAM KEYS-ASGILL          LACHLAN.MCBRIDE@CHAMBERLAINS.COM.AU
+“DARREN” WONG, MATTHEW BURGESS, LESLEY BURGESS, 3TWELVE VENTURES LTD., AND BDK CONSULTING                                                            LEVEL 12 59 GOULBURN STREET                                                        SEBASTIAN.BRODOWSKI@CHAMBERLAINS.COM.AU
+LTD                                                                                                      CHAMBERLAINS LAW FIRM                       SYDNEY, NSW 2002 AUSTRALIA                                                         SAM.KEYSASGILL@CHAMBERLAINS.COM.AU        Overnight Mail and Email
+
+
+
+
+             In re: FTX Trading Ltd., et al.
+             Case No. 22-11068 (JTD)                                                                                                             Page 1 of 10
+                                                                                     Case 22-11068-JTD                                 Doc 12844                        Filed 04/26/24                      Page 5 of 13
+                                                                                                                                                         Exhibit A
+                                                                                                                                                     Master Service List
+                                                                                                                                                  Served as set forth below
+
+
+
+                                                  DESCRIPTION                                                                        NAME                                                         ADDRESS                                             EMAIL         METHOD OF SERVICE
+                                                                                                                                                             ATTN: KAREN M. GRIVNER
+                                                                                                                                                             824 N. MARKET STREET
+                                                                                                                                                             SUITE 710
+COUNSEL TO GEORGIAN PARTNERS, INC.                                                                               CLARK HILL PLC                              WILMINGTON DE 19801                                                    KGRIVNER@CLARKHILL.COM        Overnight Mail and Email
+                                                                                                                                                             ATTN: KEVIN H. MORSE
+                                                                                                                                                             130 E. RANDOLPH STREET
+                                                                                                                                                             SUITE 3900
+COUNSEL TO GEORGIAN PARTNERS, INC.                                                                               CLARK HILL PLC                              CHICAGO IL 60601                                                       KMORSE@CLARKHILL.COM          Overnight Mail and Email
+                                                                                                                                                             ATTN: JANE VANLARE, BRANDON M. HAMMER
+                                                                                                                                                             ONE LIBERTY PLAZA                                                      JVANLARE@CGSH.COM
+COUNSEL TO BITGO TRUST COMPANY, INC.                                                                             CLEARY GOTTLIEB STEEN & HAMILTON LLP        NEW YORK NY 10006                                                      BHAMMER@CGSH.COM              Overnight Mail and Email
+                                                                                                                                                             C/O SUNIL SHAH
+                                                                                                                                                             1805 N. CARSON CITY ST.,
+                                                                                                                                                             SUITE X-108
+COMMITTEE OF UNSECURED CREDITORS                                                                                 COINCIDENT CAPITAL INTERNATIONAL, LTD       CARSON CITY NV 89701                                                   FTXCC@COINCIDENTCAPITAL.COM   Overnight Mail and Email
+                                                                                                                                                             ATTN: NORMAN L. PERNICK, ESQ., ANDREW J. ROTH, ESQ.
+                                                                                                                                                             500 DELAWARE AVENUE
+                                                                                                                                                             SUITE 1410                                                             NPERNICK@COLESCHOTZ.COM
+COUNSEL TO LIGHTSPEED STRATEGIC PARTNERS I L.P., LIGHTSPEED OPPORTUNITY FUND, L.P.                               COLE SCHOTZ P.C.                            WILMINGTON DE 19801                                                    AROTH-MOORE@COLESCHOTZ.COM    Overnight Mail and Email
+                                                                                                                                                             ATTN: MARTIN B. WHITE
+                                                                                                                                                             SENIOR ASSISTANT GENERAL COUNSEL
+                                                                                                                                                             1155 21ST STREET NW
+COUNSEL TO COMMODITY FUTURES TRADING COMMISSION, AN AGENCY OF THE UNITED STATES GOVERNMENT                       COMMODITY FUTURES TRADING COMMISSION        WASHINGTON DC 20581                                                    MWHITE@CFTC.GOV               Overnight Mail and Email
+                                                                                                                                                             ATTN: AUDREY MOTT-SMITH
+                                                                                                                                                             3 EMBARCADERO CENTER
+COUNSEL TO CRAIG SHINDLEDECKER, ADAM BORYENACE, LINDSEY BOERNER, TANA A. LAWLER, STANTON CAMP, MICHAEL                                                       20TH FLOOR
+MCGEE AND TIM MILLAR                                                                                             COOLEY LLP                                  SAN FRANCISCO CA 94111                                                 AMOTTSMITH@COOLEY.COM         Overnight Mail and Email
+                                                                                                                                                             ATTN: CULLEN D. SPECKHART
+COUNSEL TO THE DEFENDANT WILLIAM HOCKEY LIVING TRUST & DEFENDANTS LISTED ON EXHIBIT A, CRAIG                                                                 1299 PENNSYLVANIA AVENUE NW
+SHINDLEDECKER, ADAM BORYENACE, LINDSEY BOERNER, TANA A. LAWLER, STANTON CAMP, MICHAEL MCGEE AND TIM                                                          SUITE 700
+MILLAR                                                                                                           COOLEY LLP                                  WASHINGTON DC 20004                                                    CSPECKHART@COOLEY.COM         Overnight Mail and Email
+                                                                                                                                                                                                                                    MKLEIN@COOLEY.COM
+COUNSEL TO THE DEFENDANT WILLIAM HOCKEY LIVING TRUST & DEFENDANTS LISTED ON EXHIBIT A, CRAIG                                                                 ATTN: MICHAEL KLEIN, ARIC WU, CAROLINE PIGNATELLI, ERICA J. RICHARDS   AHWU@COOLEY.COM
+SHINDLEDECKER, ADAM BORYENACE, LINDSEY BOERNER, TANA A. LAWLER, STANTON CAMP, MICHAEL MCGEE AND TIM                                                          55 HUDSON YARDS                                                        CPIGNATELLI@COOLEY.COM
+MILLAR                                                                                                           COOLEY LLP                                  NEW YORK NY 10001                                                      ERICHARDS@COOLEY.COM          Overnight Mail and Email
+
+
+COUNSEL TO AAVCF3 LP, ADAPT VC LLC, AKHIL PAUL, BAUDOIN, KIARA, CAROL H. DUGGAN REVOCABLE LIVING TRUST,
+CATHEXIS SUBSIDIARIES GP, LLC; CATHEXIS VENTURES, LP, CLARK, DEREK, DUARTE, JONATHAN, DWYER, JOHN, EM FUND I, A
+SERIES OF CHRIS GOLDA INVESTMENTS, LP, EMBEDFI JUNE 2021, A SERIES OF PARTY ROUND LLC, FAIRCHILD FUND III, LLC,
+FERRARI, MICHAEL, FRANK, AARON, FUND I, A SERIES OF 20VC, LP, FUND I, A SERIES OF NOT BORING CAPITAL, LP,
+GARDNER, CLAYTON, GILES, MICHAEL, HARLAND GROUP LLC, HARPER, CHRISTOPHER, HARPER, STEPHEN, JABRE, PHILIPPE,
+JOHNSON, BRENT, KV5 PTY LTD ATF KV5 TRUST, KERR INVESTMENT HOLDINGS PTY LTD A/T/F THE KERR FAMILY TRUST, KICK
+THE HIVE LLC, LONDERGAN, BENJAMIN, LOVERO, JUSTIN, LYON, MATTHEW, MANN, BRANDON, MEENTS, DAVID, MOTIVATE
+VENTURES FUND I, LP, MOTIVATE VENTURES QP FUND I, LP, NICHOLS, JAMES, NORDBY, CHRISTIAN, OPERATOR PARTNERS,
+LLC, PERCOCO, JOE, PETER T. LAWLER LIVING TRUST, PRUVEN CAPITAL PARTNERS FUND I, LP, S20, A SERIES OF CHRIS GOLDA
+INVESTMENTS, LP, SWS HOLDING COMPANY, LLC STUART SOPP, SAUGSTAD, MONIQUE, SILVERSTONE VENTURE
+INVESTMENTS LIMITED, SLATE, JOSHUA ALLEN, SOMA CAPITAL FUND, III, LP, SOMA CAPITAL FUND III PARTNERS LLC, SOPP,
+STUART, THE GARDNER 2008 LIVING TRUST, THOMAS G. MIGLIS REVOCABLE TRUST, TRIPLEPOINT PRIVATE VENTURE CREDIT
+INC., TRIPLEPOINT VENTURE LENDING FUND, LLC, TRIPLEPOINT VENTURES 5 LLC, VENTURESOUQ CAPITAL SPC O/B/O VSQ SP
+59 (YCS20), WEINER, JONATHAN, WEVER, DENA, YASELLERAPH FINANCE PTY LTD ATF YASELLERAPH FINANCE TRUST,
+YOUNG, CHRISTOPHER, Z PERRET TRUST, 9YARDS CAPITAL INVESTMENTS II LP AND WILLIAM HOCKEY LIVING TRUST, CRAIG                                                  ATTN: PHILIP M. BOWMAN, ESQ.
+SHINDLEDECKER, ADAM BORYENACE, LINDSEY BOERNER, TANA A. LAWLER, STANTON CAMP, MICHAEL MCGEE AND TIM                                                          55 HUDSON YARDS
+MILLAR                                                                                                            COOLEY LLP                                 NEW YORK NY 10001                                                      PBOWMAN@COOLEY.COM            Overnight Mail and Email
+                                                                                                                                                             ESQ., SCOTT D. JONES, ESQ.
+                                                                                                                                                             BRANDYWINE PLAZA WEST
+                                                                                                                                                             1521 CONCORD PIKE, SUITE 301
+COUNSEL TO EVOLVE BANK & TRUST                                                                                   COUSINS LAW LLC                             WILMINGTON DE 19801                                                    SCOTT.JONES@COUSINS-LAW.COM   Overnight Mail and Email
+                                                                                                                                                             ATTN: FREDERICK SCHMIDT
+                                                                                                                                                             3WTC, 175 GREENWICH STREET
+                                                                                                                                                             55TH FLOOR
+COUNSEL TO BH TRADING LTD., GRANT KIM AND PETER KIM                                                              COZEN O’CONNOR                              NEW YORK NY 10007                                                      ESCHMIDT@COZEN.COM            Overnight Mail and Email
+                                                                                                                                                             ATTN: THOMAS J. FRANCELLA
+                                                                                                                                                             1201 N. MARKET STREET, SUITE 1001
+COUNSEL TO BH TRADING LTD., GRANT KIM AND PETER KIM                                                              COZEN O’CONNOR                              WILMINGTON DE 19801                                                    TFRANCELLA@COZEN.COM          Overnight Mail and Email
+                                                                                                                                                             ATTN: KEVIN S. MANN
+                                                                                                                                                             1105 NORTH MARKET STREET
+                                                                                                                                                             SUITE 901
+COUNSEL TO LIQUIDITY SOLUTIONS GLOBAL LTD. (THE “LSG”)                                                           CROSS & SIMON LLC                           WILMINGTON DE 19801                                                    KMANN@CROSSLAW.COM            Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                      Page 2 of 10
+                                                                                     Case 22-11068-JTD                                Doc 12844                    Filed 04/26/24                      Page 6 of 13
+                                                                                                                                                     Exhibit A
+                                                                                                                                                 Master Service List
+                                                                                                                                              Served as set forth below
+
+
+
+                                                DESCRIPTION                                                                         NAME                                                        ADDRESS                                                        EMAIL                   METHOD OF SERVICE
+                                                                                                                                                        ATTN: CHRISTOPHER P. SIMON
+                                                                                                                                                        1105 NORTH MARKET STREET
+COUNSEL TO ROCKET INTERNET CAPITAL PARTNERS II SCS, ROCKET INTERNET CAPITAL PARTNERS (EURO) II SCS, GFC GLOBAL                                          SUITE 901
+FOUNDERS CAPITAL GMBH AND GFC GLOBAL FOUNDERS CAPITAL GMBH & CO. BETEILIGUNGS KG NR. 1                         CROSS & SIMON, LLC                       WILMINGTON DE 19801                                                                 CSIMON@CROSSLAW.COM                      Overnight Mail and Email
+                                                                                                                                                        ATTN: FREDERICK HYMAN
+                                                                                                                                                        590 MADISON AVE
+COUNSEL TO LAVANDA SANDS, L.L.C.                                                                              CROWELL & MORING LLP                      NEW YORK NY 10022                                                                   FHYMAN@CROWELL.COM                       Overnight Mail and Email
+                                                                                                                                                        ATTN: M. NATASHA LABOVITZ, ESQ., ELIE J. WORENKLEIN, ESQ., MICHAEL C. GODBE, ESQ.   NLABOVITZ@DEBEVOISE.COM
+                                                                                                                                                        66 HUDSON BOULEVARD                                                                 EWORENKLEIN@DEBEVOISE.COM
+COUNSEL TO LIGHTSPEED STRATEGIC PARTNERS I L.P., LIGHTSPEED OPPORTUNITY FUND, L.P.                            DEBEVOISE & PLIMPTON LLP                  NEW YORK NY 10001                                                                   MCGODBE@DEBEVOISE.COM                    Overnight Mail and Email
+                                                                                                                                                        ATTN: SIDNEY P. LEVINSON, JASMINE BALL
+                                                                                                                                                        66 HUDSON BOULEBARD                                                                 SLEVINSON@DEBEVOISE.COM
+COUNSEL FOR PARADIGM OPERATIONS LP                                                                            DEBEVOISE & PLIMPTON LLP                  NEW YORK NY 10001                                                                   JBALL@DEBEVOISE.COM                      Overnight Mail and Email
+                                                                                                                                                        ATTN: ZILLAH FRAMPTON
+                                                                                                                                                        820 N FRENCH ST
+DELAWARE DIVISION OF REVENUE                                                                                  DELAWARE DIVISION OF REVENUE              WILMINGTON DE 19801                                                                 FASNOTIFY@STATE.DE.US                    Overnight Mail and Email
+                                                                                                                                                        CORPORATIONS FRANCHISE TAX
+                                                                                                                                                        P.O. BOX 898
+DELAWARE SECRETARY OF STATE                                                                                   DELAWARE SECRETARY OF STATE               DOVER DE 19903                                                                      DOSDOC_FTAX@STATE.DE.US                  Overnight Mail and Email
+                                                                                                                                                        ATTN: BANKRUPTCY DEPT
+                                                                                                                                                        820 SILVER LAKE BLVD
+                                                                                                                                                        STE 100
+DELAWARE STATE TREASURY                                                                                       DELAWARE STATE TREASURY                   DOVER DE 19904                                                                      STATETREASURER@STATE.DE.US               Overnight Mail and Email
+                                                                                                                                                        ATTN: AARON S. APPLEBAUM
+                                                                                                                                                        1201 NORTH MARKET STREET
+                                                                                                                                                        SUITE 2100
+COUNSEL TO MAPS VAULT LTD.                                                                                    DLA PIPER LLP                             WILMINGTON DE 19801                                                                 AARON.APPLEBAUM@US.DLAPIPER.COM          Overnight Mail and Email
+                                                                                                                                                        ATTN: AARON S. APPLEBAUM
+                                                                                                                                                        1201 NORTH MARKET STREET
+                                                                                                                                                        SUITE 2100
+COUNSEL TO MAPS VAULT LTD. AND OXYGEN VAULT LTD.                                                              DLA PIPER LLP (US)                        WILMINGTON DE 19801                                                                 AARON.APPLEBAUM@US.DLAPIPER.COM          Overnight Mail and Email
+                                                                                                                                                        ATTN: DENNIS C. O’DONNELL
+                                                                                                                                                        1251 AVENUE OF THE AMERICAS
+COUNSEL TO MAPS VAULT LTD. AND OXYGEN VAULT LTD.                                                              DLA PIPER LLP (US)                        NEW YORK NY 10020                                                                   DENNIS.ODONNELL@DLAPIPER.COM             Overnight Mail and Email
+                                                                                                                                                        ATTN: JEFFREY TOROSIAN
+                                                                                                                                                        444 W. LAKE STREET
+                                                                                                                                                        SUITE 900
+COUNSEL TO MAPS VAULT LTD. AND OXYGEN VAULT LTD.                                                              DLA PIPER LLP (US)                        CHICAGO IL 60606                                                                    JEFFREY.TOROSIAN@DLAPIPER.COM            Overnight Mail and Email
+                                                                                                                                                        ATTN: AMISH R. DOSHI
+                                                                                                                                                        1979 MARCUS AVENUE, SUITE 210E
+COUNSEL TO ORACLE AMERICA, INC.                                                                               DOSHI LEGAL GROUP, P.C.                   LAKE SUCCESS NY 11042                                                               AMISH@DOSHILEGAL.COM                     Overnight Mail and Email
+                                                                                                                                                        ATTN: THOMAS A. PITTA, ESQ. JUDITH SWARTZ, ESQ.
+                                                                                                                                                        120 BROADWAY, 32ND FLOOR                                                            JSWARTZ@EMMETMARVIN.COM
+COUNSEL TO CADIAN                                                                                             EMMET, MARVIN & MARTIN, LLP               NEW YORK NY 10271                                                                   TPITTA@EMMETMARVIN.COM                   Overnight Mail and Email
+                                                                                                                                                        ATTN BANKRUPTCY DIVISION
+                                                                                                                                                        290 BROADWAY
+ENVIRONMENTAL PROTECTION AGENCY - REGION 2                                                                    ENVIRONMENTAL PROTECTION AGENCY           NEW YORK NY 10007-1866                                                                                                       Overnight Mail
+                                                                                                                                                        ATTN: GENERAL COUNSEL
+                                                                                                                                                        OFFICE OF GENERAL COUNSEL 2310A
+                                                                                                                                                        1200 PENNSYLVANIA AVE NW, 2310A
+ENVIRONMENTAL PROTECTION AGENCY                                                                               ENVIRONMENTAL PROTECTION AGENCY           WASHINGTON DC 20460                                                                                                          Overnight Mail
+                                                                                                                                                        ATTN: ANDREA L. GORDON
+                                                                                                                                                        700 SIXTH STREET NW, SUITE 700
+COUNSEL TO THE AD HOC COMMITTEE OF NON US CUSTOMERS OF FTX.COM                                                EVERSHEDS SUTHERLAND (US) LLP             WASHINGTON DC 20001                                                                 ANDREAGORDON@EVERSHEDS-SUTHERLAND.COM    Overnight Mail and Email
+                                                                                                                                                        ATTN: ERIN E. BRODERICK
+                                                                                                                                                        227 WEST MONROE STREET, SUITE 6000
+COUNSEL TO THE AD HOC COMMITTEE OF NON US CUSTOMERS OF FTX.COM                                                EVERSHEDS SUTHERLAND (US) LLP             CHICAGO IL 60606                                                                    ERINBRODERICK@EVERSHEDS-SUTHERLAND.COM   Overnight Mail and Email
+                                                                                                                                                        ATTN: MARK D. SHERRILL
+                                                                                                                                                        1001 FANNIN STREET, SUITE 3700
+COUNSEL TO THE AD HOC COMMITTEE OF NON US CUSTOMERS OF FTX.COM                                                EVERSHEDS SUTHERLAND (US) LLP             HOUSTON TX 77002                                                                    MARKSHERRILL@EVERSHEDS-SUTHERLAND.COM    Overnight Mail and Email
+                                                                                                                                                        ATTN: PETER A. IVANICK, SARAH E. PAUL, PHILIP H. EHRLICH, LYNN W. HOLBERT           PETERIVANICK@EVERSHEDS-SUTHERLAND.COM
+                                                                                                                                                        THE GRACE BUILDING, 40TH FLOOR                                                      SARAHPAUL@EVERSHEDS-SUTHERLAND.COM
+                                                                                                                                                        1114 AVENUE OF THE AMERICAS                                                         PHILIPEHRLICH@EVERSHEDS-SUTHERLAND.COM
+COUNSEL TO THE AD HOC COMMITTEE OF NON US CUSTOMERS OF FTX.COM                                                EVERSHEDS SUTHERLAND (US) LLP             NEW YORK NY 10036                                                                   LYNNHOLBERT@EVERSHEDS-SUTHERLAND.COM     Overnight Mail and Email
+                                                                                                                                                        ATTN: MICHAEL J. SMALL
+                                                                                                                                                        321 NORTH CLARK STREET, SUITE 3000
+COUNSEL TO MERCEDES-BENZ GRAND PRIX LIMITED                                                                   FOLEY & LARDNER LLP                       CHICAGO IL 60654                                                                    MSMALL@FOLEY.COM                         Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                 Page 3 of 10
+                                                                                  Case 22-11068-JTD                                   Doc 12844                      Filed 04/26/24                      Page 7 of 13
+                                                                                                                                                       Exhibit A
+                                                                                                                                                   Master Service List
+                                                                                                                                                Served as set forth below
+
+
+
+                                                  DESCRIPTION                                                                   NAME                                                               ADDRESS                                                     EMAIL               METHOD OF SERVICE
+                                                                                                                                                          ATTN: SAMANTHA RUPPENTHAL
+                                                                                                                                                          90 PARK AVENUE
+COUNSEL TO MERCEDES-BENZ GRAND PRIX LIMITED                                                                   FOLEY & LARDNER LLP                         NEW YORK NY 10016                                                                   SRUPPENTHAL@FOLEY.COM              Overnight Mail and Email
+                                                                                                                                                          ATTN: DAVID V. FONTANA
+                                                                                                                                                          1000 N. WEST STREET
+                                                                                                                                                          SUITE 1200
+COUNSEL TO BRANDON WILLIAMS                                                                                   GEBHARDT & SMITH LLP                        WILMINGTON DE 19081                                                                 GARBOGAST@GEBSMITH.COM             Overnight Mail and Email
+                                                                                                                                                          ATTN: MICHAEL BUSENKELL
+                                                                                                                                                          1201 NORTH ORANGE STREET
+                                                                                                                                                          SUITE 300
+COUNSEL TO BLOCKFI INC. AND AFFILIATES AS WINDDOWN DEBTORS                                                    GELLERT SCALI BUSENKELL & BROWN, LLC        WILMINGTON DE 19801                                                                 MBUSENKELL@GSBBLAW.COM             Overnight Mail and Email
+                                                                                                                                                          ATTN: CHRISTOPHER VICECONTE, ESQ.
+                                                                                                                                                          300 DELAWARE AVENUE
+                                                                                                                                                          SUITE 1015
+COUNSEL TO DR. MARCEL LÖTSCHER                                                                                GIBBONS P.C.                                WILMINGTON DE 19801-1671                                                            CVICECONTE@GIBBONSLAW.COM          Overnight Mail and Email
+                                                                                                                                                          ATTN: ROBERT K. MALONE, ESQ., BRETT S. THEISEN, ESQ.
+                                                                                                                                                          KYLE P. MCEVILLY, ESQ.                                                              RMALONE@GIBBONSLAW.COM
+                                                                                                                                                          ONE GATEWAY CENTER                                                                  BTHEISEN@GIBBONSLAW.COM
+COUNSEL TO DR. MARCEL LÖTSCHER                                                                                GIBBONS P.C.                                NEWARK NJ 07102-5310                                                                KMCEVILLY@GIBBONSLAW.COM           Overnight Mail and Email
+                                                                                                                                                          ATTN: SCOTT D. SIMON, ESQ.
+                                                                                                                                                          ONE PENN PLAZA
+                                                                                                                                                          SUITE 3100
+COUNSEL TO LATONA BIOSCIENCES GROUP AND ROSS RHEINGANS-YOO                                                    GOETZ FITZPATRICK LLP                       NEW YORK NY 10119                                                                   SSIMON@GOETZFITZ.COM               Overnight Mail and Email
+                                                                                                                                                          ATTN: BRIAN DAVIDOFF
+                                                                                                                                                          2049 CENTURY PARK EAST
+                                                                                                              GREENBERG GLUSKER FIELDS CLAMAN &           STE 2600
+COUNSEL FOR NORTH AMERICAN LEAGUE OF LEGENDS CHAMPIONSHIP SERIES, LLC                                         MACHTINGER LLP                              LOS ANGELES CA 90067-4590                                                           BDAVIDOFF@GREENBERGGLUSKER.COM     Overnight Mail and Email
+                                                                                                                                                          ATTN: RICHARD D. ANIGIAN, CHARLES M. JONES II
+                                                                                                                                                          2323 VICTORY AVENUE
+                                                                                                                                                          SUITE 700                                                                           RICK.ANIGIAN@HAYNESBOONE.COM
+COUNSEL TO BLOCKFI INC. AND AFFILIATES, BLOCKFI INC. AND AFFILIATES AS WINDDOWN DEBTORS                       HAYNES AND BOONE, LLP                       DALLAS TX 75219                                                                     CHARLIE.JONES@HAYNESBOONE.COM      Overnight Mail and Email
+                                                                                                                                                          ATTN: RICHARD KANOWITZ
+                                                                                                                                                          30 ROCKEFELLER PLAZA
+                                                                                                                                                          26TH FLOOR
+COUNSEL TO BLOCKFI INC. AND AFFILIATES, BLOCKFI INC. AND AFFILIATES AS WINDDOWN DEBTORS                       HAYNES AND BOONE, LLP                       NEW YORK NY 10112                                                                   RICHARD.KANOWITZ@HAYNESBOONE.COM   Overnight Mail and Email
+                                                                                                                                                          ATTN: DENNIS H. TRACEY, III, JOHN D. BECK, MAYA JUMPER                              DENNIS.TRACEY@HOGANLOVELLS.COM
+COUNSEL TO ROCKET INTERNET CAPITAL PARTNERS II SCS, ROCKET INTERNET CAPITAL PARTNERS (EURO) II SCS, GFC GLOBAL                                            390 MADISON AVENUE                                                                  DENNIS.TRACEY@HOGANLOVELLS.COM
+FOUNDERS CAPITAL GMBH AND GFC GLOBAL FOUNDERS CAPITAL GMBH & CO. BETEILIGUNGS KG NR. 1                         HOGAN LOVELLS US LLP                       NEW YORK NY 10017                                                                   MAYA.JUMPER@HOGANLOVELLS.COM       Overnight Mail and Email
+                                                                                                                                                                                                                                              WARREN.GLUCK@HKLAW.COM
+                                                                                                                                                          ATTN: WARREN E. GLUCK, ESQ., MARIE E. LARSEN, ESQ., DAVID W. WIRT, JESSICA MAGEE,   MARIE.LARSEN@HKLAW.COM
+                                                                                                                                                          SHARDUL DESAI                                                                       DAVID.WIRT@HKLAW.COM
+                                                                                                                                                          31 W. 52ND STREET                                                                   JESSICA.MAGEE@HKLAW.COM
+COUNSEL TO JOINT PROVISIONAL LIQUIDATORS OF FTX                                                               HOLLAND & KNIGHT LLP                        NEW YORK NY 10019                                                                   SHARDUL.DESAI@HKLAW.COM            Overnight Mail and Email
+
+COUNSEL TO MICHAEL BURGESS, HUY XUAN “KEVIN” NGUYEN, JING YU
+“DARREN” WONG, MATTHEW BURGESS, LESLEY BURGESS, 3TWELVE VENTURES LTD., AND BDK CONSULTING                                                                 LEVEL 8 224 BUNDA STREET
+LTD                                                                                                           HUGH SMITH ESQUIRE                          CANBERRA CITY, ACT 2601 AUSTRALIA                                                   HUGH.SMITH@CHAMBERLAINS.COM.AU     Overnight Mail and Email
+                                                                                                                                                          CENTRALIZED INSOLVENCY OPERATION
+                                                                                                                                                          2970 MARKET ST
+                                                                                                                                                          MAIL STOP 5-Q30.133
+IRS INSOLVENCY SECTION                                                                                        INTERNAL REVENUE SERVICE                    PHILADELPHIA PA 19104-5016                                                                                             Overnight Mail
+                                                                                                                                                          CENTRALIZED INSOLVENCY OPERATION
+                                                                                                                                                          P.O. BOX 7346
+IRS INSOLVENCY SECTION                                                                                        INTERNAL REVENUE SERVICE                    PHILADELPHIA PA 19101-7346                                                                                             Overnight Mail
+                                                                                                                                                          ATTN: MICHAEL J. JOYCE, ESQ.
+                                                                                                                                                          1225 KING STREET
+                                                                                                                                                          SUITE 800
+COUNSEL TO LATONA BIOSCIENCES GROUP AND ROSS RHEINGANS-YOO                                                    JOYCE, LLC                                  WILMINGTON DE 19801                                                                 MJOYCE@MJLAWOFFICES.COM            Overnight Mail and Email
+                                                                                                                                                          ATTN: BRIAN D. KOOSED, ESQ.
+                                                                                                                                                          1602 K STREET NW
+COUNSEL TO ALUMNI VENTURES GROUP AND ALUMNI VENTURES GROUP - EMBEDDED FINANCIAL TECHNOLOGIES TRUST A K&L GATES LLP                                        WASHINGTON DC 20006-1600                                                            BRIAN.KOOSED@KLGATES.COM           Overnight Mail and Email
+                                                                                                                                                          ATTN: ROBERT T. HONEYWELL, ESQ.
+                                                                                                                                                          599 LEXINGTON AVENUE
+COUNSEL TO ALUMNI VENTURES GROUP AND ALUMNI VENTURES GROUP - EMBEDDED FINANCIAL TECHNOLOGIES TRUST A K&L GATES LLP                                        NEW YORK NY 10022-6030                                                              ROBERT.HONEYWELL@KLGATES.COM       Overnight Mail and Email
+                                                                                                                                                          ATTN: STEVEN L. CAPONI, ESQ., MATTHEW B. GOELLER, ESQ., MEGAN E. O'CONNER, ESQ.
+                                                                                                                                                          600 N. KING STREET                                                                  STEVEN.CAPONI@KLGATES.COM
+                                                                                                                                                          SUITE 901                                                                           MATTHEW.GOELLER@KLGATES.COM
+COUNSEL TO ALUMNI VENTURES GROUP AND ALUMNI VENTURES GROUP - EMBEDDED FINANCIAL TECHNOLOGIES TRUST A K&L GATES LLP                                        WILMINGTON DE 19801                                                                 MEGAN.OCONNER@KLGATE.COM           Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                   Page 4 of 10
+                                                                                Case 22-11068-JTD                                 Doc 12844                       Filed 04/26/24                   Page 8 of 13
+                                                                                                                                                    Exhibit A
+                                                                                                                                                Master Service List
+                                                                                                                                             Served as set forth below
+
+
+
+                                                DESCRIPTION                                                                   NAME                                                           ADDRESS                                                    EMAIL            METHOD OF SERVICE
+                                                                                                                                                       ATTN: ANN M. KASHISHIAN
+                                                                                                                                                       501 SILVERSIDE ROAD, SUITE 85
+COUNSEL TO GABRIEL RECCHIA, CACENDISH LABS CO., BRADEN LEACH                                                KASHISHIAN LAW LLC                         WILMINGTON DE 19809                                                           AMK@KASHISHIANLAW.COM             Overnight Mail and Email
+                                                                                                                                                       ATTN: JANE KIM, GABRIELLE L. ALBERT
+                                                                                                                                                       650 CALIFORNIA ST. #1900                                                      JKIM@KBKLLP.COM
+COUNSEL TO ISLAND CAPITAL AND PAUL F. ARANHA                                                                KELLER BENVENUTTI KIM LLP                  SAN FRANCISCO CA 94108                                                        GALBERT@KBKLLP.COM                Overnight Mail and Email
+                                                                                                                                                       ATTN: LOUIS M. PHILLIPS
+                                                                                                                                                       301 MAIN ST., SUITE 1600
+COUNSEL FOR WORD OF GOD FELLOWSHIP, INC.                                                                    KELLY HART & HALLMAN LLP                   BATON ROUGE LA 70801                                                          LOUIS.PHILLIPS@KELLYHART.COM      Overnight Mail and Email
+                                                                                                                                                       ATTN: MICHAEL D. ANDERSON
+                                                                                                                                                       201 MAIN STREET, SUITE 2500
+COUNSEL FOR WORD OF GOD FELLOWSHIP, INC.                                                                    KELLY HART & HALLMAN LLP                   FORT WORTH TX 76102                                                           MICHAEL.ANDERSON@KELLYHART.COM    Overnight Mail and Email
+                                                                                                                                                                                                                                     LANDIS@LRCLAW.COM
+                                                                                                                                                                                                                                     BROWN@LRCLAW.COM
+                                                                                                                                                    ATTN: ADAM G. LANDIS, KIMBERLY A. BROWN, MATTHEW R. PIERCE, NICOLAS E. JENNER,   PIERCE@LRCLAW.COM
+                                                                                                                                                    GEORGE A. WILLIAMS III, MATTHEW MCGUIRE, HOWARD W. ROBERTSON IV                  JENNER@LRCLAW.COM
+                                                                                                                                                    919 MARKET STREET                                                                WILLIAMS@LRCLAW.COM
+                                                                                                                                                    SUITE 1800                                                                       MCGUIRE@LRCLAW.COM
+COUNSEL TO DEBTORS AND DEBTORS IN POSSESSION AND MACLAURIN INVESTMENTS LTD.                                 LANDIS RATH & COBB LLP                  WILMINGTON DE 19801                                                              ROBERTSON@LRCLAW.COM              Email
+                                                                                                                                                    ATTN: SCOTT D. COUSINS
+                                                                                                                                                    500 DELAWARE AVE
+                                                                                                                                                    SUITE 700
+COUNSEL TO EVOLVE BANK & TRUST                                                                              LEWIS BRISBOIS BISGAARD & SMITH LLP     WILMINGTON DE 19801                                                              SCOTT.COUSINS@LEWISBRISBOIS.COM   Overnight Mail and Email
+                                                                                                                                                    ATTN: IRA S. GREENE
+                                                                                                                                                    200 VESEY STREET
+COUNSEL TO PHALA LTD.                                                                                       LOCKE LORD LLP                          NEW YORK NY 10281                                                                IRA.GREENE@LOCKELORD.COM          Overnight Mail and Email
+                                                                                                                                                    ATTN: ANDREW BEHLMANN, COLLEEN M. RESTEL
+                                                                                                                                                    ONE LOWENSTEIN DRIVE                                                             ABEHLMANN@LOWENSTEIN.COM
+COUNSEL TO LIQUIDITY SOLUTIONS GLOBAL LTD. (THE “LSG”)                                                      LOWENSTEIN SANDLER LLP                  ROSELAND NJ 07068                                                                CRESTEL@LOWENSTEIN.COM            Overnight Mail and Email
+                                                                                                                                                    ATTN: JEFFREY S. PRICE, MELISSA J. LEE, SCOTT C. WILLIAMS
+                                                                                                                                                    1201 DEMONBREUN STREET                                                           JPRICE@MANIERHEROD.COM
+                                                                                                                                                    SUITE 900                                                                        MLEE@MANIERHEROD.COM
+COUNSEL TO PHILADELPHIA INDEMNITY INSURANCE COMPANY                                                         MANIER HEROD, P.C.                      NASHVILLE TN 37213                                                               SWILLIAMS@MANIERHEROD.COM         Overnight Mail and Email
+                                                                                                                                                    ATTN: DAVID ADLER ESQ.
+                                                                                                                                                    WORLDWIDE PLAZA
+                                                                                                                                                    825 EIGHTH AVE., 31ST FLOOR
+COUNSEL TO SUNIL KAVURI, AHMED ABD-EL-RAZEK NOIA CAPITAL SARL, PAT RABITTE                                  MCCARTER & ENGLISH LLP                  NEW YORK NY 10019                                                                DADLER@MCARTER.COM                Overnight Mail and Email
+                                                                                                                                                    ATTN: KATE ROGGIO BUCK, MATTHEW J. RIFINO, SHANNON D. HUMISTON
+                                                                                                                                                    RENAISSANCE CENTRE                                                               KBUCK@MCCARTER.COM
+COUNSEL TO LIGHTCONE INFRASTRUCTURE, CENTER FOR APPLIED RATIONALITY (“CFAR”), SUNIL KAVURI, AHMED ABD-EL-                                           405 N. KING STREET, 8TH FLOOR                                                    MRIFINO@MCCARTER.COM
+RAZEK NOIA CAPITAL SARL, PAT RABITTE, BIDDER 1                                                              MCCARTER & ENGLISH LLP                  WILMINGTON DE 19801                                                              SHUMISTON@MCCARTER.COM            Overnight Mail and Email
+                                                                                                                                                    ATTN: LISA S. BOSSALL, PHILLIP S. PAVLICK
+                                                                                                                                                    FOUR GATEWAY CENTER
+                                                                                                                                                    100 MULBERYY STREET                                                              LLBONSALL@MCCARTER.COM
+COUNSEL TO BIDDER 1                                                                                         MCCARTER & ENGLISH LLP                  NEWARK NJ 07102                                                                  PPAVLICK@MCCARTER.COM             Overnight Mail and Email
+                                                                                                                                                    ATTN: DARREN AZMAN, JOHN J. CALANDRA                                             DAZMAN@MWE.COM
+                                                                                                                                                    JOSEPH B. EVANS, ELIZABETH RODD                                                  JCALANDRA@MWE.COM
+PLAN ADMINISTRATOR (THE “PLAN ADMINISTRATOR”) AS MANAGER OF VOYAGER DIGITAL HOLDINGS, INC., VOYAGER                                                 ONE VANDERBILT AVENUE                                                            JBEVANS@MWE.COM
+DIGITAL LTD., AND VOYAGER DIGITAL, LLC, THE WIND-DOWN DEBTORS                                               MCDERMOTT WILL & EMERY LLP              NEW YORK NY 10017-3852                                                           ERODD@MWE.COM                     Overnight Mail and Email
+                                                                                                                                                    ATTN: MARIS J. KANDESTIN
+                                                                                                                                                    THE NEMOURS BUIDLING
+PLAN ADMINISTRATOR (THE “PLAN ADMINISTRATOR”) AS MANAGER OF VOYAGER DIGITAL HOLDINGS, INC., VOYAGER                                                 1007 NORTH ORANGE STREET, 10TH FLOOR
+DIGITAL LTD., AND VOYAGER DIGITAL, LLC, THE WIND-DOWN DEBTORS                                               MCDERMOTT WILL & EMERY LLP              WILMINGTON DE 19801                                                              MKANDESTIN@MWE.COM                Overnight Mail and Email
+                                                                                                                                                    ATTN: GARY D. BRESSLER, DAVID P. PRIMACK
+                                                                                                                                                    300 DELAWARE AVENUE
+                                                                                                            MCELROY, DEUTSCH, MULVANEY & CARPENTER, SUITE 1014                                                                       GBRESSLER@MDMC-LAW.COM
+COUNSEL TO PHILADELPHIA INDEMNITY INSURANCE COMPANY, NEW JERSEY BUREAU OF SECURITIES                        LLP                                     WILMINGTON DE 19801                                                              DPRIMACK@MDMC-LAW.COM             Overnight Mail and Email
+                                                                                                                                                    ATTN: JEFFREY BERNSTEIN
+                                                                                                                                                    570 BROAD STREET
+                                                                                                            MCELROY, DEUTSCH, MULVANEY & CARPENTER, SUITE 1401
+COUNSEL TO NEW JERSEY BUREAU OF SECURITIES                                                                  LLP                                     NEWARK NJ 07102                                                                  JBERNSTEIN@MDMC-LAW.COM           Overnight Mail and Email
+                                                                                                                                                    ATTN: MICHAEL R. MORANO, ESQ.
+                                                                                                                                                    1300 MT. KEMBLE AVENUE
+                                                                                                            MCELROY, DEUTSCH, MULVANEY & CARPENTER, P.O. BOX 2075
+COUNSEL TO PHILADELPHIA INDEMNITY INSURANCE COMPANY                                                         LLP                                     MORRISTOWN NJ 07962                                                              MMORANO@MDMC-LAW.COM              Overnight Mail and Email
+                                                                                                                                                    ATTN: NICOLE LEONARD
+                                                                                                                                                    225 LIBERTY STREET
+                                                                                                            MCELROY, DEUTSCH, MULVANEY & CARPENTER, 36TH FLOOR
+COUNSEL TO NEW JERSEY BUREAU OF SECURITIES                                                                  LLP                                     NEW YORK NY 10281                                                                NLEONARD@MDMC-LAW.COM             Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                Page 5 of 10
+                                                                               Case 22-11068-JTD                               Doc 12844                          Filed 04/26/24                     Page 9 of 13
+                                                                                                                                                    Exhibit A
+                                                                                                                                                Master Service List
+                                                                                                                                             Served as set forth below
+
+
+
+                                                 DESCRIPTION                                                                NAME                                                            ADDRESS                                                      EMAIL            METHOD OF SERVICE
+                                                                                                                                                       BANKRUPTCY UNIT
+                                                                                                                                                       200 NW 2ND AVENUE, #430                                                        PRISCILLA.WINDLEY@MIAMIDADE.GOV
+GOVERNMENTAL                                                                                             MIAMI-DADE OFFICE OF THE TAX COLLECTOR        MIAMI FL 33128                                                                 MDTCBKC@MIAMIDADE.GOV             Overnight Mail and Email
+                                                                                                                                                       ATTN: STEVEN A. GINTHER, GENERAL COUNSEL
+                                                                                                                                                       PO BOX 475
+MISSOURI DEPARTMENT OF REVENUE                                                                           MO BANKRUPTCY UNIT                            JEFFERSON CITY MO 65105-0475                                                   DEECF@DOR.MO.GOV                  Overnight Mail and Email
+                                                                                                                                                       ATTN: JODY C. BARILLARE
+                                                                                                                                                       1201 N. MARKET STREET
+                                                                                                                                                       SUITE 2201
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF EMERGENT FIDELITY TECHNOLOGIES LTD                       MORGAN, LEWIS & BOCKIUS LLP                   WILMINGTON DE 19801                                                            JODY.BARILLARE@MORGANLEWIS.COM    Overnight Mail and Email
+                                                                                                                                                       ATTN: JOHN C. GOODCHILD III; MATTHEW C. ZIEGLER
+                                                                                                                                                       1701 MARKET STREET                                                             JOHN.GOODCHILD@MORGANLEWIS.COM
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF EMERGENT FIDELITY TECHNOLOGIES LTD                       MORGAN, LEWIS & BOCKIUS LLP                   PHILADELPHIA PA 19103                                                          MATTHEW.ZIEGLER@MORGANLEWIS.COM   Overnight Mail and Email
+                                                                                                                                                       ATTN: JOSHUA DORCHAK; DAVID K. SHIM
+                                                                                                                                                       101 PARK AVENUE                                                                JOSHUA.DORCHAK@MORGANLEWIS.COM
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF EMERGENT FIDELITY TECHNOLOGIES LTD                       MORGAN, LEWIS & BOCKIUS LLP                   NEW YORK NY 10178                                                              DAVID.SHIM@MORGANLEWIS.COM        Overnight Mail and Email
+                                                                                                                                                                                                                                      EMONZO@MORRISJAMES.COM
+COUNSEL TO MICHAEL BURGESS, HUY XUAN “KEVIN” NGUYEN, JING YU                                                                                           ATTN: ERIC J. MONZO, TARA C. PAKROUH, CHRISTOPHER M. DONNELLY
+“DARREN” WONG, MATTHEW BURGESS, LESLEY BURGESS, 3TWELVE VENTURES LTD., AND BDK CONSULTING LTD, GENETIC                                                 500 DELAWARE AVENUE SUITE 1500                                                 TPAKROUH@MORRISJAMES.COM
+NETWORKS LLC                                                                                             MORRIS JAMES LLP                              WILMINGTON DE 19801                                                            CDONNELY@MORRISJAMES.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: ERIC J. MONZO, SARAH M. ENNIS
+                                                                                                                                                       TARA C. PAKROUTH                                                               EMONZO@MORRISJAMES.COM
+                                                                                                                                                       500 DELAWARE AVENUE, SUITE 1500                                                SENNIS@MORRISJAMES.COM
+COUNSEL TO LAURENCE BEAL                                                                                 MORRIS JAMES LLP                              WILMINGTON DE 19801                                                            TPAKROUH@MORRISJAMES.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: DONNA L. CULVER, DANIEL B. BUTZ
+                                                                                                                                                       1201 NORTH MARKET STREET, 16TH FLOOR
+                                                                                                                                                       P.O. BOX 1347                                                                  DCULVER@MORRISNICHOLS.COM
+COUNSEL TO STEADVIEW CAPITAL MAURITIUS LIMITED                                                           MORRIS, NICHOLS, ARSHT & TUNNELL LLP          WILMINGTON DE 19899-1347                                                       DBUTZ@MORRISNICHOLS.COM           Overnight Mail and Email
+                                                                                                                                                       ATTN: MATTHEW B. HARVEY
+                                                                                                                                                       1201 NORTH MARKET STREET, 16TH FLOOR
+COUNSEL TO THE AD HOC COMMITTEE OF NON US CUSTOMERS OF FTX.COM                                           MORRIS, NICHOLS, ARSHT & TUNNELL LLP          WILMINGTON DE 19801                                                            MHARVEY@MORRISNICHOLS.COM         Overnight Mail and Email
+                                                                                                                                                       ATTN: JOSEPH T. MOLDOVAN, HEATH D. ROSENBLAT; JASON P. GOTTLIEB, MICHAEL MIX   JMOLDOVAN@MORRISONCOHEN.COM
+                                                                                                                                                       909 THIRD AVENUE                                                               HROSENBLAT@MORRISONCOHEN.COM
+                                                                                                                                                       27TH FLOOR                                                                     JGOTTLIEB@MORRISONCOHEN.COM
+COUNSEL TO LOREM IPSUM UG, PATRICK GRUHN, ROBIN MATZKE, AND BRANDON WILLIAMS                             MORRISON COHEN LLP                            NEW YORK NY 10022                                                              MMIX@MORRISONCOHEN.COM            Overnight Mail and Email
+                                                                                                                                                       ATTN: KAREN CORDRY
+                                                                                                         NATIONAL ASSOCIATION OF ATTORNEYS             1850 M ST., NW 12TH FLOOR
+NATIONAL ASSOCIATION OF ATTORNEYS GENERAL                                                                GENERAL                                       WASHINGTON DC 20036                                                            KCORDRY@NAAG.ORG                  Email
+                                                                                                                                                       ATTN: LINFENG DONG, OMC CHAMBERS
+                                                                                                                                                       WICKHAMS CAY 1
+COMMITTEE OF UNSECURED CREDITORS                                                                         OCTOPUS INFORMATION LTD                       ROAD TOWN, TORTOLA BRITISH VIRGIN ISLANDS                                      OCTOPUS_FTX@TEAMB.CN              Overnight Mail and Email
+                                                                                                                                                       ATTN: AMY L. PATTERSON
+                                                                                                         OFFICE OF THE ATTORNEY GENERAL OF             40 CAPITOL SQUARE, S.W.
+COUNSEL TO THE GEORGIA DEPARTMENT OF BANKING AND FINANCE                                                 GEORGIA                                       ATLANTA GA 30334                                                               APATTERSON@LAW.GA.GOV             Overnight Mail and Email
+                                                                                                                                                       ATTN: ROMA N. DESAI, LAYLA D. MILLIGAN, ABIGAIL R. RYAN                        ROMA.DESAI@OAG.TEXAS.GOV
+                                                                                                         OFFICE OF THE ATTORNEY GENERAL OF TEXAS,      P.O. BOX 12548 MC008                                                           LAYLA.MILLIGAN@OAG.TEXAS.GOV
+COUNSEL TO THE TEXAS STATE SECURITIES BOARD AND THE TEXAS DEPARTMENT OF BANKING                          BANKRUPTCY & COLLECTIONS DIVISION             AUSTIN TX 78711-2548                                                           ABIGAIL.RYAN@OAG.TEXAS.GOV        Overnight Mail and Email
+                                                                                                                                                       ATTN: JOHN P. REDING
+                                                                                                                                                       100 W. RANDOLPH ST.
+                                                                                                                                                       SUITE 13-225
+COUNSEL TO ILLINOIS DEPARTMENT OF FINANCIAL & PROFESSIONAL REGULATION                                    OFFICE OF THE ILLINOIS ATTORNEY GENERAL       CHICAGO IL 60601                                                               JOHN.REDING@ILAG.GOV              Overnight Mail and Email
+                                                                                                                                                       ATTN: ROBERT J. ROCK
+COUNSEL TO THE NEW YORK STATE                                                                            OFFICE OF THE NEW YORK STATE ATTORNEY         THE CAPITOL
+DEPARTMENT OF TAXATION AND FINANCE (“NYSTAX”)                                                            GENERAL                                       ALBANY NY 12224-0341                                                           ROBERT.ROCK@AG.NY.GOV             Overnight Mail and Email
+                                                                                                                                                       ATTN: Laura L. McCloud
+                                                                                                         OFFICE OF THE TN ATTORNEY GENERAL,            PO BOX 20207
+TN DEPT OF FINANCIAL INSTITUTIONS                                                                        BANKRUPTCY DIVISION                           NASHVILLE TN 37202-0207                                                        AGBANKDELAWARE@AG.TN.GOV          Overnight Mail
+                                                                                                                                                       ATTN: BENJAMIN A. HACKMAN, DAVID GERARDI, JON.LIPSHIE
+                                                                                                                                                       844 KING STREET, ROOM 2207                                                     BENJAMIN.A.HACKMAN@USDOJ.GOV
+                                                                                                                                                       LOCKBOX #35                                                                    DAVID.GERARDI@USDOJ.GOV
+UNITED STATES TRUSTEE DISTRICT OF DELAWARE                                                               OFFICE OF THE UNITED STATES TRUSTEE           WILMINGTON DE 19899-0035                                                       JON.LIPSHIE@USDOJ.GOV             Email
+                                                                                                                                                       ATTN: LINDA RICHENDERFER, ESQ.
+                                                                                                                                                       J. CALEB BOGGS FEDERAL BUILDING
+                                                                                                                                                       844 KING STREET, SUITE 2207, LOCKBOX 35
+OFFICE OF THE UNITED STATES TRUSTEE                                                                      OFFICE OF THE UNITED STATES TRUSTEE           WILMINGTON DE 19801                                                            LINDA.RICHENDERFER@USDOJ.GOV      Email
+                                                                                                                                                       ATTN: JASON H. ROSELL, COLIN R. ROBINSON
+                                                                                                                                                       919 N. MARKET STREET
+                                                                                                                                                       17TH FLOOR                                                                     JROSELL@PSZJLAW.COM
+COUNSEL TO D1 VENTURES                                                                                   PACHULSKI STANG ZIEHL & JONES LLP             WILMINGTON DE 19801                                                            CROBINSON@PSZJLAW.COM             Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                Page 6 of 10
+                                                                                  Case 22-11068-JTD                                  Doc 12844                          Filed 04/26/24                    Page 10 of 13
+                                                                                                                                                          Exhibit A
+                                                                                                                                                      Master Service List
+                                                                                                                                                   Served as set forth below
+
+
+
+                                                 DESCRIPTION                                                                       NAME                                                             ADDRESS                                                   EMAIL                 METHOD OF SERVICE
+                                                                                                                                                             ATTN: LAURA DAVIS JONES, PETER J. KEANE
+                                                                                                                                                             919 N. MARKET STREET, 17TH FLOOR
+                                                                                                                                                             P.O. BOX 8705                                                                 LJONES@PSZJLAW.COM
+COUNSEL TO LOREM IPSUM UG, PATRICK GRUHN, ROBIN MATZKE, AND BRANDON WILLIAMS                                   PACHULSKI STANG ZIEHL & JONES LLP             WILMINGTON DE 19899-8705                                                      PKEANE@PSZJLAW.COM                     Overnight Mail and Email
+                                                                                                                                                             ATTN: TEDDY M. KAPUR
+                                                                                                                                                             10100 SANTA MONIVA BLVD
+                                                                                                                                                             13TH FLOOR
+COUNSEL TO SIDHAR SAHIN                                                                                        PACHULSKI STANG ZIEHL & JONES LLP             LOS ANGELES CA 90067-4003                                                     TKAPUR@PSZJLAW.COM                     Overnight Mail and Email
+                                                                                                                                                             ATTN: JASON H. ROSELL, MARY F. CALOWAY
+                                                                                                                                                             ONE SANSOME STREET
+                                                                                                                                                             SUITE 3430                                                                         JROSELL@PSZJLAW.COM
+COUNSEL TO THE MOSKOWITZ LAW FIRM, PLLC AND BOIES SCHILLER FLEXNER LLP ("FTX MDL CO-LEAD COUNSEL")             PACHULSKI STANG ZIEHL & JONES LLP             SAN FRANCISCO CA 94104                                                             MCALOWAY@PSZJLAW.COM              Overnight Mail and Email
+                                                                                                                                                                                                                                                GABESASSON@PAULHASTINGS.COM
+                                                                                                                                                                                                                                                KRISHANSEN@PAULHASTINGS.COM
+                                                                                                                                                             ATTN: GABE E. SASSON, KRISTOPHER M. HANSEN, KENNETH PASQUALE, LUC A. DESPINS, EREZ KENPASQUALE@PAULHASTINGS.COM
+                                                                                                                                                             E. GILAD AND SAMANTHA MARTIN                                                       EREZGILAD@PAULHASTINGS.COM
+                                                                                                                                                             200 PARK AVENUE                                                                    LUCDESPINS@PAULHASTINGS.COM
+COUNSEL TO OFFICIAL COMMITTEE OF UNSECURED CREDITORS                                                           PAUL HASTINGS                                 NEW YORK NY 10166                                                                  SAMANTHAMARTIN@PAULHASTINGS.COM   Overnight Mail and Email
+
+COUNSEL TO EMBED SHAREHOLDER DEFENDANTS THE 2016 KARKAL FAMILY TRUST; ACREW CAPITAL FUND (A), L.P.; ACREW
+CAPITAL FUND, L.P.; ACREW CAPITAL MGP, LLC; BAIN CAPITAL VENTURE FUND 2019 LP; BCIP VENTURE ASSOCIATES II, L.P.;
+BCIP VENTURE ASSOCIATES II-B, L.P.; BCV 2019-MD PRIMARY, L.P.; BUCKLEY VENTURES GP, LLC; BUCKLEY VENTURES, LP;
+CORRELATION VENTURES II, LP; FIN VC REGATTA I, LP; HOMEBREW VENTURES III, LP; JONATHAN CHRISTODORO; KAMRAN
+ANSARI; LAUNCHPAD CAPITAL FUND I LP; LGF II, L.P.; LIQUID 2 VENTURES FUND II, L.P.; PROPEL VENTURE PARTNERS, LLC;
+PROPEL VENTURE PARTNERS US FUND I LP; PUTNAM (WARREN LOWELL PUTNAM & BRYNN JINNETT PUTNAM, TENANTS IN                                                        ATTN: ELIZABETH WANG, DANIEL A. MASON
+COMMON); SAMUEL JONES; TORCH CAPITAL II, LP; TRANSPOSE PLATFORM O/B/O TI PLATFORM FUND II; TI PLATFORM NLI                                                   1313 NORTH MARKET STREET, SUITE 806
+VENTURE LIMITED II; TRANSPOSE PLATFORM FINTECH FUND II, L.P.; TI PLATFORM FUND II, LP; TREASURY FUND I, LP; Y     PAUL, WEISS, RIFKIND, WHARTON & GARRISON   POST OFFICE BOX 32                                                            DMASON@PAULWEISS.COM
+COMBINATOR; Y COMBINATOR ES20, LLC; AND YCC20, L.P.                                                               LLP                                        WILMINGTON DE 19899-0032                                                      EWANG@PAULWEISS.COM                    Overnight Mail and Email
+
+COUNSEL TO EMBED SHAREHOLDER DEFENDANTS THE 2016 KARKAL FAMILY TRUST; ACREW CAPITAL FUND (A), L.P.; ACREW
+CAPITAL FUND, L.P.; ACREW CAPITAL MGP, LLC; BAIN CAPITAL VENTURE FUND 2019 LP; BCIP VENTURE ASSOCIATES II, L.P.;
+BCIP VENTURE ASSOCIATES II-B, L.P.; BCV 2019-MD PRIMARY, L.P.; BUCKLEY VENTURES GP, LLC; BUCKLEY VENTURES, LP;
+CORRELATION VENTURES II, LP; FIN VC REGATTA I, LP; HOMEBREW VENTURES III, LP; JONATHAN CHRISTODORO; KAMRAN
+ANSARI; LAUNCHPAD CAPITAL FUND I LP; LGF II, L.P.; LIQUID 2 VENTURES FUND II, L.P.; PROPEL VENTURE PARTNERS, LLC;
+PROPEL VENTURE PARTNERS US FUND I LP; PUTNAM (WARREN LOWELL PUTNAM & BRYNN JINNETT PUTNAM, TENANTS IN
+COMMON); SAMUEL JONES; TORCH CAPITAL II, LP; TRANSPOSE PLATFORM O/B/O TI PLATFORM FUND II; TI PLATFORM NLI                                                   ATTN: WILLIAM A. CLAREMAN, GREGORY F. LAUFER, KENNETH S. ZIMAN                WCLAREMAN@PAULWEISS.COM
+VENTURE LIMITED II; TRANSPOSE PLATFORM FINTECH FUND II, L.P.; TI PLATFORM FUND II, LP; TREASURY FUND I, LP; Y     PAUL, WEISS, RIFKIND, WHARTON & GARRISON   1285 AVENUE OF THE AMERICAS                                                   GLAUFER@PAULWEISS.COM
+COMBINATOR; Y COMBINATOR ES20, LLC; AND YCC20, L.P.                                                               LLP                                        NEW YORK NY 10019-6064                                                        KZIMAN@PAULWEISS.COM                   Overnight Mail and Email
+
+COUNSEL TO EMBED SHAREHOLDER DEFENDANTS THE 2016 KARKAL FAMILY TRUST; ACREW CAPITAL FUND (A), L.P.; ACREW
+CAPITAL FUND, L.P.; ACREW CAPITAL MGP, LLC; BAIN CAPITAL VENTURE FUND 2019 LP; BCIP VENTURE ASSOCIATES II, L.P.;
+BCIP VENTURE ASSOCIATES II-B, L.P.; BCV 2019-MD PRIMARY, L.P.; BUCKLEY VENTURES GP, LLC; BUCKLEY VENTURES, LP;
+CORRELATION VENTURES II, LP; FIN VC REGATTA I, LP; HOMEBREW VENTURES III, LP; JONATHAN CHRISTODORO; KAMRAN
+ANSARI; LAUNCHPAD CAPITAL FUND I LP; LGF II, L.P.; LIQUID 2 VENTURES FUND II, L.P.; PROPEL VENTURE PARTNERS, LLC;
+PROPEL VENTURE PARTNERS US FUND I LP; PUTNAM (WARREN LOWELL PUTNAM & BRYNN JINNETT PUTNAM, TENANTS IN                                                        ATTN:RANDALL S. LUSKEY
+COMMON); SAMUEL JONES; TORCH CAPITAL II, LP; TRANSPOSE PLATFORM O/B/O TI PLATFORM FUND II; TI PLATFORM NLI                                                   535 MISSION STREET
+VENTURE LIMITED II; TRANSPOSE PLATFORM FINTECH FUND II, L.P.; TI PLATFORM FUND II, LP; TREASURY FUND I, LP; Y     PAUL, WEISS, RIFKIND, WHARTON & GARRISON   24TH FLOOR
+COMBINATOR; Y COMBINATOR ES20, LLC; AND YCC20, L.P.                                                               LLP                                        SAN FRANCISCO CA 94105                                                        RLUSKEY@PAULWEISS.COM                  Overnight Mail and Email
+                                                                                                                                                             ATTTN: M. BLAKE CLEARY, R. STEPHEN MCNEILL, SAMEEN RIZVI, ESQ.                BCLEARY@POTTERANDERSON.COM
+                                                                                                                                                             1313 N. MARKET STREET, 6TH FLOOR                                              RMCNEILL@POTTERANDERSON.COM
+COUNSEL TO LAYERZERO LABS LTD., ARI LITAN AND SKIP & GOOSE, LLC                                                POTTER ANDERSON & CORROON LLP                 WILMINGTON DE 19801                                                           SRIZVI@POTTERANDERSON.COM              Overnight Mail and Email
+                                                                                                                                                             ATTN: BRIAN S. ROSEN, DYLAN J. MARKER
+                                                                                                                                                             ELEVEN TIMES SQUARE                                                           BROSEN@PROSKAUER.COM
+COUNSEL TO LAYERZERO LABS LTD., ARI LITAN AND SKIP & GOOSE, LLC                                                PROSKAUER ROSE LLP                            NEW YORK NY 10036-8299                                                        DMARKER@PROSKAUER.COM                  Overnight Mail and Email
+                                                                                                                                                             ATTN: JORDAN E. SAZANT
+                                                                                                                                                             70 WEST MADISON STREET
+                                                                                                                                                             SUITE 3800
+COUNSEL TO LAYERZERO LABS LTD., ARI LITAN AND SKIP & GOOSE, LLC                                                PROSKAUER ROSE LLP                            CHICAGO IL 60602-4342                                                         JSAZANT@PROSKAUER.COM                  Overnight Mail and Email
+                                                                                                                                                             ATTN: BRIAN SIMMS, K.C., KEVIN CAMBRIDGE, PETER GREAVES
+                                                                                                                                                             3 BAYSIDE EXECUTIVE PARK, WEST BAY STREET & BLAKE ROAD                        BSIMMS@LENNOXPATON.COM
+                                                                                                               PROVISIONAL LIQUIDATOR OF FTX DIGITAL         PO BOX N-4875                                                                 KEVIN.CAMBRIDGE@PWC.COM
+PROVISIONAL LIQUIDATOR OF FTX DIGITAL MARKETS LTD.                                                             MARKETS LTD.                                  NASSAU THE BAHAMAS                                                            PETER.GREAVES@HK.PWC.COM               Overnight Mail and Email
+                                                                                                                                                             ATTN: MICHELE WAN AND JACKY YIP
+                                                                                                                                                             UNIT 903-905, K11 ATELIER VICTORIA DOCKSIDE
+                                                                                                                                                             18 SALISBURY ROAD                                                             MICHELE.WAN@PULSAR.COM
+COMMITTEE OF UNSECURED CREDITORS                                                                               PULSAR GLOBAL LTD                             KOWLOON HONG KONG                                                             JACKY.YIP@PULSAR.COM                   Overnight Mail and Email
+                                                                                                                                                             ATTN: AARON JAVIAN
+COUNSEL TO FOUNDATION SERENDIPITY, FOUNDATION ELEMENTS, SERENDIPITY NETWORK LTD, AND LIQUDITY NETWORK                                                        599 LEXINGTON AVENUE
+LTD                                                                                                            REED SMITH LLP                                NEW YORK NY 10022                                                             AJAVIAN@REEDSMITH.COM                  Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                      Page 7 of 10
+                                                                                 Case 22-11068-JTD                                 Doc 12844                          Filed 04/26/24                    Page 11 of 13
+                                                                                                                                                        Exhibit A
+                                                                                                                                                    Master Service List
+                                                                                                                                                 Served as set forth below
+
+
+
+                                                 DESCRIPTION                                                                     NAME                                                        ADDRESS                                                        EMAIL          METHOD OF SERVICE
+                                                                                                                                                       ATTN: KURT F. GWYNNE
+                                                                                                                                                       1201 N. MARKET STREET
+COUNSEL TO FOUNDATION SERENDIPITY, FOUNDATION ELEMENTS, SERENDIPITY NETWORK LTD, AND LIQUDITY NETWORK                                                  SUITE 1500
+LTD                                                                                                            REED SMITH LLP                          WILMINGTON DE 19801                                                                KGWYNNE@REEDSMITH.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: NICHOLAS A. PASALIDES, ESQ.
+                                                                                                                                                       235 MAIN STREET, SUITE 450
+COUNSEL TO CHAINALYSIS INC.                                                                                    REICH REICH & REICH, P.C.               WHITE PLAINS NY 10601                                                              NPASALIDES@REICHPC.COM         Overnight Mail and Email
+                                                                                                                                                       ATTN: KEVIN GROSS, PAUL N. HEATH, DAVID T. QUEROLI, BRENDAN J. SCHLAUCH            GROSS@RLF.COM
+                                                                                                                                                       ONE RODNEY SQUARE                                                                  HEATH@RLF.COM
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN PROVISIONAL LIQUIDATION), JOINT                                           920 NORTH KING STREET                                                              QUEROLI@RLF.COM
+OFFICIAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN OFFICIAL LIQUIDATION)                                     RICHARDS, LAYTON & FINGER, P.A.         WILMINGTON DE 19801                                                                SCHLAUCH@RLF.COM               Overnight Mail and Email
+                                                                                                                                                       ATTN: FREDERICK CHANG
+                                                                                                                                                       506 2ND AVE., SUITE 1400
+COUNSEL TO BASTION WORLDWIDE LIMITED                                                                           RIMON, P.C.                             SEATTLE WA 98104                                                                   FREDERICK.CHANG@RIMONLAW.COM   Overnight Mail and Email
+                                                                                                                                                       ATTN: JACQUELYN H. CHOI
+                                                                                                                                                       2029 CENTURY PARK EAST, SUITE 400N
+COUNSEL TO BASTION WORLDWIDE LIMITED                                                                           RIMON, P.C.                             LOS ANGELES CA 90067                                                               JACQUELYN.CHOI@RIMONLAW.COM    Overnight Mail and Email
+                                                                                                                                                       ATTN: JAMIE L. EDMONSON
+                                                                                                                                                       1201 N. MARKET STREET
+                                                                                                                                                       SUITE 1406
+COUNSEL FOR NORTH AMERICAN LEAGUE OF LEGENDS CHAMPIONSHIP SERIES, LLC                                          ROBINSON & COLE LLP                     WILMINGTON DE 19801                                                                JEDMONSON@RC.COM               Overnight Mail and Email
+                                                                                                                                                       ATTN: LUCIAN B. MURLEY
+                                                                                                                                                       1201 NORTH MARKET STREET, SUITE 2300
+                                                                                                                                                       P.O. BOX 1266
+COUNSEL TO THE DEFENDANT WILLIAM HOCKEY LIVING TRUST & DEFENDANTS LISTED ON EXHIBIT A                          SAUL EWING LLP                          WILMINGTON DE 19899                                                                LUKE.MURLEY@SAUL.COM           Overnight Mail and Email
+                                                                                                                                                       ATTN: DOUGLAS S. MINTZ
+                                                                                                                                                       555 13TH STREET, NW, SUITE 6W
+COUNSEL TO STEADVIEW CAPITAL MAURITIUS LIMITED                                                                 SCHULTE ROTH & ZABEL LLP                WASHINGTON DC 20004                                                                DOUGLAS.MINTZ@SRZ.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: REUBEN E. DIZENGOFF
+                                                                                                                                                       919 THIRD AVENUE
+COUNSEL TO STEADVIEW CAPITAL MAURITIUS LIMITED                                                                 SCHULTE ROTH & ZABEL LLP                NEW YORK NY 10022                                                                  REUBEN.DIZENGOFF@SRZ.COM       Overnight Mail and Email
+                                                                                                                                                       SECRETARY OF THE TREASURY
+                                                                                                                                                       100 F. STREET NE
+SECURITIES AND EXCHANGE COMMISSION - HEADQUARTERS                                                              SECURITIES & EXCHANGE COMMISSION        WASHINGTON DC 20549                                                                SECBANKRUPTCY@SEC.GOV          Overnight Mail and Email
+                                                                                                                                                       ATTN: BANKRUPTCY DEPT
+                                                                                                                                                       BROOKFIELD PLACE
+                                                                                                               SECURITIES & EXCHANGE COMMISSION - NY   200 VESEY STREET, STE 400                                                          BANKRUPTCYNOTICESCHR@SEC.GOV
+SECURITIES AND EXCHANGE COMMISSION - REGIONAL OFFICE                                                           OFFICE                                  NEW YORK NY 10281-1022                                                             NYROBANKRUPTCY@SEC.GOV         Overnight Mail and Email
+                                                                                                                                                       ATTN: BANKRUPTCY DEPT
+                                                                                                                                                       ONE PENN CENTER
+                                                                                                               SECURITIES & EXCHANGE COMMISSION -      1617 JFK BLVD, STE 520
+SECURITIES AND EXCHANGE COMMISSION - REGIONAL OFFICE                                                           PHILADELPHIA OFFICE                     PHILADELPHIA PA 19103                                                              SECBANKRUPTCY@SEC.GOV          Overnight Mail and Email
+                                                                                                                                                       ATTN: BANKRUPTCY DEPT
+                                                                                                                                                       CARVEL STATE OFFICE BLDG.
+                                                                                                                                                       820 N. FRENCH ST.
+STATE ATTORNEY GENERAL                                                                                         STATE OF DELAWARE ATTORNEY GENERAL      WILMINGTON DE 19801                                                                ATTORNEY.GENERAL@STATE.DE.US   Overnight Mail and Email
+                                                                                                                                                       ATTN: DANIEL M. PEREIRA
+                                                                                                                                                       1000 N. WEST STREET
+                                                                                                                                                       SUITE 1200
+COUNSEL TO NATHANIEL PARKE                                                                                     STRADLEY RONON STEVENS & YOUNG, LLP     WILMINGTON DE 19801                                                                DPEREIRA@STRADLEY.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: DEBORAH A. REPEROWITZ
+                                                                                                                                                       100 PARK AVENUE
+                                                                                                                                                       SUITE 2000
+COUNSEL TO NATHANIEL PARKE                                                                                     STRADLEY RONON STEVENS & YOUNG, LLP     NEW YORK NY 10017                                                                  DREPEROWITZ@STRADLEY.COM       Overnight Mail and Email
+                                                                                                                                                       ATTN: SABRINA L. STREUSAND, ANH NGUYEN
+                                                                                                                                                       1801 S. MOPAC EXPRESSWAY
+                                                                                                                                                       SUITE 320                                                                          STREUSAND@SLOLLP.COM
+COUNSEL TO CLOUDFLARE, INC.                                                                                    STREUSAND, LANDON, OZBURN & LEMMON, LLP AUSTIN TX 78746                                                                    NGUYEN@SLOLLP.COM              Overnight Mail and Email
+                                                                                                                                                                                                                                          DIETDERICHA@SULLCROM.COM
+                                                                                                                                                                                                                                          BROMLEYJ@SULLCROM.COM
+                                                                                                                                                                                                                                          GLUECKSTEINB@SULLCROM.COM
+                                                                                                                                                                                                                                          KRANZLEYA@SULLCROM.COM
+                                                                                                                                                           ATTN: ANDREW G. DIETDERICH, JAMES L. BROMLEY, BRIAN D. GLUECKSTEIN, ALEXA J.   PETIFORDJ@SULLCROM.COM
+                                                                                                                                                           KRANZLEY, STEVEN L. HOLLEY, STEPHEN EHRENBERG, CHRISTOPHER J. DUNNE            HOLLEYS@SULLCROM.COM
+                                                                                                                                                           125 BROAD STREET                                                               EHRENBERGS@SULLCROM.COM
+COUNSEL TO DEBTORS AND DEBTORS IN POSSESSION AND MACLAURIN INVESTMENTS LTD.                                    SULLIVAN & CROMWELL LLP                     NEW YORK NY 10004                                                              DUNNEC@SULLCROM.COM            Email
+                                                                                                                                                           ATTN: WILLIAM D. SULLIVAN
+                                                                                                                                                           919 NORTH MARKET STREET, SUITE 420
+COUNSEL FOR WORD OF GOD FELLOWSHIP, INC.                                                                       SULLIVAN HAZELTINE ALLINSON LLC             WILMINGTON DE 19801                                                            BSULLIVAN@SHA-LLC.COM          Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                    Page 8 of 10
+                                                                                Case 22-11068-JTD                                  Doc 12844                           Filed 04/26/24                     Page 12 of 13
+                                                                                                                                                        Exhibit A
+                                                                                                                                                    Master Service List
+                                                                                                                                                 Served as set forth below
+
+
+
+                                                DESCRIPTION                                                                     NAME                                                      ADDRESS                                                                    EMAIL           METHOD OF SERVICE
+                                                                                                                                                      ATTN: DAVID H. WANDER
+                                                                                                                                                      1350 BROADWAY
+                                                                                                                                                      11TH FLOOR
+COUNSEL TO PHALA LTD.                                                                                        TARTER KRINSKY & DROGIN LLP              NEW YORK NY 10018                                                                            DWANDER@TARTERKRINSKY.COM       Overnight Mail and Email
+                                                                                                                                                      ATTN: DARRELL DALEY, SAMANTHA NEAL
+                                                                                                                                                      4845 PEARL EAST CIRCLE
+                                                                                                                                                      SUITE 101                                                                                    DARRELL@DALEYLAWYERS.COM
+COUNSEL TO LOREM IPSUM UG, PATRICK GRUHN, ROBIN MATZKE, AND BRANDON WILLIAMS                                 THE DALEY LAW FIRM                       BOULDER CO 80301                                                                             SAMANTHA@DALEYLAWYERS.COM       Overnight Mail and Email
+                                                                                                                                                      ATTN: PRESIDENT OR GENERAL COUNSEL
+                                                                                                                                                      POINCIANA HOUSE, NORTH BUILDING, 2ND FLOOR 31A
+                                                                                                                                                      EAST BAY STREET, P.O. BOX N-8347
+THE SECURITIES COMMISSION OF THE BAHAMAS                                                                     THE SECURITIES COMMISSION OF THE BAHAMAS NASSAU THE BAHAMAS                                                                           INFO@SCB.GOV.BS                 Overnight Mail and Email
+                                                                                                                                                      ATTN: EVELYN J. MELTZER
+                                                                                                                                                      HERCULES PLAZA, SUITE 5100
+                                                                                                                                                      1313 N. MARKET STREET
+COUNSEL FOR PARADIGM OPERATIONS LP                                                                           TROUTMAN PEPPER HAMILTON SANDERS LLP     WILMINGTON DE 19899-1709                                                                     EVELYN.MELTZER@TROUTMAN.COM     Overnight Mail and Email
+                                                                                                                                                      ATTN: STANTON C. MCMANUS, SETH B. SHARPIRO
+                                                                                                                                                      CIVIL DIVISION
+                                                                                                                                                      1100 L STREET, NW, ROOM 7208                                                                 STANTON.C.MCMANUS@USDOJ.GOV
+U.S. DEPARTMENT OF JUSTICE                                                                                   U.S. DEPARTMENT OF JUSTICE               WASHINGTON DC 20005                                                                          SETH.SHAPIRO@USDOJ.GOV          Overnight Mail and Email
+                                                                                                                                                      ATTN: WARD W. BENSON
+                                                                                                                                                      P.O. BOX 227, BEN FRANKLIN STATION
+COUNSEL TO THE UNITED STATES OF AMERICA                                                                      U.S. DEPARTMENT OF JUSTICE               WASHINGTON DC 20044                                                                          WARD.W.BENSON@USDOJ.GOV         Overnight Mail and Email
+
+                                                                                                                                                            ATTN: RUTH A. HARVEY, MARGARET M. NEWELL, SETH B. SHAPIRO, STANTON C. MCMANUS
+                                                                                                                                                            COMMERCIAL LITIGATION BRANCH
+                                                                                                                                                            P.O. BOX 875, BEN FRANKLIN STATION                                                     STANTON.C.MCMANUS@USDOJ.GOV
+COUNSEL TO THE UNITED STATES OF AMERICA                                                                      U.S. DEPARTMENT OF JUSTICE – CIVIL DIVISION    WASHINGTON DC 20044-0875                                                               SETH.SHAPIRO@USDOJ.GOV          Overnight Mail and Email
+                                                                                                                                                            ATTN: ARI D. KUNOFSKY
+                                                                                                                                                            P.O. BOX 227
+COUNSEL TO THE UNITED STATES OF AMERICA                                                                      U.S. DEPARTMENT OF JUSTICE, TAX DIVISION       WASHINGTON DC 20044                                                                    ARI.D.KUNOFSKY@USDOJ.GOV        Overnight Mail and Email
+                                                                                                                                                            ATTN: ELISABETH M. BRUCE, STEPHANIE A. SASARAK
+                                                                                                             U.S. DEPARTMENT OF JUSTICE, THE INTERNAL       P.O. BOX 227                                                                           ELISABETH.M.BRUCE@USDOJ.GOV
+COUNSEL FOR THE UNITED STATES OF AMERICA                                                                     REVENUE SERVICE                                WASHINGTON DC 20044                                                                    STEPHANIE.A.SASARAK@USDOJ.GOV   Overnight Mail and Email
+                                                                                                                                                            ATTN: BANKRUPTCY DEPT
+                                                                                                                                                            US DEPT OF JUSTICE
+                                                                                                             UNITED STATES OF AMERICA ATTORNEY              950 PENNSYLVANIA AVE NW
+UNITED STATES OF AMERICA                                                                                     GENERAL                                        WASHINGTON DC 20530-0001                                                                                               Overnight Mail
+                                                                                                                                                            ATTN: DAVID C. WEISS C/O ELLEN SLIGHTS
+                                                                                                                                                            1007 ORANGE ST STE 700
+                                                                                                                                                            P.O. BOX 2046
+US ATTORNEY FOR THE DISTRICT OF DELAWARE                                                                     US ATTORNEY FOR DELAWARE                       WILMINGTON DE 19899-2046                                                               USADE.ECFBANKRUPTCY@USDOJ.GOV   Overnight Mail and Email
+                                                                                                                                                            ATTN: ANDREW J. CURRIE
+COUNSEL TO DIGITAL AUGEAN, LLC, AD HOC COMMITTEE OF CUSTOMERS AND CREDITORS OF FTX TRADING LTD. AND OKC                                                     600 MASSACHUSETTS AVENUE, NW
+ENTITIES                                                                                                     VENABLE LLP                                    WASHINGTON DC 20001                                                                    AJCURRIE@VENABLE.COM            Overnight Mail and Email
+                                                                                                                                                            ATTN: DANIEL A. O’BRIEN
+                                                                                                                                                            1201 N. MARKET ST.
+COUNSEL TO DIGITAL AUGEAN, LLC, AD HOC COMMITTEE OF CUSTOMERS AND CREDITORS OF FTX TRADING LTD. AND OKC                                                     SUITE 1400
+ENTITIES                                                                                                     VENABLE LLP                                    WILMINGTON DE 19801                                                                    DAOBRIEN@VENABLE.COM            Overnight Mail and Email
+                                                                                                                                                            ATTN: JEFFREY S. SABIN, XOCHITL S. STROHBEHN, CAROL A. WEINER, ARIE A. PELED           JSSABIN@VENABLE.COM
+                                                                                                                                                            1270 AVENUE OF THE AMERICAS                                                            XSSTROHBEHN@VENABLE.COM
+COUNSEL TO DIGITAL AUGEAN, LLC, AD HOC COMMITTEE OF CUSTOMERS AND CREDITORS OF FTX TRADING LTD. AND OKC                                                     24TH FLOOR                                                                             CWEINERLEVY@VENABLE.COM
+ENTITIES                                                                                                     VENABLE LLP                                    NEW YORK NY 10020                                                                      AAPELED@VENABLE.COM             Overnight Mail and Email
+                                                                                                                                                                                                                                                   JSSABIN@VENABLE.COM
+                                                                                                                                                            ATTN: JEFFREY S. SABIN, XOCHITL S. STROHBEHN, CAROL A. WEINER, ARIE A. PELED           XSSTROHBEHN@VENABLE.COM
+                                                                                                                                                            151 WEST 42ND ST., 48TH FLOOR                                                          CWEINERLEVY@VENABLE.COM
+COUNSEL TO OKC ENTITIES                                                                                      VENABLE LLP                                    NEW YORK NY 10036                                                                      AAPELED@VENABLE.COM             Overnight Mail and Email
+                                                                                                                                                            ATTN: JENNIFER ROOD
+                                                                                                             VERMONT DEPARTMENT OF FINANCIAL                89 MAIN STREET, THIRD FLOOR
+COUNSEL FOR THE STATE OF VERMONT                                                                             REGULATION                                     MONTPELIER VT 05620                                                                    JENNIFER.ROOD@VERMONT.GOV       Overnight Mail and Email
+                                                                                                                                                            ATTN: TIFFANY STRELOW COBB, ESQ.
+                                                                                                                                                            52 EAST GAY STREET
+                                                                                                                                                            P.O. BOX 1008
+COUNSEL TO RIBOSCIENCE LLC AND 4J THERAPEUTICS INC.                                                          VORYS, SATER, SEYMOUR AND PEASE LLP            COLUMBUS OH 43216-1008                                                                 TSCOBB@VORYS.COM                Overnight Mail and Email
+                                                                                                                                                                                                                                                   JESSICA.LAURIA@WHITECASE.COM
+                                                                                                                                                            ATTN: JESSICA C. LAURIA, J. CHRISTOPHER SHORE, BRIAN D. PFEIFFER, MARK FRANKE, BRETT   CSHORE@WHITECASE.COM
+                                                                                                                                                            BAKEMEYER                                                                              BRIAN.PFEIFFER@WHITECASE.COM
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN PROVISIONAL LIQUIDATION), THE                                                  1221 AVENUE OF THE AMERICAS                                                            MARK.FRANKE@WHITECASE.COM
+JOINT OFFICIAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN OFFICIAL LIQUIDATION)                             WHITE & CASE LLP                               NEW YORK NY 10020-1095                                                                 BRETT.BAKEMEYER@WHITECASE.COM   Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                     Page 9 of 10
+                                                                                Case 22-11068-JTD                               Doc 12844                          Filed 04/26/24              Page 13 of 13
+                                                                                                                                                    Exhibit A
+                                                                                                                                                Master Service List
+                                                                                                                                             Served as set forth below
+
+
+
+                                                DESCRIPTION                                                                   NAME                                                           ADDRESS                               EMAIL       METHOD OF SERVICE
+                                                                                                                                                       ATTN: THOMAS E LAURIA, RICHARD S. KEBRDLE
+                                                                                                                                                       200 SOUTH BISCAYNE BLVD., SUITE 4900
+COUNSEL TO THE JOINT PROVISIONAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN PROVISIONAL LIQUIDATION), THE                                             SOUTHEAST FINANCIAL CENTER                              TLAURIA@WHITECASE.COM
+JOINT OFFICIAL LIQUIDATORS OF FTX DIGITAL MARKETS LTD. (IN OFFICIAL LIQUIDATION)                             WHITE & CASE LLP                          MIAMI FL 33131                                          RKEBRDLE@WHITECASE.COM        Overnight Mail and Email
+                                                                                                                                                       ATTN: PETER G. NEIMAN, NICHOLAS WERLE
+                                                                                                                                                       7 WORLD TRADE CENTER
+                                                                                                                                                       150 GREENWICH STREET                                    PETER.NEIMAN@WILMERHALE.COM
+COUNSEL TO DEFENDANT CAROLINE ELLISON                                                                        WILMER CUTLER PICKERING HALE AND DORR LLP NEW YORK NY 10007                                       NICK.WERLE@WILMERHALE.COM     Overnight Mail and Email
+                                                                                                                                                       ATTN: CHARLES MELVIN, C/O WINCENT CAPITAL MANAGEMENT
+                                                                                                                                                       OLD POLICE STATION
+                                                                                                                                                       120B
+COMMITTEE OF UNSECURED CREDITORS                                                                             WINCENT INVESTMENT FUND PCC LTD           IRISH TOWN GX11 1AA GIBRALTAR                           LEGAL@WINCENT.CO              Overnight Mail and Email
+                                                                                                                                                       ATTN: LEGAL DEPARTMENT
+                                                                                                                                                       24 EAN KIAM PLACE
+COMMITTEE OF UNSECURED CREDITORS                                                                             WINTERMUTE ASIA PTE. LTD                  429115 SINGAPORE                                        LEGAL@WINTERMUTE.COM          Overnight Mail and Email
+                                                                                                                                                       ATTN: MATTHEW B. LUNN, ROBERT F. POPPITI, JR.
+                                                                                                                                                       1000 NORTH KING STREET                                  MLUNN@YCST.COM
+COUNSEL TO OFFICIAL COMMITTEE OF UNSECURED CREDITORS                                                         YOUNG CONAWAY STARGATT & TAYLOR, LLP      WILMINGTON DE 19801                                     RPOPPITI@YCST.COM             Overnight Mail and Email
+                                                                                                                                                       ATTN: PETER S. PARTEE, SR
+                                                                                                                                                       HUNTON ANDREWS KURTH LLP
+                                                                                                                                                       200 PARK AVE
+COMMITTEE OF UNSECURED CREDITORS                                                                             ZACHARY BRUCH                             NEW YORK NY 10166                                       PPARTEE@HUNTONAK.COM          Overnight Mail and Email
+
+
+
+
+            In re: FTX Trading Ltd., et al.
+            Case No. 22-11068 (JTD)                                                                                                                Page 10 of 10
+

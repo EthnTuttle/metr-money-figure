@@ -1,0 +1,83 @@
+2026-09-14T08:33:37Z
+2026-09-14T08:33:38Z 200 https://jobs.lever.co/metr -> lever-metr-board.html 720654B
+2026-09-14T08:33:38Z 200 https://metr.org/careers -> metr-careers.html 52217B
+2026-09-14T08:33:39Z 200 https://metr.org/careers -> metr-careers-slash.html 52217B
+2026-09-14T08:33:39Z 200 https://jingletree.com/an-ex-openai-researcher-s-influential-nonprofit-is-now-smack-in-the-middle-of-ai-s-doom-debate-268039.html -> jingletree-bi.html 88890B
+2026-09-14T08:33:40Z 403 https://r.jina.ai/https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8 -> bi-jina.txt 5946B
+2026-09-14T08:33:40Z 403 https://r.jina.ai/https://jobs.lever.co/metr -> lever-jina.txt 5648B
+2026-09-14T08:34:22Z 200 https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5 -> lever-post-1-12835e9f.html 725224B
+2026-09-14T08:34:23Z 200 https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5 -> lever-post-2-69792e29.html 725503B
+2026-09-14T08:34:24Z 200 https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60 -> lever-post-3-775fa999.html 732196B
+2026-09-14T08:34:25Z 200 https://jobs.lever.co/metr/8a041633-4445-46b3-b9e1-385af7985473 -> lever-post-4-8a041633.html 725460B
+2026-09-14T08:34:26Z 200 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> lever-post-5-93baec4d.html 733228B
+2026-09-14T08:34:26Z 200 https://jobs.lever.co/metr/b1a2f73f-f927-4f8b-b1b3-b2e57604b5fd -> lever-post-6-b1a2f73f.html 727821B
+2026-09-14T08:34:27Z 200 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7 -> lever-post-7-b4812bf4.html 725644B
+2026-09-14T08:34:28Z 200 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> lever-post-8-f3a6db11.html 723262B
+2026-09-14T08:34:31Z 200 BI direct 441866B
+2026-09-14T08:34:32Z 200 BI wayback 79150B
+2026-09-14T08:34:39Z 200 https://www.apolloresearch.ai/careers -> apollo-careers.html 195167B
+2026-09-14T08:34:40Z 200 https://jobs.ashbyhq.com/apolloresearch -> apollo-ashby.html 9193B
+2026-09-14T08:34:40Z 200 https://epoch.ai/about/careers -> epoch-careers.html 94367B
+2026-09-14T08:34:41Z 200 https://www.redwoodresearch.org/careers -> redwood-careers.html 37631B
+2026-09-14T08:34:41Z 200 https://www.levels.fyi/companies/anthropic/salaries/software-engineer -> levels-anthropic-swe.html 514738B
+2026-09-14T08:34:42Z 200 https://www.levels.fyi/companies/openai/salaries/software-engineer -> levels-openai-swe.html 532668B
+2026-09-14T08:34:43Z 200 https://www.levels.fyi/companies/anthropic/salaries -> levels-anthropic.html 390301B
+2026-09-14T08:34:44Z 200 https://www.levels.fyi/companies/openai/salaries -> levels-openai.html 423023B
+2026-09-14T08:34:44Z 200 https://job-boards.greenhouse.io/anthropic -> anthropic-greenhouse.html 69726B
+2026-09-14T08:35:24Z CDX lever 184 lines
+2026-09-14T08:36:14Z 404 apollo ashby api 9B
+2026-09-14T08:36:45Z 200 wayback 20260616170753 https://jobs.lever.co/metr/ -> wayback/lever-board-20260616170753.html 716111B
+2026-09-14T08:36:46Z 200 wayback 20260616171052 https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07 -> wayback/lever-3d81cd86-20260616171052.html 726470B
+2026-09-14T08:36:48Z 200 wayback 20260616171053 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260616171053.html 722182B
+2026-09-14T08:36:49Z 200 wayback 20260616171054 https://jobs.lever.co/metr/1c044574-181d-4b3d-98de-27f12eb76c6f -> wayback/lever-1c044574-20260616171054.html 724930B
+2026-09-14T08:36:50Z 200 wayback 20260715074101 https://jobs.lever.co/metr/1c044574-181d-4b3d-98de-27f12eb76c6f -> wayback/lever-1c044574-20260715074101.html 95283B
+2026-09-14T08:36:51Z 200 wayback 20260724132713 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260724132713.html 97473B
+2026-09-14T08:36:52Z 200 wayback 20260724132734 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260724132734.html 94756B
+2026-09-14T08:36:52Z 200 wayback 20260801024127 https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60 -> wayback/lever-775fa999-20260801024127.html 97445B
+2026-09-14T08:36:53Z 200 wayback 20260808103417 https://jobs.lever.co/metr/52fca070-da6a-441e-b1d1-8184c51b52e6 -> wayback/lever-52fca070-20260808103417.html 95924B
+2026-09-14T08:36:54Z 200 wayback 20260809145550 https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60 -> wayback/lever-775fa999-20260809145550.html 97603B
+2026-09-14T08:36:55Z 200 wayback 20260809145659 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260809145659.html 97681B
+2026-09-14T08:36:56Z 200 wayback 20260809145837 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260809145837.html 94774B
+2026-09-14T08:36:57Z 200 wayback 20260813092026 https://jobs.lever.co/metr -> wayback/lever-board-20260813092026.html 92545B
+2026-09-14T08:36:57Z 200 wayback 20260825121023 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7 -> wayback/lever-b4812bf4-20260825121023.html 96653B
+2026-09-14T08:36:58Z 200 wayback 20260825121024 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260825121024.html 97806B
+2026-09-14T08:36:59Z 200 wayback 20260825121025 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260825121025.html 94784B
+2026-09-14T08:36:59Z 200 wayback 20260827031408 https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5 -> wayback/lever-12835e9f-20260827031408.html 95392B
+2026-09-14T08:37:01Z 200 wayback 20260827031408 https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5 -> wayback/lever-69792e29-20260827031408.html 95545B
+2026-09-14T08:37:02Z 200 wayback 20260827031408 https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60 -> wayback/lever-775fa999-20260827031408.html 96548B
+2026-09-14T08:37:02Z 000 wayback 20260827031408 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260827031408.html B
+2026-09-14T08:37:03Z 000 wayback 20260827031408 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7 -> wayback/lever-b4812bf4-20260827031408.html B
+2026-09-14T08:37:03Z 000 wayback 20260827031408 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260827031408.html B
+2026-09-14T08:37:03Z 000 wayback 20260829091827 https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5 -> wayback/lever-12835e9f-20260829091827.html B
+2026-09-14T08:37:03Z 000 wayback 20260830055424 https://jobs.lever.co/metr/b1a2f73f-f927-4f8b-b1b3-b2e57604b5fd -> wayback/lever-b1a2f73f-20260830055424.html B
+2026-09-14T08:37:03Z 000 wayback 20260830133334 https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5 -> wayback/lever-12835e9f-20260830133334.html B
+2026-09-14T08:37:04Z 000 wayback 20260830133334 https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5 -> wayback/lever-69792e29-20260830133334.html B
+2026-09-14T08:37:04Z 000 wayback 20260830133449 https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7 -> wayback/lever-b4812bf4-20260830133449.html B
+2026-09-14T08:37:04Z 000 wayback 20260830133455 https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60 -> wayback/lever-775fa999-20260830133455.html B
+2026-09-14T08:37:04Z 000 wayback 20260830133458 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260830133458.html B
+2026-09-14T08:37:04Z 000 wayback 20260830133502 https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d -> wayback/lever-f3a6db11-20260830133502.html B
+2026-09-14T08:37:04Z 000 wayback 20260909151458 https://jobs.lever.co/metr/860022e0-012d-4fcd-a568-4910189d85f7 -> wayback/lever-860022e0-20260909151458.html B
+2026-09-14T08:37:04Z 000 wayback 20260909151558 https://jobs.lever.co/metr/8a041633-4445-46b3-b9e1-385af7985473 -> wayback/lever-8a041633-20260909151558.html B
+2026-09-14T08:37:05Z 000 wayback 20260911185226 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/lever-93baec4d-20260911185226.html B
+2026-09-14T08:37:05Z 000 wayback 20260913092207 https://jobs.lever.co/metr/ -> wayback/lever-board-20260913092207.html B
+2026-09-14T08:37:05Z 000 wayback 20260913092218 https://jobs.lever.co/metr/ -> wayback/lever-board-20260913092218.html B
+2026-09-14T08:37:05Z 000 wayback 20260913092219 https://jobs.lever.co/metr -> wayback/lever-board-20260913092219.html B
+2026-09-14T08:37:05Z wayback metr careers 20260827031357 B
+2026-09-14T08:37:09Z 200 https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2 -> epoch/lever-epoch-137cb0dc.html
+2026-09-14T08:37:09Z 200 https://jobs.lever.co/epoch-ai/55040488-07ec-42c0-b33d-50d383f54935 -> epoch/lever-epoch-55040488.html
+2026-09-14T08:37:10Z 200 https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e -> epoch/lever-epoch-72778f6d.html
+2026-09-14T08:37:11Z 200 https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a -> epoch/lever-epoch-ab88ba6e.html
+2026-09-14T08:37:11Z 200 https://jobs.lever.co/epoch-ai/b71cd010-d3cf-446c-80fa-fa5737573e82 -> epoch/lever-epoch-b71cd010.html
+2026-09-14T08:37:12Z 200 https://jobs.lever.co/epoch-ai/d172645e-a11f-44a0-88d0-7a989e0a28f6 -> epoch/lever-epoch-d172645e.html
+2026-09-14T08:37:13Z 200 https://jobs.lever.co/epoch-ai/d84390c5-cb4e-46f3-9c64-910b7df77f8b -> epoch/lever-epoch-d84390c5.html
+2026-09-14T08:37:13Z 200 https://jobs.lever.co/epoch-ai/de7b4c71-ece2-454a-be70-e7b75c5f3b23 -> epoch/lever-epoch-de7b4c71.html
+2026-09-14T08:37:14Z 200 https://jobs.lever.co/epoch-ai/e18b5576-569d-43f8-94ff-3a179445584d -> epoch/lever-epoch-e18b5576.html
+2026-09-14T08:37:16Z 200 HN 49682532 9926B
+2026-09-14T08:38:26Z 200 wayback-retry 20260911185226 https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00 -> wayback/retry-93baec4d-20260911185226.html 97226B
+2026-09-14T08:38:27Z 200 wayback-retry 20260909151458 https://jobs.lever.co/metr/860022e0-012d-4fcd-a568-4910189d85f7 -> wayback/retry-860022e0-20260909151458.html 95330B
+2026-09-14T08:38:28Z 200 wayback-retry 20260808103417 https://jobs.lever.co/metr/52fca070-da6a-441e-b1d1-8184c51b52e6 -> wayback/retry-52fca070-20260808103417.html 95924B
+2026-09-14T08:38:28Z 200 wayback-retry 20260913092219 https://jobs.lever.co/metr -> wayback/retry-jobs-lever-co-metr-20260913092219.html 92892B
+2026-09-14T08:38:29Z 200 wayback-retry 20260715074101 https://jobs.lever.co/metr/1c044574-181d-4b3d-98de-27f12eb76c6f -> wayback/retry-1c044574-20260715074101.html 95283B
+2026-09-14T08:38:30Z 200 wayback-retry 20260830133334 https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5 -> wayback/retry-69792e29-20260830133334.html 95581B
+2026-09-14T08:38:31Z 200 wayback-retry 20260909151558 https://jobs.lever.co/metr/8a041633-4445-46b3-b9e1-385af7985473 -> wayback/retry-8a041633-20260909151558.html 95312B
+2026-09-14T08:38:32Z 200 wayback-retry 20260827031357 https://metr.org/careers -> wayback/retry-metr-org-careers-20260827031357.html 13402B

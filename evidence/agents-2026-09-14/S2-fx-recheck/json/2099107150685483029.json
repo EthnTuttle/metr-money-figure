@@ -1,0 +1,97 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/jimpfaff/status/2099107150685483029",
+  "id": "2099107150685483029",
+  "text": "@DavidSacks @TheChiefNerd The foundation of liberty is reliance upon the principle of self-governance. Every effort to expand the authority of the state is an admission of one's own lack of self-control.",
+  "raw_text": {
+   "text": "@DavidSacks @TheChiefNerd The foundation of liberty is reliance upon the principle of self-governance. Every effort to expand the authority of the state is an admission of one's own lack of self-control.",
+   "display_text_range": [
+    26,
+    203
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "DavidSacks",
+     "id": "1137701"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      12,
+      25
+     ],
+     "original": "TheChiefNerd",
+     "id": "69156861"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "jimpfaff",
+   "url": "https://x.com/jimpfaff",
+   "id": "14095216",
+   "followers": 65850,
+   "following": 7089,
+   "likes": 25187,
+   "media_count": 8486,
+   "name": "Jim Pfaff",
+   "description": "President, The Conservative Caucus. @TCCaucus. http://www.TheConservativeCaucus.org. Married to @MyraKinser 🇺🇸🇺🇸🇺🇸 2️⃣2️⃣ 🇧🇷🇮🇪",
+   "raw_description": {
+    "text": "President, The Conservative Caucus. @TCCaucus. https://t.co/HWf9IPIAgg. Married to @MyraKinser 🇺🇸🇺🇸🇺🇸 2️⃣2️⃣ 🇧🇷🇮🇪",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       47,
+       70
+      ],
+      "original": "https://t.co/HWf9IPIAgg",
+      "replacement": "http://www.TheConservativeCaucus.org",
+      "display": "TheConservativeCaucus.org"
+     }
+    ]
+   },
+   "location": "Bloomington , IN ",
+   "banner_url": "https://pbs.twimg.com/profile_banners/14095216/1499125018",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1699966460703977472/uTmJXAH-_200x200.jpg",
+   "joined": "Fri Mar 07 14:52:20 +0000 2008",
+   "protected": false,
+   "website": {
+    "url": "http://locatejim.com",
+    "display_url": "locatejim.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 6,
+  "likes": 52,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Sun Sep 13 12:05:18 +0000 2026",
+  "created_timestamp": 1789301118,
+  "views": 2295,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "DavidSacks",
+  "replying_to_status": "2098973625252708460",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:00Z",
+ "_http_status": 200
+}

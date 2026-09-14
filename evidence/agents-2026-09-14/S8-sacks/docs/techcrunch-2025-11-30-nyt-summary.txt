@@ -1,0 +1,46 @@
+Title: New report examines how David Sacks might profit from Trump administration role
+
+URL Source: https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role
+
+Published Time: 2025-11-30T21:39:04+00:00
+
+Markdown Content:
+David Sacks’ role as President Donald Trump’s artificial intelligence and crypto czar could work out very well for his investments, as well as his friends, [according to a new report The New York Times](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html).
+
+However, Sacks [fired back in a post on X](https://x.com/DavidSacks/status/1995225152674533557?s=20), in which he described a five-month reporting process in which accusations were “debunked in detail.”
+
+“Today they evidently just threw up their hands and published this nothing burger,” Sacks said. “Anyone who reads the story carefully can see that they strung together a bunch of anecdotes that don’t support the headline.”
+
+This isn’t the first time critics have suggested that there may be conflicts of interest between Sacks’ political role and his investments. For example, Senator Elizabeth Warren — a Democrat from Massachusetts — [said earlier this year](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) that Sacks “simultaneously leads a firm invested in crypto while guiding the nation’s crypto policy,” an “explicit conflict of interest” that would “normally” be prohibited under federal law.
+
+But the NYT’s story (under the headline “Silicon Valley’s Man in the White House Is Benefiting Himself and His Friends,” and credited to five bylined reporters) seems to offer a more comprehensive view, with an analysis of his financial disclosures suggesting that among Sacks’ 708 tech investments, 449 are AI companies that could benefit from the policies he supports.
+
+Sacks has received two White House ethics waivers declaring he would sell most of his crypto and AI assets. However, the NYT said his public ethics filings do not disclose the remaining value of his crypto and AI investments, nor do they say when he sold off the assets he divested.
+
+Kathleen Clark, a Washington University law professor specializing in government ethics, made similar points in July after reviewing Sacks’ crypto waiver, [telling TechCrunch](https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/), “This is graft.”
+
+The NYT also said that Sacks’ filings classify hundreds of investments as hardware or software, rather than AI, while the companies pitch themselves as AI businesses in their marketing.
+
+To illustrate Sacks’ “intertwined interests,” the NYT pointed to the White House summit in July where [Trump unveiled his AI roadmap](https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/) — White House chief of staff Susie Wiles reportedly stepped in to prevent the All-In podcast (which Sacks co-hosts) from being the only host of the event. And All-In asked potential sponsors to pay $1 million for access to a private reception and other events, the NYT claimed.
+
+The NYT also reported that Sacks became close with Nvidia CEO Jensen Huang this spring and has played a role in removing restrictions on Nvidia chip sales around the world, including in China.
+
+Right-wing media personality and former Trump adviser Steve Bannon (who’s [made no secret](https://www.vanityfair.com/news/story/the-maga-verses-clash-of-titans?srsltid=AfmBOoomltlKj_VDs5eRRIVqGjfrG5SARtT68ccr-AuSAyEX1d45tah7) of his animosity toward some of Trump’s Silicon Valley allies) said Sacks is emblematic of an administration where “the tech bros are out of control.”
+
+Sacks’ spokesperson Jessica Hoffman told the NYT that “this conflict of interest narrative is false.” Hoffman said Sacks has complied with the rules for special government employees, that the Office of Government Ethics determined which investments he had to sell, and that his role in the government has cost him, rather than benefited him.
+
+White House spokesperson Liz Huston said Sacks has been “an invaluable asset for President Trump’s agenda of cementing American technology dominance.”
+
+Sacks’ post responding to the NYT includes a letter written to the newspaper from Clare Locke, a law firm that Sacks hired, claiming that the reporters had been given “clear marching orders: find and report on a conflict of interest between Mr. Sacks’ duties in the White House and his background in the private technology sector.”
+
+The letter also addresses some of the specifics of the NYT story, including the All-In podcast’s role in the White House AI event. Sacks’ lawyers said the AI summit was a not-for-profit event, and that the All-In podcast “lost money hosting the event.”
+
+“Two sponsors were brought on to help partially defray the cost of the event, for which they received nothing but logo placements,” the letter said. “No access to President Trump was ever offered, and no VIP reception ever took place.”
+
+_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._
+
+Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
+
+You can contact or verify outreach from Anthony by emailing [anthony.ha@techcrunch.com](mailto:anthony.ha@techcrunch.com).
+
+[View Bio](https://techcrunch.com/author/anthony-ha/)

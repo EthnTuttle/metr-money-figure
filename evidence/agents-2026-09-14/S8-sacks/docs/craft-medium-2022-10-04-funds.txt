@@ -1,0 +1,40 @@
+Title: Announcing $1.3 Billion for Craft Ventures IV and Growth II
+
+URL Source: https://medium.com/craft-ventures/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii-19ae15e705bc
+
+Published Time: 2023-11-09T12:31:58Z
+
+Markdown Content:
+## **Announcing $1.3 Billion for Craft Ventures IV and Growth II**
+
+## Continued focus on B2B software in the era of generative AI
+
+[![Image 1: David Sacks](https://miro.medium.com/v2/resize:fill:32:32/1*ZGzN_-crtTLgiHC456Ayvg.jpeg)](https://medium.com/@davidsacks?source=post_page---byline--19ae15e705bc-----------------------------------------)
+
+3 min read
+
+Nov 9, 2023
+
+Today marks a milestone for Craft Ventures as we announce the successful closing of $1.32 billion in fresh capital across our two latest funds. Craft Ventures IV ($712 million) is our fourth early-stage fund and Craft Ventures Growth II ($608 million) is our second growth fund. The combination of venture and growth funds enables us to support the most exciting B2B software companies across stages. The new funds bring the firm’s assets under management to $3.3 billion.
+
+We focus on investing in B2B software companies because these are high-growth, high-margin businesses with recurring revenue. Moreover, once these companies achieve [category leadership](https://sacks.substack.com/p/the-one-who-defines-the-category-wins-the-category-245fee85bfbb), they are hard to dislodge and tend to compound value over time. These are businesses we understand well as a result of our experience as former SaaS founders and operators. In addition, we are always looking to learn new insights in order to share best practices and playbooks with our portfolio companies. For example, the understanding we developed of how to properly instrument SaaS businesses led to the creation of [SaaSGrid](http://www.saasgrid.com/), a dashboarding tool so popular that we spun it out as a standalone company independent of Craft.
+
+Craft’s B2B focus also allows us to customize the services we provide to portfolio companies. Craft’s Executive Briefing Center (EBC) drives hundreds of Fortune 2000 CXOs to our enterprise-ready portfolio companies. Craft’s Talent team helps to place dozens of senior executives in engineering, GTM, finance, and operations executives across the portfolio. And Craft’s operating partners in legal, finance, government relations, marketing, and communications help Craft companies grow faster, manage risks, and tell their stories.
+
+## Get David Sacks’s stories in your inbox
+
+Join Medium for free to get updates from this writer.
+
+Remember me for faster sign in
+
+With new advancements in generative AI, we see a host of opportunities for software companies to create value for business customers. SaaS companies are already leveraging AI to create new products, enhance user experiences, optimize their own operations, and accelerate growth. We are in the early innings of a profound new tech wave that can spawn many new unicorns, just like the cloud, mobile, and social waves that came before it.
+
+### Growth Team
+
+With $1.12 billion of AUM across Craft Ventures Growth I and II, we have brought in seasoned growth-stage investor [Michael Robinson](https://www.craftventures.com/team/michael-robinson) to lead our growth practice. Michael has spent his career investing in and advising both horizontal and vertical SaaS companies. Previously, Michael was a lead investor at Georgian, where he led growth equity investments in software businesses and served as Interim CFO, VP Finance, and COO for multiple portfolio companies. Prior to Georgian, Michael was a technology investor at True Wind Capital and worked at Goldman Sachs. [Kevin Gabura](https://www.craftventures.com/team/kevin-gabura) has also joined the growth team as the first of several key hires.
+
+### NY Office
+
+In addition to our headquarters in San Francisco, we are excited to announce the opening of a new office in New York City’s Flatiron District, which will be home to Craft’s NYC-based team and a workspace for local portfolio company founders and teams. Over the past decade, New York has emerged as a thriving hub of entrepreneurship and innovation. Roughly twenty percent of our portfolio companies are based or have a significant presence in NYC, and we expect that many future Craft investments will also call the Big Apple their home.
+
+With the groundbreaking advancements in generative AI, there has never been a more exciting time to invest in software businesses. We consider it a privilege to work with visionary founders and their teams as they build the next generation of companies that will transform the way we live and work.

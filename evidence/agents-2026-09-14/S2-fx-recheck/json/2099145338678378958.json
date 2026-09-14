@@ -1,0 +1,67 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/timhwang/status/2099145338678378958",
+  "id": "2099145338678378958",
+  "text": "The third party AI evaluator can either be independent, knowledgeable, or sustainably funded. Pick two.",
+  "raw_text": {
+   "text": "The third party AI evaluator can either be independent, knowledgeable, or sustainably funded. Pick two.",
+   "display_text_range": [
+    0,
+    103
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "timhwang",
+   "url": "https://x.com/timhwang",
+   "id": "14903327",
+   "followers": 23723,
+   "following": 1381,
+   "likes": 18715,
+   "media_count": 2653,
+   "name": "Tim Hwang",
+   "description": "high politics, secret exploration, distant warfare",
+   "raw_description": {
+    "text": "high politics, secret exploration, distant warfare",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/14903327/1467657734",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2067787805036511233/K9FmDGmQ_200x200.jpg",
+   "joined": "Mon May 26 00:34:36 +0000 2008",
+   "protected": false,
+   "website": {
+    "url": "http://timhwang.org",
+    "display_url": "timhwang.org"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 10,
+  "retweets": 3,
+  "likes": 115,
+  "bookmarks": 15,
+  "quotes": 1,
+  "created_at": "Sun Sep 13 14:37:03 +0000 2026",
+  "created_timestamp": 1789310223,
+  "views": 9492,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ },
+ "_fetched_at": "2026-09-14T06:59:27Z",
+ "_http_status": 200
+}

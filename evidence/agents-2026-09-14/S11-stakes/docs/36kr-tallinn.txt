@@ -1,0 +1,62 @@
+
+=====BODY=====
+ 
+ Post - 90s Crazy Guy in Cryptocurrency Circle Nearly Made Most Successful AI Investment in History 
+ English
+ 中文
+ Deutsch
+ Home 
+ Article 
+ This post-90s crazy guy in the cryptocurrency circle almost made the most successful investment in AI history.
+ 乌鸦智能说 2025-09-19 08:26 
+ "Sell Anthropic at a low price" and make a small profit of $800 million. 
+ Last week, Anthropic announced the completion of a $13 billion Series F financing round, and its valuation soared to $183 billion.
+ As soon as the news came out, netizens immediately thought of a name - SBF. Some people sighed that if he hadn't "got into trouble", this investment might have directly ranked among the "top five best investments in history".
+ Who is SBF? A post - 90s person who became famous overnight in the cryptocurrency world. In just three years, he went from an unknown figure to the king of the cryptocurrency circle. At his peak, his net worth reached as high as $26 billion, firmly entering the top 50 of the richest people in the United States.
+ In 2021, when AI was far from being as popular as it is today, SBF suddenly entered the AI track and invested $500 million in Anthropic, directly acquiring an 8% stake.
+ Today, this is the kind of legendary story that Silicon Valley loves to hype: "A genius teenager bet on the future."
+ Unfortunately, fate always likes to play dark humor. In 2022, the year when AI exploded, SBF's empire collapsed. All his assets, including this stake in Anthropic, were packaged and sold by the liquidation team, and only $1.4 billion was recovered in the end.
+ If he had held on until now, based on Anthropic's latest valuation, the value of that 8% stake would be about $14.6 billion (considering equity dilution, it may not be that much), which is even ten times the selling price.
+ This is SBF's absurd drama. A post - 90s cryptocurrency madman, using other people's money, almost made an investment that could go down in history. Unfortunately, before becoming a legend, he became a negative example.
+ 01 
+ $500 million, a heavy bet on Anthropic 
+ You may not have heard of Sam Bankman - Fried (SBF), but in the cryptocurrency circle, he is a legend.
+ He was the boss of FTX, the world's third - largest exchange at that time, and the company's valuation once soared to $32 billion. At the same time, he also controlled the hedge fund Alameda Research, whose book assets reached a maximum of $14.6 billion.
+ At his most glorious time, SBF's net worth ranked 41st on the Forbes list of the richest people in the United States, and he was once on par with Silicon Valley technology tycoons.
+ If FTX is regarded as a "digital asset bank", then Alameda is more like a "fund company that both makes investments and trades cryptocurrencies on its own". On the one hand, it helps clients allocate cryptocurrency investment portfolios, and on the other hand, it also uses its own funds for venture capital.
+ From 2021 to 2022, SBF suddenly shifted his focus from virtual currencies to the real world. He directly instructed Alameda to borrow money and started large - scale venture capital, pouring money into non - cryptocurrency fields. It was both a bet on the future and a way to diversify his risks. Among these bets, Anthropic stood out.
+ In 2021, SBF waved his hand and led Alameda to invest in Anthropic's Series B financing round. In that round, Anthropic raised a total of $580 million, and Alameda alone contributed $500 million, accounting for nearly 8% of the shares.
+ You know, at that time, ChatGPT hadn't become popular yet, and AI was far from being as hot as it is today. SBF's move seemed like a huge bet on the future to outsiders.
+ What's even better is that there was a bit of "idealistic color" behind this investment.
+ SBF considered himself a follower of Effective Altruism (EA). The logic of EA is that doing good deeds should not only rely on love but also pay attention to the input - output ratio. Simply put, with the same amount of money, it's best to save more people and create greater social value.
+ Anthropic is positioned as a large - model laboratory that prioritizes safety, researching how to reduce AI risks, which fits perfectly with the concept of the EA community. Coupled with the fact that among the early investors, there were already EA circle bigwigs like Jaan Tallinn, the co - founder of Skype, this thing seemed to be both idealistic and capitalistic.
+ Just like this, SBF led Alameda to invest $500 million to build a large - scale computing power and research facility for Anthropic.
+ 02 
+ "Selling cheaply" Anthropic shares, making a small profit of $800 million 
+ If the story ended here, it would be a story of "a cryptocurrency genius teenager betting right on the future".
+ But fate likes to play jokes. In November 2022, the cryptocurrency media CoinDesk exposed Alameda's financial statements, directly uncovering the secret of the house of cards:
+ One - third of the $14.6 billion in assets was FTT (the token issued by FTX itself).
+ What does this mean? Alameda got FTT at a low price, then pushed up the market value by hoarding coins, and then used these tokens as collateral to borrow money from FTX. Then it used the borrowed money for high - leverage investments, and the funds circulated internally.
+ As soon as the exposure came out, the market sold off frantically, FTT's price plummeted, Alameda and FTX collapsed one after another, and SBF's empire instantly crumbled.
+ After entering the liquidation stage, the top asset that FTX's creditors targeted was the Anthropic equity. In 2023, with the entry of Google and Amazon, Anthropic's valuation soared one after another, becoming the "golden chip" in FTX's asset package.
+ Anthropic's popularity even affected the sale of this part of the equity. Due to too many buyers and a too long due - diligence period, the sale of this equity was once suspended.
+ In 2024, FTX sold its Anthropic shares in two installments:
+ The first time, it sold two - thirds of the shares and recovered $884 million in funds. It is said that at that time, 24 institutional investors participated in the subscription and shared these shares. Among them, the largest buyer was a sovereign wealth fund from Abu Dhabi.
+ The second time, FTX sold the remaining approximately one - third of its holdings (about 15 million shares) and recovered $450 million, completely clearing its stake in Anthropic.
+ That is to say, through the sale of Anthropic equity, FTX's liquidation team recovered nearly $1.4 billion in total, almost three times what SBF invested back then.
+ Ironically, if these shares had been held until Anthropic's latest round of financing in September 2025 (post - investment valuation of $183 billion), the theoretical value of that 8% stake could have reached as high as $14.6 billion, making a profit of $14 billion. But in reality, the money had already become the "life - saving food" in the liquidation fund.
+ Even more dramatically, this investment was later brought into SBF's trial.
+ SBF's defense lawyer emphasized that SBF was not just a person who squandered money. He had invested in an AI company whose valuation soared later, which showed that he had foresight and business judgment.
+ But the prosecutor directly refuted this:
+ SBF's money was not clean self - owned capital but was "moved" from FTX customers' pockets. Even if there was a profit on paper, it couldn't wash away the original sin of financial fraud, and it was even more impossible to package "intentional misappropriation" as an "investment mistake".
+ Finally, the US prosecutor filed a motion in October 2023, clearly stating:
+ "The defendant used customer funds to invest in Anthropic. This is an extension of criminal means, not evidence in his favor."
+ Ironically, it was this post - 90s cryptocurrency madman who almost made the most successful investment in AI investment history. It's a pity that he didn't live to see that day.
+ This article is from the WeChat official account "Wuya Intelligence Talk". The author is Intelligent Crow, and it is published by 36Kr with authorization.
+ 该文观点仅代表作者本人，36氪平台仅提供信息存储空间服务。
+ For media inquiries, interview requests, business collaboration and Recruit global ecological partners, please contact mohaiying@36kr.com.
+ Partner：startuprad.io 
+ Friendly Links: ai.36kr.com 
+ 36kr Europe (eu.36kr.com) delivers global business and markets news, data, analysis, and video to the world, dedicated to building value and providing business service for companies’ global expansion.
+ © 2024 36kr.com. All rights reserved.
+ 

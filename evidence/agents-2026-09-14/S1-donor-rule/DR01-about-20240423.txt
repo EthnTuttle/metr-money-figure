@@ -1,0 +1,71 @@
+About METR
+ Home
+ Team
+ Hiring
+ Donate
+ Blog
+ METR
+ -->
+ Home
+ Team
+ Hiring
+ Donate
+ Blog
+ Menu
+ About Us
+ (Replace) We’re dedicated to learning how to give as well as possible. Here’s what we’ve done so far.
+ 01
+Partnerships
+02
+Our Work
+ 15 March 2024
+ Autonomy Evaluation Resources
+ A collection of resources for evaluating potentially dangerous autonomous capabilities of frontier models.
+ 29 February 2024
+ Portable Evaluation Tasks via the METR Task Standard
+ METR has published a standard way to define tasks for evaluating the capabilities of AI agents.
+ 07 February 2024
+ 2023 Year In Review
+ A summary of what METR accomplished in 2023 – our first full year of operation.
+ 16 December 2023
+ Bounty: Diverse hard tasks for LLM agents
+ METR (formerly ARC Evals) is looking for (1) ideas, (2) detailed specifications, and (3) well-tested implementations for tasks to measure performance of autonomous LLM agents.
+ 04 December 2023
+ ARC Evals is now METR
+ ARC Evals is wrapping up our incubation period at ARC, and spinning off into our own standalone nonprofit.
+ 26 September 2023
+ Responsible Scaling Policies (RSPs)
+ We describe the basic components of Responsible Scaling Policies (RSPs) as well as why we find them promising for reducing catastrophic risks from AI.
+ 19 September 2023
+ ARC Evals is spinning out from ARC
+ ARC Evals plans to spin out from the Alignment Research Center (ARC) in the coming months, and become its own standalone organization.
+ 31 July 2023
+ New report: Evaluating Language-Model Agents on Realistic Autonomous Tasks
+ We have just released our first public report. It introduces methodology for assessing the capacity of LLM agents to acquire resources, create copies of themselves, and adapt to novel challenges they encounter in the wild.
+ 17 March 2023
+ Update on ARC's recent eval efforts
+ More information about ARC's evaluations of GPT-4 and Claude
+ See more
+03
+What we do
+Blurb about what we do
+Elicitation Project
+We believe that at some point, AIs will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more.
+Tasks
+We believe that at some point, AIs will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more.
+Threat Modeling
+We believe that at some point, AIs will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more.
+Responsible Scaling Policies
+We believe that at some point, AIs will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more.
+04
+AI’s transformative potential
+We believe that at some point, AIs will probably be able to do most of what humans can do, including developing new technologies; starting businesses and making money; finding new cybersecurity exploits and fixes; and more.
+We think it’s very plausible that AI systems could end up misaligned: pursuing goals that are at odds with a thriving civilization. This could be due to a deliberate effort to cause chaos[1], or (more likely) may happen in spite of efforts to make systems safe[2]. If we do end up with misaligned AI systems, the number, capabilities and speed of such AIs could cause enormous harm - plausibly a global catastrophe. If these systems could also autonomously replicate and resist attempts to shut them down, it would seem difficult to put an upper limit on the potential damage.
+Given how quickly things could play out, we don’t think it’s good enough to “wait and see” whether there are dangers.
+We believe in vigilantly, continually assessing risks. If an AI brings significant risk of a global catastrophe, the decision to develop and/or release it can’t lie only with the company that creates it.
+ METR
+ Blog
+ Team
+ Hiring
+ Donate
+ Email: [email protected]
