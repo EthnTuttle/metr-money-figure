@@ -38,6 +38,8 @@ def render(stem, document, width, height):
     print('rendered',stem,im.size)
 
 def shell(title,kicker,subtitle,body,footnote,width,height,extra_css=''):
+    import re
+    kicker=re.sub(r'^\s*Figure\s+\S+(?:\s*\([^)]*\))?\s*[·:—-]\s*','',kicker)   # no figure numbering on the rendered kicker
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><title>{esc(title)}</title><style>
 *{{box-sizing:border-box}}html,body{{margin:0;width:{width}px;height:{height}px;background:{BG}}}
 body{{padding:46px 60px 32px;font-family:Arial,Helvetica,sans-serif;color:{INK};display:flex;flex-direction:column}}

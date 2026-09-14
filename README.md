@@ -1,4 +1,4 @@
-# METR money figure — "Money that doesn't show up, with Anthropic", and eleven companion figures
+# METR money figure — "Money that doesn't show up, with Anthropic", and ten companion figures
 
 One figure, and everything under it: the funders that reach METR (Model Evaluation and Threat Research) through its parent, its joint-project partner, its pooled-fund donor, a board member's organization, its contractor, its office and a journalism fellowship; the same funders' Anthropic equity; and the donated Moskovitz stake whose location no public filing identifies.
 
@@ -24,7 +24,6 @@ python3 scripts/audit.py   # checks every cited row id exists
 | `figures/metr-01-money-that-doesnt-show-up.png` | 21 | Good Ventures Foundation, advised by Coefficient, has no METR grant on its books. Its grants reached METR's parent, partner, pooled donor and a board member's organization; ARC handed METR $4.55M at the spin-out, not attributable to any one ARC funder |
 | `figures/metr-01b-money-that-doesnt-show-up-with-anthropic.png` | 75 | Funders that reach METR through ARC, RAND, Longview and pooled funds include Anthropic's Series A investors, two of them its board observers by their own account; Moskovitz donated a stake now worth up to $7.7B to what he calls "our foundation", and no filing checked shows where it sits; Good Ventures has no METR grant on its books |
 | `figures/metr-07-who-gets-ordained.png` | 22 | Who gets ordained: 22 documents on a "FINRA for AI", and the only ones that say METR are a podcaster, Dario Amodei and David Sacks |
-| `figures/metr-08-revolving-door-into-the-referee.png` | 49 | The revolving door into the referee: where METR's named staff worked before, and where its alumni went |
 | `figures/metr-10-barnes-in-time-by-a-tarbell-fellow.png` | 15 | Both TIME100 AI profiles of METR's CEO were written by a fellow of a journalism program that Coefficient funds; neither told readers so |
 | `figures/metr-11-same-donors-both-sides-of-the-table.png` | 19 | Same donors, both sides of the table: METR's funders who also hold a piece of the labs it evaluates |
 | `figures/metr-12-ten-million-to-seventy-one.png` | 19 | METR raised $71M in the six months the evaluator's seat was being designed; the investigations came after the money, not before it |
