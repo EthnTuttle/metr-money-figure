@@ -114,12 +114,40 @@ the manifest:
 grep 'figures/metr-01-money-that-doesnt-show-up.png' timestamps/SHA256SUMS.txt | sha256sum -c
 ```
 
-By default `ots verify` queries a public Bitcoin block explorer for the block
-header. To trust nothing but your own node:
+### Which Bitcoin node checks the proof
+
+`ots verify` confirms a proof by asking a **local Bitcoin Core node** over RPC. It
+has no block-explorer fallback, so with no node running it stops with
+`Could not connect to Bitcoin node` and exits non-zero. That reads like a bad
+proof but only means it could not be checked. Point it at your node explicitly if
+it is not on the default port:
 
 ```bash
 ots --bitcoin-node http://user:pass@localhost:8332 verify timestamps/SHA256SUMS.txt.ots
 ```
+
+**Your own node is the preferred way**, and it is the only one that is fully
+trustless: it validates the chain itself and takes nobody's word for anything.
+
+**Someone else's node will ordinarily suffice**, though, and is much better than
+skipping the check. All an explorer is trusted for here is a *public block header*
+— the merkle root and time of a block — which is identical across every honest
+node on the network and cheap to look up in several places at once. An explorer
+that lied would have to be corroborated by every independent one you try. That is
+a real but small assumption, and a very different thing from trusting anyone about
+the contents of this repo.
+
+For anyone without a node, this does the same check via a public explorer:
+
+```bash
+python3 scripts/verify_timestamp.py
+python3 scripts/verify_timestamp.py --explorer https://mempool.space/api   # cross-check
+```
+
+It confirms the proof commits to the manifest's exact bytes, then checks that the
+merkle root the proof expects at each block height matches that block's real merkle
+root, and prints the block times. Running it against two unrelated explorers and
+getting the same answer reduces the residual trust to nearly nothing.
 
 ## Pending vs. confirmed
 
@@ -132,13 +160,18 @@ Once it is mined into a block (usually a few hours, up to ~24h), fetch the
 completed proof:
 
 ```bash
-./scripts/timestamp.sh --upgrade   # rewrites the .ots in place, adding the Bitcoin attestation
-./scripts/timestamp.sh --verify    # should now print a concrete block time
+./scripts/timestamp.sh --upgrade          # rewrites the .ots in place, adding the Bitcoin attestation
+python3 scripts/verify_timestamp.py       # should now print concrete block times
 ```
 
-Upgrading matters: until it is done, verification depends on those calendar
-servers still being online. Afterwards the proof stands on its own against the
-blockchain, and needs no third party at all. Commit the upgraded `.ots`.
+Upgrading matters: until it is done, verification depends on those calendar servers
+still being online. Afterwards the proof stands on its own against the blockchain.
+Commit the upgraded `.ots` — it grows by a few KB as the attestations are added.
+
+`ots info timestamps/SHA256SUMS.txt.ots` lists the raw attestations. Pending ones
+are kept alongside the confirmed ones, so seeing `PendingAttestation` after a
+successful upgrade is normal and not a problem; what matters is that at least one
+`BitcoinBlockHeaderAttestation` is present.
 
 ## Re-stamping after the data changes
 
@@ -159,6 +192,26 @@ Because `timestamps/` is committed alongside the data it covers, the manifest
 records the commit it was built *from*; the manifest and proof land in the commit
 immediately after. The manifest cannot hash itself or its own proof, so those two
 paths are the only tracked files it excludes.
+
+No separate archive of superseded proofs is kept, because git already is one. Each
+manifest and its proof are consistent at the commit that introduced them, so an
+earlier anchoring is checked by going back to that commit:
+
+```bash
+git checkout <commit> -- timestamps/
+python3 scripts/verify_timestamp.py
+```
+
+### Earlier anchorings
+
+| Commit | Anchored | Blocks |
+| --- | --- | --- |
+| `64a57d8` | 2026-09-15 01:30:16 UTC | 967051, 967053, 967098 |
+
+That proof covers the same evidence — `research/`, `evidence/`, `figures/`,
+`EVIDENCE.txt`, `MANIFEST.csv`, `NOTES.md` are untouched since — and was superseded
+only because correcting this file's own text changed a file the manifest lists. It
+remains the earliest date on record for the data itself.
 
 ## Privacy
 

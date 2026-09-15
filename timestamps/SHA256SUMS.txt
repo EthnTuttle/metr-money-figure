@@ -3,19 +3,21 @@
 # Timestamped with OpenTimestamps; see timestamps/README.md to verify.
 # Untracked files in the working tree are intentionally not covered.
 #
-# Built:         2026-09-15T01:23:36Z
-# Tracked files: 2264
-# git HEAD:      f64df65a16400fd88a77536111851695acc9a928
-# HEAD date:     2026-09-14T16:55:26-05:00
+# Built:         2026-09-15T10:57:53Z
+# Tracked files: 2265
+# git HEAD:      64a57d8a3307af3036cb8161db3b79a31ce6a2f0
+# HEAD date:     2026-09-15T06:51:15-04:00
 #
 # Staged edits to files already in HEAD (this manifest reflects the staged
 # version, which the next commit will contain):
 #   README.md
+#   timestamps/README.md
+#   timestamps/SHA256SUMS.txt
+#   timestamps/SHA256SUMS.txt.ots
 #
 # Staged new files, not yet in HEAD (covered by this manifest, and
 # committed alongside it):
-#   scripts/timestamp.sh
-#   timestamps/README.md
+#   scripts/verify_timestamp.py
 #
 # Check file hashes:  sha256sum -c timestamps/SHA256SUMS.txt   (from repo root)
 # Check the date:     ots verify timestamps/SHA256SUMS.txt.ots
@@ -25,7 +27,7 @@ f8146e1ff169b90d85320e29c25338d9d3fe3effddee9fce089d6827defaff43  EVIDENCE-keyed
 30d9724e2d5b4d0b328405f216e18d47d6e58994eb669875e6a8565d67270774  EVIDENCE.txt
 6751d75557bc640cb5f86416d63be16535ff621a8ac00d56236cbd3896a0c8e9  MANIFEST.csv
 c68084c25f96a1e9ce38e25f960c6500f2a8b86f4428c5595840152d7bc82599  NOTES.md
-5321e9317cfbcbd6f384a0521fda1d9fbdcdf273c2eb30aba8f00b4962016960  README.md
+63df9038c527da34a6bc58ae0fd97dbe05d18d892b87b41dc9b401d2befb5d7a  README.md
 1b7151409a085e9b8bf0dd51ad8dabee8a5854b540fd5bf28f9d5d2de1a6ba09  evidence/990pf-goodventures-202501349349105365.xml
 59e3f50b90315655ea928fe9074de3efba9dc402da3d385d34feaec10e040df8  evidence/990pf-goodventures-202641359349102829.xml
 e3de96fab35e7b163ab1c3d4ef546e950eb761390525086ec8e590811f26831a  evidence/MANIFEST.csv
@@ -2283,4 +2285,5 @@ f1e9260313581f31eefde01f2796dd526fd08f5b43509f35525ac31e82736cdb  scripts/audit.
 496e35f19a33db5559965ac22798cb2101730cb9e6310fa1c6f5f5f968ab1496  scripts/fig_common.py
 4641da5ad147ef2f054531e97c5141e9a3ffb4244cb023da40fd43ebc3a3e59d  scripts/generate.py
 ba2cc608c97d35d583a0a120d416d8991953d011a68087939265d9b85bda15f9  scripts/timestamp.sh
-d79c72268e3aca249e8422f10e9819f118c7f85b2be3267b6ff3b335822e2844  timestamps/README.md
+3d202bd7edbc28924fbdd0a025970cdf0ec758aeb8391a547a41693e6cdabe17  scripts/verify_timestamp.py
+8beaaaf2259c6b71cb3a1fb6d8d27a126881de02846f6d7e9204e8077cfaf37a  timestamps/README.md
